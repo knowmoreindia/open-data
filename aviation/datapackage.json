@@ -1,0 +1,1670 @@
+{
+  "name": "aviation-data",
+  "title": "Aviation data",
+  "homepage": "https://github.com/knowmoreindia/aviation-data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Airports Authority of India: Traffic News",
+      "path": "https://www.aai.aero/en/business-opportunities/aai-traffic-news"
+    },
+    {
+      "title": "DGCA: Data & Reports",
+      "path": "https://www.dgca.gov.in/digigov-portal/"
+    }
+  ],
+  "version": "2026-11-17",
+  "resources": [
+    {
+      "name": "airports",
+      "path": "data/airports.csv",
+      "format": "csv",
+      "description": "Airport registry",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "IATA code, or ICAO where the aerodrome has none. Used as the airport key in every file"
+          },
+          {
+            "name": "iata",
+            "type": "string",
+            "description": "IATA code. Empty where the aerodrome has none"
+          },
+          {
+            "name": "icao",
+            "type": "string",
+            "description": "ICAO code. Empty where not known"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Airport name"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "City the airport serves"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State or Union Territory slug"
+          },
+          {
+            "name": "udan",
+            "type": "boolean",
+            "description": "true when the airport is served under the UDAN regional connectivity scheme"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "A note on the airport. Empty where there is none"
+          },
+          {
+            "name": "sources",
+            "type": "string",
+            "description": "Links for the airport's codes, name and location, separated by \"; \". Empty where there are none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cities",
+      "path": "data/cities.csv",
+      "format": "csv",
+      "description": "Cities DGCA prints without naming the airport",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "City id, used as city:<id> in the route files"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "City name"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State or Union Territory slug"
+          },
+          {
+            "name": "airports",
+            "type": "string",
+            "description": "Airport codes the city has, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "note",
+            "type": "string",
+            "description": "When DGCA prints the city without naming the airport"
+          }
+        ]
+      }
+    },
+    {
+      "name": "airport-names",
+      "path": "data/airport-names.csv",
+      "format": "csv",
+      "description": "Names each source prints for an airport",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "type": "string",
+            "description": "Airport code, or city:<id> for a name that covers a city's airports"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "aai is the airport name in AAI's Traffic News; dgca_otp the name in the on-time performance part of DGCA's Traffic Report; dgca_city the city name in DGCA's city-pair tables"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "The name as the source prints it"
+          },
+          {
+            "name": "from",
+            "type": "string",
+            "description": "First month the name means this airport. Empty for no limit"
+          },
+          {
+            "name": "until",
+            "type": "string",
+            "description": "Last month the name means this airport. Empty for no limit"
+          },
+          {
+            "name": "table",
+            "type": "string",
+            "description": "The DGCA table where the name means this airport. Empty for both"
+          }
+        ]
+      }
+    },
+    {
+      "name": "airlines",
+      "path": "data/airlines.csv",
+      "format": "csv",
+      "description": "Airline registry",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Airline id, the same in every file"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Airline name"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "group is a combined row DGCA prints (Air India Group, all Indian carriers); foreign is a foreign carrier in DGCA's international tables"
+          },
+          {
+            "name": "iata",
+            "type": "string",
+            "description": "IATA airline code. Empty where not recorded"
+          },
+          {
+            "name": "members",
+            "type": "string",
+            "description": "Airline ids a group row covers, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "share_group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Airline whose market share series this airline is counted under. Empty where there is none"
+          },
+          {
+            "name": "started",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "First scheduled commercial flight, YYYY, YYYY-MM or YYYY-MM-DD. Empty where there is none"
+          },
+          {
+            "name": "stopped",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Last scheduled flight or suspension. Empty while flying or not recorded. Empty where there is none"
+          },
+          {
+            "name": "renamed",
+            "type": "string",
+            "description": "Renamings as \"old name to new name (date)\", separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "merged_into",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Airline id it merged into. Empty where there is none"
+          },
+          {
+            "name": "merged_on",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Date of the merger. Empty where there is none"
+          },
+          {
+            "name": "headquarters_city",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Head office city; for an airline that stopped, where it was when it last flew. Empty where there is none"
+          },
+          {
+            "name": "headquarters_state",
+            "type": "string",
+            "description": "Head office State or Union Territory slug. Empty where not recorded"
+          },
+          {
+            "name": "former_names",
+            "type": "string",
+            "description": "Earlier names, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Note on the airline's history. Empty where there is none"
+          },
+          {
+            "name": "source_notes",
+            "type": "string",
+            "description": "How each DGCA publication prints the airline, as \"dataset: note\", separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "sources",
+            "type": "string",
+            "description": "Links for the airline's details, separated by \"; \". Empty where there are none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "airline-names",
+      "path": "data/airline-names.csv",
+      "format": "csv",
+      "description": "Names each DGCA publication prints for an airline",
+      "schema": {
+        "fields": [
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline id from airlines.csv"
+          },
+          {
+            "name": "dataset",
+            "type": "string",
+            "description": "DGCA publication the name appears in"
+          },
+          {
+            "name": "printed_name",
+            "type": "string",
+            "description": "The name as matched, after the dataset's own normalisation (lower case for the Traffic Report)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-airport-traffic-monthly",
+      "path": "data/aai/airport-traffic-monthly.csv",
+      "format": "csv",
+      "description": "AAI traffic by airport and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code from airports.csv"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "aai_names",
+            "type": "string",
+            "description": "The airport's name as AAI printed it that month, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "aai_groups",
+            "type": "string",
+            "description": "AAI's heading over the airport's row that month, such as its airport category, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "movements_international",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "movements_domestic",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "movements_transit",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+          },
+          {
+            "name": "movements_total",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, total. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_international",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_domestic",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_transit",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_total",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, total. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_international_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_domestic_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_transit_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_total_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, total. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-state-traffic-monthly",
+      "path": "data/aai/state-traffic-monthly.csv",
+      "format": "csv",
+      "description": "AAI traffic by State or UT and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "period",
+            "type": "string",
+            "description": "month is the month alone; year_to_date is April to this month"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State or Union Territory slug"
+          },
+          {
+            "name": "aai_name",
+            "type": "string",
+            "description": "The State or UT name as AAI printed it"
+          },
+          {
+            "name": "movements_international",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "movements_domestic",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "movements_total",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft movements, total. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_international",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_domestic",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_total",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers, total. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_international_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, international. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_domestic_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, domestic. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_total_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight in tonnes, total. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-category-monthly",
+      "path": "data/aai/category-monthly.csv",
+      "format": "csv",
+      "description": "AAI traffic by airport category and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+          },
+          {
+            "name": "segment",
+            "type": "string",
+            "description": "Traffic segment as AAI splits it"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "description": "AAI's airport category as printed, without the airport count. TOTAL is the sum of the categories"
+          },
+          {
+            "name": "airports",
+            "type": "integer",
+            "description": "Number of airports AAI printed in front of the category. Empty where not printed"
+          },
+          {
+            "name": "value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "For the month. Empty where the source printed no figure"
+          },
+          {
+            "name": "previous_year_value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "The same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+          },
+          {
+            "name": "year_to_date",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "April to this month. Empty where the source printed no figure"
+          },
+          {
+            "name": "previous_year_to_date",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "April to the same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-region-monthly",
+      "path": "data/aai/region-monthly.csv",
+      "format": "csv",
+      "description": "AAI traffic by region and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+          },
+          {
+            "name": "segment",
+            "type": "string",
+            "description": "Traffic segment"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "AAI region as printed. TOTAL is all regions"
+          },
+          {
+            "name": "value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "For the month. Empty where the source printed no figure"
+          },
+          {
+            "name": "previous_year_value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "The same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+          },
+          {
+            "name": "year_to_date",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "April to this month. Empty where the source printed no figure"
+          },
+          {
+            "name": "previous_year_to_date",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "April to the same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-printed-lines-monthly",
+      "path": "data/aai/printed-lines-monthly.csv",
+      "format": "csv",
+      "description": "AAI grand totals and unlisted group lines",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+          },
+          {
+            "name": "segment",
+            "type": "string",
+            "description": "Traffic segment"
+          },
+          {
+            "name": "line",
+            "type": "string",
+            "description": "grand_total is the table's total row; unlisted_group is a group AAI prints as one line without listing its airports, such as OTHER AIRPORTS. Airports plus unlisted groups make the grand total"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "The line's label as printed"
+          },
+          {
+            "name": "value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "For the month. Empty where the source printed no figure"
+          },
+          {
+            "name": "year_to_date",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "April to this month. Printed on grand total lines only. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-revisions",
+      "path": "data/aai/revisions.csv",
+      "format": "csv",
+      "description": "AAI airport figures printed differently a year later",
+      "schema": {
+        "fields": [
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code from airports.csv"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "column",
+            "type": "string",
+            "description": "Column of airport-traffic-monthly.csv that differs"
+          },
+          {
+            "name": "first_printed",
+            "type": "number",
+            "description": "The figure in the month's own release, which airport-traffic-monthly.csv keeps"
+          },
+          {
+            "name": "later_printed",
+            "type": "number",
+            "description": "The figure printed for the same month in the next year's previous-year column"
+          },
+          {
+            "name": "file",
+            "type": "string",
+            "description": "AAI file with the later figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aai-annual-check",
+      "path": "data/aai/annual-check.csv",
+      "format": "csv",
+      "description": "AAI monthly passengers against its annual totals",
+      "schema": {
+        "fields": [
+          {
+            "name": "fiscal_year",
+            "type": "string",
+            "description": "April to March"
+          },
+          {
+            "name": "months",
+            "type": "integer",
+            "description": "Months of airport passenger figures read for the year"
+          },
+          {
+            "name": "summed_passengers",
+            "type": "integer",
+            "description": "Airport passengers summed over those months"
+          },
+          {
+            "name": "published_passengers",
+            "type": "integer",
+            "description": "AAI's own annual passenger total"
+          },
+          {
+            "name": "difference_percent",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Summed against published, percent. Empty for years with fewer than 12 months read"
+          },
+          {
+            "name": "published_href",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "AAI's annual review the published total comes from. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-report-card",
+      "path": "data/dgca/report-card.csv",
+      "format": "csv",
+      "description": "DGCA Traffic Report figures in long form",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Row id, used in report-card-revisions.csv"
+          },
+          {
+            "name": "period",
+            "type": "string",
+            "description": "YYYY-MM for a month, YYYY-Qn for a quarter, YYYY for a year, or YYYY-MM/YYYY-MM for a span DGCA sums, such as January to the issue month"
+          },
+          {
+            "name": "section",
+            "type": "string",
+            "description": "Part of the Traffic Report: market-share, passengers, passenger-totals, load-factor, otp, foreign-otp, cancellations, delays, complaints, redressal, car-compliance (passengers affected and compensation paid under the passenger charter) or route-dispersal"
+          },
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "What the value measures within the section"
+          },
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline id from airlines.csv. Empty for all-airline figures"
+          },
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport for on-time performance at one airport. Empty otherwise"
+          },
+          {
+            "name": "category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Reason, route category or delay band the value belongs to. Empty otherwise"
+          },
+          {
+            "name": "printed",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "The airline or category label as printed in the issue. Empty where the row has none"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "description": "The figure as printed"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "percent, lakh (passengers), lakh rupees, passengers, count or per 10,000 passengers"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "description": "The monthly issue the value is taken from. Figures a later issue reprints keep the latest printing"
+          },
+          {
+            "name": "issue_revision",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "R, R1 or R2 when the issue used is a revised report. Empty for the original"
+          },
+          {
+            "name": "first_issue",
+            "type": "string",
+            "description": "The first issue that printed a figure for this row"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Note on how the figure was read. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-report-card-revisions",
+      "path": "data/dgca/report-card-revisions.csv",
+      "format": "csv",
+      "description": "Earlier printings of report card figures",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Row id in report-card.csv"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "description": "An issue that printed a different figure for the row"
+          },
+          {
+            "name": "value",
+            "type": "number",
+            "description": "The figure that issue printed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-report-issues",
+      "path": "data/dgca/report-issues.csv",
+      "format": "csv",
+      "description": "Traffic Report issues read",
+      "schema": {
+        "fields": [
+          {
+            "name": "issue",
+            "type": "string",
+            "description": "Month the issue covers"
+          },
+          {
+            "name": "printed_month",
+            "type": "string",
+            "description": "Month name as printed on the issue"
+          },
+          {
+            "name": "file",
+            "type": "string",
+            "description": "DGCA's file name"
+          },
+          {
+            "name": "revision",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "R, R1 or R2 when DGCA's file is a revised report. Empty for the original"
+          },
+          {
+            "name": "sections",
+            "type": "string",
+            "description": "Sections read from the issue, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "otp_airports",
+            "type": "string",
+            "description": "Airports the issue's on-time performance covers, separated by \"; \". Empty where there are none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-operating-stats",
+      "path": "data/dgca/operating-stats.csv",
+      "format": "csv",
+      "description": "DGCA Form A statistics by airline, service, sector and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline id from airlines.csv. all-indian-carriers is DGCA's printed total"
+          },
+          {
+            "name": "printed_name",
+            "type": "string",
+            "description": "The airline's name as DGCA printed it"
+          },
+          {
+            "name": "service",
+            "type": "string",
+            "description": "Scheduled or non-scheduled services"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "description": "unspecified where DGCA's table does not split by sector"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "departures",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Departures. Empty where the source printed no figure"
+          },
+          {
+            "name": "hours_flown",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft hours flown. Empty where the source printed no figure"
+          },
+          {
+            "name": "km_flown_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand aircraft-km flown. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried. Empty where the source printed no figure"
+          },
+          {
+            "name": "passenger_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand passenger-km performed. Empty where the source printed no figure"
+          },
+          {
+            "name": "seat_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand available seat-km. Empty where the source printed no figure"
+          },
+          {
+            "name": "passenger_load_factor_pct",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passenger-km over available seat-km, percent, as DGCA prints it. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "mail_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Mail, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "cargo_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight and mail, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "passenger_tonne_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand tonne-km performed carrying passengers. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_tonne_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand tonne-km performed carrying freight. Empty where the source printed no figure"
+          },
+          {
+            "name": "mail_tonne_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand tonne-km performed carrying mail. Empty where the source printed no figure"
+          },
+          {
+            "name": "tonne_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand tonne-km performed in all. Empty where the source printed no figure"
+          },
+          {
+            "name": "available_tonne_km_thousand",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Thousand available tonne-km. Empty where the source printed no figure"
+          },
+          {
+            "name": "weight_load_factor_pct",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Tonne-km performed over available tonne-km, percent, as DGCA prints it. Empty where the source printed no figure"
+          },
+          {
+            "name": "cargo_operators_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Tonnes carried by scheduled cargo operators, a column only the 2014 and 2015 totals print. Empty where the source printed no figure"
+          },
+          {
+            "name": "provisional",
+            "type": "boolean",
+            "description": "true where DGCA marks the month provisional"
+          },
+          {
+            "name": "revised",
+            "type": "boolean",
+            "description": "true where DGCA marks the month revised"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-routes-domestic",
+      "path": "data/dgca/routes-domestic.csv",
+      "format": "csv",
+      "description": "Domestic city-pair traffic by month",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Row id. A pair DGCA prints twice in a month has a second row ending -2"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "city1",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "First city as DGCA prints it. Empty on an airline's row with no city pairs"
+          },
+          {
+            "name": "city2",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Second city as DGCA prints it. Empty on an airline's row with no city pairs"
+          },
+          {
+            "name": "city1_code",
+            "type": "string",
+            "description": "city1: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+          },
+          {
+            "name": "city2_code",
+            "type": "string",
+            "description": "city2: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+          },
+          {
+            "name": "passengers_to_city2",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers flown from city1 to city2. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_from_city2",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers flown from city2 to city1. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_to_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried to city2, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_from_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried from city2, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "mail_to_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Mail flown from city1 to city2, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "mail_from_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Mail flown from city2 to city1, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "airline_without_city_pairs",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Airline name as printed, on a row for an airline that reported totals without city pairs. Empty where there is none"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "DGCA's note on the row. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-routes-international-airlines",
+      "path": "data/dgca/routes-international-airlines.csv",
+      "format": "csv",
+      "description": "International traffic by airline and quarter",
+      "schema": {
+        "fields": [
+          {
+            "name": "quarter",
+            "type": "string",
+            "description": "Calendar quarter, YYYY-Qn"
+          },
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline id from airlines.csv"
+          },
+          {
+            "name": "printed_name",
+            "type": "string",
+            "description": "The airline's name as DGCA printed it"
+          },
+          {
+            "name": "carrier",
+            "type": "string",
+            "description": "Indian or foreign carrier"
+          },
+          {
+            "name": "passengers_to_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried to India. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_from_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried from India. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_to_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried to india, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_from_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried from india, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "starred",
+            "type": "string",
+            "description": "Columns DGCA starred as repeated from an earlier period, kept as printed, separated by \"; \". Empty where there are none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-routes-international-airlines-monthly",
+      "path": "data/dgca/routes-international-airlines-monthly.csv",
+      "format": "csv",
+      "description": "International traffic by airline and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline id from airlines.csv"
+          },
+          {
+            "name": "printed_name",
+            "type": "string",
+            "description": "The airline's name as DGCA printed it"
+          },
+          {
+            "name": "carrier",
+            "type": "string",
+            "description": "Indian or foreign carrier"
+          },
+          {
+            "name": "passengers_to_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried to India. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_from_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried from India. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_to_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried to india, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_from_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried from india, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "starred",
+            "type": "string",
+            "description": "Columns DGCA starred as repeated from an earlier period, kept as printed, separated by \"; \". Empty where there are none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-routes-international-countries",
+      "path": "data/dgca/routes-international-countries.csv",
+      "format": "csv",
+      "description": "International traffic by country and quarter",
+      "schema": {
+        "fields": [
+          {
+            "name": "quarter",
+            "type": "string",
+            "description": "Calendar quarter, YYYY-Qn"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "Country as DGCA prints it"
+          },
+          {
+            "name": "passengers_to_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried to India from the country. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_from_india",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers carried from India to the country. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_to_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried to india, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_from_india_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried from india, tonnes. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-routes-international-city-pairs",
+      "path": "data/dgca/routes-international-city-pairs.csv",
+      "format": "csv",
+      "description": "International traffic by city pair and quarter",
+      "schema": {
+        "fields": [
+          {
+            "name": "quarter",
+            "type": "string",
+            "description": "Calendar quarter, YYYY-Qn"
+          },
+          {
+            "name": "scope",
+            "type": "string",
+            "description": "india is a pair with one end in India; outside_india is an Indian carrier's flights between two foreign cities"
+          },
+          {
+            "name": "city1",
+            "type": "string",
+            "description": "Foreign city as DGCA prints it"
+          },
+          {
+            "name": "city2",
+            "type": "string",
+            "description": "Indian city for scope india, as DGCA prints it; otherwise the second foreign city"
+          },
+          {
+            "name": "city2_code",
+            "type": "string",
+            "description": "city2: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+          },
+          {
+            "name": "passengers_to_city2",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers flown from city1 to city2. Empty where the source printed no figure"
+          },
+          {
+            "name": "passengers_from_city2",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Passengers flown from city2 to city1. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_to_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried to city2, tonnes. Empty where the source printed no figure"
+          },
+          {
+            "name": "freight_from_city2_tonnes",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Freight carried from city2, tonnes. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gaps",
+      "path": "data/gaps.csv",
+      "format": "csv",
+      "description": "Missing figures and why",
+      "schema": {
+        "fields": [
+          {
+            "name": "dataset",
+            "type": "string",
+            "description": "Source dataset: aai-traffic, aai-traffic-categories, aai-traffic-regions, aai-traffic-states, dgca-traffic-report, dgca-operating-stats or dgca-routes"
+          },
+          {
+            "name": "from",
+            "type": "string",
+            "description": "First month (or issue) missing"
+          },
+          {
+            "name": "to",
+            "type": "string",
+            "description": "Last month (or issue) missing"
+          },
+          {
+            "name": "series",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Section, or airline, service and sector, the gap is in. Empty where there is none"
+          },
+          {
+            "name": "measure",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Measure missing. Empty where there is none"
+          },
+          {
+            "name": "reason",
+            "type": "string",
+            "description": "Why there is no figure"
+          },
+          {
+            "name": "href",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Link to what was looked for. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "notes",
+      "path": "data/notes.csv",
+      "format": "csv",
+      "description": "Printed errors, mismatched totals and source notes",
+      "schema": {
+        "fields": [
+          {
+            "name": "dataset",
+            "type": "string",
+            "description": "Source dataset, or airports for the airport registry"
+          },
+          {
+            "name": "period",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Month, quarter, year or issue the note is about. Empty where there is none"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "note is printed by the source or recorded while reading it; printed_error and source_inconsistency are figures on the same page that contradict each other, kept as printed; change_column_mismatch is an AAI % change that does not follow from its figures; total_mismatch is a printed total that differs from its rows or from the airline files; skipped_sheet is a stale workbook sheet not read; reading explains how a cell was read"
+          },
+          {
+            "name": "series",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Section, file, table or row the note is about. Empty where there is none"
+          },
+          {
+            "name": "airline",
+            "type": "string",
+            "description": "Airline ids the note is about, separated by \"; \". Empty where there are none"
+          },
+          {
+            "name": "field",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Column or group the note is about. Empty where there is none"
+          },
+          {
+            "name": "text",
+            "type": "string",
+            "description": "The note"
+          },
+          {
+            "name": "evidence",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Why it reads this way, or what checks it. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sources",
+      "path": "data/sources.csv",
+      "format": "csv",
+      "description": "Every file read",
+      "schema": {
+        "fields": [
+          {
+            "name": "dataset",
+            "type": "string",
+            "description": "Source dataset"
+          },
+          {
+            "name": "period",
+            "type": "string",
+            "description": "Month, quarter or year the file covers"
+          },
+          {
+            "name": "part",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Measure, annexure, table or airline the file holds. Empty where there is none"
+          },
+          {
+            "name": "file",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "File name. Empty where there is none"
+          },
+          {
+            "name": "href",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Where the file was read from. Empty where there is none"
+          },
+          {
+            "name": "sha256",
+            "type": "string",
+            "description": "SHA-256 of the file read. Empty where none was read"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Why a listed file was not read. Empty where there is none"
+          }
+        ]
+      }
+    }
+  ]
+}

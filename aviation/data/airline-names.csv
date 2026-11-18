@@ -1,0 +1,245 @@
+airline,dataset,printed_name
+aero-nomad,dgca-routes,AERO NOMAD
+aeroflot,dgca-routes,AEROFLOT
+aerologic,dgca-routes,AEROLOGIC
+air-arabia,dgca-routes,AIR ARABIA
+air-arabia-abu-dhabi,dgca-routes,AIR ARABIA-ABU DHABI
+air-arabia-abu-dhabi,dgca-routes,AIR ARABIA-ABUDHABI
+air-asia-berhad,dgca-routes,AIR ASIA BERHAD
+air-asia-x,dgca-routes,AIR ASIA X
+air-astana,dgca-routes,AIR ASTANA
+air-austral,dgca-routes,AIR AUSTRAL
+air-cambodia,dgca-routes,AIR CAMBODIA
+air-canada,dgca-routes,AIR CANADA
+air-carnival,dgca-operating-stats,Air Carnival
+air-carnival,dgca-traffic-report,air carnival
+air-china,dgca-routes,AIR CHINA
+air-costa,dgca-operating-stats,Air Costa
+air-costa,dgca-traffic-report,air costa
+air-costa,dgca-traffic-report,costa
+air-deccan,dgca-operating-stats,Air Deccan
+air-deccan,dgca-traffic-report,air deccan
+air-france,dgca-routes,AIR FRANCE
+air-heritage,dgca-operating-stats,Air Heritage
+air-heritage,dgca-traffic-report,air heritage
+air-heritage,dgca-traffic-report,heritage
+air-india,dgca-operating-stats,Air India
+air-india,dgca-traffic-report,air india
+air-india,dgca-traffic-report,air india (dom)
+air-india,dgca-traffic-report,air india (domestic)
+air-india,dgca-traffic-report,airindia
+air-india,dgca-traffic-report,air india dom
+air-india,dgca-traffic-report,air india (dom.)
+air-india,dgca-traffic-report,ai
+air-india,dgca-routes,AIR INDIA
+air-india-and-alliance-air,dgca-traffic-report,air india + alliance air
+air-india-and-alliance-air,dgca-traffic-report,air india+alliance air
+air-india-and-alliance-air,dgca-traffic-report,air india (dom) + alliance air
+air-india-express,dgca-operating-stats,Air India Express
+air-india-express,dgca-traffic-report,air india express
+air-india-express,dgca-routes,AIR INDIA EXPRESS
+air-india-group,dgca-traffic-report,air india group
+air-manas,dgca-routes,AIR MANAS
+air-mauritius,dgca-routes,AIR MAURITIUS
+air-odisha,dgca-operating-stats,Air Odisha
+air-odisha,dgca-traffic-report,air odisha
+air-pegasus,dgca-operating-stats,Air Pegasus
+air-pegasus,dgca-traffic-report,air pegasus
+air-seychelles,dgca-routes,AIR SEYCHELLES
+air-tanzania,dgca-routes,AIR TANZANIA
+air-taxi,dgca-operating-stats,Air Taxi
+air-taxi,dgca-traffic-report,air taxi
+aix-connect,dgca-operating-stats,Air Asia
+aix-connect,dgca-operating-stats,AIX Connect
+aix-connect,dgca-traffic-report,air asia
+aix-connect,dgca-traffic-report,airasia
+aix-connect,dgca-traffic-report,aix connect
+aix-connect,dgca-routes,AIR ASIA
+akasa-air,dgca-operating-stats,Akasa Air
+akasa-air,dgca-traffic-report,akasa air
+akasa-air,dgca-traffic-report,akasa
+akasa-air,dgca-routes,AKASA AIR
+all-indian-carriers,dgca-operating-stats,Total Domestic
+all-indian-carriers,dgca-operating-stats,Total International
+all-nippon-airways,dgca-routes,ALL NIPPON AIRWAYS
+alliance-air,dgca-operating-stats,Alliance
+alliance-air,dgca-operating-stats,Alliance Air
+alliance-air,dgca-traffic-report,alliance air
+alliance-air,dgca-routes,ALLIANCE AIR
+american-airlines,dgca-routes,AMERICAN AIRLINES
+ariana-afghan,dgca-routes,ARIANA AFGHAN
+asiana-airlines,dgca-routes,ASIANA AIRLINES
+austrian-airlines,dgca-routes,AUSTRIAN AIRLINES
+azerbaijan-airlines,dgca-routes,AZERBAIJAN AIRLINES
+bangkok-airways,dgca-routes,BANGKOK AIRWAYS
+batik-air,dgca-routes,BATIK AIR
+belavia-airlines,dgca-routes,BELAVIA AIRLINES
+bhutan-airlines,dgca-routes,BHUTAN AIRLINES
+biman-bangladesh,dgca-routes,BIMAN BANGLADESH
+blue-dart,dgca-operating-stats,Bluedart
+blue-dart,dgca-operating-stats,Blue Dart Aviation
+blue-dart,dgca-routes,BLUE DART AVIATION
+british-airways,dgca-routes,BRITISH AIRWAYS
+brussels-airlines,dgca-routes,BRUSSELS AIRLINES
+buddha-air,dgca-routes,BUDDHA AIR
+buddha-air,dgca-routes,BUDHHA AIR
+cargolux-airlines-international-s-a,dgca-routes,CARGOLUX AIRLINES INTERNATIONAL S.A.
+cathay-pacific,dgca-routes,CATHAY PACIFIC
+china-airlines-ltd,dgca-routes,CHINA AIRLINES LTD
+china-eastern-airlines,dgca-routes,CHINA EASTERN AIRLINES
+china-southern,dgca-routes,CHINA SOUTHERN
+deccan-air,dgca-operating-stats,Deccan Air
+delta-airlines,dgca-routes,DELTA AIRLINES
+dragon-air,dgca-routes,DRAGON AIR
+druk-air,dgca-routes,DRUK AIR
+egypt-air,dgca-routes,EGYPT AIR
+el-al-israel,dgca-routes,EL-AL-ISRAEL
+emirates-airline,dgca-routes,EMIRATES AIRLINE
+ethiopian-airlines,dgca-routes,ETHIOPIAN AIRLINES
+etihad-airlines,dgca-routes,ETIHAD AIRLINES
+european-air-transport-leipzig,dgca-routes,EUROPEAN AIR TRANSPORT LEIPZIG
+european-air-transport-leipzig,dgca-routes,EUROPEAN AIR Transport Leipzig
+eva-airways,dgca-routes,EVA AIRWAYS
+federal-express,dgca-routes,FEDERAL EXPRESS
+finn-air,dgca-routes,FINN AIR
+fits-aviation,dgca-routes,FITS AVIATION
+fly-baghdad,dgca-routes,FLY BAGHDAD
+fly-dubai,dgca-routes,FLY DUBAI
+fly91,dgca-operating-stats,Fly 91
+fly91,dgca-traffic-report,fly91
+fly91,dgca-traffic-report,fly 91
+flybig,dgca-operating-stats,Fly Big
+flybig,dgca-traffic-report,fly big
+flybig,dgca-traffic-report,flybig
+flynas,dgca-routes,FLYNAS
+garuda-indonesia,dgca-routes,GARUDA INDONESIA
+go-first,dgca-operating-stats,Go Air
+go-first,dgca-traffic-report,go air
+go-first,dgca-traffic-report,goair
+go-first,dgca-traffic-report,go first
+go-first,dgca-traffic-report,gofirst
+go-first,dgca-routes,GO AIR
+gulf-air,dgca-routes,GULF AIR
+indian-airlines,dgca-operating-stats,Indian Airlines
+indiaone-air,dgca-operating-stats,IndiaOne
+indiaone-air,dgca-traffic-report,indiaone air
+indiaone-air,dgca-traffic-report,india one air
+indigo,dgca-operating-stats,Indigo
+indigo,dgca-traffic-report,indigo
+indigo,dgca-routes,INDIGO
+indonesia-airasia-x,dgca-routes,INDONESIA AIRASIA X
+iran-air,dgca-routes,IRAN AIR
+iraqi-airways,dgca-routes,IRAQI AIRWAYS
+island-aviation-services,dgca-routes,ISLAND AVIATION SERVICES
+ita-airways,dgca-routes,ITA AIRWAYS
+japan-airlines,dgca-routes,JAPAN AIRLINES
+jazeera-airways,dgca-routes,JAZEERA AIRWAYS
+jet-airways,dgca-operating-stats,Jet Airways
+jet-airways,dgca-traffic-report,jet airways
+jet-airways,dgca-routes,JET AIRWAYS
+jet-airways-and-jetlite,dgca-traffic-report,jet airways+jetlite
+jet-airways-and-jetlite,dgca-traffic-report,jet airways + jetlite
+jet-airways-and-jetlite,dgca-traffic-report,jet airways and jetlite
+jet-airways-and-jetlite,dgca-traffic-report,jet airways and jet lite
+jetlite,dgca-operating-stats,Jetlite
+jetlite,dgca-traffic-report,jetlite
+jetlite,dgca-traffic-report,jet lite
+kalitta-air,dgca-routes,KALITTA AIR
+kam-air,dgca-routes,KAM AIR
+kenya-airways,dgca-routes,KENYA AIRWAYS
+kingfisher,dgca-operating-stats,Kingfisher
+klm-airlines,dgca-routes,KLM AIRLINES
+korean-air,dgca-routes,KOREAN AIR
+kuwait-airways,dgca-routes,KUWAIT AIRWAYS
+lot-polish,dgca-routes,LOT POLISH
+lufthansa,dgca-routes,LUFTHANSA
+mahan-air,dgca-routes,MAHAN AIR
+malaysia-airlines,dgca-routes,MALAYSIA AIRLINES
+malindo-airways,dgca-routes,MALINDO AIRWAYS
+martin-air-holland,dgca-routes,MARTIN AIR HOLLAND
+mdlr-airlines,dgca-operating-stats,MDLR
+mega-maldives-airlines,dgca-routes,MEGA MALDIVES AIRLINES
+mihin-lanka,dgca-routes,MIHIN LANKA
+my-freighter-centrum-air,dgca-routes,MY FREIGHTER-CENTRUM AIR
+myanmar-airlines,dgca-routes,MYANMAR AIRLINES
+neos-spa,dgca-routes,NEOS SPA
+nepal-airlines-corporation,dgca-routes,NEPAL AIRLINES CORPORATION
+novo-air,dgca-routes,NOVO AIR
+oman-air,dgca-routes,OMAN AIR
+pak-international,dgca-routes,PAK INTERNATIONAL
+paramount-airways,dgca-operating-stats,Paramount
+pawan-hans,dgca-operating-stats,Pawan Hans
+pawan-hans,dgca-traffic-report,pawan hans
+pawan-hans,dgca-traffic-report,pawanhans
+pawan-hans,dgca-traffic-report,pawanhan s
+qantas-airlines,dgca-routes,QANTAS AIRLINES
+qatar-airways,dgca-routes,QATAR AIRWATYS
+qatar-airways,dgca-routes,QATAR AIRWAYS
+quikjet-cargo,dgca-operating-stats,Quikjet Cargo
+quikjet-cargo,dgca-operating-stats,Quick Jet Cargo
+regent-airways,dgca-routes,REGENT AIRWAYS
+rossiya-airlines,dgca-routes,ROSSIYA AIRLINES
+royal-brunei-airlines,dgca-routes,ROYAL BRUNEI AIRLINES
+royal-jordanian,dgca-routes,ROYAL JORDANIAN
+rwandair,dgca-routes,RWANDA AIR
+rwandair,dgca-routes,RWANDAIR
+safi-airways,dgca-routes,SAFI AIRWAYS
+salam-air,dgca-routes,SALAM AIR
+saudia,dgca-routes,SAUDIA
+scat-airlines,dgca-routes,SCAT AIRLINES
+scoot-pte-ltd,dgca-routes,SCOOT PTE LTD.
+scoot-tiger-air,dgca-routes,SCOOT TIGER AIR
+shandong-airlines,dgca-routes,SHANDONG AIRLINES
+silk-air,dgca-routes,SILK AIR
+singapore-airlines,dgca-routes,SINGAPORE AIRLINES
+somon-air-llc,dgca-routes,SOMON AIR LLC
+south-african-airlines,dgca-routes,SOUTHA AFRICAN AIRLINES
+spicejet,dgca-operating-stats,Spicejet
+spicejet,dgca-traffic-report,spicejet
+spicejet,dgca-traffic-report,spice jet
+spicejet,dgca-traffic-report,spiceet
+spicejet,dgca-routes,SPICEJET
+srilankan-airways,dgca-routes,SRILANKAN AIRWAYS
+srilankan-airways,dgca-routes,SRILNKAN AIRWAYS
+star-air,dgca-operating-stats,Star Air
+star-air,dgca-traffic-report,star air
+swiss-air,dgca-routes,SWISS AIR
+tajik-air,dgca-routes,TAJIK AIR
+tez-jet-llc,dgca-routes,TEZ JET LLC
+thai-air-asia,dgca-routes,THAI AIR ASIA
+thai-air-asia-x,dgca-routes,THAI AIR ASIA X
+thai-airways,dgca-routes,THAI AIRWAYS
+thai-lion-air,dgca-routes,THAI LION AIR
+thai-smile-airways,dgca-routes,THAI SMILE AIRWAYS
+thai-vietjet-air,dgca-routes,THAI VIETJET AIR
+thomas-cook-airlines,dgca-routes,THOMAS COOK AIRLINES
+thomas-cook-airlines,dgca-routes,THOMAS COOK AIRLINES U.K.
+tiger-airways,dgca-routes,TIGER AIRWAYS
+transaero-airlines,dgca-routes,TRANSAERO AIRLINES
+trujet,dgca-operating-stats,TruJet
+trujet,dgca-operating-stats,Tru Jet
+trujet,dgca-traffic-report,trujet
+trujet,dgca-traffic-report,tru jet
+trujet,dgca-traffic-report,turbo megha
+turkish-airlines,dgca-routes,TURKISH AIRLINES
+turkmenistan-airlines,dgca-routes,TURKMENISTAN AIRLINES
+uganda-airlines,dgca-routes,UGANDA AIRLINES
+uganda-airlines,dgca-routes,UGANDA AIRLNES
+united-airlines,dgca-routes,UNITED AIRLINES
+united-airlines-bangladesh-ltd,dgca-routes,UNITED AIRLINES BANGLADESH LTD.
+united-parcel-services,dgca-routes,UNITED PARCEL SERVICES
+us-bangla-airlines,dgca-routes,US BANGLA AIRLINES
+uzbekistan-airways,dgca-routes,UZBEKISTAN AIRWAYS
+vietjet-air,dgca-routes,VIETJET AIR
+vietnam-airlines,dgca-routes,VIETNAM AIRLINES
+virgin-atlantic-airlines,dgca-routes,VIRGIN ATLANTIC AIRLINES
+vistara,dgca-operating-stats,Vistara
+vistara,dgca-operating-stats,Vistara Airlines
+vistara,dgca-traffic-report,vistara
+vistara,dgca-routes,VISTARA
+vistara,dgca-routes,VISTARA AIRLINES
+yemenia-airways,dgca-routes,YEMENIA AIRWAYS
+zoom-air,dgca-operating-stats,Zoom Air
+zoom-air,dgca-traffic-report,zoom air
+zoom-air,dgca-traffic-report,zoom
+zoom-air,dgca-traffic-report,zooom

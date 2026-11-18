@@ -1,0 +1,222 @@
+file,column,type,description
+data/airports.csv,code,string,"IATA code, or ICAO where the aerodrome has none. Used as the airport key in every file"
+data/airports.csv,iata,string,IATA code. Empty where the aerodrome has none
+data/airports.csv,icao,string,ICAO code. Empty where not known
+data/airports.csv,name,string,Airport name
+data/airports.csv,city,string,City the airport serves
+data/airports.csv,state,string,State or Union Territory slug
+data/airports.csv,udan,boolean,true when the airport is served under the UDAN regional connectivity scheme
+data/airports.csv,note,"string,null",A note on the airport. Empty where there is none
+data/airports.csv,sources,string,"Links for the airport's codes, name and location, separated by ""; "". Empty where there are none"
+data/cities.csv,id,string,"City id, used as city:<id> in the route files"
+data/cities.csv,name,string,City name
+data/cities.csv,state,string,State or Union Territory slug
+data/cities.csv,airports,string,"Airport codes the city has, separated by ""; "". Empty where there are none"
+data/cities.csv,note,string,When DGCA prints the city without naming the airport
+data/airport-names.csv,code,string,"Airport code, or city:<id> for a name that covers a city's airports"
+data/airport-names.csv,source,string,aai is the airport name in AAI's Traffic News; dgca_otp the name in the on-time performance part of DGCA's Traffic Report; dgca_city the city name in DGCA's city-pair tables
+data/airport-names.csv,name,string,The name as the source prints it
+data/airport-names.csv,from,string,First month the name means this airport. Empty for no limit
+data/airport-names.csv,until,string,Last month the name means this airport. Empty for no limit
+data/airport-names.csv,table,string,The DGCA table where the name means this airport. Empty for both
+data/airlines.csv,id,string,"Airline id, the same in every file"
+data/airlines.csv,name,string,Airline name
+data/airlines.csv,kind,string,"group is a combined row DGCA prints (Air India Group, all Indian carriers); foreign is a foreign carrier in DGCA's international tables"
+data/airlines.csv,iata,string,IATA airline code. Empty where not recorded
+data/airlines.csv,members,string,"Airline ids a group row covers, separated by ""; "". Empty where there are none"
+data/airlines.csv,share_group,"string,null",Airline whose market share series this airline is counted under. Empty where there is none
+data/airlines.csv,started,"string,null","First scheduled commercial flight, YYYY, YYYY-MM or YYYY-MM-DD. Empty where there is none"
+data/airlines.csv,stopped,"string,null",Last scheduled flight or suspension. Empty while flying or not recorded. Empty where there is none
+data/airlines.csv,renamed,string,"Renamings as ""old name to new name (date)"", separated by ""; "". Empty where there are none"
+data/airlines.csv,merged_into,"string,null",Airline id it merged into. Empty where there is none
+data/airlines.csv,merged_on,"string,null",Date of the merger. Empty where there is none
+data/airlines.csv,headquarters_city,"string,null","Head office city; for an airline that stopped, where it was when it last flew. Empty where there is none"
+data/airlines.csv,headquarters_state,string,Head office State or Union Territory slug. Empty where not recorded
+data/airlines.csv,former_names,string,"Earlier names, separated by ""; "". Empty where there are none"
+data/airlines.csv,note,"string,null",Note on the airline's history. Empty where there is none
+data/airlines.csv,source_notes,string,"How each DGCA publication prints the airline, as ""dataset: note"", separated by ""; "". Empty where there are none"
+data/airlines.csv,sources,string,"Links for the airline's details, separated by ""; "". Empty where there are none"
+data/airline-names.csv,airline,string,Airline id from airlines.csv
+data/airline-names.csv,dataset,string,DGCA publication the name appears in
+data/airline-names.csv,printed_name,string,"The name as matched, after the dataset's own normalisation (lower case for the Traffic Report)"
+data/aai/airport-traffic-monthly.csv,airport,string,Airport code from airports.csv
+data/aai/airport-traffic-monthly.csv,month,string,"Month, YYYY-MM"
+data/aai/airport-traffic-monthly.csv,aai_names,string,"The airport's name as AAI printed it that month, separated by ""; "". Empty where there are none"
+data/aai/airport-traffic-monthly.csv,aai_groups,string,"AAI's heading over the airport's row that month, such as its airport category, separated by ""; "". Empty where there are none"
+data/aai/airport-traffic-monthly.csv,movements_international,"number,null","Aircraft movements, international. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,movements_domestic,"number,null","Aircraft movements, domestic. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,movements_transit,"number,null","Aircraft movements, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,movements_total,"number,null","Aircraft movements, total. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,passengers_international,"number,null","Passengers, international. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,passengers_domestic,"number,null","Passengers, domestic. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,passengers_transit,"number,null","Passengers, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,passengers_total,"number,null","Passengers, total. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,freight_international_tonnes,"number,null","Freight in tonnes, international. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,freight_domestic_tonnes,"number,null","Freight in tonnes, domestic. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,freight_transit_tonnes,"number,null","Freight in tonnes, transit. AAI prints transit only in some years. Empty where the source printed no figure"
+data/aai/airport-traffic-monthly.csv,freight_total_tonnes,"number,null","Freight in tonnes, total. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,month,string,"Month, YYYY-MM"
+data/aai/state-traffic-monthly.csv,period,string,month is the month alone; year_to_date is April to this month
+data/aai/state-traffic-monthly.csv,state,string,State or Union Territory slug
+data/aai/state-traffic-monthly.csv,aai_name,string,The State or UT name as AAI printed it
+data/aai/state-traffic-monthly.csv,movements_international,"number,null","Aircraft movements, international. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,movements_domestic,"number,null","Aircraft movements, domestic. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,movements_total,"number,null","Aircraft movements, total. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,passengers_international,"number,null","Passengers, international. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,passengers_domestic,"number,null","Passengers, domestic. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,passengers_total,"number,null","Passengers, total. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,freight_international_tonnes,"number,null","Freight in tonnes, international. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,freight_domestic_tonnes,"number,null","Freight in tonnes, domestic. Empty where the source printed no figure"
+data/aai/state-traffic-monthly.csv,freight_total_tonnes,"number,null","Freight in tonnes, total. Empty where the source printed no figure"
+data/aai/category-monthly.csv,month,string,"Month, YYYY-MM"
+data/aai/category-monthly.csv,measure,string,"movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+data/aai/category-monthly.csv,segment,string,Traffic segment as AAI splits it
+data/aai/category-monthly.csv,category,string,"AAI's airport category as printed, without the airport count. TOTAL is the sum of the categories"
+data/aai/category-monthly.csv,airports,integer,Number of airports AAI printed in front of the category. Empty where not printed
+data/aai/category-monthly.csv,value,"number,null",For the month. Empty where the source printed no figure
+data/aai/category-monthly.csv,previous_year_value,"number,null","The same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+data/aai/category-monthly.csv,year_to_date,"number,null",April to this month. Empty where the source printed no figure
+data/aai/category-monthly.csv,previous_year_to_date,"number,null","April to the same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+data/aai/region-monthly.csv,month,string,"Month, YYYY-MM"
+data/aai/region-monthly.csv,measure,string,"movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+data/aai/region-monthly.csv,segment,string,Traffic segment
+data/aai/region-monthly.csv,region,string,AAI region as printed. TOTAL is all regions
+data/aai/region-monthly.csv,value,"number,null",For the month. Empty where the source printed no figure
+data/aai/region-monthly.csv,previous_year_value,"number,null","The same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+data/aai/region-monthly.csv,year_to_date,"number,null",April to this month. Empty where the source printed no figure
+data/aai/region-monthly.csv,previous_year_to_date,"number,null","April to the same month a year earlier, as printed in this month's release. Empty where the source printed no figure"
+data/aai/printed-lines-monthly.csv,month,string,"Month, YYYY-MM"
+data/aai/printed-lines-monthly.csv,measure,string,"movements are aircraft movements (landings and take-offs), passengers count arriving and departing passengers, freight is in tonnes"
+data/aai/printed-lines-monthly.csv,segment,string,Traffic segment
+data/aai/printed-lines-monthly.csv,line,string,"grand_total is the table's total row; unlisted_group is a group AAI prints as one line without listing its airports, such as OTHER AIRPORTS. Airports plus unlisted groups make the grand total"
+data/aai/printed-lines-monthly.csv,label,string,The line's label as printed
+data/aai/printed-lines-monthly.csv,value,"number,null",For the month. Empty where the source printed no figure
+data/aai/printed-lines-monthly.csv,year_to_date,"number,null",April to this month. Printed on grand total lines only. Empty where the source printed no figure
+data/aai/revisions.csv,airport,string,Airport code from airports.csv
+data/aai/revisions.csv,month,string,"Month, YYYY-MM"
+data/aai/revisions.csv,column,string,Column of airport-traffic-monthly.csv that differs
+data/aai/revisions.csv,first_printed,number,"The figure in the month's own release, which airport-traffic-monthly.csv keeps"
+data/aai/revisions.csv,later_printed,number,The figure printed for the same month in the next year's previous-year column
+data/aai/revisions.csv,file,string,AAI file with the later figure
+data/aai/annual-check.csv,fiscal_year,string,April to March
+data/aai/annual-check.csv,months,integer,Months of airport passenger figures read for the year
+data/aai/annual-check.csv,summed_passengers,integer,Airport passengers summed over those months
+data/aai/annual-check.csv,published_passengers,integer,AAI's own annual passenger total
+data/aai/annual-check.csv,difference_percent,"number,null","Summed against published, percent. Empty for years with fewer than 12 months read"
+data/aai/annual-check.csv,published_href,"string,null",AAI's annual review the published total comes from. Empty where there is none
+data/dgca/report-card.csv,id,string,"Row id, used in report-card-revisions.csv"
+data/dgca/report-card.csv,period,string,"YYYY-MM for a month, YYYY-Qn for a quarter, YYYY for a year, or YYYY-MM/YYYY-MM for a span DGCA sums, such as January to the issue month"
+data/dgca/report-card.csv,section,string,"Part of the Traffic Report: market-share, passengers, passenger-totals, load-factor, otp, foreign-otp, cancellations, delays, complaints, redressal, car-compliance (passengers affected and compensation paid under the passenger charter) or route-dispersal"
+data/dgca/report-card.csv,measure,string,What the value measures within the section
+data/dgca/report-card.csv,airline,string,Airline id from airlines.csv. Empty for all-airline figures
+data/dgca/report-card.csv,airport,string,Airport for on-time performance at one airport. Empty otherwise
+data/dgca/report-card.csv,category,"string,null","Reason, route category or delay band the value belongs to. Empty otherwise"
+data/dgca/report-card.csv,printed,"string,null",The airline or category label as printed in the issue. Empty where the row has none
+data/dgca/report-card.csv,value,number,The figure as printed
+data/dgca/report-card.csv,unit,string,"percent, lakh (passengers), lakh rupees, passengers, count or per 10,000 passengers"
+data/dgca/report-card.csv,issue,string,The monthly issue the value is taken from. Figures a later issue reprints keep the latest printing
+data/dgca/report-card.csv,issue_revision,"string,null","R, R1 or R2 when the issue used is a revised report. Empty for the original"
+data/dgca/report-card.csv,first_issue,string,The first issue that printed a figure for this row
+data/dgca/report-card.csv,note,"string,null",Note on how the figure was read. Empty where there is none
+data/dgca/report-card-revisions.csv,id,string,Row id in report-card.csv
+data/dgca/report-card-revisions.csv,issue,string,An issue that printed a different figure for the row
+data/dgca/report-card-revisions.csv,value,number,The figure that issue printed
+data/dgca/report-issues.csv,issue,string,Month the issue covers
+data/dgca/report-issues.csv,printed_month,string,Month name as printed on the issue
+data/dgca/report-issues.csv,file,string,DGCA's file name
+data/dgca/report-issues.csv,revision,"string,null","R, R1 or R2 when DGCA's file is a revised report. Empty for the original"
+data/dgca/report-issues.csv,sections,string,"Sections read from the issue, separated by ""; "". Empty where there are none"
+data/dgca/report-issues.csv,otp_airports,string,"Airports the issue's on-time performance covers, separated by ""; "". Empty where there are none"
+data/dgca/operating-stats.csv,airline,string,Airline id from airlines.csv. all-indian-carriers is DGCA's printed total
+data/dgca/operating-stats.csv,printed_name,string,The airline's name as DGCA printed it
+data/dgca/operating-stats.csv,service,string,Scheduled or non-scheduled services
+data/dgca/operating-stats.csv,sector,string,unspecified where DGCA's table does not split by sector
+data/dgca/operating-stats.csv,month,string,"Month, YYYY-MM"
+data/dgca/operating-stats.csv,departures,"number,null",Departures. Empty where the source printed no figure
+data/dgca/operating-stats.csv,hours_flown,"number,null",Aircraft hours flown. Empty where the source printed no figure
+data/dgca/operating-stats.csv,km_flown_thousand,"number,null",Thousand aircraft-km flown. Empty where the source printed no figure
+data/dgca/operating-stats.csv,passengers,"number,null",Passengers carried. Empty where the source printed no figure
+data/dgca/operating-stats.csv,passenger_km_thousand,"number,null",Thousand passenger-km performed. Empty where the source printed no figure
+data/dgca/operating-stats.csv,seat_km_thousand,"number,null",Thousand available seat-km. Empty where the source printed no figure
+data/dgca/operating-stats.csv,passenger_load_factor_pct,"number,null","Passenger-km over available seat-km, percent, as DGCA prints it. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,freight_tonnes,"number,null","Freight, tonnes. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,mail_tonnes,"number,null","Mail, tonnes. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,cargo_tonnes,"number,null","Freight and mail, tonnes. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,passenger_tonne_km_thousand,"number,null",Thousand tonne-km performed carrying passengers. Empty where the source printed no figure
+data/dgca/operating-stats.csv,freight_tonne_km_thousand,"number,null",Thousand tonne-km performed carrying freight. Empty where the source printed no figure
+data/dgca/operating-stats.csv,mail_tonne_km_thousand,"number,null",Thousand tonne-km performed carrying mail. Empty where the source printed no figure
+data/dgca/operating-stats.csv,tonne_km_thousand,"number,null",Thousand tonne-km performed in all. Empty where the source printed no figure
+data/dgca/operating-stats.csv,available_tonne_km_thousand,"number,null",Thousand available tonne-km. Empty where the source printed no figure
+data/dgca/operating-stats.csv,weight_load_factor_pct,"number,null","Tonne-km performed over available tonne-km, percent, as DGCA prints it. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,cargo_operators_tonnes,"number,null","Tonnes carried by scheduled cargo operators, a column only the 2014 and 2015 totals print. Empty where the source printed no figure"
+data/dgca/operating-stats.csv,provisional,boolean,true where DGCA marks the month provisional
+data/dgca/operating-stats.csv,revised,boolean,true where DGCA marks the month revised
+data/dgca/routes-domestic.csv,id,string,Row id. A pair DGCA prints twice in a month has a second row ending -2
+data/dgca/routes-domestic.csv,month,string,"Month, YYYY-MM"
+data/dgca/routes-domestic.csv,city1,"string,null",First city as DGCA prints it. Empty on an airline's row with no city pairs
+data/dgca/routes-domestic.csv,city2,"string,null",Second city as DGCA prints it. Empty on an airline's row with no city pairs
+data/dgca/routes-domestic.csv,city1_code,string,"city1: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+data/dgca/routes-domestic.csv,city2_code,string,"city2: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+data/dgca/routes-domestic.csv,passengers_to_city2,"number,null",Passengers flown from city1 to city2. Empty where the source printed no figure
+data/dgca/routes-domestic.csv,passengers_from_city2,"number,null",Passengers flown from city2 to city1. Empty where the source printed no figure
+data/dgca/routes-domestic.csv,freight_to_city2_tonnes,"number,null","Freight carried to city2, tonnes. Empty where the source printed no figure"
+data/dgca/routes-domestic.csv,freight_from_city2_tonnes,"number,null","Freight carried from city2, tonnes. Empty where the source printed no figure"
+data/dgca/routes-domestic.csv,mail_to_city2_tonnes,"number,null","Mail flown from city1 to city2, tonnes. Empty where the source printed no figure"
+data/dgca/routes-domestic.csv,mail_from_city2_tonnes,"number,null","Mail flown from city2 to city1, tonnes. Empty where the source printed no figure"
+data/dgca/routes-domestic.csv,airline_without_city_pairs,"string,null","Airline name as printed, on a row for an airline that reported totals without city pairs. Empty where there is none"
+data/dgca/routes-domestic.csv,note,"string,null",DGCA's note on the row. Empty where there is none
+data/dgca/routes-international-airlines.csv,quarter,string,"Calendar quarter, YYYY-Qn"
+data/dgca/routes-international-airlines.csv,airline,string,Airline id from airlines.csv
+data/dgca/routes-international-airlines.csv,printed_name,string,The airline's name as DGCA printed it
+data/dgca/routes-international-airlines.csv,carrier,string,Indian or foreign carrier
+data/dgca/routes-international-airlines.csv,passengers_to_india,"number,null",Passengers carried to India. Empty where the source printed no figure
+data/dgca/routes-international-airlines.csv,passengers_from_india,"number,null",Passengers carried from India. Empty where the source printed no figure
+data/dgca/routes-international-airlines.csv,freight_to_india_tonnes,"number,null","Freight carried to india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-airlines.csv,freight_from_india_tonnes,"number,null","Freight carried from india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-airlines.csv,starred,string,"Columns DGCA starred as repeated from an earlier period, kept as printed, separated by ""; "". Empty where there are none"
+data/dgca/routes-international-airlines-monthly.csv,month,string,"Month, YYYY-MM"
+data/dgca/routes-international-airlines-monthly.csv,airline,string,Airline id from airlines.csv
+data/dgca/routes-international-airlines-monthly.csv,printed_name,string,The airline's name as DGCA printed it
+data/dgca/routes-international-airlines-monthly.csv,carrier,string,Indian or foreign carrier
+data/dgca/routes-international-airlines-monthly.csv,passengers_to_india,"number,null",Passengers carried to India. Empty where the source printed no figure
+data/dgca/routes-international-airlines-monthly.csv,passengers_from_india,"number,null",Passengers carried from India. Empty where the source printed no figure
+data/dgca/routes-international-airlines-monthly.csv,freight_to_india_tonnes,"number,null","Freight carried to india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-airlines-monthly.csv,freight_from_india_tonnes,"number,null","Freight carried from india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-airlines-monthly.csv,starred,string,"Columns DGCA starred as repeated from an earlier period, kept as printed, separated by ""; "". Empty where there are none"
+data/dgca/routes-international-countries.csv,quarter,string,"Calendar quarter, YYYY-Qn"
+data/dgca/routes-international-countries.csv,country,string,Country as DGCA prints it
+data/dgca/routes-international-countries.csv,passengers_to_india,"number,null",Passengers carried to India from the country. Empty where the source printed no figure
+data/dgca/routes-international-countries.csv,passengers_from_india,"number,null",Passengers carried from India to the country. Empty where the source printed no figure
+data/dgca/routes-international-countries.csv,freight_to_india_tonnes,"number,null","Freight carried to india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-countries.csv,freight_from_india_tonnes,"number,null","Freight carried from india, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-city-pairs.csv,quarter,string,"Calendar quarter, YYYY-Qn"
+data/dgca/routes-international-city-pairs.csv,scope,string,india is a pair with one end in India; outside_india is an Indian carrier's flights between two foreign cities
+data/dgca/routes-international-city-pairs.csv,city1,string,Foreign city as DGCA prints it
+data/dgca/routes-international-city-pairs.csv,city2,string,"Indian city for scope india, as DGCA prints it; otherwise the second foreign city"
+data/dgca/routes-international-city-pairs.csv,city2_code,string,"city2: the airport code from airports.csv, or city:<id> from cities.csv where DGCA's name covers more than one airport that month. Empty where the row has no Indian city"
+data/dgca/routes-international-city-pairs.csv,passengers_to_city2,"number,null",Passengers flown from city1 to city2. Empty where the source printed no figure
+data/dgca/routes-international-city-pairs.csv,passengers_from_city2,"number,null",Passengers flown from city2 to city1. Empty where the source printed no figure
+data/dgca/routes-international-city-pairs.csv,freight_to_city2_tonnes,"number,null","Freight carried to city2, tonnes. Empty where the source printed no figure"
+data/dgca/routes-international-city-pairs.csv,freight_from_city2_tonnes,"number,null","Freight carried from city2, tonnes. Empty where the source printed no figure"
+data/gaps.csv,dataset,string,"Source dataset: aai-traffic, aai-traffic-categories, aai-traffic-regions, aai-traffic-states, dgca-traffic-report, dgca-operating-stats or dgca-routes"
+data/gaps.csv,from,string,First month (or issue) missing
+data/gaps.csv,to,string,Last month (or issue) missing
+data/gaps.csv,series,"string,null","Section, or airline, service and sector, the gap is in. Empty where there is none"
+data/gaps.csv,measure,"string,null",Measure missing. Empty where there is none
+data/gaps.csv,reason,string,Why there is no figure
+data/gaps.csv,href,"string,null",Link to what was looked for. Empty where there is none
+data/notes.csv,dataset,string,"Source dataset, or airports for the airport registry"
+data/notes.csv,period,"string,null","Month, quarter, year or issue the note is about. Empty where there is none"
+data/notes.csv,kind,string,"note is printed by the source or recorded while reading it; printed_error and source_inconsistency are figures on the same page that contradict each other, kept as printed; change_column_mismatch is an AAI % change that does not follow from its figures; total_mismatch is a printed total that differs from its rows or from the airline files; skipped_sheet is a stale workbook sheet not read; reading explains how a cell was read"
+data/notes.csv,series,"string,null","Section, file, table or row the note is about. Empty where there is none"
+data/notes.csv,airline,string,"Airline ids the note is about, separated by ""; "". Empty where there are none"
+data/notes.csv,field,"string,null",Column or group the note is about. Empty where there is none
+data/notes.csv,text,string,The note
+data/notes.csv,evidence,"string,null","Why it reads this way, or what checks it. Empty where there is none"
+data/sources.csv,dataset,string,Source dataset
+data/sources.csv,period,string,"Month, quarter or year the file covers"
+data/sources.csv,part,"string,null","Measure, annexure, table or airline the file holds. Empty where there is none"
+data/sources.csv,file,"string,null",File name. Empty where there is none
+data/sources.csv,href,"string,null",Where the file was read from. Empty where there is none
+data/sources.csv,sha256,string,SHA-256 of the file read. Empty where none was read
+data/sources.csv,note,"string,null",Why a listed file was not read. Empty where there is none

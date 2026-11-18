@@ -1,0 +1,148 @@
+issue,printed_month,file,revision,sections,otp_airports
+2014-06,June,Traffic_Rep0614.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; otp; passenger-totals; passengers; route-dispersal,BLR; DEL; HYD; BOM
+2014-07,July,Traffic_Rep0714.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2014-08,August,Traffic_Rep0814.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2014-09,September,Traffic_Rep0914.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2014-10,October,Traffic_Rep1014.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2014-11,November,Traffic_Rep1114.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2014-12,December,Traffic_Rep1214.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-01,January,Traffic_Rep0115.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-02,February,Traffic_Rep0215.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-03,March,Traffic_Rep0315.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-04,April,Traffic_Rep0415.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-05,May,Traffic_Rep0515.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-06,June,Traffic_Rep0615.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-07,July,Traffic_Rep0715.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-08,August,Traffic_Rep0815.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-09,September,Traffic_Rep0915.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-10,October,Traffic_Rep1015.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-11,November,Traffic_Rep1115.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2015-12,December,Traffic_Rep1215.pdf,,cancellations; car-compliance; complaints; delays; foreign-otp; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-01,January (revised),Traffic_Rep0116R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-02,February (revised),Traffic_Rep0216R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-03,March (revised),Traffic_Rep0316R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-04,April,Traffic_Rep0416.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-05,May,Traffic_Rep0516.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-06,June,Traffic_Rep0616.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-07,July (revised),Traffic_Rep0716R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-08,August,Traffic_Rep0816.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-09,September,Traffic_Rep0916.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-10,October,Traffic_Rep1016.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-11,November,Traffic_Rep1116.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2016-12,December,Traffic_Rep122016.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-01,January,Traffic_Rep0117.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-02,February,Traffic_Rep022017.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-03,March,Traffic_Rep032017.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-04,April,Traffic_Rep042017.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-05,May,Traffic_Rep052017.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-06,June,Traffic_Rep0617.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-07,July,Traffic_Rep0717.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-08,August,Traffic_Rep0817.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-09,September,Traffic_Rep0917.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-10,October,Traffic_Rep1017.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-11,November,Traffic_Rep1117.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2017-12,December (revised),Traffic_Rep1217(R).pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-01,January,Traffic_Rep0118.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-02,February,Traffic_Rep0218.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-03,March,Traffic_Rep0318.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-04,April,Traffic_Rep0418.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-05,May,Traffic_Rep0518.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-06,June (revised),Traffic_Rep0618(R).pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-07,July,Traffic_Rep0718.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-08,August,Traffic_Rep0818.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-09,September,Traffic_Rep0918.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-10,October,Traffic_Rep102018.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-11,November,Traffic_Rep1118.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2018-12,December,Traffic_Rep1218.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-01,January,Traffic_Rep0119.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-02,February,Traffic_Rep0219.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-03,March,Traffic_Rep032019.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-04,April,Traffic_Rep0419.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-05,May (revised),Traffic_Rep0519R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-06,June,Traffic_Rep0619.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-07,July,Traffic_Rep0719.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-08,August,Traffic_Rep0819.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-09,September,Traffic_Rep0919.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-10,October,Traffic_Rep1019.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-11,November,Traffic_Rep1119.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2019-12,December,Traffic data Dec 2019.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-01,January,TrafficdataJan2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-02,February,Traffic data Feb 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-03,March,Traffic Report 2020 (Revised).pdf,R,cancellations; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-05,May,Traffic data May 2020.pdf,,cancellations; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-06,June,Traffic data June 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-07,July,Traffic data July 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-08,August,Traffic_Rep0820.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-09,September,Traffic Report Sept 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-10,October,Traffic Data Oct 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-11,November,Traffic data Nov 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2020-12,December,Traffic data Dec 2020.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-01,January,Traffic data Jan 2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-02,February,Traffic Report FEB 2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-03,March,Traffic Report March 2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-04,April,April2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-05,May (Revised),May2021R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-06,June,June2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-07,July,July2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-08,August (Revised),Aug2021R.pdf,R,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-09,September,Sept2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-10,October,Oct2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-11,November,Nov2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2021-12,December,Dec2021.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passenger-totals; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-01,January,Jan2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-02,February,Feb2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-03,March (Revised),March2022R1.pdf,R1,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-04,April (Revised),April2022R2.pdf,R2,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-05,May (Revised),May2022R1.pdf,R1,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-06,June,June2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-07,July,July2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-08,August,August2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-09,September,Sept2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-10,October (Revised),Oct2022R1.pdf,R1,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-11,November,Nov2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2022-12,December,Dec2022.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-01,January,Jan2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-02,February,Feb2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-03,March,March2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-04,April,April2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-05,May,May2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-06,June,June2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-07,July,July2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-08,August,August2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-09,September,Sep2023.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-10,October,Traffic report Oct 23.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-11,November,Traffic report Nov 23.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2023-12,December,Traffic report dec 23.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-01,January,Traffic report Jan 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-02,February,Traffic report Feb 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-03,March,traffic Data Mar 24_240415_193719.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-04,April,Traffic Data Report April 2024.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-05,May,Traffic Data Report May 2024.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-06,June,traffic Data Jun 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-07,July,traffic Data July 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-08,Aug,traffic Data August 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-09,September,traffic Data September 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-10,Oct,traffic Data October 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-11,Nov,traffic Data November 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2024-12,Dec,Traffic Data Report December 24.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM
+2025-01,January,traffic report January 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-02,February,traffic Data February 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-03,March,traffic Report March 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-04,April,traffic report April 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-05,May,Traffic Report May 2025.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-06,June,traffic Data Jun 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-07,July,traffic Data July 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-08,August,traffic report August 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-09,September,traffic report Sept 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-10,October,traffic Data Oct 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-11,Nov,traffic Data Nov 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2025-12,Dec,traffic Data Dec 25.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU
+2026-01,January,traffic Data Jan 26_260227_201115.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-02,February,Traffic Data Feb 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-03,March,TrafficDataMar26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-04,April,TrafficReportApril2026.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-05,May,traffic Data May 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-06,June,traffic Data June 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-07,July,traffic Data July 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-08,August,traffic Data August 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO
+2026-09,September,traffic Data Sep 26.pdf,,cancellations; car-compliance; complaints; delays; load-factor; market-share; otp; passengers; redressal; route-dispersal,BLR; DEL; HYD; BOM; MAA; CCU; AMD; COK; GAU; LKO

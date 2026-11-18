@@ -1,0 +1,162 @@
+id,name,kind,iata,members,share_group,started,stopped,renamed,merged_into,merged_on,headquarters_city,headquarters_state,former_names,note,source_notes,sources
+aero-nomad,AERO NOMAD,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+aeroflot,AEROFLOT,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+aerologic,AEROLOGIC,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-arabia,AIR ARABIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-arabia-abu-dhabi,AIR ARABIA-ABU DHABI,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-asia-berhad,AIR ASIA BERHAD,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-asia-x,AIR ASIA X,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-astana,AIR ASTANA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-austral,AIR AUSTRAL,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-cambodia,AIR CAMBODIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-canada,AIR CANADA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-carnival,Air Carnival,regional,2S,,,2016-07-18,2017-04-06,,,,Coimbatore,tamil-nadu,,Coimbatore-based ATR 72 operator.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_Carnival; https://en.wikipedia.org/wiki/Air_Carnival; https://commons.wikimedia.org/wiki/File:Air_Carnival_logo.png
+air-china,AIR CHINA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-costa,Air Costa,regional,LB,,,2013-10-16,2017-02-28,,,,Vijayawada,andhra-pradesh,,Vijayawada-based Embraer operator; suspended over lease payment difficulties and never returned.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_Costa; https://en.wikipedia.org/wiki/Air_Costa; https://commons.wikimedia.org/wiki/File:Air_Costa_Logo.jpg
+air-deccan,Air Deccan,regional,DN,,,2017-12-23,2020-04-05,,,,Ahmedabad,gujarat,,"Relaunched Air Deccan brand of Deccan Charters (G.R. Gopinath) on UDAN routes with Beechcraft 1900D, after a scheduled commuter permit on 22 December 2017. Its Maharashtra routes stopped in early October 2018; all scheduled flights stopped 5 April 2020 (COVID) and never resumed. The original Air Deccan (2003) is a different airline that became Kingfisher Red.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Deccan_Charters; https://www.itln.in/air-deccan-gets-dgca-permit-for-udan-scheme-aviation; https://www.ch-aviation.com/news/72355-indias-air-deccan-stops-maharashtra-ops-angers-govt; https://en.wikipedia.org/wiki/Air_Deccan; https://en.wikipedia.org/wiki/Air_Deccan; https://en.wikipedia.org/wiki/File:Air_deccan.png
+air-france,AIR FRANCE,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-heritage,Air Heritage,regional,4H,,,2019-01-17,,,,,New Delhi,delhi,,"Heritage Aviation's UDAN service from Dehradun (Dehradun-Pithoragarh first); suspended after a 9 February 2019 in-flight door incident, then resumed about seven months later. The company now flies Uttarakhand UDAN helicopter routes.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_Heritage; https://www.ch-aviation.com/news/81578-indias-heritage-aviation-resumes-pithoragarh-ops; https://www.heritageaviation.in/udan; https://en.wikipedia.org/wiki/Air_Heritage; https://en.wikipedia.org/wiki/File:Air_Heritage_logo.png
+air-india,Air India,scheduled,AI,,,1932-10-15,,Tata Air Lines to Tata Air Services / Tata Airlines (1938); Tata Airlines to Air India (1946-07-29),,,Gurugram,haryana,,Began as Tata's Karachi-Bombay air mail service. Absorbed Indian Airlines (codes merged February 2011) and Vistara (12 November 2024).,dgca-traffic-report: Air India's domestic operations as printed until the Air India Group rows begin,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_India; https://www.airindia.com/in/en/vistara-air-india-merger.html; https://en.wikipedia.org/wiki/Air_India; https://commons.wikimedia.org/wiki/File:Air_India_2023.svg
+air-india-and-alliance-air,Air India and Alliance Air,group,,air-india; alliance-air,air-india,,,,,,,,,,dgca-traffic-report: Combined row in the route dispersal table,https://www.dgca.gov.in/digigov-portal/
+air-india-express,Air India Express,scheduled,IX,,,2005-04-29,,,,,Gurugram,haryana,,Absorbed AIX Connect (ex AirAsia India) on 1 October 2024; new brand identity and livery from 18 October 2023.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_India_Express; https://en.wikipedia.org/wiki/Air_India_Express; https://commons.wikimedia.org/wiki/File:Air_India_Express_logo.svg
+air-india-group,Air India Group,group,,air-india; air-india-express,air-india,,,,,,,,,,dgca-traffic-report: Printed from January 2025; the report says it includes Air India and Air India Express,https://www.dgca.gov.in/digigov-portal/
+air-manas,AIR MANAS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-mauritius,AIR MAURITIUS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-odisha,Air Odisha,regional,6X,,,2018-02,,,,,Bhubaneswar,odisha,,"Bhubaneswar-based UDAN operator (Beechcraft 1900D, Cessna 208). Stopped flying in early October 2018 (last Jharsuguda flight 6 October 2018); AAI cancelled its UDAN award in November 2018.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_Odisha; https://www.ch-aviation.com/news/73262-india-cancels-air-odishas-licence-for-irregularities; https://odishabytes.com/wings-clipped-aai-cancels-udan-licence-of-air-odisha/; https://en.wikipedia.org/wiki/Air_Odisha; https://en.wikipedia.org/wiki/File:Air_Odisha_logo.png
+air-pegasus,Air Pegasus,regional,OP,,,2015-04-12,2016-07-27,,,,Bengaluru,karnataka,,Bengaluru-based ATR 72 operator.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Air_Pegasus; https://en.wikipedia.org/wiki/Air_Pegasus; https://commons.wikimedia.org/wiki/File:Air_Pegasus_Logo.png
+air-seychelles,AIR SEYCHELLES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-tanzania,AIR TANZANIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+air-taxi,Air Taxi,other,,,,,,,,,,,,,dgca-operating-stats: DGCA's row name; the file does not name an operator.,https://www.dgca.gov.in/digigov-portal/
+aix-connect,AIX Connect,scheduled,I5,,,2014-06-12,2024-09-30,AirAsia India to AIX Connect (2022-12),air-india-express,2024-10-01,Bengaluru,karnataka,AirAsia India,Renamed after Tata Sons bought out AirAsia Bhd's stake; its I5 code was retired when it merged into Air India Express.,"dgca-operating-stats: DGCA lists it as Air Asia to 2023 and as AIX Connect in 2024. A separate operator from Air India Express in these files.; dgca-traffic-report: Printed as Air Asia, later AIX Connect",https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/AIX_Connect; https://www.ch-aviation.com/news/122879-airasia-india-to-be-renamed-as-aix-connect; https://businessworld.in/article/aix-connect-to-merge-with-air-india-express-in-october-i5-code-to-be-retired-534720; https://en.wikipedia.org/wiki/AIX_Connect; https://commons.wikimedia.org/wiki/File:AirAsia_New_Logo.svg
+akasa-air,Akasa Air,scheduled,QP,,,2022-08-07,,,,,Mumbai,maharashtra,,First flight Mumbai-Ahmedabad.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Akasa_Air; https://en.wikipedia.org/wiki/Akasa_Air; https://commons.wikimedia.org/wiki/File:Akasa_Air_logo.svg
+all-indian-carriers,All Indian carriers,group,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+all-nippon-airways,ALL NIPPON AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+alliance-air,Alliance Air,regional,9I,,,1996-04-15,,Alliance Air to Air India Regional (brand) (2011); Air India Regional to Alliance Air (2022-04-15),,,Delhi,delhi,,"Indian Airlines subsidiary, then Air India's; separated from Air India before privatisation and has operated independently since 15 April 2022. Flies ATR 72/42 and Dornier 228 turboprops on regional and UDAN routes.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Alliance_Air_(India); https://www.oneindia.com/2011/02/27/newcode-for-ia-and-allianceair-aid0126.html; https://en.wikipedia.org/wiki/Alliance_Air_(India); https://en.wikipedia.org/wiki/File:Alliance_Air_logo_2017.png
+american-airlines,AMERICAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+ariana-afghan,ARIANA AFGHAN,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+asiana-airlines,ASIANA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+austrian-airlines,AUSTRIAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+azerbaijan-airlines,AZERBAIJAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+bangkok-airways,BANGKOK AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+batik-air,BATIK AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+belavia-airlines,BELAVIA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+bhutan-airlines,BHUTAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+biman-bangladesh,BIMAN BANGLADESH,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+blue-dart,Blue Dart Aviation,cargo,BZ,,,1996-06-17,,,,,Chennai,tamil-nadu,,Cargo airline of Blue Dart Express (DHL group).,dgca-operating-stats: Freighter airline: no passengers.,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Blue_Dart_Aviation; https://en.wikipedia.org/wiki/Blue_Dart_Aviation; https://commons.wikimedia.org/wiki/File:Blue_Dart_logo_transparent.png
+british-airways,BRITISH AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+brussels-airlines,BRUSSELS AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+buddha-air,BUDDHA AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+cargolux-airlines-international-s-a,CARGOLUX AIRLINES INTERNATIONAL S.A.,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+cathay-pacific,CATHAY PACIFIC,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+china-airlines-ltd,CHINA AIRLINES LTD,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+china-eastern-airlines,CHINA EASTERN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+china-southern,CHINA SOUTHERN,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+deccan-air,Deccan Air,regional,DN,,,2017-12,,,,,Ahmedabad,gujarat,,"Very likely the same operator as the relaunched Air Deccan (Deccan Charters). DGCA's 2017 'Deccan Air' file says it 'started its operations from the month of December 2017', the month Air Deccan got its scheduled commuter permit (22 Dec) and flew its first flight (23 Dec). No other 'Deccan' scheduled operator started then.","dgca-operating-stats: Listed for 2017 and 2018. Kept apart from Air Deccan (2020, 2021) because DGCA's files do not say they are one operator.",https://www.dgca.gov.in/digigov-portal/; https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/deccanair17.xlsx; https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/deccanair18.xlsx; https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/air%20deccan20.xlsx; https://en.wikipedia.org/wiki/Deccan_Charters; https://en.wikipedia.org/wiki/Air_Deccan; https://en.wikipedia.org/wiki/File:Air_deccan.png
+delta-airlines,DELTA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+dragon-air,DRAGON AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+druk-air,DRUK AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+egypt-air,EGYPT AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+el-al-israel,EL-AL-ISRAEL,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+emirates-airline,EMIRATES AIRLINE,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+ethiopian-airlines,ETHIOPIAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+etihad-airlines,ETIHAD AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+european-air-transport-leipzig,EUROPEAN AIR TRANSPORT LEIPZIG,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+eva-airways,EVA AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+federal-express,FEDERAL EXPRESS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+finn-air,FINN AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+fits-aviation,FITS AVIATION,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+fly-baghdad,FLY BAGHDAD,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+fly-dubai,FLY DUBAI,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+fly91,Fly91,regional,IC,,,2024-03-18,,,,,Ribandar,goa,,Goa-based ATR 72-600 operator; reuses Indian Airlines' old IC code.,,https://www.dgca.gov.in/digigov-portal/; https://fly91.in/press-releases/fly-commences-commercial-operations; https://www.theweek.in/wire-updates/business/2024/03/18/dcm26-ga-fly91-flights.html; https://www.fly91.in/contact-us; https://www.fly91.in/themes/custom/fly91/images/logo.svg
+flybig,flybig,regional,S9,,,2021-01-03,2025-12-13,,,,Gurugram,haryana,,Promoted by Big Charter Pvt Ltd (no link to Deccan Charters found). ATR flights suspended November 2023 when lessors repossessed aircraft; Twin Otters kept flying until about October 2025; formally ceased when its AOC expired 13 December 2025.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/FlyBig; https://www.ch-aviation.com/news/134270-indias-flybig-suspends-flights-as-lessors-repo-planes; https://www.businesstraveller.com/business-travel/2021/01/04/flybig-begins-operations-today/; https://en.wikipedia.org/wiki/FlyBig; https://en.wikipedia.org/wiki/File:FlyBig_Logo.svg
+flynas,FLYNAS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+garuda-indonesia,GARUDA INDONESIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+go-first,Go First,scheduled,G8,,,2005-11-04,2023-05-03,GoAir to Go First (2021-05-13),,,Mumbai,maharashtra,GoAir,Suspended all flights from 3 May 2023 and filed for insolvency on 2 May 2023; never resumed. NCLT New Delhi ordered liquidation on 20 January 2025.,dgca-operating-stats: DGCA's files keep the name Go Air throughout.; dgca-traffic-report: Printed as Go Air until 2021,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Go_First; https://www.tribuneindia.com/news/business/goair-rebrands-itself-as-go-first-252756; https://businesstoday.in/industry/aviation/story/nclt-orders-liquidation-of-budget-airline-go-first-461388-2025-01-20; https://www.livelaw.in/ibc-cases/nclt-orders-liquidation-of-go-airlines-india-limited-281883; https://www.outlookbusiness.com/corporate/crisis-hit-go-first-files-for-voluntary-insolvency-resolution-proceedings-cancels-all-flights-from-may-3-5-news-283314; https://en.wikipedia.org/wiki/Go_First; https://en.wikipedia.org/wiki/File:Go_First_RGB_Logo_1_reduced.jpg
+gulf-air,GULF AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+indian-airlines,Indian Airlines,scheduled,IC,,,1953-08-01,2011-02-26,Indian Airlines to Indian (2005-12),air-india,2011-02-27,New Delhi,delhi,,"Companies amalgamated into NACIL (later Air India Ltd) effective 27 August 2007, but flew under its own IC code, and DGCA reported it separately, until the single AI code took over on 27 February 2011.",dgca-operating-stats: Reported apart from Air India until 2011.,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Indian_Airlines; https://www.oneindia.com/2011/02/24/fromfeb-27-all-air-india-flights-to-have-single-aicode-aid0126.html; https://eparlib.sansad.in/bitstream/123456789/64614/1/15_Public_Undertakings_4.pdf; https://www.emirates247.com/business/corporate/indian-airlines-no-more-from-today-2011-02-27-1.361194; https://en.wikipedia.org/wiki/Indian_Airlines; https://commons.wikimedia.org/wiki/File:Indian_airlines.svg
+indiaone-air,IndiaOne Air,regional,I7,,,2022-10-31,,,,,Gandhinagar,gujarat,,Bhubaneswar-based Cessna Caravan operator on UDAN routes; first scheduled flight Bhubaneswar-Jeypore.,,https://www.dgca.gov.in/digigov-portal/; https://odishatv.in/news/miscellaneous/maiden-jeypore-flight-takes-off-from-bhubaneswar-189167; https://en.wikipedia.org/wiki/IndiaOne_Air; https://www.indiaoneair.com/contact-us.html; https://commons.wikimedia.org/wiki/File:IndiaOne_Air_Logo.jpg
+indigo,IndiGo,scheduled,6E,,,2006-08-04,,,,,Gurugram,haryana,,First service New Delhi-Imphal via Guwahati.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/IndiGo; https://en.wikipedia.org/wiki/IndiGo; https://en.wikipedia.org/wiki/File:IndiGo.svg
+indonesia-airasia-x,INDONESIA AIRASIA X,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+iran-air,IRAN AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+iraqi-airways,IRAQI AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+island-aviation-services,ISLAND AVIATION SERVICES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+ita-airways,ITA AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+japan-airlines,JAPAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+jazeera-airways,JAZEERA AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+jet-airways,Jet Airways,scheduled,9W,,,1993-05-05,2019-04-17,,,,Mumbai,maharashtra,,All flights suspended 17 April 2019; a 2022 AOC renewal under Jalan-Kalrock never led to flights. Supreme Court ordered liquidation on 7 November 2024.,dgca-operating-stats: DGCA's 2019 file: operations suspended from 18 April 2019.,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Jet_Airways; https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/jet-airways-to-suspend-all-operations-from-tonight/articleshow/68919546.cms; https://en.wikipedia.org/wiki/Jet_Airways; https://en.wikipedia.org/wiki/File:Jet_Airways_Logo.svg
+jet-airways-and-jetlite,Jet Airways and JetLite,group,,jet-airways; jetlite,jet-airways,,,,,,,,,,dgca-traffic-report: Combined row,https://www.dgca.gov.in/digigov-portal/
+jetlite,JetLite,scheduled,S2,,jet-airways,1993-12-03,2019-04-17,Air Sahara to JetLite (2007-04-16); JetLite to JetKonnect (brand) (2012-03-25),,,Mumbai,maharashtra,,"Ex Sahara Airlines / Air Sahara, bought by Jet Airways in April 2007. The JetLite brand ended on 25 March 2012 when its flights moved under Jet Airways' JetKonnect brand, but the company Jet Lite (India) Ltd kept reporting to DGCA separately and grounded with its parent on 17 April 2019.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/JetLite; https://www.dnaindia.com/business/report-jet-discontinues-jetlite-merges-with-konnect-1664514; https://en.wikipedia.org/wiki/JetLite; https://commons.wikimedia.org/wiki/File:Jet_Lite_logo.svg
+kalitta-air,KALITTA AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+kam-air,KAM AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+kenya-airways,KENYA AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+kingfisher,Kingfisher Airlines,scheduled,IT,,,2005-05-09,2012-10-20,,,,Mumbai,maharashtra,,"Flights stopped around 30 September/1 October 2012 amid an employee strike; DGCA suspended its permit from 20 October 2012; slots and flying rights withdrawn February 2013. It had absorbed Air Deccan (rebranded Simplifly Deccan, then Kingfisher Red) after 2007-08.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Kingfisher_Airlines; https://www.business-standard.com/article/companies/kingfisher-airlines-loses-licence-to-fly-112102100028_1.html; https://centreforaviation.com/news/indian-dgca-suspends-kingfisher-airlines-scheduled-operators-permit-ceases-ticket-sales-181998; https://en.wikipedia.org/wiki/Kingfisher_Airlines; https://en.wikipedia.org/wiki/File:Fly_kingfisher_logo_2011.png
+klm-airlines,KLM AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+korean-air,KOREAN AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+kuwait-airways,KUWAIT AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+lot-polish,LOT POLISH,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+lufthansa,LUFTHANSA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+mahan-air,MAHAN AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+malaysia-airlines,MALAYSIA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+malindo-airways,MALINDO AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+martin-air-holland,MARTIN AIR HOLLAND,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+mdlr-airlines,MDLR Airlines,regional,9H,,,2007-03-14,2009-11-05,,,,Gurugram,haryana,,Gurgaon-based airline of the MDLR group.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/MDLR_Airlines; https://en.wikipedia.org/wiki/MDLR_Airlines; https://en.wikipedia.org/wiki/File:MDLR_Logo.jpg
+mega-maldives-airlines,MEGA MALDIVES AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+mihin-lanka,MIHIN LANKA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+my-freighter-centrum-air,MY FREIGHTER-CENTRUM AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+myanmar-airlines,MYANMAR AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+neos-spa,NEOS SPA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+nepal-airlines-corporation,NEPAL AIRLINES CORPORATION,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+novo-air,NOVO AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+oman-air,OMAN AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+pak-international,PAK INTERNATIONAL,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+paramount-airways,Paramount Airways,regional,I7,,,2005-10,2010-08,,,,Chennai,tamil-nadu,,"Chennai-hub Embraer 170/190 operator with all business-class cabins; fleet grounded by lessors from March 2010, a planned November 2010 restart never happened.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Paramount_Airways; https://worldairlinenews.com/2010/03/21/paramount-airways-has-three-aircraft-grounded/; https://en.wikipedia.org/wiki/Paramount_Airways; https://en.wikipedia.org/wiki/File:ParamountAirwaysLogo.png
+pawan-hans,Pawan Hans,helicopter,,,,,,Helicopter Corporation of India to Pawan Hans (1986-08),,,Noida,uttar-pradesh,,"State-owned helicopter operator (operations from 1 November 1985). First helicopter operator to get a Scheduled Commuter Operator permit; runs UDAN helicopter routes (Uttarakhand from July 2020). Fixed-wing only via the Jal Hans seaplane (Andamans, from 27 Dec 2010).",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Pawan_Hans; https://booking.pawanhans.co.in/Page_RCS_Details.aspx; https://en.wikipedia.org/wiki/Pawan_Hans; https://en.wikipedia.org/wiki/File:Pawan_Hans_Logo.png
+qantas-airlines,QANTAS AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+qatar-airways,QATAR AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+quikjet-cargo,Quikjet Cargo,cargo,QO,,,2016-02-16,,,,,Bengaluru,karnataka,,Bengaluru-based freighter operator.,dgca-operating-stats: Freighter airline: no passengers.,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Quikjet_Cargo_Airlines; https://en.wikipedia.org/wiki/Quikjet_Airlines; https://en.wikipedia.org/wiki/File:Quikjet_Airlines_logo.svg
+regent-airways,REGENT AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+rossiya-airlines,ROSSIYA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+royal-brunei-airlines,ROYAL BRUNEI AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+royal-jordanian,ROYAL JORDANIAN,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+rwandair,RWANDAIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+safi-airways,SAFI AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+salam-air,SALAM AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+saudia,SAUDIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+scat-airlines,SCAT AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+scoot-pte-ltd,SCOOT PTE LTD.,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+scoot-tiger-air,SCOOT TIGER AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+shandong-airlines,SHANDONG AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+silk-air,SILK AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+singapore-airlines,SINGAPORE AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+somon-air-llc,SOMON AIR LLC,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+south-african-airlines,SOUTH AFRICAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+spicejet,SpiceJet,scheduled,SG,,,2005-05-24,,,,,Gurugram,haryana,,Same company that flew as ModiLuft until 1996; relaunched as low-cost SpiceJet after Ajay Singh's 2004 acquisition.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/SpiceJet; https://en.wikipedia.org/wiki/SpiceJet; https://en.wikipedia.org/wiki/File:SpiceJet_logo.svg
+srilankan-airways,SRILANKAN AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+star-air,Star Air,regional,S5,,,2019-01-25,,,,,Bengaluru,karnataka,,Ghodawat group airline flying Embraer ERJ 145 and E175 jets on regional and UDAN routes; first flight Bengaluru-Hubballi.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Star_Air_(India); https://en.wikipedia.org/wiki/Star_Air_(India); https://commons.wikimedia.org/wiki/File:Star_Air_Logo_A.png
+swiss-air,SWISS AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+tajik-air,TAJIK AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+tez-jet-llc,TEZ JET LLC,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-air-asia,THAI AIR ASIA,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-air-asia-x,THAI AIR ASIA X,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-airways,THAI AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-lion-air,THAI LION AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-smile-airways,THAI SMILE AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thai-vietjet-air,THAI VIETJET AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+thomas-cook-airlines,THOMAS COOK AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+tiger-airways,TIGER AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+transaero-airlines,TRANSAERO AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+trujet,TruJet,regional,2T,,,2015-07-12,2022-02-15,,,,Hyderabad,telangana,,Operated by Turbo Megha Airways from Hyderabad with ATR 72s; ceased over a financial crisis.,,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/TruJet; https://en.wikipedia.org/wiki/TruJet; https://en.wikipedia.org/wiki/File:TruJet_logo.png
+turkish-airlines,TURKISH AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+turkmenistan-airlines,TURKMENISTAN AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+uganda-airlines,UGANDA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+united-airlines,UNITED AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+united-airlines-bangladesh-ltd,UNITED AIRLINES BANGLADESH LTD.,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+united-parcel-services,UNITED PARCEL SERVICES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+us-bangla-airlines,US BANGLA AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+uzbekistan-airways,UZBEKISTAN AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+vietjet-air,VIETJET AIR,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+vietnam-airlines,VIETNAM AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+virgin-atlantic-airlines,VIRGIN ATLANTIC AIRLINES,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+vistara,Vistara,scheduled,UK,,,2015-01-09,2024-11-11,,air-india,2024-11-12,Gurugram,haryana,,Last Vistara-coded flights operated 11 November 2024; from 12 November its flights carry Air India AI 2xxx numbers.,,https://www.dgca.gov.in/digigov-portal/; https://www.airindia.com/in/en/vistara-air-india-merger.html; https://www.businesstoday.in/industry/aviation/story/goodbye-vistara-airline-to-fly-last-flights-today-fold-up-into-air-india-453237-2024-11-11; https://en.wikipedia.org/wiki/Vistara; https://en.wikipedia.org/wiki/Vistara; https://en.wikipedia.org/wiki/File:Vistara_Logo.svg
+yemenia-airways,YEMENIA AIRWAYS,foreign,,,,,,,,,,,,,,https://www.dgca.gov.in/digigov-portal/
+zoom-air,Zoom Air,regional,ZO,,,2017-02-15,2024-06-29,,,,Gurugram,haryana,,"Zexus Air Services, branded Zoom Air and later Zooom, flying CRJ200s. DGCA suspended its permit in July 2018; flights restarted 31 January 2024 (Delhi-Ayodhya) after an AOC renewal on 14 September 2023, then stopped again 29 June 2024.",,https://www.dgca.gov.in/digigov-portal/; https://en.wikipedia.org/wiki/Zoom_Air; https://en.wikipedia.org/wiki/Zooom_Air; https://commons.wikimedia.org/wiki/File:Zooom_Air_logo.png
