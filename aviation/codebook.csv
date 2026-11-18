@@ -198,6 +198,109 @@ data/dgca/routes-international-city-pairs.csv,passengers_to_city2,"number,null",
 data/dgca/routes-international-city-pairs.csv,passengers_from_city2,"number,null",Passengers flown from city2 to city1. Empty where the source printed no figure
 data/dgca/routes-international-city-pairs.csv,freight_to_city2_tonnes,"number,null","Freight carried to city2, tonnes. Empty where the source printed no figure"
 data/dgca/routes-international-city-pairs.csv,freight_from_city2_tonnes,"number,null","Freight carried from city2, tonnes. Empty where the source printed no figure"
+data/airports/operators.csv,airport,string,Airport code from airports.csv
+data/airports/operators.csv,operator,"string,null",Company or body running the terminal. Empty where there is none
+data/airports/operators.csv,group,"string,null","Owning group, State government, defence and so on. Empty where there is none"
+data/airports/operators.csv,model,string,"Arrangement: lease, concession, joint venture, State-owned and so on"
+data/airports/operators.csv,signed_on,string,"Date the concession, OMDA or MoU was signed, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/airports/operators.csv,started_on,string,"Date the operator took over or the airport opened, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/airports/operators.csv,term_years,"number,null",Concession term in years from the start. Empty where the source printed no figure
+data/airports/operators.csv,extension_years,"number,null","Option to extend, in years. Empty where the source printed no figure"
+data/airports/operators.csv,aai_stake_percent,"number,null",Airports Authority of India's share of the operating company. Empty where the source printed no figure
+data/airports/operators.csv,revenue_share,"string,null","What the operator pays AAI, as published. Empty where there is none"
+data/airports/operators.csv,per_passenger_fee_inr,"number,null","Fee per passenger the operator pays AAI, 2019 round. Empty where the source printed no figure"
+data/airports/operators.csv,civil_enclave,"boolean,null",True for a civil terminal at a defence airfield
+data/airports/operators.csv,airfield_owner,"string,null",Owner of the airfield where the terminal operator is a different body. Empty where there is none
+data/airports/operators.csv,status,string,"operating, or the stage reached"
+data/airports/operators.csv,note,"string,null","What rests on secondary sources, and other caveats. Empty where there is none"
+data/airports/operators.csv,sources,string,"Links to every source, separated by "" """
+data/airports/ppp-events.csv,round,string,Leasing or concession round
+data/airports/ppp-events.csv,round_title,string,Round
+data/airports/ppp-events.csv,status,string,"handed over, awarded, approved in principle, proposed or cancelled"
+data/airports/ppp-events.csv,airports,string,"Airport codes in the round, separated by ""; """
+data/airports/ppp-events.csv,date,string,"Date of the step, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/airports/ppp-events.csv,event,string,What happened
+data/airports/ppp-bids.csv,round,string,Round
+data/airports/ppp-bids.csv,airport,string,Airport code
+data/airports/ppp-bids.csv,bidder,string,Bidder as printed
+data/airports/ppp-bids.csv,per_passenger_fee_inr,number,"Fee per passenger offered to AAI, rupees"
+data/ministry/values.csv,table,string,Table key; see ministry-tables.csv
+data/ministry/values.csv,airport,string,Airport code from airports.csv. Empty where the airport is not in the registry; place then holds its name
+data/ministry/values.csv,place,"string,null",Printed airport name when it is not in the registry. Empty where there is none
+data/ministry/values.csv,published,"string,null",Name as printed. Empty where there is none
+data/ministry/values.csv,state,"string,null",State or UT as printed. Empty where there is none
+data/ministry/values.csv,measure,"string,null","Measure, such as profit-loss or udf-rate; empty for record tables. Empty where there is none"
+data/ministry/values.csv,period,"string,null","Financial year, year or date the figure covers. Empty where there is none"
+data/ministry/values.csv,travel,"string,null","domestic or international, for fee and capacity tables. Empty where there is none"
+data/ministry/values.csv,pax_type,"string,null","Embarking or disembarking passengers, for user fees. Empty where there is none"
+data/ministry/values.csv,bidder,"string,null","Bidder, for the 2019 bid tables. Empty where there is none"
+data/ministry/values.csv,value,"number,null",Figure. Empty where the source printed no figure
+data/ministry/values.csv,unit,"string,null",Unit as published or inferred; see the table's notes. Empty where there is none
+data/ministry/values.csv,operator,"string,null","Operator as printed, for record tables. Empty where there is none"
+data/ministry/values.csv,status,"string,null","Status as printed, for record tables. Empty where there is none"
+data/ministry/values.csv,functioning_on,string,"Date the airport began functioning under PPP, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/ministry/values.csv,revenue_share,"string,null",Revenue share or annuity as printed. Empty where there is none
+data/ministry/values.csv,is_total,"boolean,null",True for a printed total row
+data/ministry/values.csv,missing_reason,"string,null",Why the figure is empty. Empty where there is none
+data/ministry/tables.csv,table,string,Table key
+data/ministry/tables.csv,resource,string,data.gov.in resource id
+data/ministry/tables.csv,label,string,What the table holds
+data/ministry/tables.csv,updated,"string,null",Date data.gov.in last updated it. Empty where there is none
+data/ministry/tables.csv,source,string,Link
+data/parliament/values.csv,measure,string,Measure
+data/parliament/values.csv,period,string,"Year, financial year, month, date or span"
+data/parliament/values.csv,period_note,"string,null",Part-year and other period notes. Empty where there is none
+data/parliament/values.csv,airport,string,"Airport code, where the row is about an airport"
+data/parliament/values.csv,airline,"string,null","Airline id from airlines.csv, where the row is about an airline. Empty where there is none"
+data/parliament/values.csv,state,"string,null",State or UT slug. Empty where there is none
+data/parliament/values.csv,category,"string,null","Category, such as licence type or country. Empty where there is none"
+data/parliament/values.csv,segment,"string,null",Sub-group as printed. Empty where there is none
+data/parliament/values.csv,entity_note,"string,null",Note on a name not in the registries. Empty where there is none
+data/parliament/values.csv,value,"number,null",Figure. Empty where the source printed no figure
+data/parliament/values.csv,unit,string,Unit
+data/parliament/values.csv,source_key,string,Source; see parliament-sources.csv
+data/parliament/values.csv,superseded_by,"string,null",A newer source that covers the same period. Empty where there is none
+data/parliament/sources.csv,source_key,string,Source key
+data/parliament/sources.csv,label,string,Answer or table
+data/parliament/sources.csv,href,"string,null",Link. Empty where there is none
+data/aaib/reports.csv,event_date,string,"Date of the occurrence, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/aaib/reports.csv,category,"string,null","accident, serious-incident, incident or airprox. Empty where there is none"
+data/aaib/reports.csv,stage,"string,null","final, preliminary or interim. Empty where there is none"
+data/aaib/reports.csv,operator,"string,null",Operator as printed. Empty where there is none
+data/aaib/reports.csv,aircraft_type,"string,null",Aircraft type as printed. Empty where there is none
+data/aaib/reports.csv,registration,"string,null",Registration. Empty where there is none
+data/aaib/reports.csv,other_registrations,"string,null","Other aircraft in an airprox, separated by ""; "". Empty where there is none"
+data/aaib/reports.csv,place,"string,null",Place as printed. Empty where there is none
+data/aaib/reports.csv,title,string,Report title
+data/aaib/reports.csv,href,string,Link to the report
+data/dgca/fleet-aircraft.csv,list,string,DGCA list the aircraft is on
+data/dgca/fleet-aircraft.csv,operator,string,"Operator id: an airline id from airlines.csv for scheduled operators, a slug of the printed name otherwise"
+data/dgca/fleet-aircraft.csv,operator_name,string,Operator as printed
+data/dgca/fleet-aircraft.csv,aircraft_type,"string,null","fixed-wing, rotary-wing or hot-air-balloon, for non-scheduled operators. Empty where there is none"
+data/dgca/fleet-aircraft.csv,model,string,Aircraft model as printed
+data/dgca/fleet-aircraft.csv,seating,"string,null",Seating as printed. Empty where there is none
+data/dgca/fleet-aircraft.csv,seats,"number,null","Seats, where the printed seating is a number. Empty where the source printed no figure"
+data/dgca/fleet-aircraft.csv,registration,string,Registration
+data/dgca/fleet-operators.csv,list,string,DGCA list
+data/dgca/fleet-operators.csv,operator,string,Operator id
+data/dgca/fleet-operators.csv,name,string,Operator as printed
+data/dgca/fleet-operators.csv,permit,"string,null",AOC or AOP number. Empty where there is none
+data/dgca/fleet-operators.csv,valid_upto,string,"Permit valid until, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/dgca/fleet-operators.csv,aircraft_printed,"number,null",Aircraft count DGCA prints for the operator. Empty where the source printed no figure
+data/dgca/flight-schools.csv,school,string,School id
+data/dgca/flight-schools.csv,name,string,School
+data/dgca/flight-schools.csv,ownership,"string,null",Ownership as printed. Empty where there is none
+data/dgca/flight-schools.csv,bases,string,"Bases as printed, separated by ""; """
+data/dgca/flight-schools.csv,base_airports,string,"Airport codes of the bases that are in airports.csv, separated by ""; """
+data/dgca/flight-schools.csv,states,string,"State slugs, separated by ""; """
+data/dgca/flight-schools.csv,aircraft,number,Aircraft
+data/dgca/flight-schools.csv,single_engine,number,Single-engine aircraft
+data/dgca/flight-schools.csv,multi_engine,number,Multi-engine aircraft
+data/dgca/flight-schools.csv,light_sport,number,Light-sport aircraft
+data/dgca/flight-schools.csv,valid_to,string,"Approval valid until, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/dgca/flight-schools.csv,rank,"number,null",Rank in DGCA's ranking. Empty where the source printed no figure
+data/dgca/flight-schools.csv,grade,"string,null","DGCA grade, A best. Empty where there is none"
+data/dgca/flight-schools.csv,excluded_reason,"string,null",Why DGCA did not rank the school. Empty where there is none
 data/gaps.csv,dataset,string,"Source dataset: aai-traffic, aai-traffic-categories, aai-traffic-regions, aai-traffic-states, dgca-traffic-report, dgca-operating-stats or dgca-routes"
 data/gaps.csv,from,string,First month (or issue) missing
 data/gaps.csv,to,string,Last month (or issue) missing

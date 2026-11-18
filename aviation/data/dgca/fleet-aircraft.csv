@@ -1,0 +1,1303 @@
+list,operator,operator_name,aircraft_type,model,seating,seats,registration
+non-scheduled,reliance-transport-and-travels-pvt-ltd,Reliance Transport & Travels Pvt. Ltd.,fixed-wing,FALCON2000,10,10,VT-AAT
+non-scheduled,target-air-services-pvt-ltd,Target Air Services Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR B-300 (350),9,9,VT-ACD
+non-scheduled,aurea-aviation-private-limited,Aurea Aviation Private Limited,fixed-wing,PC-12/45,6,6,VT-ACG
+non-scheduled,afcom-holdings-ltd,Afcom Holdings Ltd.,fixed-wing,B737-800 Freighter,Cargo,,VT-AFJ
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,PC-24,6,6,VT-AFL
+non-scheduled,afcom-holdings-ltd,Afcom Holdings Ltd.,fixed-wing,B737-800 Freighter,Cargo,,VT-AFN
+non-scheduled,afcom-holdings-ltd,Afcom Holdings Ltd.,fixed-wing,B737-800 Freighter,Cargo,,VT-AFO
+non-scheduled,pioneer-flying-academy-pvt-ltd,Pioneer Flying Academy Pvt. Ltd.,fixed-wing,CESSNA 172S,3/Aerial Work,,VT-AGH
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,Bombardier BD-700-1A10,13,13,VT-AGL
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",fixed-wing,Hawker 850XP,8,8,VT-AGP
+non-scheduled,navdurga-aviation-pvt-ltd,Navdurga Aviation Pvt. Ltd.,fixed-wing,CESSNA CARAVAN 208B,8,8,VT-AHB
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,GLOBAL 6000 BD-700- 1A10,14,14,VT-AHI
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,EMB-135BJ,13,13,VT-AHM
+non-scheduled,freedom-charter-services-pvt-ltd,Freedom Charter Services Pvt. Ltd.,fixed-wing,HAWKER BEECHCRAFT 900XP,9,9,VT-AJM
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,rotary-wing,H160-B,6,6,VT-AKI
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,FALCON 900EX,14,14,VT-AKU
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,B737-9,19,19,VT-AKV
+non-scheduled,freedom-charter-services-pvt-ltd,Freedom Charter Services Pvt. Ltd.,fixed-wing,EMB-135BJ (LEGACY 650),13,13,VT-AMG
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,EMB-135BJ LEGACY 650,13,13,VT-AML
+non-scheduled,lcl-aviation-pvt-ltd-ecojet,LCL Aviation Pvt. Ltd. (ECOJET),fixed-wing,Beechcraft Premier 1A,6,6,VT-ANF
+non-scheduled,gsec-aviation-limited,GSEC Aviation Limited,fixed-wing,Bombardier Challenger 605,10,10,VT-APL
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,PC-24,6,6,VT-APV
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,PC-24,6,6,VT-AQL
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,rotary-wing,BELL 407,6,6,VT-ARB
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,FALCON 2000,9,9,VT-ARC
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,FALCON 2000,8,8,VT-ARF
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,EMB-135BJ,13,13,VT-ARL
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,FALCON 2000,8,8,VT-ARM
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,FALCON 2000,12,12,VT-ARO
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",rotary-wing,AS350B3,6/Aerial Work,,VT-ASC
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",rotary-wing,AS350B3,6/Aerial Work,,VT-ASD
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL 412 EP,13,13,VT-ASL
+non-scheduled,simm-samm-airways-pvt-ltd,Simm Samm Airways Pvt. Ltd.,rotary-wing,SIKORSKY S-76C++,12,12,VT-ASO
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,Global 7500 BD700-2A-12,14,14,VT-ASR
+non-scheduled,kairamya-aviation-pvt-ltd,Kairamya Aviation Pvt. Ltd.,fixed-wing,G-150,8,8,VT-AST
+non-scheduled,iic-technologies-limited,IIC Technologies Limited,fixed-wing,CESSNA CARAVAN 208B,9,9,VT-ASU
+non-scheduled,kyathi-climate-modification-consultants-llp,Kyathi Climate Modification Consultants LLP,rotary-wing,Agusta A109E,5,5,VT-AUS
+non-scheduled,skyjets-international-pvt-ltd,SkyJets International Pvt. Ltd.,fixed-wing,BOMBARDIER CL-600-2B16 (604 VARIANT),9,9,VT-AUV
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,fixed-wing,STEMME S6RT,2,2,VT-AVL
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,fixed-wing,STEMME S6RT,2,2,VT-AVM
+non-scheduled,kelachandra-logistics-pvt-ltd,Kelachandra Logistics Pvt. Ltd.,fixed-wing,EMBRAER EMB-500 (Phenom100),4,4,VT-AVS
+non-scheduled,bajaj-aviation-pvt-ltd,Bajaj Aviation Pvt. Ltd.,fixed-wing,FALCON 2000LX,10,10,VT-AYV
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-AZS
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,BEECHCRAFT KING AIR B200,8,8,VT-BAF
+non-scheduled,forum-i-aviation-pvt-ltd,Forum I Aviation Pvt. Ltd.,fixed-wing,CHALLENGER 650 CL-600-2B16,10,10,VT-BBD
+non-scheduled,avocet-aviation-pvt-ltd,Avocet Aviation Pvt. Ltd.,fixed-wing,Beechcraft Premier1A-390,6,6,VT-BBN
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,rotary-wing,A109S,7,7,VT-BGM
+non-scheduled,hyderabad-airlines-pvt-ltd,Hyderabad Airlines Pvt. Ltd.,rotary-wing,EC 135P3H,6,6,VT-BHH
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,T210 ULTRAMAGIC (HOT AIR BALLOON),9,9,VT-BIG
+non-scheduled,kairamya-aviation-pvt-ltd,Kairamya Aviation Pvt. Ltd.,fixed-wing,CITATION 525A,7,7,VT-BIP
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,rotary-wing,BELL 407,6,6,VT-BKA
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,rotary-wing,AS 350 B3,6,6,VT-BKJ
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,CESSNA T206H,Aerial Work,,VT-BMS
+non-scheduled,avocet-aviation-pvt-ltd,Avocet Aviation Pvt. Ltd.,fixed-wing,Beechcraft Premier1A-390,6,6,VT-BNB
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,rotary-wing,H160-B,6,6,VT-BOB
+non-scheduled,aone-helicopters-private-limited,Aone Helicopters Private Limited,rotary-wing,Robinson R44 RAVEN II,3,3,VT-BOS
+non-scheduled,gmr-aviation-pvt-ltd,GMR Aviation Pvt. Ltd.,fixed-wing,FALCON 2000EX,9,9,VT-BRK
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,rotary-wing,AS 350 B3 ECUREUIL,6/Aerial Work,,VT-BSG
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,CESSNA CITATION 560XL,8,8,VT-BSL
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,rotary-wing,A109S,6,6,VT-BST
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,FALCON2000LX,10,10,VT-BVV
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,fixed-wing,Bombardier Global 6500,13,13,VT-CCA
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,fixed-wing,Bombardier Global 6500,13,13,VT-CDC
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,fixed-wing,Bombardier Global 6000,13,13,VT-CDP
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,CESSNA CITATION 560 XL,8,8,VT-CLA
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,CESSNA CITATION II,7,7,VT-CLB
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,fixed-wing,FALCON 2000,10,10,VT-CLF
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,rotary-wing,AGUSTA A119 KOALA,7,7,VT-CLN
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,EMB 135BJ (Legacy600),13,13,VT-CMR
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,rotary-wing,H160-B,8,8,VT-CND
+non-scheduled,aman-aviation-and-aerospace-solutions-pvt-ltd,Aman Aviation & Aerospace Solutions Pvt. Ltd.,rotary-wing,ROBINSON R44,3,3,VT-CNJ
+non-scheduled,airports-authority-of-india,Airports Authority of India,fixed-wing,Super King Air B300,7/Aerial Work,,VT-CNS
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-45,9,9,VT-CRA
+non-scheduled,miraj-aviation-pvt-ltd,Miraj Aviation Pvt. Ltd.,rotary-wing,A109S,5,5,VT-CSA
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,Bell 429,6,6,VT-CSL
+non-scheduled,navdurga-aviation-pvt-ltd,Navdurga Aviation Pvt. Ltd.,fixed-wing,CESSNA CITATION 560XL,8,8,VT-CSP
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,fixed-wing,CHALLENGER 605 CL-600-2B16,9,9,VT-CVA
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,fixed-wing,CHALLENGER 605 CL-600-2B16,9,9,VT-CVB
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,fixed-wing,CL-600-2B16 CL 604 VARIANT (CL605),9,9,VT-CVC
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,fixed-wing,CL-600-2B16 CL 604 VARIANT (CL605),12,12,VT-CVD
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,fixed-wing,CL-600-2B16 CL 604 VARIANT (CL605),12,12,VT-CVE
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,CESSNA CITATION 560XL EXCEL,7,7,VT-CVV
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,ECUREUIL AS-355 F1,5,5,VT-DAX
+non-scheduled,suhan-aviation-pvt-ltd,Suhan Aviation Pvt. Ltd.,rotary-wing,S-76C++,6,6,VT-DBH
+non-scheduled,falcon-aviation-services-pvt-ltd,Falcon Aviation Services Pvt. Ltd.,rotary-wing,AW169,6,6,VT-DBJ
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,AS 350 B3,6,6,VT-DCB
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,EC-130 B4,6,6,VT-DCV
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-DEJ
+non-scheduled,ventura-airconnect-ltd,Ventura Airconnect Ltd.,fixed-wing,CESSNA CARAVAN 208B,9,9,VT-DEV
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,GLOBAL EXPRESS BD-700,16,16,VT-DHA
+non-scheduled,eha-aviation-pvt-ltd,EHA Aviation Pvt. Ltd.,fixed-wing,BD-700- 1A11(GLOBAL 5500),13,13,VT-DIA
+non-scheduled,rajhans-infracon-india-private-limited,RAJHANS INFRACON (INDIA) PRIVATE LIMITED,fixed-wing,Beech SKA B200GT,7,7,VT-DJB
+non-scheduled,bluecraft-aviation-pvt-ltd,Bluecraft Aviation Pvt Ltd,fixed-wing,CESSNA CITATION CJ2,7,7,VT-DOV
+non-scheduled,davangere-sugar-company-ltd,Davangere Sugar Company Ltd.,rotary-wing,AS 350 B3,6,6,VT-DVG
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,CESSNA CITATION 560XL EXCEL,9,9,VT-DVV
+non-scheduled,emsos-aviation-private-limited,EMSOS Aviation Private Limited,fixed-wing,Citation 525A CJ2+,7,7,VT-ECG
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,SKA B200,8,8,VT-EHB
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-EJZ
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SA 365N,11,11,VT-ELD
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,13,13,VT-ELE
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SA 365N,11,11,VT-ELG
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,13,13,VT-ELI
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,13,13,VT-ELL
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,13,13,VT-ELN
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SA 365N,11,11,VT-ELS
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,13,13,VT-ELT
+non-scheduled,saarthi-airways-pvt-ltd,Saarthi Airways Pvt. Ltd.,fixed-wing,Twin Otter DHC-6-300,4/Aerial Work,,VT-ELX
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-EMJ
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,11,11,VT-ENW
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN 2,8,8,VT-ENZ
+non-scheduled,airports-authority-of-india,Airports Authority of India,fixed-wing,Dornier DO-228-201,7,7,VT-EPU
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,King Air C90A,5,5,VT-EQN
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,SUPER KINGAIR B200,7,7,VT-FAE
+non-scheduled,forum-i-aviation-pvt-ltd,Forum I Aviation Pvt. Ltd.,fixed-wing,HAWKER 800XP,8,8,VT-FAF
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,T210 ULTRAMAGIC (HOT AIR BALLOON),9,9,VT-FAR
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,fixed-wing,TECNAM P2010TDI,3,3,VT-FCA
+non-scheduled,airports-authority-of-india,Airports Authority of India,fixed-wing,Super King Air B300,Aerial Work,,VT-FIS
+non-scheduled,airports-authority-of-india,Airports Authority of India,fixed-wing,Super King Air B300,4,4,VT-FIU
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,ULTRAMAGIC N-425 (HOT AIR BALLOON),24,24,VT-FLO
+non-scheduled,empire-aircraft-management-services-pvt-ltd,Empire Aircraft Management Services Pvt. Ltd.,fixed-wing,Falcon2000LX,8,8,VT-FLX
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,rotary-wing,AGUSTA A109E,8,8,VT-FOR
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,CAMERON A-120 (HOT AIR BALLOON),4,4,VT-FUN
+non-scheduled,golden-crane-aviation-pvt-ltd,Golden Crane Aviation Pvt. Ltd.,rotary-wing,SIKORSKY S-76D,6,6,VT-GDC
+non-scheduled,bativala-m-bhagvati-flying-charters-llp,Bativala M Bhagvati Flying Charters LLP,fixed-wing,CESSNA172S,3,3,VT-GEM
+non-scheduled,raymond-ltd,Raymond Ltd.,rotary-wing,AGUSTA A109S,6,6,VT-GHS
+non-scheduled,fairwinds-aviation-pvt-ltd,Fairwinds Aviation Pvt. Ltd.,fixed-wing,CESSNA T206H,Aerial Work,,VT-GIC
+non-scheduled,carewell-aviation-india-pvt-ltd,Carewell Aviation India Pvt. Ltd.,rotary-wing,AW109SP,7,7,VT-GIM
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,rotary-wing,AW169,7,7,VT-GKA
+non-scheduled,hn-safal-aviation-pvt-ltd,HN Safal Aviation Pvt. Ltd.,fixed-wing,Gulfstream G-150,7,7,VT-GKB
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,CAMERON A-210 (HOT AIR BALLOON),9,9,VT-GOA
+non-scheduled,flysbs-aviation-limited,FLYSBS AVIATION LIMITED,fixed-wing,EMB-135BJ (LEGACY 650),13,13,VT-GPS
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6/Aerial Work,,VT-GRA
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL 407GXP,6,6,VT-GRB
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,AS350B3,6,6,VT-GRC
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL412EP,13,13,VT-GRD
+non-scheduled,ghodawat-enterprises-pvt-ltd,Ghodawat Enterprises Pvt. Ltd.,rotary-wing,EC-135,5,5,VT-GSD
+non-scheduled,ghodawat-enterprises-pvt-ltd,Ghodawat Enterprises Pvt. Ltd.,rotary-wing,EC-135T3H,5,5,VT-GSR
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVA
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AS 350 B3,6/Aerial Work,,VT-GVF
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVK
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVM
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW 139,15,15,VT-GVP
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVT
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVW
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVX
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL 412 EP,13,13,VT-GVY
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-GVZ
+non-scheduled,fairwinds-aviation-pvt-ltd,Fairwinds Aviation Pvt. Ltd.,fixed-wing,CESSNA T206H,Aerial Work,,VT-GYN
+non-scheduled,himanad-management-services-private-limited,Himanad Management Services Private Limited,rotary-wing,AW169,7,7,VT-HAB
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,ALH (DHRUV),9,9,VT-HAU
+non-scheduled,syandan-aviation-pvt-ltd,Syandan Aviation Pvt. Ltd.,rotary-wing,A109E,7,7,VT-HAX
+non-scheduled,target-air-services-pvt-ltd,Target Air Services Pvt. Ltd.,fixed-wing,HAWKER 400A XP,8,8,VT-HBX
+non-scheduled,trans-bharat-aviation-pvt-ltd,Trans Bharat Aviation Pvt. Ltd.,rotary-wing,AS350B3,6,6,VT-HCX
+non-scheduled,united-helicharters-pvt-ltd,United Helicharters Pvt. Ltd.,rotary-wing,EC-130T2,7,7,VT-HEX
+non-scheduled,modifi-aviations-pvt-ltd,Modifi Aviations Pvt. Ltd.,fixed-wing,FALCON 2000,10,10,VT-HGL
+non-scheduled,syandan-aviation-pvt-ltd,Syandan Aviation Pvt. Ltd.,rotary-wing,A109S,7,7,VT-HGX
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,rotary-wing,AS 350 B3,5,5,VT-HHB
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,rotary-wing,AS 350 B3E,6,6,VT-HHC
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,rotary-wing,AS 350 B3E,6,6,VT-HHD
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,rotary-wing,EC130T2,7,7,VT-HIX
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-HJX
+non-scheduled,kelachandra-logistics-pvt-ltd,Kelachandra Logistics Pvt. Ltd.,rotary-wing,BELL429,5,5,VT-HKB
+non-scheduled,dhillon-aviation-pvt-ltd,"Dhillon Aviation Pvt. Ltd.,",rotary-wing,BELL412,13,13,VT-HKL
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-HKX
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AW139,15,15,VT-HLD
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AW139,15,15,VT-HLH
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AS 365 N3,11,11,VT-HLI
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AS 365 N3,11,11,VT-HLJ
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,8,8,VT-HLP
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,9,9,VT-HLQ
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AW139,15,15,VT-HLR
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,BELL 412EP,11,11,VT-HLS
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,BELL 412EP,11,11,VT-HLT
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AW139,15,15,VT-HLU
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,BELL 412 EPI,13,13,VT-HLV
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,8,8,VT-HLW
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,8,8,VT-HLX
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,8,8,VT-HLY
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,H145,8,8,VT-HLZ
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,GLOBAL EXPRESS BD-700,14,14,VT-HMA
+non-scheduled,hn-safal-aviation-pvt-ltd,HN Safal Aviation Pvt. Ltd.,fixed-wing,Gulfstream G-150,8,8,VT-HNA
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,rotary-wing,AW139,15,15,VT-HNB
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,rotary-wing,ROBINSON-44 RAVEN II,3,3,VT-HNC
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,rotary-wing,EC130T2,7,7,VT-HOX
+non-scheduled,iic-technologies-limited,IIC Technologies Limited,fixed-wing,CESSNA 206H,Aerial Work,,VT-HSR
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,BD-700-1A10(G6000),13,13,VT-HUH
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,FALCON 7X (M 1000),14,14,VT-HVV
+non-scheduled,skb-infracons-pvt-ltd,SKB Infracons Pvt. Ltd.,fixed-wing,KING AIR C 90A,6,6,VT-HYA
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,A319-115 CJ,19,19,VT-IAH
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,EC135P2+,6,6,VT-IBA
+non-scheduled,iic-technologies-limited,IIC Technologies Limited,fixed-wing,CESSNA CARAVAN 208B,9,9,VT-IIC
+non-scheduled,bativala-m-bhagvati-flying-charters-llp,Bativala M Bhagvati Flying Charters LLP,fixed-wing,CESSNA R172K,3,3,VT-IJS
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,rotary-wing,AGUSTA A109S,6,6,VT-IKR
+non-scheduled,ventura-airconnect-ltd,Ventura Airconnect Ltd.,fixed-wing,PC-12/45,8,8,VT-IOO
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,Cessna Citation III (650),8,8,VT-IPA
+non-scheduled,dhillon-aviation-pvt-ltd,"Dhillon Aviation Pvt. Ltd.,",rotary-wing,BELL206 L4,6/Aerial Work,,VT-IQB
+non-scheduled,ghodawat-enterprises-pvt-ltd,Ghodawat Enterprises Pvt. Ltd.,rotary-wing,EC-130 T2,6,6,VT-ISG
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,fixed-wing,TECNAM P2010TDI,3,3,VT-IXC
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,ULTRAMAGIC T-210 (HOT AIR BALLOON),10,10,VT-JHK
+non-scheduled,fern-aviation-india-pvt-ltd,Fern Aviation India Pvt. Ltd.,fixed-wing,HAWKER 850XP,9,9,VT-JHP
+non-scheduled,trans-bharat-aviation-pvt-ltd,Trans Bharat Aviation Pvt. Ltd.,rotary-wing,BELL 407,6,6,VT-JIB
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-JIL
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,rotary-wing,AS 365 N3,5,5,VT-JIO
+non-scheduled,himalyaputra-aviation-ltd,Himalyaputra Aviation Ltd.,rotary-wing,AGUSTA 109E,6,6,VT-JIT
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,rotary-wing,MI-172,26,26,VT-JJA
+non-scheduled,joyalukkas-india-limited,Joyalukkas India Limited,rotary-wing,AW109SP,7,7,VT-JJL
+non-scheduled,himalyaputra-aviation-ltd,Himalyaputra Aviation Ltd.,fixed-wing,BEECH CRAFT KING AIR B200GT,7,7,VT-JMG
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,EMBRAER 135ER,37,37,VT-JMN
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,EMBRAER ERJ 170-200 LR,60,60,VT-JMR
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-JMV
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-JMW
+non-scheduled,lakeworkoffice-club-pvt-ltd,Lakeworkoffice Club Pvt. Ltd.,rotary-wing,A109E,6,6,VT-JPA
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",rotary-wing,BELL 407,6/Aerial Work,,VT-JPH
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-JPK
+non-scheduled,target-air-services-pvt-ltd,Target Air Services Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR B-200GT,7,7,VT-JPV
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,HAWKER900XP,9,9,VT-JRG
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,rotary-wing,AW-139 AGUSTA,12,12,VT-JSA
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,fixed-wing,PILATUS PC-12/47E,8,8,VT-JSC
+non-scheduled,sapphire-airlines-pvt-ltd,Sapphire Airlines Pvt. Ltd.,rotary-wing,Leonardo AW169,6,6,VT-JSD
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,rotary-wing,GRAND AGUSTA 109S,6,6,VT-JSF
+non-scheduled,span-air-pvt-ltd,Span Air pvt. Ltd.,rotary-wing,BELL - 429,6,6,VT-JSH
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,fixed-wing,EMBRAER EMB-135LR,37,37,VT-JSI
+non-scheduled,sapphire-airlines-pvt-ltd,Sapphire Airlines Pvt. Ltd.,fixed-wing,BD-700-2A12 (G7500),15,15,VT-JSJ
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,fixed-wing,PILATUS PC-12/47E,8,8,VT-JSQ
+non-scheduled,sapphire-airlines-pvt-ltd,Sapphire Airlines Pvt. Ltd.,fixed-wing,BD-100-1A10 (Challenger3500),10,10,VT-JST
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,fixed-wing,BD-100-1A10,9,9,VT-JSX
+non-scheduled,malhotra-helikopters-pvt-ltd,Malhotra Helikopters Pvt. Ltd.,rotary-wing,BELL 206 L4,5,5,VT-JVS
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,CESSNA CITATION 560XL EXCEL,9,9,VT-JVV
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,rotary-wing,AS350B2,3,3,VT-KBS
+non-scheduled,kyathi-climate-modification-consultants-llp,Kyathi Climate Modification Consultants LLP,fixed-wing,Superking Air B200,7/Aerial Work,,VT-KCM
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,PC-24,6,6,VT-KGA
+non-scheduled,kingscraft-aviation-private-limited,Kingscraft Aviation Private Limited,fixed-wing,HAWKER 900XP,7,7,VT-KGV
+non-scheduled,kainos-aviation-private-limited,Kainos Aviation Private Limited,rotary-wing,SIKORSKY S-76C++,8,8,VT-KHA
+non-scheduled,tai-jets-private-limited,TAI Jets Private Limited,fixed-wing,EMB-500 (PHENOM 100E),7,7,VT-KJK
+non-scheduled,tai-jets-private-limited,TAI Jets Private Limited,fixed-wing,EMB-135BJ (LEGACY 650),13,13,VT-KJR
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,fixed-wing,King Air C90GTI,6,6,VT-KJS
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL 412 EP,13,13,VT-KNG
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,Sikorsky S-76C,6,6,VT-KNH
+non-scheduled,carewell-aviation-india-pvt-ltd,Carewell Aviation India Pvt. Ltd.,fixed-wing,Embraer EMB-135 (Legacy 600),13,13,VT-KOL
+non-scheduled,dadachanji-aviation-pvt-ltd,Dadachanji Aviation Pvt. Ltd.,rotary-wing,EC130T2,6,6,VT-KPR
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL 407,6/Aerial Work,,VT-KSA
+non-scheduled,skyblue-aviation-services-pvt-ltd,Skyblue Aviation Services Pvt. Ltd.,fixed-wing,Falcon900EX,14,14,VT-KSE
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,fixed-wing,TECNAM P2010TDI,3,3,VT-KTC
+non-scheduled,niraant-aviation-pvt-ltd,Niraant Aviation Pvt. Ltd.,rotary-wing,BELL 429,6,6,VT-KTK
+non-scheduled,transworld-jets-pvt-ltd,Transworld Jets Pvt Ltd,fixed-wing,Hawker-4000,9,9,VT-KVR
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,rotary-wing,A109S,6,6,VT-KVV
+non-scheduled,khazana-jewellery-pvt-ltd,Khazana Jewellery Pvt. Ltd.,fixed-wing,GULFSTREAM G150,8,8,VT-KZN
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,Hawker 800XP,8,8,VT-LIB
+non-scheduled,saarthi-airways-pvt-ltd,Saarthi Airways Pvt. Ltd.,rotary-wing,AGUSTA A109S,6,6,VT-LJH
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR B-200,7,7,VT-LKK
+non-scheduled,sreeji-aviation-pvt-ltd,Sreeji Aviation Pvt. Ltd.,fixed-wing,Beech Superking Air B200,7,7,VT-LMW
+non-scheduled,l-and-t-aviation-services-pvt-ltd,L & T Aviation Services Pvt. Ltd.,fixed-wing,HAWKER HS 125 900XP,9,9,VT-LTC
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,rotary-wing,MI-172,26,26,VT-MAE
+non-scheduled,maharaja-aviation-pvt-ltd,Maharaja Aviation Pvt. Ltd.,rotary-wing,ROBINSON R66,4,4,VT-MAL
+non-scheduled,mab-aviation-pvt-ltd,MAB Aviation Pvt. Ltd.,fixed-wing,Learjet 60XR,8,8,VT-MAM
+non-scheduled,mandke-and-mandke-infrastructure-pvt-ltd,Mandke and Mandke Infrastructure Pvt. Ltd.,rotary-wing,ROBINSON R66,4,4,VT-MAN
+non-scheduled,mahindra-airways-ltd,Mahindra Airways Ltd.,fixed-wing,Bombardier BD-100-1A10,9,9,VT-MAY
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,PILATUS PC-12,8,8,VT-MEG
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,fixed-wing,Beechcraft Premier 1A-390,6,6,VT-MEL
+non-scheduled,innxt-aviation-pvt-ltd,Innxt Aviation Pvt. Ltd.,rotary-wing,EC135P2+,5,5,VT-MHM
+non-scheduled,rpsg-resources-pvt-ltd,RPSG Resources Pvt Ltd.,fixed-wing,BD-700-2A12(G7500),16,16,VT-MIR
+non-scheduled,media-house-dnd-private-limited,Media House DND Private Limited,rotary-wing,EC-130T2,6,6,VT-MNK
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,Cessna Citation CJ2 525A,7,7,VT-MON
+non-scheduled,sreeji-aviation-pvt-ltd,Sreeji Aviation Pvt. Ltd.,fixed-wing,Beech Superking Air B200,7,7,VT-MPT
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,Hawker 800XP,9,9,VT-MUM
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,rotary-wing,A109S,6,6,VT-MVV
+non-scheduled,skyjets-international-pvt-ltd,SkyJets International Pvt. Ltd.,fixed-wing,CESSNA CITATION CJ1+525,5,5,VT-NAB
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,fixed-wing,Bombardier Global 6500,13,13,VT-NAD
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL407GX,6,6,VT-NAL
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,rotary-wing,H145,7,7,VT-NAP
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,BELL412EP,7,7,VT-NAV
+non-scheduled,dunes-aviation-private-limited,Dunes Aviation Private Limited,fixed-wing,CITATION 525A CJ2+,7,7,VT-NDA
+non-scheduled,maharaja-aviation-pvt-ltd,Maharaja Aviation Pvt. Ltd.,rotary-wing,ROBINSON R66,4,4,VT-NDN
+non-scheduled,sparzana-aviation-pvt-ltd,Sparzana Aviation Pvt. Ltd.,fixed-wing,Hawker 800XP,9,9,VT-NIS
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,rotary-wing,SIKORSKY S-76 C++,8,8,VT-NIT
+non-scheduled,kan-aerofoil-private-limited,KAN Aerofoil Private Limited,rotary-wing,BELL-407GX,6,6,VT-NJP
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,fixed-wing,King Air C90B,6,6,VT-NKF
+non-scheduled,eha-aviation-pvt-ltd,EHA Aviation Pvt. Ltd.,fixed-wing,EMB135BJ (LEGACY 650),13,13,VT-NKS
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,rotary-wing,SIKORSKY S-76 C++,5,5,VT-NMA
+non-scheduled,krystal-aviation-services-pvt-ltd,Krystal Aviation Services Pvt. Ltd.,fixed-wing,BEECHCRAFT PREMIER 1A-390,6,6,VT-NPL
+non-scheduled,aman-aviation-and-aerospace-solutions-pvt-ltd,Aman Aviation & Aerospace Solutions Pvt. Ltd.,rotary-wing,AS365N3,6,6,VT-NRJ
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,EMB 135 (Legacy600),13,13,VT-NSG
+non-scheduled,pilgrimage-aviation-private-limited,PILGRIMAGE AVIATION PRIVATE LIMITED,rotary-wing,AS350B3E,6,6,VT-NSS
+non-scheduled,eih-ltd,EIH Ltd.,fixed-wing,HAWKER 850XP,9,9,VT-OBR
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,rotary-wing,ROBINSON-44 RAVEN II,3,3,VT-OJS
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,ULTRAMAGIC N-355 (HOT AIR BALLOON),16,16,VT-OMG
+non-scheduled,reliance-transport-and-travels-pvt-ltd,Reliance Transport & Travels Pvt. Ltd.,fixed-wing,EMB - 135BJ,13,13,VT-OMM
+non-scheduled,lakeworkoffice-club-pvt-ltd,Lakeworkoffice Club Pvt. Ltd.,rotary-wing,A109E,7,7,VT-OSC
+non-scheduled,oss-air-management-pvt-ltd,OSS Air Management Pvt. Ltd.,rotary-wing,AGUSTA A109SP,7,7,VT-OSH
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,rotary-wing,A109E,6,6,VT-OSN
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,rotary-wing,A109E,6,6,VT-OSR
+non-scheduled,aerokalinga-aviation-pvt-ltd,Aerokalinga Aviation Pvt. Ltd.,fixed-wing,EMB-135 (LEGACY 600),13,13,VT-OXL
+non-scheduled,b-g-shirke-construction-technology-pvt-ltd,B.G. Shirke Construction Technology Pvt. Ltd.,rotary-wing,Bell427,6,6,VT-PBS
+non-scheduled,golden-baritone-private-limited,Golden Baritone Private Limited,fixed-wing,G-200,10,10,VT-PCR
+non-scheduled,lmcs-infra-holdings-pvt-ltd,LMCS Infra Holdings Pvt. Ltd.,rotary-wing,EC 135 P2+,5,5,VT-PEC
+non-scheduled,pioneer-flying-academy-pvt-ltd,Pioneer Flying Academy Pvt. Ltd.,fixed-wing,CESSNA 172S,3/Aerial Work,,VT-PFA
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,fixed-wing,PC-24,6,6,VT-PGA
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,BELL 206 L4,7,7,VT-PHA
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,BELL 206 L4,7,7,VT-PHE
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,MI-172,26,26,VT-PHG
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,BELL 407,7,7,VT-PHI
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,13,13,VT-PHJ
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,13,13,VT-PHL
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,13,13,VT-PHM
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,BELL 407,7,7,VT-PHN
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,BELL 407,7,7,VT-PHQ
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,11,11,VT-PHR
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,11,11,VT-PHS
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,ECUREUIL AS 350 B3,5,5,VT-PHU
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,ECUREUIL AS 350 B3,5,5,VT-PHV
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PHW
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PHX
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PHY
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PHZ
+non-scheduled,vijayanand-travels-private-limited,Vijayanand Travels Private Limited,fixed-wing,FALCON 2000EX,10,10,VT-PLC
+non-scheduled,vijayanand-travels-private-limited,Vijayanand Travels Private Limited,fixed-wing,G-150,9,9,VT-PLV
+non-scheduled,saffron-strokes-private-limited,Saffron Strokes Private Limited,fixed-wing,BEECHCRAFT PREMIER 1A-390,6,6,VT-PMO
+non-scheduled,kan-aerofoil-private-limited,KAN Aerofoil Private Limited,rotary-wing,BELL-407GX,6,6,VT-PNJ
+non-scheduled,pradhaan-air-express-pvt-ltd,Pradhaan Air Express Pvt. Ltd.,fixed-wing,A320-232,Cargo,,VT-PNS
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,Hawker 800XP,7,7,VT-POP
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,fixed-wing,Global 7500 BD700-2A-12,15,15,VT-PRI
+non-scheduled,mytri-aviation-pvt-ltd,Mytri Aviation Pvt. Ltd.,fixed-wing,EMBRAER 190-100ECJ (Lineage 1000),19,19,VT-PRM
+non-scheduled,span-air-pvt-ltd,Span Air pvt. Ltd.,fixed-wing,HAWKER 900XP,9,9,VT-PRY
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,rotary-wing,BELL-407,6,6,VT-PSA
+non-scheduled,kakini-enterprises-pvt-ltd,Kakini Enterprises Pvt. Ltd.,fixed-wing,Citation 525A,8,8,VT-PSB
+non-scheduled,mytri-aviation-pvt-ltd,Mytri Aviation Pvt. Ltd.,fixed-wing,EMBRAER 135BJ,13,13,VT-PVK
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,rotary-wing,H160-B,6,6,VT-PVS
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,CITATION 525A CJ2+,7,7,VT-PVV
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PWB
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PWC
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PWD
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,DAUPHIN AS 365 N3,12,12,VT-PWE
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SIKORSKY S-76D,12,12,VT-PWJ
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SIKORSKY S-76D,12,12,VT-PWK
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SIKORSKY S-76D,12,12,VT-PWL
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,rotary-wing,SIKORSKY S-76D,12,12,VT-PWM
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),hot-air-balloon,ULTRAMAGIC M-105,4,4,VT-RAG
+non-scheduled,golden-crane-aviation-pvt-ltd,Golden Crane Aviation Pvt. Ltd.,rotary-wing,Agusta A109E,6,6,VT-RAJ
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,fixed-wing,KINGAIR C90B,6,6,VT-RAM
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR B-200,9,9,VT-RAS
+non-scheduled,redbird-flight-training-academy-private-limited,Redbird Flight Training Academy Private Limited,fixed-wing,TECNAM P2006T,3,3,VT-RBB
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,BELL 206 L4,6,6,VT-RBG
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),hot-air-balloon,ULTRAMAGIC N-210,10,10,VT-RBO
+non-scheduled,gmr-aviation-pvt-ltd,GMR Aviation Pvt. Ltd.,fixed-wing,EMB135BJ (LEGACY 650),13,13,VT-RDS
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR B-200,9,9,VT-REM
+non-scheduled,sparzana-aviation-pvt-ltd,Sparzana Aviation Pvt. Ltd.,fixed-wing,Hawker900XP,8,8,VT-RFX
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,AS350B3,6,6,VT-RGL
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,AS350B3,6,6,VT-RGM
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,H160-B,6,6,VT-RGO
+non-scheduled,ghodawat-enterprises-pvt-ltd,Ghodawat Enterprises Pvt. Ltd.,rotary-wing,MBB-BK117 D-3,7,7,VT-RGP
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,Airbus H145 D3 (MBB-BK117 D-3),8,8,VT-RGQ
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,H160-B,6,6,VT-RGR
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,H160-B,6,6,VT-RGY
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,H160-B,6,6,VT-RGZ
+non-scheduled,irm-pvt-ltd,IRM Pvt. Ltd.,fixed-wing,GULFSTREAM GV-SP (G550),8,8,VT-RIM
+non-scheduled,avenor-aviation-llp,Avenor Aviation LLP,fixed-wing,BEECH SUPER KING AIR B-200,7,7,VT-RJA
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),rotary-wing,AS350B3,5,5,VT-RJF
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),rotary-wing,AS350B3,5,5,VT-RJG
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),rotary-wing,AS350B3,5,5,VT-RJH
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),fixed-wing,Cessna Citation 560XL,9,9,VT-RJL
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),rotary-wing,AS350B3,5,5,VT-RJM
+non-scheduled,property-ventures-india-pvt-ltd,Property Ventures (India) Pvt. Ltd.,fixed-wing,FALCON 2000EX,10,10,VT-RKP
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,rotary-wing,A109S,7,7,VT-RKR
+non-scheduled,property-ventures-india-pvt-ltd,Property Ventures (India) Pvt. Ltd.,fixed-wing,BEECH SUPER KING AIR 250 B- 200GT,7,7,VT-RKS
+non-scheduled,property-ventures-india-pvt-ltd,Property Ventures (India) Pvt. Ltd.,rotary-wing,EC-130T2,6,6,VT-RKV
+non-scheduled,malhotra-helikopters-pvt-ltd,Malhotra Helikopters Pvt. Ltd.,rotary-wing,BELL 206 L3,6,6,VT-RLB
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-RMX
+non-scheduled,smart-wings-aviation-pvt-ltd,Smart Wings Aviation Pvt. Ltd.,rotary-wing,EC130T2,6,6,VT-RPB
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,rotary-wing,BELL 407,6,6,VT-RPO
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AS 350 B3e,6/Aerial Work,,VT-RRA
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AS 350 B3e,6/Aerial Work,,VT-RRB
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-RRC
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL412 EP,13,13,VT-RRD
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW139,15,15,VT-RRE
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL412EP,13,13,VT-RRF
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-RRG
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AS 350 B3e,6/Aerial Work,,VT-RRH
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL412EP,13,13,VT-RRI
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,BELL412EP,11,11,VT-RRJ
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-RRK
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-RRL
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,8,8,VT-RRN
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,rotary-wing,AW169,10,10,VT-RRO
+non-scheduled,baramati-agro-limited,Baramati Agro Limited,rotary-wing,Bell407GXP,6,6,VT-RRP
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,fixed-wing,BEECHCRAFT PREMIER 1A-390,6,6,VT-RRR
+non-scheduled,saarthi-airways-pvt-ltd,Saarthi Airways Pvt. Ltd.,fixed-wing,FALCON 2000EX,9,9,VT-RSG
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,fixed-wing,Beech Kingair C90A,6,6,VT-RSL
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,BEECHCRAFT KING AIR B200,8,8,VT-RSM
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,fixed-wing,Super King Air B-200,8,8,VT-RSN
+non-scheduled,jetlinr-airways-pvt-ltd,Jetlinr Airways Pvt. Ltd.,fixed-wing,Hawker 750,9,9,VT-RSR
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,ULTRAMAGIC N-250 (HOT AIR BALLOON),10,10,VT-RUN
+non-scheduled,shraddha-energy-and-infraprojects-private-limited,Shraddha Energy and Infraprojects Private Limited,rotary-wing,AS350B3,5,5,VT-SBJ
+non-scheduled,maharaja-aviation-pvt-ltd,Maharaja Aviation Pvt. Ltd.,rotary-wing,ROBINSON R44,3,3,VT-SDD
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,rotary-wing,EC130-T2,7,7,VT-SDS
+non-scheduled,syandan-aviation-pvt-ltd,Syandan Aviation Pvt. Ltd.,rotary-wing,EC-130T2,7,7,VT-SES
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,fixed-wing,Embraer EMB-135 (Legacy 600),13,13,VT-SFU
+non-scheduled,rpsg-resources-pvt-ltd,RPSG Resources Pvt Ltd.,fixed-wing,Bombardier Global 5000,13,13,VT-SHG
+non-scheduled,steamhouse-india-ltd,Steamhouse India Ltd.,fixed-wing,PA-46-350P,4,4,VT-SHL
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,rotary-wing,EUROCOPTER AS355N,5,5,VT-SIL
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,rotary-wing,AS365N2 DAUPHIN,5,5,VT-SIM
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,rotary-wing,MI-172,26,26,VT-SKB
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,rotary-wing,MI-172,26,26,VT-SKE
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,rotary-wing,MI-171A2,19,19,VT-SKH
+non-scheduled,everdeliver-logistics-pvt-ltd,Everdeliver Logistics Pvt. Ltd.,fixed-wing,PC-12/47E,8,8,VT-SKJ
+non-scheduled,eha-aviation-pvt-ltd,EHA Aviation Pvt. Ltd.,fixed-wing,Cessna Citation 560XLS+,9,9,VT-SKN
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,fixed-wing,BEECH KING AIR C-90A,6,6,VT-SLK
+non-scheduled,span-air-pvt-ltd,Span Air pvt. Ltd.,rotary-wing,BELL - 429,5,5,VT-SMK
+non-scheduled,span-air-pvt-ltd,Span Air pvt. Ltd.,fixed-wing,B 200 GT,9,9,VT-SMR
+non-scheduled,empire-aircraft-management-services-pvt-ltd,Empire Aircraft Management Services Pvt. Ltd.,fixed-wing,King Air 250 (B200GT),7,7,VT-SMS
+non-scheduled,mspl-ltd,MSPL Ltd.,fixed-wing,P-180 AVANTI II,8,8,VT-SNB
+non-scheduled,sobha-puravankara-aviation-pvt-ltd,Sobha Puravankara Aviation Pvt. Ltd.,fixed-wing,GULFSTREAM G-200,9,9,VT-SNP
+non-scheduled,rithwik-green-power-and-aviation-pvt-ltd,Rithwik Green Power and Aviation Pvt. Ltd.,fixed-wing,CITATION 525A CJ2+,7,7,VT-SRE
+non-scheduled,saffron-strokes-private-limited,Saffron Strokes Private Limited,fixed-wing,BEECHCRAFT PREMIER 1A-390,6,6,VT-SRK
+non-scheduled,simm-samm-airways-pvt-ltd,Simm Samm Airways Pvt. Ltd.,fixed-wing,HAWKER BEECHCRAFT (PREMIER 1A),6,6,VT-SSF
+non-scheduled,fairwinds-aviation-pvt-ltd,Fairwinds Aviation Pvt. Ltd.,fixed-wing,CESSNA 206H,4,4,VT-SSJ
+non-scheduled,simm-samm-airways-pvt-ltd,Simm Samm Airways Pvt. Ltd.,rotary-wing,SIKORSKY S-76C++,6,6,VT-SSO
+non-scheduled,flysbs-aviation-limited,FLYSBS AVIATION LIMITED,fixed-wing,EMB-135 (LEGACY 600),13,13,VT-SSR
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,fixed-wing,P68 Obeserver-2,4,4,VT-TAA
+non-scheduled,tara-aviation-services-pvt-ltd,Tara Aviation Services Pvt. Ltd.,fixed-wing,FALCON 2000,8,8,VT-TAT
+non-scheduled,zest-aviation-pvt-ltd,Zest Aviation Pvt. Ltd.,fixed-wing,Cessna Citation 560XL,8,8,VT-TAZ
+non-scheduled,trans-bharat-aviation-pvt-ltd,Trans Bharat Aviation Pvt. Ltd.,rotary-wing,BELL 407,6/Aerial Work,,VT-TBC
+non-scheduled,trans-bharat-aviation-pvt-ltd,Trans Bharat Aviation Pvt. Ltd.,rotary-wing,BELL 407,6,6,VT-TBF
+non-scheduled,rps-aviation-pvt-ltd,RPS Aviation Pvt. Ltd.,fixed-wing,FALCON 2000,8,8,VT-TBT
+non-scheduled,taj-air-ltd,Taj Air Ltd.,fixed-wing,FALCON 2000 LX,9,9,VT-TDT
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",fixed-wing,Embraer EMB135BJ (Legacy 650),10,10,VT-TEN
+non-scheduled,jhankar-aviation-pvt-ltd,Jhankar Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-TIS
+non-scheduled,tara-aviation-services-pvt-ltd,Tara Aviation Services Pvt. Ltd.,fixed-wing,PC-12/47E,8,8,VT-TKG
+non-scheduled,wings-aviation-pvt-ltd,Wings Aviation Pvt. Ltd.,fixed-wing,P68C,5,5,VT-TLC
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",rotary-wing,AW169,6,6,VT-TOP
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-45 XR,9,9,VT-TRI
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",fixed-wing,Hawker 900XP,9,9,VT-TSG
+non-scheduled,zest-aviation-pvt-ltd,Zest Aviation Pvt. Ltd.,fixed-wing,GLOBAL EXPRESS XRS,13,13,VT-TUS
+non-scheduled,rithwik-green-power-and-aviation-pvt-ltd,Rithwik Green Power and Aviation Pvt. Ltd.,fixed-wing,CITATION 525A CJ2+,7,7,VT-TVM
+non-scheduled,transworld-jets-pvt-ltd,Transworld Jets Pvt Ltd,fixed-wing,FALCON 2000 EX EASY,9,9,VT-TWJ
+non-scheduled,universal-airways-pvt-ltd,Universal Airways Pvt. Ltd.,rotary-wing,AW139,8,8,VT-TWO
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",rotary-wing,AS 350 B3,6,6,VT-UDY
+non-scheduled,united-helicharters-pvt-ltd,United Helicharters Pvt. Ltd.,rotary-wing,AS350B3,6,6,VT-UHE
+non-scheduled,jhankar-aviation-pvt-ltd,Jhankar Aviation Pvt. Ltd.,fixed-wing,BEECHCRAFT 300LW,9,9,VT-UPA
+non-scheduled,vimaan-airlines-pvt-ltd,Vimaan Airlines Pvt. Ltd.,fixed-wing,Hawker 800XP,8,8,VT-UYK
+non-scheduled,indocopters-pvt-ltd,Indocopters Pvt. Ltd.,rotary-wing,AS 350 B3 ECUREUIL,6,6,VT-VAD
+non-scheduled,ventura-airconnect-ltd,Ventura Airconnect Ltd.,fixed-wing,CESSNA CARAVAN 208B,9,9,VT-VAK
+non-scheduled,ventura-airconnect-ltd,Ventura Airconnect Ltd.,fixed-wing,CESSNA CARAVAN 208B,9,9,VT-VAM
+non-scheduled,sai-construction-pvt-ltd,Sai Construction Pvt. Ltd.,fixed-wing,Hawker800XP,8,8,VT-VAP
+non-scheduled,jhankar-aviation-pvt-ltd,Jhankar Aviation Pvt. Ltd.,fixed-wing,King Air C90A,6,6,VT-VBS
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,fixed-wing,G-200,9,9,VT-VEL
+non-scheduled,rithwik-green-power-and-aviation-pvt-ltd,Rithwik Green Power and Aviation Pvt. Ltd.,fixed-wing,EMB-135 (LEGACY 600),13,13,VT-VIK
+non-scheduled,rithwik-green-power-and-aviation-pvt-ltd,Rithwik Green Power and Aviation Pvt. Ltd.,fixed-wing,King Air B200 GT,8,8,VT-VIN
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-40 XR,7,7,VT-VRA
+non-scheduled,nibe-aeronautics-limited,NIBE AERONAUTICS LIMITED,fixed-wing,BEECHCRAFT PREMIER 1A,6,6,VT-VRL
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-45XR,9,9,VT-VRR
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-40XR,7,7,VT-VRS
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,LEARJET-45 XR,9,9,VT-VRV
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-VSB
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,EMB 135 (Legacy600),13,13,VT-VSG
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,rotary-wing,AS350B3E,6,6,VT-VSK
+non-scheduled,golden-crane-aviation-pvt-ltd,Golden Crane Aviation Pvt. Ltd.,rotary-wing,Agusta A109E,6,6,VT-VSR
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,EMB 135 (Legacy600),13,13,VT-VSS
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,fixed-wing,EMB 135 BJ (Legacy650),14,14,VT-VSV
+non-scheduled,property-ventures-india-pvt-ltd,Property Ventures (India) Pvt. Ltd.,rotary-wing,AW169,7,7,VT-WCL
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,hot-air-balloon,CAMERON A-105 (HOT AIR BALLOON),5,5,VT-WOW
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,fixed-wing,TECNAM P2010TDI,3,3,VT-XIA
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,fixed-wing,TECNAM P2010TDI,3,3,VT-XIB
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",fixed-wing,BEECH SKA B200GT,9,9,VT-YAN
+non-scheduled,aerokalinga-aviation-pvt-ltd,Aerokalinga Aviation Pvt. Ltd.,fixed-wing,Beech Super King Air B200,8,8,VT-YUD
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,fixed-wing,Falcon 6X,14,14,VT-YVV
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,rotary-wing,AW109SP,6,6,VT-ZEN
+non-scheduled,dhillon-aviation-pvt-ltd,"Dhillon Aviation Pvt. Ltd.,",rotary-wing,BELL206 L4,6/Aerial Work,,VT-ZIN
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,rotary-wing,ROBINSON-44 RAVEN II,3/Aerial Work,,VT-ZJM
+non-scheduled,dunes-aviation-private-limited,Dunes Aviation Private Limited,fixed-wing,CHALLENGER CL 600-2B16-CL 604,9,9,VT-ZST
+non-scheduled,zest-aviation-pvt-ltd,Zest Aviation Pvt. Ltd.,fixed-wing,BD-700-1A11 (GLOBAL 5500),13,13,VT-ZTP
+non-scheduled,zest-aviation-pvt-ltd,Zest Aviation Pvt. Ltd.,fixed-wing,CHALLENGER 650 CL-600-2B16,10,10,VT-ZTT
+scheduled,quikjet-cargo,Quikjet Cargo Airlines Pvt. Ltd.,,B737-800 (Freighter),Cargo,,VT-AAZ
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AEM
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AEN
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AEO
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AEP
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AEQ
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-AER
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AII
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIT
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIU
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIV
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIW
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIX
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIY
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-AIZ
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALJ
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALK
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALL
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALM
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALN
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALO
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALP
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALQ
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALR
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALS
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALT
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALU
+scheduled,air-india,Air India Ltd.,,B777-300 ER,342,342,VT-ALX
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANA
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANC
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-AND
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANE
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANG
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANH
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANI
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANJ
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANK
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANL
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANM
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANN
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANO
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANP
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANQ
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANR
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANS
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANT
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANU
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANV
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANW
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANX
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANY
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-ANZ
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-ATD
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-ATE
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-ATG
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-ATH
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-ATJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-ATV
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-AWA
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-AWB
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-AWC
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-AWD
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXI
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXJ
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXM
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXN
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXP
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXQ
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXR
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXT
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXU
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXW
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXX
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AXZ
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AYA
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AYB
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AYC
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-AYD
+scheduled,quikjet-cargo,Quikjet Cargo Airlines Pvt. Ltd.,,B737-800 (Freighter),Cargo,,VT-BAZ
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDA
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDB
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B737-800F (Freighter),Cargo,,VT-BDC
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B737-800F (Freighter),Cargo,,VT-BDD
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDM
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDN
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDO
+scheduled,blue-dart,Blue Dart Aviation Ltd.,,B757-200F (Freighter),Cargo,,VT-BDQ
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-BKK
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-BOM
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWA
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWB
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWC
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWD
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWE
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWF
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWG
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWH
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWI
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWJ
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWK
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWL
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWM
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWN
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWO
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWP
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWQ
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWR
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWS
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWT
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWU
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWV
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWW
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BWX
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXA
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXB
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXC
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXD
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXE
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXF
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXG
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXH
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXI
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXJ
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXK
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXL
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXM
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXN
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXO
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXP
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXQ
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXR
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXS
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXT
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXU
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXV
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXW
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXX
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXY
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-BXZ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CID
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIE
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIF
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIG
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIH
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIM
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIN
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIO
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIP
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-CIQ
+scheduled,air-india,Air India Ltd.,,A320-214,150,150,VT-EDC
+scheduled,air-india,Air India Ltd.,,A320-214,150,150,VT-EDD
+scheduled,air-india,Air India Ltd.,,A320-214,150,150,VT-EDE
+scheduled,air-india,Air India Ltd.,,A320-214,150,150,VT-EDF
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-EXA
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-EXB
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-EXC
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-EXD
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-EXE
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXF
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXG
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXH
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXI
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXK
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXL
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXM
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXN
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXO
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXP
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXQ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXR
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXS
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXT
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXU
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-EXV
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FIB
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FIC
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FID
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FIE
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FIF
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,,ATR72-600,72,72,VT-FIG
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHA
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHB
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHC
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHD
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHE
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHF
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHI
+scheduled,air-india-express,Air India Express Ltd.,,B737-800,186,186,VT-GHK
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-145LR,50,50,VT-GSE
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSH
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSI
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSJ
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSK
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSM
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSO
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSQ
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,,EMB-170,76,76,VT-GSU
+scheduled,indiaone-air,India One Air Private Limited,,Cessna Grand Caravan 208B,9,9,VT-HJS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IAX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IAZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBE
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBH
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBO
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IBZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICO
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICP
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ICY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IFZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIA
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIB
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IID
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IIZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJT
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IJZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-232,180,180,VT-IKK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IKP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IKQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IKS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IKT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IKU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-211 (Freighter),Cargo,,VT-IKW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-211 (Freighter),Cargo,,VT-IKX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-211 (Freighter),Cargo,,VT-IKY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILE
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILH
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILO
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILP
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-ILZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IME
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMH
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IML
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IMZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ION
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOT
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IOY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPC
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPT
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IPZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQA
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQC
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQT
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IQZ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRA
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRB
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRD
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRE
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRF
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRG
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRH
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRI
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRJ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRK
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRL
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRM
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRN
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRO
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRP
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRQ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRR
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IRS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IRV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IRW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IRX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IRY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IRZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISA
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISB
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISC
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ISN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IST
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-ISZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITB
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITR
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITT
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITU
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-ITZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-271NX,222/232,,VT-IUY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IUZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVA
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVB
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVC
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IVY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWT
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-IWV
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IWW
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IWX
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IWY
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-214,180,180,VT-IWZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXA
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXG
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXI
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXO
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXP
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXQ
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-IXR
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXS
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-251N,186,186,VT-IXT
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXV
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXW
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXX
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXY
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IXZ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYA
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYB
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYC
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYD
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYE
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYF
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYG
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYH
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYI
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYJ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYK
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYL
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYO
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYP
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYQ
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYS
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYU
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYX
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYY
+scheduled,indigo,Interglobe Aviation Ltd.,,ATR72-600,74,74,VT-IYZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZB
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZC
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZD
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZE
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZF
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZH
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZK
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZL
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZM
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZN
+scheduled,indigo,Interglobe Aviation Ltd.,,A320-271N,186,186,VT-IZV
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRA
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRB
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRE
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRF
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRH
+scheduled,air-india,Air India Ltd.,,A350-941,316,316,VT-JRI
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,DO 228-201 (UPGRADED),16,16,VT-KNP
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-NAA
+scheduled,air-india,Air India Ltd.,,B787-8,256,256,VT-NAC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCA
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCE
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCP
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCQ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCS
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCU
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCV
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCW
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCY
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NCZ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHA
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHE
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHH
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHJ
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHN
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHO
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHP
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHR
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-252NX,220,220,VT-NHX
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-253NY,195,195,VT-NLA
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-253NY,195,195,VT-NLB
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-253NY,195,195,VT-NLC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-253NY,195,195,VT-NLD
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOC
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOF
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOG
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOI
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOK
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOL
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOM
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NON
+scheduled,indigo,Interglobe Aviation Ltd.,,A321-251NX,232,232,VT-NOV
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-NTA
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-NTB
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPH
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPI
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPJ
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPK
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPL
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPM
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPO
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPQ
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPT
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPU
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPV
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPW
+scheduled,air-india,Air India Ltd.,,A321-211,182,182,VT-PPX
+scheduled,indiaone-air,India One Air Private Limited,,Cessna Grand Caravan 208B,9,9,VT-PRS
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RIO
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKC
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKD
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKE
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKF
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKG
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKH
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKJ
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKK
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKL
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR72- 600,70,70,VT-RKM
+scheduled,air-india-express,Air India Express Ltd.,,B737-8,176,176,VT-RNT
+scheduled,air-india-express,Air India Express Ltd.,,A321-251NX,192,192,VT-RTB
+scheduled,air-india-express,Air India Express Ltd.,,A321-251NX,192,192,VT-RTC
+scheduled,air-india-express,Air India Express Ltd.,,A321-251NX,192,192,VT-RTD
+scheduled,air-india-express,Air India Express Ltd.,,A321-251NX,192,192,VT-RTE
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTF
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTG
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTH
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTI
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTK
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTL
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTM
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTN
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTO
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTP
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-RTQ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTS
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTT
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTU
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTV
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTW
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTX
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTY
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-RTZ
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCF
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCH
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCM
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCQ
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCR
+scheduled,air-india,Air India Ltd.,,A319-112,122,122,VT-SCV
+scheduled,spicejet,Spice Jet Ltd.,,B737-700F/800F (Freighter),Cargo,,VT-SFB
+scheduled,spicejet,Spice Jet Ltd.,,B737-700F/800F (Freighter),Cargo,,VT-SFD
+scheduled,spicejet,Spice Jet Ltd.,,B737-700F/800F (Freighter),Cargo,,VT-SFE
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SGG
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SGJ
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SGV
+scheduled,skyhop-aviation,Skyhop Aviation Private limited,,Twin Otter DHC-6,18,18,VT-SHE
+scheduled,spicejet,Spice Jet Ltd.,,B737-700,149,149,VT-SLA
+scheduled,spicejet,Spice Jet Ltd.,,B737-700,149,149,VT-SLB
+scheduled,spicejet,Spice Jet Ltd.,,B737-900,212,212,VT-SLD
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SLJ
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SLM
+scheduled,spicejet,Spice Jet Ltd.,,B737-700,149,149,VT-SLP
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQA
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQB
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQC
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQD
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQE
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SQI
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUB
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUD
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUE
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUG
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUH
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUI
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUJ
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUK
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUL
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUM
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUO
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUP
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUQ
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUR
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUS
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUV
+scheduled,spicejet,Spice Jet Ltd.,,Q400,78,78,VT-SUY
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SXA
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SXE
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SYI
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SYJ
+scheduled,spicejet,Spice Jet Ltd.,,B737-700,149,149,VT-SYT
+scheduled,spicejet,Spice Jet Ltd.,,B737-700,149,149,VT-SYU
+scheduled,spicejet,Spice Jet Ltd.,,B737-800,189,189,VT-SYZ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNB
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNC
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNE
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNF
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNH
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNI
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNK
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TNL
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TNM
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TNN
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNP
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNQ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNR
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNS
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNU
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNV
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNW
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNX
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNY
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TNZ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQA
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQB
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQC
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQD
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQE
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQF
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQG
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQH
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQI
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQK
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQL
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQM
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQN
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQO
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQP
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQQ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQR
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQS
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQT
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQU
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQV
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQW
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TQX
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSD
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSE
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSH
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSN
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSO
+scheduled,air-india,Air India Ltd.,,B787-9,299,299,VT-TSP
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVA
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVB
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVC
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVD
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVE
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVF
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVG
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVH
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVI
+scheduled,air-india,Air India Ltd.,,A321-251NX,192,192,VT-TVJ
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TYA
+scheduled,air-india,Air India Ltd.,,A320-251N,162,162,VT-TYB
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TYC
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TYD
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TYE
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TYF
+scheduled,air-india-express,Air India Express Ltd.,,A320-251N,186,186,VT-TYG
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR42-500,48,48,VT-UDA
+scheduled,alliance-air,Alliance Air Aviation Ltd.,,ATR42-500,48,48,VT-UDB
+scheduled,indiaone-air,India One Air Private Limited,,Cessna Grand Caravan 208B,9,9,VT-VKK
+scheduled,air-india-express,Air India Express Ltd.,,A320-214,180,180,VT-VTZ
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAA
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAB
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAC
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAD
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAE
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAF
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAG
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAH
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAI
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAJ
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAK
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAL
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAM
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAO
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAP
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAQ
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAR
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAS
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAT
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAU
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YAV
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAW
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YAX
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8,189,189,VT-YBA
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBB
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBC
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBD
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBE
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBF
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBG
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBH
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBI
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBJ
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBK
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBL
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBM
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBN
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBO
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBP
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBQ
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBR
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBS
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,,B737-8200,197,197,VT-YBT

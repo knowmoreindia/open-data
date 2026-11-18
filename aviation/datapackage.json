@@ -19,7 +19,7 @@
       "path": "https://www.dgca.gov.in/digigov-portal/"
     }
   ],
-  "version": "2026-11-17",
+  "version": "2026-11-18",
   "resources": [
     {
       "name": "airports",
@@ -1489,6 +1489,784 @@
               "null"
             ],
             "description": "Freight carried from city2, tonnes. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "airport-operators",
+      "path": "data/airports/operators.csv",
+      "format": "csv",
+      "description": "Who runs each airport that AAI does not run alone, with concession terms",
+      "schema": {
+        "fields": [
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code from airports.csv"
+          },
+          {
+            "name": "operator",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Company or body running the terminal. Empty where there is none"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Owning group, State government, defence and so on. Empty where there is none"
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Arrangement: lease, concession, joint venture, State-owned and so on"
+          },
+          {
+            "name": "signed_on",
+            "type": "string",
+            "description": "Date the concession, OMDA or MoU was signed, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "started_on",
+            "type": "string",
+            "description": "Date the operator took over or the airport opened, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "term_years",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Concession term in years from the start. Empty where the source printed no figure"
+          },
+          {
+            "name": "extension_years",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Option to extend, in years. Empty where the source printed no figure"
+          },
+          {
+            "name": "aai_stake_percent",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Airports Authority of India's share of the operating company. Empty where the source printed no figure"
+          },
+          {
+            "name": "revenue_share",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "What the operator pays AAI, as published. Empty where there is none"
+          },
+          {
+            "name": "per_passenger_fee_inr",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Fee per passenger the operator pays AAI, 2019 round. Empty where the source printed no figure"
+          },
+          {
+            "name": "civil_enclave",
+            "type": [
+              "boolean",
+              "null"
+            ],
+            "description": "True for a civil terminal at a defence airfield"
+          },
+          {
+            "name": "airfield_owner",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Owner of the airfield where the terminal operator is a different body. Empty where there is none"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "operating, or the stage reached"
+          },
+          {
+            "name": "note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "What rests on secondary sources, and other caveats. Empty where there is none"
+          },
+          {
+            "name": "sources",
+            "type": "string",
+            "description": "Links to every source, separated by \" \""
+          }
+        ]
+      }
+    },
+    {
+      "name": "ppp-events",
+      "path": "data/airports/ppp-events.csv",
+      "format": "csv",
+      "description": "Every step of each airport leasing or concession round",
+      "schema": {
+        "fields": [
+          {
+            "name": "round",
+            "type": "string",
+            "description": "Leasing or concession round"
+          },
+          {
+            "name": "round_title",
+            "type": "string",
+            "description": "Round"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "handed over, awarded, approved in principle, proposed or cancelled"
+          },
+          {
+            "name": "airports",
+            "type": "string",
+            "description": "Airport codes in the round, separated by \"; \""
+          },
+          {
+            "name": "date",
+            "type": "string",
+            "description": "Date of the step, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "event",
+            "type": "string",
+            "description": "What happened"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ppp-bids",
+      "path": "data/airports/ppp-bids.csv",
+      "format": "csv",
+      "description": "Every bid in the 2019 round",
+      "schema": {
+        "fields": [
+          {
+            "name": "round",
+            "type": "string",
+            "description": "Round"
+          },
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code"
+          },
+          {
+            "name": "bidder",
+            "type": "string",
+            "description": "Bidder as printed"
+          },
+          {
+            "name": "per_passenger_fee_inr",
+            "type": "number",
+            "description": "Fee per passenger offered to AAI, rupees"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ministry-values",
+      "path": "data/ministry/values.csv",
+      "format": "csv",
+      "description": "Ministry of Civil Aviation tables on data.gov.in: profit and loss, income, capacity, user fees, operators and bids",
+      "schema": {
+        "fields": [
+          {
+            "name": "table",
+            "type": "string",
+            "description": "Table key; see ministry-tables.csv"
+          },
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code from airports.csv. Empty where the airport is not in the registry; place then holds its name"
+          },
+          {
+            "name": "place",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Printed airport name when it is not in the registry. Empty where there is none"
+          },
+          {
+            "name": "published",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Name as printed. Empty where there is none"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as printed. Empty where there is none"
+          },
+          {
+            "name": "measure",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Measure, such as profit-loss or udf-rate; empty for record tables. Empty where there is none"
+          },
+          {
+            "name": "period",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Financial year, year or date the figure covers. Empty where there is none"
+          },
+          {
+            "name": "travel",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "domestic or international, for fee and capacity tables. Empty where there is none"
+          },
+          {
+            "name": "pax_type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Embarking or disembarking passengers, for user fees. Empty where there is none"
+          },
+          {
+            "name": "bidder",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Bidder, for the 2019 bid tables. Empty where there is none"
+          },
+          {
+            "name": "value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Figure. Empty where the source printed no figure"
+          },
+          {
+            "name": "unit",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Unit as published or inferred; see the table's notes. Empty where there is none"
+          },
+          {
+            "name": "operator",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Operator as printed, for record tables. Empty where there is none"
+          },
+          {
+            "name": "status",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Status as printed, for record tables. Empty where there is none"
+          },
+          {
+            "name": "functioning_on",
+            "type": "string",
+            "description": "Date the airport began functioning under PPP, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "revenue_share",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Revenue share or annuity as printed. Empty where there is none"
+          },
+          {
+            "name": "is_total",
+            "type": [
+              "boolean",
+              "null"
+            ],
+            "description": "True for a printed total row"
+          },
+          {
+            "name": "missing_reason",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Why the figure is empty. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ministry-tables",
+      "path": "data/ministry/tables.csv",
+      "format": "csv",
+      "description": "The data.gov.in tables read",
+      "schema": {
+        "fields": [
+          {
+            "name": "table",
+            "type": "string",
+            "description": "Table key"
+          },
+          {
+            "name": "resource",
+            "type": "string",
+            "description": "data.gov.in resource id"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "What the table holds"
+          },
+          {
+            "name": "updated",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Date data.gov.in last updated it. Empty where there is none"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "Link"
+          }
+        ]
+      }
+    },
+    {
+      "name": "parliament-values",
+      "path": "data/parliament/values.csv",
+      "format": "csv",
+      "description": "Figures from Parliament answers and data.gov.in on safety, enforcement, pilots, drones, Digi Yatra and airport losses",
+      "schema": {
+        "fields": [
+          {
+            "name": "measure",
+            "type": "string",
+            "description": "Measure"
+          },
+          {
+            "name": "period",
+            "type": "string",
+            "description": "Year, financial year, month, date or span"
+          },
+          {
+            "name": "period_note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Part-year and other period notes. Empty where there is none"
+          },
+          {
+            "name": "airport",
+            "type": "string",
+            "description": "Airport code, where the row is about an airport"
+          },
+          {
+            "name": "airline",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Airline id from airlines.csv, where the row is about an airline. Empty where there is none"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Empty where there is none"
+          },
+          {
+            "name": "category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Category, such as licence type or country. Empty where there is none"
+          },
+          {
+            "name": "segment",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Sub-group as printed. Empty where there is none"
+          },
+          {
+            "name": "entity_note",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Note on a name not in the registries. Empty where there is none"
+          },
+          {
+            "name": "value",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Figure. Empty where the source printed no figure"
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "Unit"
+          },
+          {
+            "name": "source_key",
+            "type": "string",
+            "description": "Source; see parliament-sources.csv"
+          },
+          {
+            "name": "superseded_by",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "A newer source that covers the same period. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "parliament-sources",
+      "path": "data/parliament/sources.csv",
+      "format": "csv",
+      "description": "Each answer and table read",
+      "schema": {
+        "fields": [
+          {
+            "name": "source_key",
+            "type": "string",
+            "description": "Source key"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": "Answer or table"
+          },
+          {
+            "name": "href",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Link. Empty where there is none"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aaib-reports",
+      "path": "data/aaib/reports.csv",
+      "format": "csv",
+      "description": "Every AAIB investigation report",
+      "schema": {
+        "fields": [
+          {
+            "name": "event_date",
+            "type": "string",
+            "description": "Date of the occurrence, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "accident, serious-incident, incident or airprox. Empty where there is none"
+          },
+          {
+            "name": "stage",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "final, preliminary or interim. Empty where there is none"
+          },
+          {
+            "name": "operator",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Operator as printed. Empty where there is none"
+          },
+          {
+            "name": "aircraft_type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Aircraft type as printed. Empty where there is none"
+          },
+          {
+            "name": "registration",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Registration. Empty where there is none"
+          },
+          {
+            "name": "other_registrations",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Other aircraft in an airprox, separated by \"; \". Empty where there is none"
+          },
+          {
+            "name": "place",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Place as printed. Empty where there is none"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Report title"
+          },
+          {
+            "name": "href",
+            "type": "string",
+            "description": "Link to the report"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-fleet-aircraft",
+      "path": "data/dgca/fleet-aircraft.csv",
+      "format": "csv",
+      "description": "Every aircraft of scheduled and charter operators",
+      "schema": {
+        "fields": [
+          {
+            "name": "list",
+            "type": "string",
+            "description": "DGCA list the aircraft is on"
+          },
+          {
+            "name": "operator",
+            "type": "string",
+            "description": "Operator id: an airline id from airlines.csv for scheduled operators, a slug of the printed name otherwise"
+          },
+          {
+            "name": "operator_name",
+            "type": "string",
+            "description": "Operator as printed"
+          },
+          {
+            "name": "aircraft_type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "fixed-wing, rotary-wing or hot-air-balloon, for non-scheduled operators. Empty where there is none"
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Aircraft model as printed"
+          },
+          {
+            "name": "seating",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Seating as printed. Empty where there is none"
+          },
+          {
+            "name": "seats",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Seats, where the printed seating is a number. Empty where the source printed no figure"
+          },
+          {
+            "name": "registration",
+            "type": "string",
+            "description": "Registration"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-fleet-operators",
+      "path": "data/dgca/fleet-operators.csv",
+      "format": "csv",
+      "description": "Scheduled and charter operators with permits",
+      "schema": {
+        "fields": [
+          {
+            "name": "list",
+            "type": "string",
+            "description": "DGCA list"
+          },
+          {
+            "name": "operator",
+            "type": "string",
+            "description": "Operator id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Operator as printed"
+          },
+          {
+            "name": "permit",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "AOC or AOP number. Empty where there is none"
+          },
+          {
+            "name": "valid_upto",
+            "type": "string",
+            "description": "Permit valid until, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "aircraft_printed",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Aircraft count DGCA prints for the operator. Empty where the source printed no figure"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-flight-schools",
+      "path": "data/dgca/flight-schools.csv",
+      "format": "csv",
+      "description": "DGCA-approved flight schools and their grades",
+      "schema": {
+        "fields": [
+          {
+            "name": "school",
+            "type": "string",
+            "description": "School id"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "School"
+          },
+          {
+            "name": "ownership",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Ownership as printed. Empty where there is none"
+          },
+          {
+            "name": "bases",
+            "type": "string",
+            "description": "Bases as printed, separated by \"; \""
+          },
+          {
+            "name": "base_airports",
+            "type": "string",
+            "description": "Airport codes of the bases that are in airports.csv, separated by \"; \""
+          },
+          {
+            "name": "states",
+            "type": "string",
+            "description": "State slugs, separated by \"; \""
+          },
+          {
+            "name": "aircraft",
+            "type": "number",
+            "description": "Aircraft"
+          },
+          {
+            "name": "single_engine",
+            "type": "number",
+            "description": "Single-engine aircraft"
+          },
+          {
+            "name": "multi_engine",
+            "type": "number",
+            "description": "Multi-engine aircraft"
+          },
+          {
+            "name": "light_sport",
+            "type": "number",
+            "description": "Light-sport aircraft"
+          },
+          {
+            "name": "valid_to",
+            "type": "string",
+            "description": "Approval valid until, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "rank",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Rank in DGCA's ranking. Empty where the source printed no figure"
+          },
+          {
+            "name": "grade",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "DGCA grade, A best. Empty where there is none"
+          },
+          {
+            "name": "excluded_reason",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Why DGCA did not rank the school. Empty where there is none"
           }
         ]
       }

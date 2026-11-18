@@ -1,0 +1,155 @@
+list,operator,name,permit,valid_upto,aircraft_printed
+scheduled,air-india,Air India Ltd.,S-9,2028-06-30,180
+scheduled,air-india-express,Air India Express Ltd.,S-14,2028-04-21,110
+scheduled,alliance-air,Alliance Air Aviation Ltd.,S-8,2028-04-30,21
+scheduled,blue-dart,Blue Dart Aviation Ltd.,S-13,2027-12-30,8
+scheduled,indiaone-air,India One Air Private Limited,SC-09,2027-06-23,3
+scheduled,star-air,Ghodawat Enterprises Pvt. Ltd.,SC-04,2028-12-31,9
+scheduled,indigo,Interglobe Aviation Ltd.,S-19,2027-08-02,436
+scheduled,fly91,Just Udo Aviation Pvt. Ltd.,SC-10,2027-03-05,6
+scheduled,quikjet-cargo,Quikjet Cargo Airlines Pvt. Ltd.,S-34,2027-12-11,2
+scheduled,akasa-air,SNV Aviation Pvt. Ltd.,S-33,2027-07-06,43
+scheduled,spicejet,Spice Jet Ltd.,S-16,2028-05-16,42
+scheduled,skyhop-aviation,Skyhop Aviation Private limited,SC-11,2029-04-23,1
+non-scheduled,aerokalinga-aviation-pvt-ltd,Aerokalinga Aviation Pvt. Ltd.,17/2025,2030-10-15,2
+non-scheduled,afcom-holdings-ltd,Afcom Holdings Ltd.,12/2024,2029-12-11,3
+non-scheduled,airports-authority-of-india,Airports Authority of India,03/2019,2029-05-14,4
+non-scheduled,air-charters-services-pvt-ltd,Air Charters Services Pvt. Ltd.,15/2008,2029-05-14,11
+non-scheduled,aman-aviation-and-aerospace-solutions-pvt-ltd,Aman Aviation & Aerospace Solutions Pvt. Ltd.,10/2012,2028-09-13,2
+non-scheduled,aone-helicopters-private-limited,Aone Helicopters Private Limited,07/2026,2031-04-15,1
+non-scheduled,ar-airways-pvt-ltd,AR Airways Pvt. Ltd.,01/2005,2029-05-11,7
+non-scheduled,aryan-aviation-pvt-ltd,Aryan Aviation Pvt. Ltd.,13/2009,2029-04-07,6
+non-scheduled,arrow-aircrafts-sales-and-charters-pvt-ltd,"Arrow Aircrafts Sales & Charters Pvt. Ltd.,",4/2014,2028-03-10,6
+non-scheduled,aurea-aviation-private-limited,Aurea Aviation Private Limited,06/2026,2031-03-29,1
+non-scheduled,avenor-aviation-llp,Avenor Aviation LLP,08/2026,2031-07-09,1
+non-scheduled,aviation-connectivity-and-infrastructure-developers-pvt-ltd,Aviation Connectivity & Infrastructure Developers Pvt. Ltd.,07/2023,2028-07-02,5
+non-scheduled,avocet-aviation-pvt-ltd,Avocet Aviation Pvt. Ltd.,10/2023,2028-11-01,2
+non-scheduled,bajaj-aviation-pvt-ltd,Bajaj Aviation Pvt. Ltd.,14/2012,2028-12-10,1
+non-scheduled,baramati-agro-limited,Baramati Agro Limited,14/2025,2031-09-17,1
+non-scheduled,bativala-m-bhagvati-flying-charters-llp,Bativala M Bhagvati Flying Charters LLP,05/2023,2028-05-31,2
+non-scheduled,b-g-shirke-construction-technology-pvt-ltd,B.G. Shirke Construction Technology Pvt. Ltd.,10/2010,2028-12-21,1
+non-scheduled,bluecraft-aviation-pvt-ltd,Bluecraft Aviation Pvt Ltd,09/2026,2031-07-15,1
+non-scheduled,carewell-aviation-india-pvt-ltd,Carewell Aviation India Pvt. Ltd.,11/2023,2028-11-09,2
+non-scheduled,charlie-foxtrot-aviation-service-pvt-ltd,Charlie Foxtrot Aviation Service Pvt. Ltd.,03/2020,2030-12-27,5
+non-scheduled,chipsan-aviation-pvt-ltd,Chipsan Aviation Pvt. Ltd.,04/2017,2029-05-22,9
+non-scheduled,dadachanji-aviation-pvt-ltd,Dadachanji Aviation Pvt. Ltd.,11/2024,2029-10-29,1
+non-scheduled,davangere-sugar-company-ltd,Davangere Sugar Company Ltd.,4/2012,2028-04-29,1
+non-scheduled,deccan-charters-pvt-ltd,"Deccan Charters Pvt. Ltd.,",26/2008,2028-10-06,9
+non-scheduled,dhillon-aviation-pvt-ltd,"Dhillon Aviation Pvt. Ltd.,",5/2005,2028-09-07,3
+non-scheduled,dunes-aviation-private-limited,Dunes Aviation Private Limited,08/2024,2029-10-13,2
+non-scheduled,e-factor-adventure-tourism-p-ltd,E-Factor Adventure Tourism (P) Ltd.,1/2008,2029-01-01,9
+non-scheduled,eha-aviation-pvt-ltd,EHA Aviation Pvt. Ltd.,01/2022,2027-03-31,3
+non-scheduled,eih-ltd,EIH Ltd.,02/1996,2029-08-01,1
+non-scheduled,empire-aircraft-management-services-pvt-ltd,Empire Aircraft Management Services Pvt. Ltd.,08/2017,2027-03-31,2
+non-scheduled,emsos-aviation-private-limited,EMSOS Aviation Private Limited,11/2022,2027-10-11,1
+non-scheduled,everdeliver-logistics-pvt-ltd,Everdeliver Logistics Pvt. Ltd.,02/2025,2030-01-23,1
+non-scheduled,falcon-aviation-services-pvt-ltd,Falcon Aviation Services Pvt. Ltd.,06/2024,2029-06-24,1
+non-scheduled,fairwinds-aviation-pvt-ltd,Fairwinds Aviation Pvt. Ltd.,01/2019,2029-01-10,3
+non-scheduled,fern-aviation-india-pvt-ltd,Fern Aviation India Pvt. Ltd.,07/2017,2027-08-21,1
+non-scheduled,flaps-aviation-pvt-ltd,Flaps Aviation Pvt. Ltd.,07/2022,2027-09-20,5
+non-scheduled,flysbs-aviation-limited,FLYSBS AVIATION LIMITED,13/2023,2028-12-18,2
+non-scheduled,forum-i-aviation-pvt-ltd,Forum I Aviation Pvt. Ltd.,01/2006,2029-03-20,2
+non-scheduled,freedom-charter-services-pvt-ltd,Freedom Charter Services Pvt. Ltd.,01/2013,2029-01-28,2
+non-scheduled,global-vectra-helicorp-limited,Global Vectra Helicorp Limited,08/1998,2028-04-28,25
+non-scheduled,ghodawat-enterprises-pvt-ltd,Ghodawat Enterprises Pvt. Ltd.,06/2014,2028-03-17,4
+non-scheduled,gmr-aviation-pvt-ltd,GMR Aviation Pvt. Ltd.,06/2007,2028-08-06,2
+non-scheduled,golden-baritone-private-limited,Golden Baritone Private Limited,13/2025,2030-09-14,1
+non-scheduled,golden-crane-aviation-pvt-ltd,Golden Crane Aviation Pvt. Ltd.,03/2023,2028-03-08,3
+non-scheduled,gsec-aviation-limited,GSEC Aviation Limited,15/2025,2030-09-21,1
+non-scheduled,himalyaputra-aviation-ltd,Himalyaputra Aviation Ltd.,11/2012,2028-10-09,2
+non-scheduled,himalayan-heli-services-ltd,Himalayan Heli Services Ltd.,01/2002,2029-01-17,5
+non-scheduled,heritage-aviation-pvt-ltd,Heritage Aviation Pvt. Ltd.,04/2015,2029-06-30,5
+non-scheduled,heligo-charters-pvt-limited,Heligo Charters Pvt. Limited,01/2009,2029-02-10,16
+non-scheduled,himanad-management-services-private-limited,Himanad Management Services Private Limited,16/2025,2030-09-22,1
+non-scheduled,hn-safal-aviation-pvt-ltd,HN Safal Aviation Pvt. Ltd.,07/2019,2029-10-24,2
+non-scheduled,hyderabad-airlines-pvt-ltd,Hyderabad Airlines Pvt. Ltd.,14/2022,2027-12-12,1
+non-scheduled,iic-technologies-limited,IIC Technologies Limited,06/2015,2029-07-09,3
+non-scheduled,indocopters-pvt-ltd,Indocopters Pvt. Ltd.,06/2006,2028-08-24,1
+non-scheduled,indo-pacific-aviation-pvt-ltd,Indo Pacific Aviation Pvt. Ltd.,03/1997,2028-10-14,10
+non-scheduled,india-flysafe-aviation-ltd,India Flysafe Aviation Ltd.,09/2004,2028-12-14,6
+non-scheduled,innxt-aviation-pvt-ltd,Innxt Aviation Pvt. Ltd.,03/2021,2031-10-25,1
+non-scheduled,irm-pvt-ltd,IRM Pvt. Ltd.,09/2014,2028-07-03,1
+non-scheduled,jetlinr-airways-pvt-ltd,Jetlinr Airways Pvt. Ltd.,12/2026,2031-10-22,1
+non-scheduled,jet-serve-aviation-pvt-ltd,Jet Serve Aviation Pvt. Ltd.,02/2017,2029-02-09,10
+non-scheduled,jhankar-aviation-pvt-ltd,Jhankar Aviation Pvt. Ltd.,13/2022,2027-11-10,3
+non-scheduled,joyalukkas-india-limited,Joyalukkas India Limited,05/2025,2030-02-26,1
+non-scheduled,kainos-aviation-private-limited,Kainos Aviation Private Limited,01/2024,2029-01-04,1
+non-scheduled,kairamya-aviation-pvt-ltd,Kairamya Aviation Pvt. Ltd.,19/2025,2029-11-24,2
+non-scheduled,kakini-enterprises-pvt-ltd,Kakini Enterprises Pvt. Ltd.,06/2023,2028-06-05,1
+non-scheduled,kan-aerofoil-private-limited,KAN Aerofoil Private Limited,09/2024,2029-10-16,2
+non-scheduled,karnavati-aviation-pvt-ltd,Karnavati Aviation Pvt. Ltd.,22/2008,2028-08-06,10
+non-scheduled,kelachandra-logistics-pvt-ltd,Kelachandra Logistics Pvt. Ltd.,04/2019,2029-06-13,2
+non-scheduled,kestrel-aviation-pvt-ltd,Kestrel Aviation Pvt. Ltd.,14/2008,2029-05-08,5
+non-scheduled,khazana-jewellery-pvt-ltd,Khazana Jewellery Pvt. Ltd.,03/2017,2029-03-28,1
+non-scheduled,kingscraft-aviation-private-limited,Kingscraft Aviation Private Limited,01/2026,2031-01-04,1
+non-scheduled,krystal-aviation-services-pvt-ltd,Krystal Aviation Services Pvt. Ltd.,11/2026,2031-10-14,1
+non-scheduled,kyathi-climate-modification-consultants-llp,Kyathi Climate Modification Consultants LLP,04/2020,2030-12-27,2
+non-scheduled,lakeworkoffice-club-pvt-ltd,Lakeworkoffice Club Pvt. Ltd.,10/2025,2030-09-09,2
+non-scheduled,lcl-aviation-pvt-ltd-ecojet,LCL Aviation Pvt. Ltd. (ECOJET),09/2022,2027-09-27,1
+non-scheduled,lmcs-infra-holdings-pvt-ltd,LMCS Infra Holdings Pvt. Ltd.,05/2016,2028-10-25,1
+non-scheduled,l-and-t-aviation-services-pvt-ltd,L & T Aviation Services Pvt. Ltd.,06/2010,2028-11-02,1
+non-scheduled,mab-aviation-pvt-ltd,MAB Aviation Pvt. Ltd.,06/2016,2028-12-22,1
+non-scheduled,maharaja-aviation-pvt-ltd,Maharaja Aviation Pvt. Ltd.,07/2015,2027-08-26,3
+non-scheduled,mahindra-airways-ltd,Mahindra Airways Ltd.,10/2024,2029-10-27,1
+non-scheduled,malhotra-helikopters-pvt-ltd,Malhotra Helikopters Pvt. Ltd.,01/2023,2028-01-11,2
+non-scheduled,mandke-and-mandke-infrastructure-pvt-ltd,Mandke and Mandke Infrastructure Pvt. Ltd.,01/2015,2029-02-12,1
+non-scheduled,media-house-dnd-private-limited,Media House DND Private Limited,05/2024,2029-02-27,1
+non-scheduled,miraj-aviation-pvt-ltd,Miraj Aviation Pvt. Ltd.,10/2026,2031-09-29,1
+non-scheduled,modifi-aviations-pvt-ltd,Modifi Aviations Pvt. Ltd.,02/2026,2031-02-10,1
+non-scheduled,mspl-ltd,MSPL Ltd.,02/2009,2027-02-11,1
+non-scheduled,mytri-aviation-pvt-ltd,Mytri Aviation Pvt. Ltd.,01/2018,2028-07-02,2
+non-scheduled,navdurga-aviation-pvt-ltd,Navdurga Aviation Pvt. Ltd.,15/2022,2027-12-27,2
+non-scheduled,nibe-aeronautics-limited,NIBE AERONAUTICS LIMITED,06/2025,2029-05-27,1
+non-scheduled,niraant-aviation-pvt-ltd,Niraant Aviation Pvt. Ltd.,12/2025,2030-09-10,1
+non-scheduled,oss-air-management-pvt-ltd,OSS Air Management Pvt. Ltd.,02/2006,2029-04-03,1
+non-scheduled,pawan-hans-ltd,Pawan Hans Ltd.,02/1998,2029-03-14,36
+non-scheduled,pilgrimage-aviation-private-limited,PILGRIMAGE AVIATION PRIVATE LIMITED,08/2025,2030-06-04,1
+non-scheduled,pioneer-flying-academy-pvt-ltd,Pioneer Flying Academy Pvt. Ltd.,09/2015,2027-10-13,2
+non-scheduled,pinnacle-air-pvt-ltd,Pinnacle Air Pvt. Ltd.,25/2008,2028-10-02,7
+non-scheduled,poonawalla-aviation-pvt-ltd,Poonawalla Aviation Pvt. Ltd.,03/2006,2029-06-25,6
+non-scheduled,pradhaan-air-express-pvt-ltd,Pradhaan Air Express Pvt. Ltd.,08/2022,2027-09-21,1
+non-scheduled,property-ventures-india-pvt-ltd,Property Ventures (India) Pvt. Ltd.,04/2022,2027-04-18,4
+non-scheduled,rajas-aerosports-and-adventures-private-limited-air-safari,Rajas Aerosports and Adventures Private Limited (Air Safari),02/2024,2029-01-31,7
+non-scheduled,rajhans-infracon-india-private-limited,RAJHANS INFRACON (INDIA) PRIVATE LIMITED,03/2024,2029-02-08,1
+non-scheduled,raymond-ltd,Raymond Ltd.,05/1996,2029-01-28,1
+non-scheduled,redbird-airways-pvt-ltd,Redbird Airways Pvt. Ltd.,01/2020,2030-08-12,6
+non-scheduled,redbird-flight-training-academy-private-limited,Redbird Flight Training Academy Private Limited,10/2022,2027-10-06,1
+non-scheduled,reliance-transport-and-travels-pvt-ltd,Reliance Transport & Travels Pvt. Ltd.,03/2000,2028-09-27,2
+non-scheduled,reliance-commercial-dealers-ltd,Reliance Commercial Dealers Ltd.,02/2008,2029-01-14,15
+non-scheduled,rithwik-green-power-and-aviation-pvt-ltd,Rithwik Green Power and Aviation Pvt. Ltd.,12/2022,2027-10-25,4
+non-scheduled,rps-aviation-pvt-ltd,RPS Aviation Pvt. Ltd.,02/2022,2027-04-10,1
+non-scheduled,rpsg-resources-pvt-ltd,RPSG Resources Pvt Ltd.,08/2014,2028-06-25,2
+non-scheduled,saarthi-airways-pvt-ltd,Saarthi Airways Pvt. Ltd.,09/2010,2028-12-13,3
+non-scheduled,saffron-strokes-private-limited,Saffron Strokes Private Limited,04/2024,2029-02-18,2
+non-scheduled,sai-construction-pvt-ltd,Sai Construction Pvt. Ltd.,04/2025,2030-02-18,1
+non-scheduled,sapphire-airlines-pvt-ltd,Sapphire Airlines Pvt. Ltd.,03/2022,2027-04-12,3
+non-scheduled,shraddha-energy-and-infraprojects-private-limited,Shraddha Energy and Infraprojects Private Limited,12/2023,2028-12-06,1
+non-scheduled,shivan-aadithya-air-services-pvt-ltd,Shivan Aadithya Air Services Pvt. Ltd.,05/2022,2027-07-20,5
+non-scheduled,simm-samm-airways-pvt-ltd,Simm Samm Airways Pvt. Ltd.,14/2009,2029-04-08,3
+non-scheduled,span-air-pvt-ltd,Span Air pvt. Ltd.,06/1995,2028-11-23,4
+non-scheduled,skyblue-aviation-services-pvt-ltd,Skyblue Aviation Services Pvt. Ltd.,13/2024,2029-12-19,1
+non-scheduled,sky-one-airways-pvt-ltd,Sky One Airways Pvt. Ltd.,04/2013,2027-12-25,5
+non-scheduled,skyjets-international-pvt-ltd,SkyJets International Pvt. Ltd.,05/2015,2029-07-02,2
+non-scheduled,smart-wings-aviation-pvt-ltd,Smart Wings Aviation Pvt. Ltd.,09/2025,2030-07-23,1
+non-scheduled,sparzana-aviation-pvt-ltd,Sparzana Aviation Pvt. Ltd.,06/2022,2027-09-08,2
+non-scheduled,skb-infracons-pvt-ltd,SKB Infracons Pvt. Ltd.,05/2007,2029-06-20,1
+non-scheduled,sobha-puravankara-aviation-pvt-ltd,Sobha Puravankara Aviation Pvt. Ltd.,03/2012,2028-03-14,1
+non-scheduled,sreeji-aviation-pvt-ltd,Sreeji Aviation Pvt. Ltd.,02/2023,2028-02-21,2
+non-scheduled,steamhouse-india-ltd,Steamhouse India Ltd.,18/2025,2030-10-20,1
+non-scheduled,suhan-aviation-pvt-ltd,Suhan Aviation Pvt. Ltd.,01/2016,2028-03-14,1
+non-scheduled,syandan-aviation-pvt-ltd,Syandan Aviation Pvt. Ltd.,11/2025,2030-09-10,3
+non-scheduled,tai-jets-private-limited,TAI Jets Private Limited,07/2025,2030-06-01,2
+non-scheduled,taj-air-ltd,Taj Air Ltd.,09/1993,2028-11-14,1
+non-scheduled,tara-aviation-services-pvt-ltd,Tara Aviation Services Pvt. Ltd.,03/2026,2031-02-11,2
+non-scheduled,target-air-services-pvt-ltd,Target Air Services Pvt. Ltd.,14/2023,2028-12-20,3
+non-scheduled,thumby-aviation-pvt-ltd,Thumby Aviation Pvt. Ltd.,02/2013,2029-03-24,10
+non-scheduled,trans-bharat-aviation-pvt-ltd,Trans Bharat Aviation Pvt. Ltd.,01/1991,2029-02-27,4
+non-scheduled,transworld-jets-pvt-ltd,Transworld Jets Pvt Ltd,07/2024,2029-07-11,2
+non-scheduled,united-helicharters-pvt-ltd,United Helicharters Pvt. Ltd.,04/2026,2031-02-19,2
+non-scheduled,universal-airways-pvt-ltd,Universal Airways Pvt. Ltd.,04/2006,2028-07-31,1
+non-scheduled,vijayanand-travels-private-limited,Vijayanand Travels Private Limited,09/2023,2028-09-14,2
+non-scheduled,vimaan-airlines-pvt-ltd,Vimaan Airlines Pvt. Ltd.,03/2025,2030-02-03,1
+non-scheduled,ventura-airconnect-ltd,Ventura Airconnect Ltd.,08/2011,2028-06-08,4
+non-scheduled,vsr-ventures-pvt-ltd,VSR Ventures Pvt. Ltd.,07/2014,2028-04-20,14
+non-scheduled,wings-aviation-pvt-ltd,Wings Aviation Pvt. Ltd.,05/2026,2031-03-23,1
+non-scheduled,zest-aviation-pvt-ltd,Zest Aviation Pvt. Ltd.,07/2012,2028-06-27,4

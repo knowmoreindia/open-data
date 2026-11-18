@@ -2,6 +2,30 @@
 
 One entry per source version read, newest first.
 
+## 2026-11-18: aviation-safety 2026-10-17-r2
+
+Read 2026-11-18. 2,828 rows.
+
+## 2026-11-18: aviation-tables 2026-10-14-r2
+
+Read 2026-11-18. 4,139 rows.
+
+## 2026-11-18: aviation-safety 2026-10-17
+
+Read 2026-11-18. 2,747 rows.
+
+## 2026-11-18: dgca-fto 2026-11-11
+
+Read 2026-11-18. 42 rows.
+
+## 2026-11-18: aviation-tables 2026-10-14
+
+Read 2026-11-18. 4,059 rows.
+
+## 2026-11-18: dgca-fleet 2026-10-31
+
+Read 2026-11-18. 1,302 rows.
+
 ## 2026-11-17: aai-traffic 2026-09
 
 Read 2026-11-17. 16,105 rows, 2014-01 to 2026-09, 6 gaps recorded.

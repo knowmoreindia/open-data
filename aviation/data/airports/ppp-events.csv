@@ -1,0 +1,35 @@
+round,round_title,status,airports,date,event
+kochi-1999,Kochi: airport built by a public limited company,handed over,COK,1999-06-10,Functioning under PPP
+delhi-mumbai-2006,Delhi and Mumbai leased to joint ventures,handed over,DEL; BOM,2006-04-04,"OMDA, shareholders' and State Support agreements signed"
+delhi-mumbai-2006,Delhi and Mumbai leased to joint ventures,handed over,DEL; BOM,2006-05-03,Both airports functioning under PPP
+hyderabad-bengaluru-greenfield,Hyderabad and Bengaluru greenfield concessions,handed over,HYD; BLR,2004-07-05,Bengaluru Concession Agreement
+hyderabad-bengaluru-greenfield,Hyderabad and Bengaluru greenfield concessions,handed over,HYD; BLR,2004-12-20,Hyderabad Concession Agreement with the Ministry
+hyderabad-bengaluru-greenfield,Hyderabad and Bengaluru greenfield concessions,handed over,HYD; BLR,2008-03-23,Hyderabad functioning under PPP
+hyderabad-bengaluru-greenfield,Hyderabad and Bengaluru greenfield concessions,handed over,HYD; BLR,2008-05-24,Bengaluru functioning under PPP
+hyderabad-bengaluru-greenfield,Hyderabad and Bengaluru greenfield concessions,handed over,HYD; BLR,2021-07-01,Bengaluru concession extended by 30 years from 24 May 2038
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2018-11-08,Cabinet in-principle approval to lease six airports through PPP
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2018-12-11,85th PPPAC final approval of the six proposals
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2018-12-14,AAI releases the Request for Proposal; per passenger fee is the bidding parameter
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2019-02-25,Financial bids opened (25 and 26 February 2019); Adani Enterprises highest for all six
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2020-02-14,"Concession agreements for Ahmedabad, Lucknow and Mangaluru"
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2020-08-19,"Cabinet approves leasing Jaipur, Guwahati and Thiruvananthapuram to Adani Enterprises for fifty years"
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2020-10-31,Mangaluru handed over
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2020-11-02,Lucknow handed over
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2020-11-07,Ahmedabad handed over
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2021-01-19,"Concession agreements for Jaipur, Guwahati and Thiruvananthapuram"
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2021-10-08,Guwahati handed over
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2021-10-11,Jaipur handed over
+aai-lease-2019,Six AAI airports leased on a per passenger fee,handed over,AMD; JAI; LKO; GAU; TRV; IXE,2021-10-14,Thiruvananthapuram handed over
+greenfield-ppp,New greenfield airports built under PPP,handed over,GOX; NMI; DXN; VTZ; SDW; RDP,2018-01-08,Navi Mumbai Concession Agreement
+greenfield-ppp,New greenfield airports built under PPP,handed over,GOX; NMI; DXN; VTZ; SDW; RDP,2023-01,Mopa operationalised
+greenfield-ppp,New greenfield airports built under PPP,handed over,GOX; NMI; DXN; VTZ; SDW; RDP,2025-10-08,Navi Mumbai inaugurated
+greenfield-ppp,New greenfield airports built under PPP,handed over,GOX; NMI; DXN; VTZ; SDW; RDP,2026-03-28,Noida Phase I inaugurated
+greenfield-ppp,New greenfield airports built under PPP,handed over,GOX; NMI; DXN; VTZ; SDW; RDP,2026-08-17,Bhogapuram begins commercial operations (press-reported)
+nmp-2021,"National Monetisation Pipeline: 25 AAI airports earmarked for leasing, 2022 to 2025",proposed,BBI; VNS; ATQ; TRZ; IDR; RPR; CCJ; CJB; NAG; PAT; IXM; STV; IXR; JDH; MAA; VGA; BDQ; BHO; TIR; HBX; IMF; IXA; UDR; DED; RJA,2021-12-09,Ministry names the 25 airports in Parliament
+nmp-2021,"National Monetisation Pipeline: 25 AAI airports earmarked for leasing, 2022 to 2025",proposed,BBI; VNS; ATQ; TRZ; IDR; RPR; CCJ; CJB; NAG; PAT; IXM; STV; IXR; JDH; MAA; VGA; BDQ; BHO; TIR; HBX; IMF; IXA; UDR; DED; RJA,2023-12-04,List repeated; 14 airports operating under PPP
+nagpur-2024,Nagpur licensed to GMR by MIHAN India Limited,awarded,NAG,2016,MIL tenders for a PPP partner; GMR highest
+nagpur-2024,Nagpur licensed to GMR by MIHAN India Limited,awarded,NAG,2020-03,MIL annuls the bidding
+nagpur-2024,Nagpur licensed to GMR by MIHAN India Limited,awarded,NAG,2024-09-27,Supreme Court rules for GMR
+nagpur-2024,Nagpur licensed to GMR by MIHAN India Limited,awarded,NAG,2024-10-08,Concession Agreement with GMR Nagpur International Airport Limited
+nagpur-2024,Nagpur licensed to GMR by MIHAN India Limited,awarded,NAG,2026-05-13,Cabinet extends AAI's land lease to MIL to match the 30-year concession
+pppac-2026-bundles,Eleven AAI airports in five bundles,approved in principle,ATQ; DHM; VNS; GAY; KBK; BBI; HBX; RPR; IXU; TRZ; TIR,2026-08-04,149th PPPAC recommends the five concessions for in-principle approval

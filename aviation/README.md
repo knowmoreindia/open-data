@@ -42,6 +42,17 @@ Airports are keyed by `code` (IATA, or ICAO where there is none) and airlines by
 | `data/dgca/routes-international-airlines-monthly.csv` | The same by month |
 | `data/dgca/routes-international-countries.csv` | International passengers and freight by country, by quarter |
 | `data/dgca/routes-international-city-pairs.csv` | International passengers and freight by city pair, by quarter |
+| `data/airports/operators.csv` | Who runs each airport that AAI does not run alone: operator, group, arrangement, dates, term, AAI's stake, what it pays AAI, each with sources |
+| `data/airports/ppp-events.csv` | Every dated step of each leasing or concession round, 1999 to 2026 |
+| `data/airports/ppp-bids.csv` | Every bid in the 2019 round for six AAI airports |
+| `data/ministry/values.csv` | Ministry of Civil Aviation tables from Rajya Sabha answers on data.gov.in: AAI and operator profit and loss by airport, AAI income, capacity, user development fees, airports with no flights, operators and AAI stakes |
+| `data/ministry/tables.csv` | Each data.gov.in table read, with its link |
+| `data/parliament/values.csv` | Figures from Lok Sabha and Rajya Sabha answers and data.gov.in: bird, animal and laser strikes, accidents, technical faults, DGCA enforcement, bomb threats, pilot licences, drones, Digi Yatra and AAI airports' ten-year losses |
+| `data/parliament/sources.csv` | Each answer and table behind parliament/values.csv |
+| `data/aaib/reports.csv` | Every investigation report on the Aircraft Accident Investigation Bureau's site, with date, kind, operator, aircraft, registration and place |
+| `data/dgca/fleet-aircraft.csv` | Every aircraft on DGCA's scheduled and non-scheduled operator lists: operator, model, seats, registration |
+| `data/dgca/fleet-operators.csv` | The operators on those lists, with permit and validity (contact details left out) |
+| `data/dgca/flight-schools.csv` | DGCA-approved flight schools: bases, aircraft, and grade in DGCA's ranking |
 | `data/gaps.csv` | Every month, issue or series with no figure, and why |
 | `data/notes.csv` | Printed errors, revisions, totals that do not add up, and other notes the sources print or the reading recorded |
 | `data/sources.csv` | Every file read: link and SHA-256 |
@@ -63,7 +74,7 @@ Airports are keyed by `code` (IATA, or ICAO where there is none) and airlines by
 
 ## Updates
 
-A weekly job runs on Mondays, reads any new AAI and DGCA releases and rebuilds these files. AAI posts a month's figures about a month after it ends. DGCA's Traffic Report follows 3 to 4 weeks after the month, and the quarterly international tables about 7 weeks after the quarter.
+A weekly job runs on Mondays, reads any new AAI and DGCA releases, including DGCA's operator and flight school lists, and rebuilds these files. The Ministry and Parliament tables are read by hand when new answers appear. AAI posts a month's figures about a month after it ends. DGCA's Traffic Report follows 3 to 4 weeks after the month, and the quarterly international tables about 7 weeks after the quarter.
 
 Later releases can revise earlier months. The AAI files keep each month's own release and list later figures in `data/aai/revisions.csv`. The report card keeps the latest printing and lists earlier ones in `data/dgca/report-card-revisions.csv`. Either way a past row in these files can change from one update to the next. `CHANGELOG.md` lists each source version read.
 
@@ -81,4 +92,4 @@ Later releases can revise earlier months. The AAI files keep each month's own re
 
 The compiled tables are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit "Know More India, from AAI and DGCA data".
 
-The figures keep their publishers' terms. DGCA's website policy allows its material to be reproduced free of charge, accurately, with the source prominently acknowledged. AAI's reuse terms are not stated.
+The figures keep their publishers' terms. DGCA's website policy allows its material to be reproduced free of charge, accurately, with the source prominently acknowledged. AAI's reuse terms are not stated. data.gov.in tables are under the Government Open Data License - India. sansad.in and aaib.gov.in state no reuse terms.
