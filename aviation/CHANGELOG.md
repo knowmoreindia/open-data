@@ -2,6 +2,10 @@
 
 One entry per source version read, newest first.
 
+## 2026-11-19: dgca-register 2026-11-16
+
+Read 2026-11-19. 3,544 rows.
+
 ## 2026-11-18: aviation-safety 2026-10-17-r2
 
 Read 2026-11-18. 2,828 rows.

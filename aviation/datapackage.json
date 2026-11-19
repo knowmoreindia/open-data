@@ -19,7 +19,7 @@
       "path": "https://www.dgca.gov.in/digigov-portal/"
     }
   ],
-  "version": "2026-11-18",
+  "version": "2026-11-19",
   "resources": [
     {
       "name": "airports",
@@ -2129,6 +2129,177 @@
             "name": "registration",
             "type": "string",
             "description": "Registration"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-register-events",
+      "path": "data/dgca/register-events.csv",
+      "format": "csv",
+      "description": "Aircraft added to and removed from the Indian civil register since October 2009",
+      "schema": {
+        "fields": [
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "Added to or removed from the Indian civil register"
+          },
+          {
+            "name": "registration",
+            "type": "string",
+            "description": "Registration mark"
+          },
+          {
+            "name": "msn",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Manufacturer serial number as printed. Empty where there is none"
+          },
+          {
+            "name": "date",
+            "type": "string",
+            "description": "Date of registration or deregistration, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "registered_on",
+            "type": "string",
+            "description": "Date of registration, where a deregistration list also prints it, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "year_of_manufacture",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year of manufacture. Empty where the source printed no figure"
+          },
+          {
+            "name": "aircraft_type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Aircraft type as printed. Empty where there is none"
+          },
+          {
+            "name": "owner",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Owner as printed, address left out. Empty where there is none"
+          },
+          {
+            "name": "lessor",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Lessor as printed; the owner's name where DGCA prints Same as owner. Empty where there is none"
+          },
+          {
+            "name": "operator",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Operator as printed. Empty where there is none"
+          },
+          {
+            "name": "certificate",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Certificate of registration number, printed in the 2009 to 2013 lists. Empty where there is none"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "DGCA list the row comes from"
+          },
+          {
+            "name": "source_href",
+            "type": "string",
+            "description": "Link to that list"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dgca-fleet-owners",
+      "path": "data/dgca/fleet-owners.csv",
+      "format": "csv",
+      "description": "Each scheduled airline aircraft with its owner, lessor and whether it is leased",
+      "schema": {
+        "fields": [
+          {
+            "name": "operator",
+            "type": "string",
+            "description": "Scheduled operator id, as in fleet-aircraft.csv"
+          },
+          {
+            "name": "registration",
+            "type": "string",
+            "description": "Registration"
+          },
+          {
+            "name": "model",
+            "type": "string",
+            "description": "Model as DGCA's scheduled operators list prints it"
+          },
+          {
+            "name": "msn",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Serial number from the latest registration. Empty where there is none"
+          },
+          {
+            "name": "year_of_manufacture",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year of manufacture. Empty where the source printed no figure"
+          },
+          {
+            "name": "registered_on",
+            "type": "string",
+            "description": "Date of the latest registration, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+          },
+          {
+            "name": "owner",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Owner on the latest registration. Empty where there is none"
+          },
+          {
+            "name": "lessor",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Lessor, where it differs from the owner. Empty where there is none"
+          },
+          {
+            "name": "registered_operator",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Operator named on that registration. Empty where there is none"
+          },
+          {
+            "name": "holding",
+            "type": "string",
+            "description": "owned: the airline owns it; group: a company of its own group does, as the airline's own releases describe it (AI Fleet Services and Air India Express for Air India); leased: any other owner. Empty where the aircraft is not in the register lists"
           }
         ]
       }

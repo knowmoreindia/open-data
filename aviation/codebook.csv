@@ -281,6 +281,29 @@ data/dgca/fleet-aircraft.csv,model,string,Aircraft model as printed
 data/dgca/fleet-aircraft.csv,seating,"string,null",Seating as printed. Empty where there is none
 data/dgca/fleet-aircraft.csv,seats,"number,null","Seats, where the printed seating is a number. Empty where the source printed no figure"
 data/dgca/fleet-aircraft.csv,registration,string,Registration
+data/dgca/register-events.csv,kind,string,Added to or removed from the Indian civil register
+data/dgca/register-events.csv,registration,string,Registration mark
+data/dgca/register-events.csv,msn,"string,null",Manufacturer serial number as printed. Empty where there is none
+data/dgca/register-events.csv,date,string,"Date of registration or deregistration, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/dgca/register-events.csv,registered_on,string,"Date of registration, where a deregistration list also prints it, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/dgca/register-events.csv,year_of_manufacture,"number,null",Year of manufacture. Empty where the source printed no figure
+data/dgca/register-events.csv,aircraft_type,"string,null",Aircraft type as printed. Empty where there is none
+data/dgca/register-events.csv,owner,"string,null","Owner as printed, address left out. Empty where there is none"
+data/dgca/register-events.csv,lessor,"string,null",Lessor as printed; the owner's name where DGCA prints Same as owner. Empty where there is none
+data/dgca/register-events.csv,operator,"string,null",Operator as printed. Empty where there is none
+data/dgca/register-events.csv,certificate,"string,null","Certificate of registration number, printed in the 2009 to 2013 lists. Empty where there is none"
+data/dgca/register-events.csv,source,string,DGCA list the row comes from
+data/dgca/register-events.csv,source_href,string,Link to that list
+data/dgca/fleet-owners.csv,operator,string,"Scheduled operator id, as in fleet-aircraft.csv"
+data/dgca/fleet-owners.csv,registration,string,Registration
+data/dgca/fleet-owners.csv,model,string,Model as DGCA's scheduled operators list prints it
+data/dgca/fleet-owners.csv,msn,"string,null",Serial number from the latest registration. Empty where there is none
+data/dgca/fleet-owners.csv,year_of_manufacture,"number,null",Year of manufacture. Empty where the source printed no figure
+data/dgca/fleet-owners.csv,registered_on,string,"Date of the latest registration, YYYY, YYYY-MM or YYYY-MM-DD. Empty where not published"
+data/dgca/fleet-owners.csv,owner,"string,null",Owner on the latest registration. Empty where there is none
+data/dgca/fleet-owners.csv,lessor,"string,null","Lessor, where it differs from the owner. Empty where there is none"
+data/dgca/fleet-owners.csv,registered_operator,"string,null",Operator named on that registration. Empty where there is none
+data/dgca/fleet-owners.csv,holding,string,"owned: the airline owns it; group: a company of its own group does, as the airline's own releases describe it (AI Fleet Services and Air India Express for Air India); leased: any other owner. Empty where the aircraft is not in the register lists"
 data/dgca/fleet-operators.csv,list,string,DGCA list
 data/dgca/fleet-operators.csv,operator,string,Operator id
 data/dgca/fleet-operators.csv,name,string,Operator as printed

@@ -51,6 +51,8 @@ Airports are keyed by `code` (IATA, or ICAO where there is none) and airlines by
 | `data/parliament/sources.csv` | Each answer and table behind parliament/values.csv |
 | `data/aaib/reports.csv` | Every investigation report on the Aircraft Accident Investigation Bureau's site, with date, kind, operator, aircraft, registration and place |
 | `data/dgca/fleet-aircraft.csv` | Every aircraft on DGCA's scheduled and non-scheduled operator lists: operator, model, seats, registration |
+| `data/dgca/register-events.csv` | Every aircraft DGCA lists as added to or removed from the Indian civil register, October 2009 onward: mark, serial, dates, year built, type, owner, lessor, operator (the July to December 2021 lists are scanned images and are not read) |
+| `data/dgca/fleet-owners.csv` | Each aircraft of a scheduled airline joined to its latest registration: owner, lessor, operator on the registration, and owned, group or leased |
 | `data/dgca/fleet-operators.csv` | The operators on those lists, with permit and validity (contact details left out) |
 | `data/dgca/flight-schools.csv` | DGCA-approved flight schools: bases, aircraft, and grade in DGCA's ranking |
 | `data/gaps.csv` | Every month, issue or series with no figure, and why |
