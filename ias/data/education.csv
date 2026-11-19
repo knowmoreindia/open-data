@@ -1,4 +1,20 @@
 officer_key,position,qualification,subject,division
+01AM013300-1950-04-15,1,Graduate,Mech.engg.,Second
+01AM013300-1950-04-15,2,P.G.,Business Admn.,Ordinary
+01AM013300-1950-04-15,3,Graduate,Mathematics,Ordinary
+01AM013400-1952-10-09,1,Graduate,Political Sc.,Second
+01AM013400-1952-10-09,2,P.G.,Social Planning,Second
+01AM013400-1952-10-09,3,P.G.,Political Sc.,Second
+01AM013400-1952-10-09,4,LL.B. | Delhi,Law,Second
+01AM013500-1952-08-08,1,M.B.A.,Finance,First
+01AM013500-1952-08-08,2,P.G.,Economics,First
+01AM013500-1952-08-08,3,P.G.,Physics,First
+01AM013500-1952-08-08,4,Graduate,Physics (hons),First
+01AM013700-1950-11-10,1,P.G.,Economics,First
+01AM013700-1950-11-10,2,Ph. D.,Economics,Ordinary
+01AM013700-1950-11-10,3,Graduate,Economics,Ordinary
+01AM013800-1952-12-15,1,P.G.,History,Second
+01AM013800-1952-12-15,2,Graduate,Economics,Second
 01AM019100-1960-11-26,1,M.Sc.,Botany,
 01AM019100-1960-11-26,2,M.B.A.,Business Admn,
 01AM019700-1960-06-08,1,M.A.,Political Sc.,
@@ -144,10 +160,30 @@ officer_key,position,qualification,subject,division
 01AM821110-1965-03-01,1,M.A.,English,
 01AM89A205-1961-08-31,1,M.B.A.,,
 01AM89A205-1961-08-31,2,B.Com.,,
+01AM900100-1930-03-18,1,Graduate,Economics,Third
+01AM900300-1931-06-01,1,P.G.,Statistics,Second
+01AM900300-1931-06-01,2,Graduate,Mathematics,Ordinary
+01AM900300-1931-06-01,3,P.G.,Education,Ordinary
+01AM900800-1931-05-01,1,Graduate,Philosophy,First
+01AM904000-1935-10-01,1,Graduate,Commerce,Ordinary
+01AM904000-1935-10-01,2,Graduate,Law,Ordinary
 01AM916101-1963-12-11,1,B.Com.,,
 01AM916101-1963-12-11,2,LL.B.,,
 01AM916102-1960-06-16,1,Graduate,,
 01AM917101-1964-08-15,1,B.Tech,Civil Engg,
+01AP024800-1951-12-15,1,P.G.,Physics,First
+01AP024800-1951-12-15,2,Graduate,Physics,First
+01AP024800-1951-12-15,3,P.G.,History,First
+01AP024900-1954-02-17,1,Graduate,History,Second
+01AP024900-1954-02-17,2,P.G.,History,First
+01AP025100-1950-06-06,1,P.G.,Marine Biology,First
+01AP025100-1950-06-06,2,P.G.,Public Admn,Ordinary
+01AP025100-1950-06-06,3,Graduate,Zoology,Second
+01AP025200-1953-02-01,1,P.G.,English Lit,Second
+01AP025200-1953-02-01,2,Graduate,English Lit,Second
+01AP025300-1950-12-16,1,Graduate,Political Sc.,Second
+01AP025400-1944-08-05,1,Graduate,Economics,Second
+01AP025400-1944-08-05,2,P.G.,Public Admn,Second
 01AP030500-1960-04-22,1,M.A.,,
 01AP030500-1960-04-22,2,M.Sc.,Economics,
 01AP031702-1960-04-30,1,M.Phil,Economics,
@@ -225,6 +261,9 @@ officer_key,position,qualification,subject,division
 01AP89A007-1965-06-10,2,M.B.B.S.,,
 01AP89A008-1960-12-20,1,M.Sc.,Agri.,
 01AP89A008-1960-12-20,2,M.B.A.,,
+01AP900600-1930-11-01,1,Graduate,Mathematics,Third
+01AP900700-1930-09-24,1,Graduate,Law,Ordinary
+01AP900700-1930-09-24,2,Graduate,Commerce,Ordinary
 01AP907101-1962-02-01,1,Doctorate,,
 01AP907101-1962-02-01,2,M.Sc.,,
 01AP911005-1964-05-10,1,M.Sc.,Physics,
@@ -237,6 +276,25 @@ officer_key,position,qualification,subject,division
 01AP913106-1964-10-20,2,M.A.,,
 01AP917001-1962-03-28,1,M.A.,,
 01AP917002-1963-08-06,1,M.A.,Economics,
+01BH026300-1954-07-01,1,Graduate,Physics,First
+01BH026500-1951-01-01,1,B.Sc.(Hons),Physics,Gold Medalist
+01BH026500-1951-01-01,2,P.G.,Physics,First
+01BH026500-1951-01-01,3,Graduate,Law,First
+01BH026600-1951-01-30,1,Graduate,Political Sc.,First
+01BH026600-1951-01-30,2,LL.B.,Law,Ordinary
+01BH026600-1951-01-30,3,P.G.,Political Sc.,First
+01BH026700-1953-09-01,1,P.G.,Physics,First
+01BH026700-1953-09-01,2,Graduate,Physics,First
+01BH027000-1952-05-23,1,P.G.,Physics,First
+01BH027000-1952-05-23,2,Graduate,Physics,First
+01BH027100-1953-07-01,1,Graduate,Mathematics,First
+01BH027100-1953-07-01,2,M.Phil.,Economic Dev.,Ordinary
+01BH027100-1953-07-01,3,M.Sc.,Mathematics,First
+01BH027200-1952-09-25,1,P.G.,Political Sc.,First
+01BH027200-1952-09-25,2,Graduate,Physics,Second
+01BH027200-1952-09-25,3,M.Sc. | University of York,Admn.Sc.&Dev Problem,-
+01BH027300-1946-05-01,1,P.G.,Zoology,Second
+01BH027300-1946-05-01,2,Graduate,Zoology,Second
 01BH034700-1960-05-16,1,B.A.,History,
 01BH035500-1961-06-02,1,M.Sc.,Comp. Sci.,
 01BH035500-1961-06-02,2,B.Sc.,Physics,
@@ -435,6 +493,11 @@ officer_key,position,qualification,subject,division
 01CG913301-1965-01-01,1,M.A.,,
 01CG915301-1964-08-17,1,M.A.,Economics,
 01CG915301-1964-08-17,2,M.Phil,,
+01GJ019200-1950-01-04,1,Graduate,English,Second
+01GJ019200-1950-01-04,2,N.A.,N.A.,Ordinary
+01GJ019200-1950-01-04,3,P.G.,History,First
+01GJ019300-1953-04-01,1,Graduate,History,Second
+01GJ019300-1953-04-01,2,P.G.,Political Sc.,First
 01GJ023600-1960-04-23,1,B.Com.,Accountancy,
 01GJ023600-1960-04-23,2,M.Com.,,
 01GJ024000-1960-08-15,1,B.Com.,Management,
@@ -1997,8 +2060,6 @@ officer_key,position,qualification,subject,division
 01TG913101-1963-07-01,1,M.Sc.,,
 01TG913101-1963-07-01,2,Doctorate,,
 01TG913105-1962-06-13,1,M.B.A.,,
-01TN003700-1927-07-17,1,P.G.,N.A.,First
-01TN003700-1927-07-17,2,Graduate,English Lit,Ordinary
 01TN029000-1961-03-28,1,M.A.,Economics,
 01TN029100-1960-07-19,1,M.A.,History,
 01TN029100-1960-07-19,2,B.A.,Hons,
@@ -2221,10 +2282,6 @@ officer_key,position,qualification,subject,division
 01UD814W01-1963-12-07,1,B.Sc.,Biology,
 01UD814W02-1964-08-13,1,M.A.,,
 01UD814W02-1964-08-13,2,LL.B.,,
-01UP011100-1929-07-03,1,P.G.,Economics,Second
-01UP011100-1929-07-03,2,P.G.,Economic Dev.,Ordinary
-01UP011100-1929-07-03,3,Certificate,French,Ordinary
-01UP011100-1929-07-03,4,Graduate,Physics,Second
 01UP050200-1960-01-23,1,A.M.I.E.,Electrical Engg.,
 01UP050200-1960-01-23,2,PG Diploma,Fin. Mgmt,
 01UP053500-1961-07-01,1,B.Tech,Electrical Engg.,
@@ -2469,6 +2526,37 @@ officer_key,position,qualification,subject,division
 01UT008901-1963-06-17,1,M.V.Sc.,,
 01UT008901-1963-06-17,2,B.V.Sc & A.H,,
 01UT009200-1965-12-24,1,M.B.B.S.,,
+01UT012000-1952-08-20,1,P.G.,Development Economics,First
+01UT012000-1952-08-20,2,Graduate,Economics,First
+01UT012000-1952-08-20,3,P.G.,History,First
+01UT012100-1950-12-05,1,Graduate,History,First
+01UT012100-1950-12-05,2,P.G.,History,Second
+01UT012200-1950-10-04,1,P.G.,Economics,Second
+01UT012200-1950-10-04,2,P.G.,Business Admn.,Second
+01UT012200-1950-10-04,3,P.G.,History,Second
+01UT012200-1950-10-04,4,Graduate,History,Second
+01UT012300-1952-09-11,1,P.G.,Economics,First
+01UT012300-1952-09-11,2,Graduate,Economics,Second
+01UT012400-1953-04-08,1,Graduate,History,First
+01UT012400-1953-04-08,2,M.B.A.,Business Admn.,Ordinary
+01UT012400-1953-04-08,3,P.G.,Economics,First
+01UT012400-1953-04-08,4,Diploma,Development Economics,Ordinary
+01UT012500-1952-03-01,1,P.G.,Sociology,Second
+01UT012500-1952-03-01,2,Graduate,History,Second
+01UT012600-1948-07-28,1,Graduate,English,Ordinary
+01UT012601-1935-08-24,1,Graduate,Hindi,Ordinary
+01UT012602-1936-02-02,1,Graduate,Law,Second
+01UT012602-1936-02-02,2,Graduate,English,First
+01UT012602-1936-02-02,3,P.G.,History,Second
+01UT012603-1935-11-05,1,Graduate,Education,Second
+01UT012603-1935-11-05,2,Graduate,English,Second
+01UT012603-1935-11-05,3,Graduate,Law,Second
+01UT012603-1935-11-05,4,P.G.,Economics,Second
+01UT012604-1939-02-02,1,Graduate,Law,Second
+01UT012604-1939-02-02,2,Graduate,English,Second
+01UT012605-1937-11-16,1,P.G.,Political Sc.,Second
+01UT012605-1937-11-16,2,Diploma,Pers.Mgt.,Ordinary
+01UT012605-1937-11-16,3,Graduate,English,Second
 01UT016100-1961-03-06,1,M.A.,Sociology,
 01UT016100-1961-03-06,2,B.A.(Hons),Political Sc.,
 01UT016400-1960-01-08,1,M.A.,Political Sc.,
@@ -2631,6 +2719,9 @@ officer_key,position,qualification,subject,division
 01UT818I10-1963-06-26,2,M.A.,English,
 01UT819301-1964-04-04,1,M.A.,History,
 01UT820501-1965-03-01,1,B.A.,Education,
+01UT903100-1935-10-01,1,Graduate,N.A.,Ordinary
+01UT903200-1937-02-01,1,Graduate,N.A.,Ordinary
+01UT904200-1938-09-01,1,Graduate,N.A.,Ordinary
 01UT94A401-1962-08-01,1,B.Tech,,
 01WB028600-1960-04-14,1,M.B.A.,Business Admn,
 01WB028600-1960-04-14,2,M.Sc.,Physics,
@@ -2810,7 +2901,11 @@ officer_key,position,qualification,subject,division
 01WB921X05-1965-11-18,2,M.Com.,,
 01WB94A301-1962-12-23,1,M.Com.,C.A.,
 01WB94A302-1962-03-14,1,M.A.,Economics,
-02MH006800-1929-03-26,1,Graduate,Botany,Ordinary
+02AP024700-1951-10-20,1,Graduate,Mathematics,First
+02AP024700-1951-10-20,2,P.G.,Mathematics,First
+02BH026400-1952-03-02,1,Graduate,Law,Second
+02BH026400-1952-03-02,2,Graduate,Physics,First
+02BH026400-1952-03-02,3,P.G.,Physics,First
 o13734,1,M.V.Sc.,,
 o13757,1,M.A.,,
 o13758,1,B.Com.,,
@@ -2859,8 +2954,8 @@ o14025,1,M.B.B.S.,,
 o14025,2,M.D./D.M.,Medicine,
 o14910,1,M.A.,Economics,
 o14910,2,Ph.D.,,
-o14966,1,B.E.,Civil Engg,
-o14966,2,Diploma,Management,
+o14966,1,Diploma,Management,Ordinary
+o14966,2,Graduate,Civil Engg,First
 o14998,1,M.A.,,
 o15060,1,B.Tech.,Chem. Engg,
 o15064,1,B.A.,Political Sc.,
@@ -2891,20 +2986,24 @@ o15126,2,M.A.,Economics,
 o15136,1,M.A.,Political Sc.,
 o15137,1,B.Tech.,Chem. Engg,
 o15137,2,M.Tech.,Chem. Engg,
-o15147,1,B.A.,Political Sc.,
-o15147,2,LL.M.,,
-o15157,1,B.E.,Civil Engg,
-o15157,2,M.E.,Structural Engg,
-o15165,1,M.Sc.,Physics,
-o15167,1,B.A.,Economics,
-o15167,2,M.Phil.,Economics,
+o15147,1,Graduate,Law,Second
+o15147,2,LL.B. | Gulbarga University Gulbarga | Gulbarga university,Intel.property Law,Second
+o15147,3,PG Diploma | Hyderabad University Hyderabad | Hyderabad University,Economics,First with Distinction
+o15147,4,LL.M. | Acharya Nagarjuna | NAGARJUNA UNIVERSITY,Constitl. Law,First
+o15147,5,"M.I.D.P. | Duke University Durham,North Carolina | Sanfard School of Public Policy",International Dev,Outstanding
+o15157,1,Graduate,Civil Engg,First
+o15157,2,P.G.,Structural Engg,First
+o15165,1,Graduate,Physics,Ordinary
+o15165,2,P.G.,Economics,Pass
+o15165,3,P.G.,Physics,Ordinary
+o15167,1,B.A.,Economics,First
+o15167,2,M.Phil.,Economics,-
 o15172,1,Graduate,Civil Engg,First
 o15174,1,P.G.,Modern Ind.Hist,First
-o15178,1,B.Tech.,Hons,
-o15178,2,,Comp. Sci.,
-o15181,1,M.B.A.,,
-o15181,2,M.Sc.,,
-o15182,1,B.A.,,
+o15178,1,Graduate,Engineeriing,Ordinary
+o15181,1,Graduate,Chemistry,First
+o15181,2,P.G.,Chemistry,First
+o15182,1,Graduate,History,Second
 o15184,1,B.E.,Fluid Mechanics,
 o15184,2,B.Tech.,Mech. Engg.,
 o15186,1,M.Phil.,Env. Sci.,
@@ -3004,27 +3103,35 @@ o15338,2,Ph.D.,Development,
 o15340,1,LL.B./B.L.,Law,
 o15340,2,M.E.,Chem. Engg,
 o15342,1,M.B.B.S.,,
-o15344,1,M.P.A.,Harvard,
-o15344,2,Ph.D.,,
-o15345,1,M.B.A.,Marketing,
-o15345,2,Ph.D.,Management,
+o15344,1,M.P.A. | Harvard University | John Fitzgerald Kennedy School,N.A.,-
+o15344,2,P.G. | University of Madras,Nuclear Physics,First with Distinction
+o15344,3,P.G. | Harvard University,Public Admn,-
+o15344,4,Certificate | Harvard University | John F.Kennedy School,Public Policy,-
+o15344,5,Ph. D. | M.S University Baroda,Management,-
+o15345,1,P.G.,Marketing,First
+o15345,2,M.A. | Duke University USA,Intrnl Deve Policy,First
 o15351,1,P.G.,Electronics,First
 o15352,1,Graduate,Electrical Engg.,First
 o15354,1,P.G.,Zoology,First
-o15355,1,M.A.,Pers.Mgt.,
-o15356,1,M.A.,History,
-o15357,1,B.A.(Hons),Economics,
-o15357,2,M.B.A.,Finance,
-o15360,1,M.A.,Sociology,
-o15360,2,Ph.D.,Sociology,
-o15361,1,P.G.,Political Sc.,
-o15363,1,M.Tech.,Comp. Sci.,
-o15363,2,Ph.D.,Economics,
-o15364,1,M.A.,Political Sc.,
-o15365,1,M.A.,Indl.dev.,
-o15365,2,M.A.,Political Sc.,
-o15366,1,M.A.,Economics,
-o15366,2,Ph.D.,Economics,
+o15355,1,P.G.,Pers.Mgt.,First
+o15356,1,P.G.,History,First
+o15357,1,B.A. Honours | Delhi University | DELHI UNIVERSITY,Economics,First
+o15357,2,"Master in Business Administration | Indian Institute of Management IIM Bangalore Bangalore | I.I.M.,Bangalore",Management,First
+o15360,1,Graduate,Political Sc.,First
+o15361,1,P.G.,Political Sc.,First
+o15363,1,B.Tech. | IIT Kanpur | IIT Kanpur,Computer Sc,First
+o15363,2,M.Tech. | IIT Kanpur | IIT Kanpur,Computer Sc,First
+o15363,3,M.A. | Duke University | University College,Economics,First
+o15363,4,Ph. D. | Patna University | Patna College,Economics,Awarded
+o15364,1,P.G.,Political Sc.,First
+o15364,2,Graduate,Physics,First
+o15364,3,M.Phil. | JNU New Delhi,Intnl Studies,Grade 'A'
+o15364,4,PG Diploma | IA of Intl Law & Diplo.,Intnl.law,Pass
+o15365,1,M.Phil. | JNU New Delhi | School of Intrnl Studies,Intnl Studies,First
+o15365,2,"PG Diploma | International Institutions | IAILD, New Delhi",Intnl.law,-
+o15365,3,M.A. | Duke University North Carolina,Intnl Trade.,First
+o15366,1,M.Sc. | London School of Economics,Economics,First
+o15366,2,Ph. D. | London School of Economics,Economics,First
 o15369,1,P.G.,Mech.engg.,First
 o15371,1,Graduate,Geography,Second
 o15372,1,Graduate,Electrical Engg.,Ordinary
@@ -3193,7 +3300,7 @@ o15527,2,M.A.,Public Policy,
 o15528,1,M.A.,Sociology,
 o15528,2,M.P.A.(Harvard),Economics,
 o15529,1,M.A.,Political Sc.,
-o15531,1,B.Tech.,Mech. Engg.,
+o15531,1,B.Tech.,Mech.engg.,First
 o15533,1,Ph. D.,Agriculture,Gold Medalist
 o15533,2,Ph. D. | IARI New Delhi | IARI,Agronomy,Gold Medalist
 o15534,1,B.Tech. | Indian Institute of Technology Kanpur,Electrical Engg.,First with Distinction
@@ -3201,13 +3308,18 @@ o15534,2,PG Diploma in Financial Management | Indira Gandhi National Open Univer
 o15535,1,B.Tech.,Electrical Engg.,First
 o15537,1,B.Tech.,Mech.engg.,-
 o15544,1,B.Tech. | IIT Kanpur,Electrical Engg.,First
-o15545,1,M.A.,Economics,
-o15545,2,M.A.,English,
-o15546,1,M.E.,Electrical Engg.,
-o15548,1,B.Tech.,Electrical Engg.,
-o15549,1,B.A.,Hons,
-o15549,2,P.G. Diploma,Public Policy & Mgmt,
-o15550,1,M.A.,Political Sc.,
+o15545,1,P.G.,English,First
+o15545,2,Master of Public Administration | Columbia University New York | Columbia University,Economics,Pass
+o15546,1,Graduate,Electrical Engg.,First
+o15548,1,B.Tech.,Electrical Engg.,First
+o15549,1,"P.G. | IIM,BANGALORE",Public Policy,-
+o15549,2,P.G. | Delhi University,Psychology,First
+o15549,3,B.A. | UNIVERSITY OF DELHI DELHI | LSR College,Psychology,Gold Medalist
+o15549,4,M.A. | UNIVERSITY OF DELHI DELHI | University of Delhi,Psychology,Gold Medallist
+o15549,5,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | IIM Bangalore | IIM Bangalore and Maxwell School of Public Affairs and Citizenship,Public Policy & Mgmt,-
+o15549,6,M.P.M. | NUS & HARVARD University | LKYSPP & Kennedy School of Gov,Public Mgmt & Policy,-
+o15550,1,B.A. | Delhi University | RAMJAS COLLEGE,Political Sc.,First
+o15550,2,P.G. | Delhi University | Arts Faculty,Political Sc.,First
 o15552,1,Graduate,Physics,First
 o15552,2,B.Sc. | DelhiUniversity Delhi | St. Stephen s College,Physics (hons),First
 o15553,1,B.Tech. | IIT Kanpur,Electrical Engg.,First
@@ -3218,14 +3330,16 @@ o15555,2,P.G. | Delhi | Hindu College,History,Second
 o15555,3,"PG Diploma | IIM, Ahmedabad",Public Mgmt & Policy,Outstanding
 o15557,1,Graduate,Art,First
 o15557,2,B.A. | OSMANIA UNIVERSITY HYDERABAD,Psychology,First
-o15559,1,M.A.,History,
-o15559,2,P.G. Diploma,Intellectual Property Rights,
-o15560,1,B.E.,Electrical Engg.,
-o15560,2,M.E.,Electrical Engg.,
-o15561,1,B.Sc.,Botany,
-o15561,2,M.Sc.,Anthropology,
-o15562,1,M.A.,Psychology,
-o15563,1,B.E.,Civil Engg,
+o15559,1,LL.B.,Law,First
+o15559,2,Graduate,Commerce,Second
+o15560,1,B.E. | Birla Institute of Technology and Science Pilani | BITS PILANI,Electrical Engg.,First with Distinction
+o15561,1,Graduate | DELHI UNIVERISTY DELHI | Kirori Mal College,Botany,First
+o15561,2,M.Sc. | DELHI UNIVERISTY DELHI | Hans Raj College Delhi,Anthropology,Second
+o15561,3,P.G. (USA) | Syracuse University Syracuse New York USA | Maxwell Sch of Citizenship and Public Affairs,Public Admn,Grade 'A'
+o15562,1,P.G. | Delhi University | DELHI UNIVERSITY,Psychology,First
+o15562,2,Certificate course | London School of Economics & Political Science | London Sch of Eco & Pol Sci.,Development Economics,Pass
+o15562,3,Certificate | Himachal Pradesh University Shimla | HImachal Pradesh University,French,First
+o15563,1,B.Tech.,Civil Engg,First
 o15565,1,P.G.,Intrnl Business,
 o15565,2,P.G.,Intrnl Deve Policy,
 o15568,1,B.Tech.,Comp. Sci.,
@@ -3402,16 +3516,18 @@ o15717,1,M.B.B.S.,Medicine,
 o15718,1,M.A.,History,
 o15719,1,M.B.A.,Business Admn,
 o15719,2,Ph.D.,,
-o15720,1,B.A.,English,
-o15720,2,M.B.A.,Business Admn,
-o15721,1,B.Sc.,Zoology,
-o15721,2,M.Sc.,Bio-Technology,
-o15722,1,B.E.,Electrical Engg.,
-o15722,2,M.A.,Public Admn,
-o15723,1,B.E.,Mech. Engg.,
-o15724,1,B.Sc.,Hons,
-o15724,2,M.B.A.,,
-o15725,1,M.B.B.S.,Medicine,
+o15720,1,M.B.A. | Punjab University Chandigarh,Marketing,First
+o15720,2,B.A. Honours | Delhi University Delhi | St.Stephens College,English Lit,First
+o15721,1,P.G.,Bio-Technology,Second
+o15721,2,Graduate,Zoology,First
+o15722,1,B.E. (Hons) | BITS PILANI | BITS PILANI,Electrical & Electronics Engineering,-
+o15722,2,M.P.A. | Syracuse University USA,Public Admn,-
+o15722,3,Advanced Management Programme in Public Policy | Indian School of Business Hyderabad,Public Policy,-
+o15723,1,B.E.,Mech.engg.,First
+o15724,1,B.Sc.(Hons) | University of Delhi,Zoology,First
+o15724,2,Master in Business Administration | London School of Economics & Political Science | University College,Business Admn.,First
+o15725,1,M.B.B.S.,Medicine,First
+o15725,2,Advanced Management Programme in Public Policy | Indian School of Business Hyderabad,Public Policy and Management,First
 o15726,1,B.A. Honours | Delhi University | L S R College,History,First
 o15726,2,"M.A. | J N U ,DELHI | J.N.U. New Delhi",History,First
 o15727,1,M.Sc. | ANGRAU Andhra Pradesh Baptala | ANGRAU,Genetics,First
@@ -3425,20 +3541,24 @@ o15731,2,B.Tech.,Mech.engg.,First
 o15732,1,M.B.B.S.,Medicine,Second
 o15735,1,P.G.,Social Work,First
 o15739,1,Graduate,N.A.,Ordinary
-o15742,1,M.Tech.,Management,
-o15743,1,M.A.,Anthropology,
-o15743,2,Ph.D.,Management,
-o15744,1,M.Sc.,Agri.,
-o15744,2,Ph.D.,Plant Pathology,
-o15746,1,B.Tech.,Electrical Engg.,
-o15746,2,M.Tech.,Electrical Engg.,
-o15747,1,B.E.,Electronics,
-o15750,1,B.Tech.,Comp. Sci.,
-o15750,2,P.G.,Public Policy & Mgmt,
-o15751,1,M.B.A.,,
-o15751,2,M.E.,Power Sys Engg,
-o15752,1,B.E.,Electronics,
-o15752,2,B.Sc.,Physics,
+o15742,1,B.Tech.,Civil Engg,First
+o15742,2,M.Tech.,Management,Ordinary
+o15743,1,P.G.,Zoology,First
+o15743,2,P.G.,Anthropology,First
+o15743,3,Ph. D. | IIT Delhi | IIT DELHI,Management,Grade 'A'
+o15743,4,Advanced Management Programme in Public Policy | Indian School of Business Hyderabad | Indian School of Business,Public Policy,First
+o15744,1,M.Sc. (Agri) | Indian Agricultural Research Institure New Delhi,Plant Pathology,First
+o15744,2,Ph. D. | Indian Agricultural Research Institute New Delhi,Plant Pathology,First
+o15744,3,B.Sc. | Andhra Pradesh Agricultural University Rajendra Nagar Hyderabad,Agriculture,First
+o15746,1,M.Tech.,Electrical Engg.,First
+o15746,2,B.Tech.,Electrical Engg.,First
+o15747,1,B.E.,Electronics,First
+o15750,1,B.Tech.,Computer Sc,First
+o15750,2,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | IIM Ahmedabad | IIM Ahemdabad,Public Mgmt & Policy,Awarded
+o15751,1,M.E.,Power Sys Engg,Second
+o15751,2,B.E.,Electrical Engg.,First
+o15752,1,Graduate | Meerut University Meerut Uttar Pradesh,Physics,Gold Medalist
+o15752,2,B.E. | Rajasthan University | MREC Jaipur now MNIT Jaipur,Electronics and Communication,First with Distinction
 o15753,1,B.Tech.,Mech.engg.,First
 o15754,1,B.Tech.,Mech.engg.,First
 o15755,1,Graduate,Electrical Engg.,First
@@ -3450,14 +3570,16 @@ o15757,4,Ph. D. | ALLAHABAD UNIVERSITY ALLAHABAD | ALLAHABAD UNIIVERSITY,Art,Awa
 o15758,1,B.Tech.,Computer Sc,First
 o15759,1,Graduate | OSMANIA UNIVERSITY HYDERABAD | OSMANIA UNIVERSITY,History,First
 o15759,2,LL.B. | OSMANIA UNIVERSITY HYDERABAD | OSMANIA UNIVERSITY,Law,First
-o15763,1,B.Tech.,Electrical Engg.,
-o15764,1,M.P.A.,Harvard,
-o15765,1,M.A.,Psychology,
-o15765,2,M.P.A.,,
-o15766,1,B.A.,Political Sc.,
-o15767,1,B.E.,Mining.Engg.,
-o15767,2,Ph.D.,,
-o15768,1,B.Tech.,Electrical Engg.,
+o15763,1,B.Tech.,Electrical Engg.,First
+o15764,1,P.G.,Sanskrit,First
+o15765,1,Graduate,History,First
+o15765,2,P.G.,Physiology,First
+o15765,3,M.P.A. | U/o Minnesota USA | Hubert H Humphery School of Public Affairs,public affairs,-
+o15766,1,Graduate,Political Sc.,First
+o15767,1,M.B.A.,Finance,First
+o15767,2,B.E. | Anna University | College of Engineering Guindy,Mining.Engg.,First
+o15767,3,Master in Business Administration | Bharathidasan University Tiruchirapalli | Bharathidesan Inst. of Mgnt.,Finance,First with Distinction
+o15768,1,B.Tech.,Electrical Engg.,First
 o15769,1,M.Sc.,Agri.,
 o15770,1,B.Tech.,Comp. Sci.,
 o15771,1,B.Tech.,Electrical Engg.,
@@ -3638,22 +3760,31 @@ o15935,1,B.Tech.,Chem. Engg,
 o15935,2,Ph.D. (USA),Public Health,
 o15936,1,M.P.M.,,
 o15936,2,Post Doctorate,Management,
-o15937,1,B.Sc.,Zoology,
-o15937,2,M.Sc.,Zoology,
-o15938,1,B.E.,Electronics,
-o15938,2,M.Tech.,Optical Communi,
-o15939,1,B.A.,Economics,
-o15939,2,LL.B./B.L.,,
-o15940,1,B.Tech.,Chem. Engg,
-o15940,2,M.Sc.,Public Policy & Mgmt,
-o15941,1,B.A.,Eco.Geography,
-o15941,2,M.A.,Political Sc.,
-o15942,1,M.Phil.,Env. Sci.,
-o15943,1,M.A.,Economics,
-o15945,1,B.E.,Electrical Engg.,
-o15945,2,M.E.,Electrical Engg.,
-o15946,1,M.A.,Sociology,
-o15946,2,M.Phil.,Sociology,
+o15937,1,Graduate,Zoology,First
+o15937,2,P.G.,Ichthyology,First
+o15937,3,B.Sc. | Barkatulla Univerity Bhopal | MLB Girls College,Chemistry,First
+o15937,4,M.Sc. | BARKATULLAH UNIVERSITY BHOPAL BHOPAL | MLB Girls College,Zoology,First
+o15938,1,B.E. | Indian Institute of Technology Roorkee,Electronics,Gold Medalist
+o15938,2,"M.Tech. | Indian Institue of Technology Delhi New Delhi | IIT,Delhi",Optoelectronics,First with Distinction
+o15939,1,LL.B. | University of Delhi,Law,Second
+o15939,2,B.A. Honours | University of Delhi,Economics,Second
+o15940,1,"B.Tech. | IIT, KANPUR",Chemical Engg,First
+o15941,1,P.G.,Political Sc.,First
+o15941,2,Graduate,Political Sc.,First
+o15942,1,Graduate,Zoology,First
+o15942,2,M.Phil.,Environmental Science,First
+o15942,3,P.G.,Environmental Science,First
+o15943,1,Graduate | Delhi University | St Stepehns College,Economics,First
+o15943,2,M.A. | Delhi University | Delhi School of Economics,Economics,First
+o15943,3,"Graduate | University of North Carolina, Chapel Hill | Uni Main Campus",Dev Studies,First
+o15943,4,"Master in International Law and Economics | University of Bern,Switzerland | Uni Main Campus",Economics,First
+o15943,5,Ph. D. | INDIAN INSTITUTE OF FOREIGN TRADE DEEMED UNI NEW DELHI | Indian Instutute of Foreign Trade ( IIFT),Economics,Pass
+o15945,1,B.E. | IIT ROORKEE formerly University of Roorkee Roorkee,Electrical Engg.,First with Distinction
+o15945,2,M.E. | IIT ROORKEE formerly University of Roorkee Roorkee,Electrical Engg.,First
+o15945,3,M.B.A. | IGNOU New Delhi |,Business Admn.,First
+o15946,1,M.Phil.,Sociology,First
+o15946,2,P.G.,Sociology,First
+o15946,3,Graduate,Sociology,First
 o15952,1,B.E.,Electronics,First
 o15952,2,M.P.A. | Harvard University Cambridge Massachusetts | John F Kennedy School of Government,Public Admn,First
 o15959,1,Graduate | OSMANIA UNIVERSITY HYDERABAD | P G Botany,Zoology,First with Distinction
@@ -3661,12 +3792,20 @@ o15959,2,P.G. | Osmania University Hyderabad | OSMANIA UNIVERSITY,Bio Chemistry,
 o15960,1,P.G.,Statistics,First
 o15960,2,Graduate,Statistics,First
 o15961,1,B.Tech.,Electronics,First
-o15964,1,M.Tech.,Mech. Engg.,
-o15965,1,M.Tech.,Soil Science,
-o15966,1,Ph.D.,Agri.,
-o15967,1,B.Tech.,Civil Engg,
-o15968,1,M.A.,English,
-o15969,1,B.Tech.,Petroleum Engg,
+o15964,1,M.Tech.,Mech.engg.,First
+o15964,2,B.Tech.,Mech.engg.,First
+o15965,1,Graduate,Civil Engg,First
+o15965,2,M.Tech.,N.A.,First
+o15966,1,Graduate | Kerala Agricultural University | College of Agriculture,Agriculture,First with Distinction
+o15966,2,P.G. | Kerala Agricultural University | AGRICULTURAL COLLEGE,Agriculture,First with Distinction
+o15966,3,Ph. D. | Indian Agricultural Research Institure New Delhi | Indian Agricultural Research Institute,Agriculture,Gold Medalist
+o15966,4,M.B.L. | National Law School of India University Bangalore | National law School Bangalore,Banking and Financial Institutions,First with Distinction
+o15967,1,B.Tech.,Civil Engg,First
+o15967,2,B.E. | IIT Delhi | IIT DELHI,Civil Engg,Awarded
+o15968,1,Graduate,English,Second
+o15969,1,"B.Tech. | IIT(ISM), Dhanbad",Petroleum Engg,Second
+o15969,2,Certificate | Syracuse University | Maxwell School of Citizenship & Pub Affairs,Public Policy,-
+o15969,3,PG Diploma | I I M Bangalore,Public Policy,-
 o15971,1,B.Tech. | JNTU Hyderabad | College of Engineering Kakinada,Mechanical engineering,First
 o15971,2,M.Tech. | IIT Delhi | IIT DELHI,Industrial engineering,Grade 'A+'
 o15971,3,Ph. D. | Andhra University |,Economics,Awarded
@@ -3677,12 +3816,16 @@ o15974,2,B.E.,Electrical Engg.,First
 o15975,1,B.Tech.,Electrical Engg.,First
 o15975,2,M.Tech. | I I T Kanpur,Electrical Engg.,Not Awarded
 o15975,3,M.P.A. | Harvard | Kennedy Sch of Govt.,International Dev,Not Awarded
-o15976,1,M.Tech.,Chem. Engg,
-o15977,1,B.E.,Electronics & Telecom Engg,
-o15977,2,M.B.A.,Finance,
-o15978,1,B.Tech.,Civil Engg,
-o15982,1,B.A.(Hons),History,
-o15982,2,M.A.(History (hons)),,
+o15976,1,B.Tech.,Chemical Engg,First
+o15976,2,M.Tech.,Chemical Engg,First
+o15977,1,B.E. | Rajasthan University,Electronics,First with Distinction
+o15977,2,Master in Business Administration | Duke University,Finance,First
+o15977,3,LL.B. | Gujarat University,Law,First
+o15978,1,B.Tech. | Indian Institute of Technology Kharagpur | IIT KHARAGPUR,Civil Engg,Grade 'A'
+o15978,2,M.P.A. | University of Minnesota Minnesota USA | University of Minnesota,public affairs,Grade 'A'
+o15982,1,Graduate,History,First
+o15982,2,Diploma,Arabic,First
+o15982,3,P.G.,History,Second
 o15984,1,B.Tech.,Civil Engg,
 o15984,2,M.Tech.,Building Sc,
 o15985,1,M.Sc.,Botany,
@@ -3813,14 +3956,15 @@ o16140,1,B.Tech.,Comp. Sci.,
 o16141,1,B.Tech.,Chem. Engg,
 o16141,2,M.Tech.(Fi,,
 o16141,3,e Sc.&tech.),,
-o16142,1,B.E.,Civil Engg,
-o16142,2,M.B.L.,,
-o16150,1,B.Tech.,,
-o16151,1,B.Tech.,Engineeriing,
-o16152,1,M.B.B.S.,Surgery,
-o16152,2,P.G. Diploma,Finance,
-o16153,1,M.A.,Political Sc.,
-o16153,2,M.P.A.,,
+o16142,1,B.E.,Civil Engg,First
+o16142,2,Master of Business Laws | NLSIU Bangalore,Corporate Laws,First
+o16150,1,B.Tech.,Textile Engg.,Ordinary
+o16151,1,B.Tech. | IIT Delhi New Delhi,Civil Engg,First Rank
+o16151,2,Master in Business Administration | Amity University | University College,Business Admn.,First
+o16152,1,M.B.B.S.,Surgery,First
+o16152,2,M.A. | Punjab University P H Chandigarh,Finance,Second
+o16153,1,P.G.,Political Sc.,Second
+o16153,2,Graduate,Political Sc.,Second
 o16154,1,P.G.,English Lit,First
 o16154,2,Graduate,Physics,First
 o16154,3,M.Sc. | London School of Economics & Political Science,Public Management & Governance,First
@@ -3829,10 +3973,14 @@ o16155,2,P.G.,Genetics,First
 o16156,1,M.P.A.,Economics,-
 o16156,2,B.Tech.,Chemical Engg,First
 o16156,3,M.Sc. | Central University Hyderabad,Animal Sciences,First
-o16158,1,M.Sc.,Physics,
-o16159,1,B.A.,Economics,
-o16160,1,B.A.(Hons),Geography,
-o16161,1,M.V.Sc.,Animal Husby,
+o16158,1,Graduate | L.N. Mithilia University Darbanga,Physics,First
+o16158,2,P.G. | L.N. Mithilia University Darbanga,Physics,First
+o16159,1,B.A. Honours | Delhi University | Hansraj College,Economics,Second
+o16159,2,Master in Business Administration | Cochin University of Science and Technology Kochi | School of Management,Finance,Silver Medal
+o16160,1,Graduate,Geography,First
+o16160,2,P.G. | Institute of Management Technology Ghaziabad | Institute of Management Technology Gaziabad,Human Resource,First
+o16161,1,M.V.Sc.,Animal Husby,First
+o16161,2,B.V.Sc. & A.H.,Veterinary Sc.,First
 o16164,1,Graduate,Forestry,-
 o16164,2,P.G.,Silviculture,-
 o16164,3,Masters in International Development | Duke University USA | SANFORD SCHOOL OF PUBLIC POLICY,International Dev,First
@@ -3842,12 +3990,15 @@ o16166,1,Graduate,Hindi,First
 o16166,2,P.G.,Philosophy,First
 o16167,1,Graduate,English,Second
 o16167,2,P.G.,English,First
-o16179,1,M.A.,English Lit,
-o16179,2,Ph.D.,Management,
-o16180,1,M.Sc.,Agri.,
-o16181,1,B.E.,Electronics,
-o16181,2,,Tel Comn Engg,
-o16183,1,M.A.,Intnl Politics,
+o16179,1,Graduate,English Lit,First
+o16179,2,M.A. | Hemchandracharya North Gujarat University Patan,English,First
+o16179,3,Ph. D. | Hemchandracharya North Gujarat University Patan,Management,First
+o16180,1,P.G.,Agriculture,First
+o16180,2,Graduate,Agriculture,First
+o16180,3,M.Sc. (Agri) | Agricultural University Coimbatore Tamil Nadu | Tamil Nadu Agricultural University,Agriculture,Grade 'A'
+o16181,1,B.E.,Electronics Engg,Second
+o16183,1,P.G.,Intnl Politics,Second
+o16183,2,Graduate,History (hons),Second
 o16184,1,M.B.A.,Business Mgt,
 o16185,1,B.Tech.,Comp. Sci.,
 o16185,2,M.B.A.,Business Admn,
@@ -3971,25 +4122,42 @@ o16383,2,P.G.,Public Policy & Mgmt,
 o16384,1,B.A.,Hons,
 o16384,2,M.A.,History,
 o16385,1,M.B.B.S.,Obstetrics,
-o16386,1,M.A.,History,
-o16386,2,M.I.D.P.,,
-o16387,1,M.Sc.,Chemistry,
-o16388,1,M.Phil.,Political Sc.,
-o16389,1,M.Sc.,Agri.,
-o16390,1,M.Phil.,Sociology,
+o16386,1,Graduate | Delhi | DELHI UNIVERSITY,History,First
+o16386,2,P.G. | Delhi | DELHI UNIVERSITY,History,Second
+o16386,3,Masters in International Development | Duke University | SANFORD SCHOOL OF PUBLIC POLICY,Public Policy,Grade 'A'
+o16387,1,M.Sc. | IIT,Chemistry,First
+o16387,2,Masters in Public Policy | University of Califirnia Berkeley,public affairs,First
+o16388,1,Graduate,Political Sc.,First
+o16388,2,M.Phil.,Political Sc.,First
+o16388,3,P.G.,Political Sc.,First
+o16389,1,Graduate,Agriculture,First
+o16389,2,P.G.,Plant Pathology,First
+o16389,3,"M.Sc. | TANU, COIMBATORE | Tamil Nadu Agricultural University",Agriculture,First with Distinction
+o16390,1,Graduate | Delhi Univeristy,English Lit,First
+o16390,2,P.G. | JAWAHARLAL NEHRU UNIVERSITY DELHI,English,First
+o16390,3,M.Phil. | JAWAHARLAL NEHRU UNIVERSITY DELHI,Sociology,First
+o16390,4,Executive Public Policy for international | Syracuse University | Maxwell Sch of Citizenship and Public Affairs,Public Administration,First
 o16391,1,Graduate,Botany,First
 o16391,2,M.Sc. | University of Hyderabad | School of Life Sciences,Animal Sciences,First
 o16391,3,Ph. D. | Osmania University | OSMANIA UNIVERSITY,Microbiology,First
 o16392,1,Graduate | Devi Ahilya University Indore INDORE | College of Science,Physics,First with Distinction
 o16392,2,P.G. | Poona University Pune | Poona University,Geology,Gold Medalist
-o16397,1,M.Sc.,Genetics,
-o16398,1,B.E.,Electronics,
-o16398,2,M.Tech.,Mgmt & System,
-o16399,1,B.E.,Electrical Engg.,
-o16400,1,C.A.,Commerce,
-o16401,1,M.B.B.S.,Medicine,
-o16402,1,M.B.A.,Business Mgt,
-o16403,1,B.Tech.,Material Sc,
+o16397,1,P.G.,Genetics,First
+o16397,2,Graduate,Agriculture,First
+o16398,1,B.E.,Electronics Engg,First
+o16398,2,M.Tech.,Management&system,First
+o16399,1,B.E.,Electrical Engg.,First
+o16400,1,B.Com Honours,Cost Acct,First
+o16400,2,Chartered Accountant,Commerce,First
+o16400,3,PG Diploma in Financial Management | IIM INDORE | IIM INDORE,Advanced Financial Accounting and Management Accou,Grade 'A+'
+o16400,4,SMP | IIM Ahmedabad | IIM Ahemdabad,Management Economics,Grade 'A+'
+o16400,5,Management Programme in Public Policy | IIM Calcutta Calcutta | IIM Calcuuta,Public Policy & Mgmt,Grade 'A'
+o16400,6,"M.B.A. | ICFAI University Hyderabad | ICFAI,HYDERABAD",Management,Grade 'A'
+o16401,1,M.B.B.S. | Gulbarga University Gulbarga,All Medical Subjects,Gold Medalist
+o16401,2,M.B.B.S. | Gulbarga University Gulbarga,Medicine,Gold Medalist
+o16402,1,Graduate | Agricultural University Coimbatore Tamil Nadu | Agricultural College and Research Institute Killikulam,Agriculture,First
+o16402,2,P.G. | Agricultural University Coimbatore Tamil Nadu | Tamil Nadu Agricultural University,Business Mgt,First
+o16403,1,B.Tech.,Mathematics,First
 o16409,1,B.E. | IIT ROORKEE ROORKEE Uttar Pradesh | IIT ROORKEE,Electronics,First with Distinction
 o16409,2,B.Tech. | IIT ROORKEE formerly University of Roorkee Roorkee,Electronics Engineering,First with Distinction
 o16409,3,Executive Public Policy for international | Duke University,Public Finance,Grade 'A+'
@@ -3998,14 +4166,25 @@ o16410,2,Graduate,Agriculture,First
 o16410,3,Ph. D. | Indian Agricultural Research Institure New Delhi,Agriculture,First
 o16410,4,Ph. D. | IARI New Delhi,Horticulture,-
 o16411,1,Graduate,English,Second
-o16415,1,M.A.,Intrnl Deve Policy,
-o16415,2,Ph.D.,Economics,
-o16416,1,M.B.B.S.,Medicine,
-o16417,1,M.B.B.S.,Medicine,
-o16419,1,B.A.,Psychology,
-o16420,1,M.A.,Geography,
-o16421,1,B.A.(Hons),History,
-o16421,2,M.A.,History,
+o16415,1,B.Com. | GNDU Amritsar | D A V COLLEGE JALANDHAR,Commerce,Gold Medalist
+o16415,2,M.A. | Punjab University Chandigarh | Punjab University,Economics,First
+o16415,3,PG Diploma | IGNO University New Delhi,Rural Dev,Gold Medalist
+o16415,4,FCS | Institute of Company Secretaries of India New Delhi | Instt. of Company Sercretaries of India,Company Mgt.,Gold Medallist
+o16415,5,Ph. D. | H.P.University Shimla | HImachal Pradesh University,Economic Dev.,First
+o16415,6,Master of International Development Policy | Duke University USA |,Intrnl Deve Policy,First
+o16415,7,Micro Masters | MIT(Massachusetts Institute of Technology)USA | MIT,Development,First
+o16415,8,Online Certificate Course | University of Leeds Leeds | University College,Digital Governance,First
+o16415,9,Advanced Management Programme in Public Policy | Indian School of Business Hyderabad | Indian School of Business,Public Policy,First
+o16416,1,M.B.B.S.,Medicine,Second
+o16416,2,M.B.B.S. | PUNJABI UNIVERSITY PATIALA | Government Medical College Patiala,Medical Sciences,Second
+o16417,1,M.B.B.S.,Clinical Pathgy,First
+o16419,1,Graduate | ALLAHABAD UNIVERSITY ALLAHABAD | ALLAHABAD UNIIVERSITY,Psychology,Second
+o16419,2,Masters in Public Policy | Australian National University Canberra | Crawford School of Government and Economics,Public Policy,Awarded
+o16419,3,Ph.D. (Doctor of Philosophy) | IIM INDORE | IIM INDORE,Philosophy,Pass
+o16420,1,Graduate,Geography,First
+o16420,2,P.G.,Geography,Second
+o16421,1,Graduate,History (hons),First
+o16421,2,P.G.,History,First
 o16422,1,M.B.A.,,
 o16422,2,Post Doctorate,Management,
 o16423,1,M.Sc.,Plant Breeding,
@@ -4177,22 +4356,25 @@ o16753,1,B.A.,Sociology,
 o16753,2,M.Phil.,Sociology,
 o16754,1,B.A.,History,
 o16754,2,P.G. Diploma,Pers.Mgt.,
-o16755,1,M.B.B.S.,Surgery,
-o16756,1,B.A.(Hons),History,
-o16756,2,M.A.,Political Sc.,
-o16757,1,B.B.A.,Business Mgt,
-o16757,2,M.P.A.,Public Admn,
-o16758,1,B.P.T.,,
-o16758,2,M.Sc.,Psychology,
-o16759,1,B.E.,Instrumentation,
-o16759,2,M.A.,Public Admn,
-o16760,1,M.A.,Poltics,
-o16760,2,M.Phil.,,
-o16761,1,B.E.,Electronics,
-o16762,1,LL.B./B.L.,,
-o16763,1,M.Phil.,Political Sc.,
-o16763,2,P.G.,Geography,
-o16764,1,M.Com.,,
+o16755,1,M.B.B.S. | KERELA,Surgery,First
+o16755,2,M.Sc. | King's College London,Public Policy & Mgmt,Grade 'A'
+o16756,1,B.A. Honours | punjab,History,First
+o16756,2,M.A. | punjab,Political Sc.,Second
+o16757,1,Graduate | GUJARAT,Business Mgt,First
+o16758,1,Graduate | CHENNAI,N.A.,First
+o16759,1,B.E. | Delhi,Instrumentation,First
+o16759,2,Certificate | N C F M Mumbai,Finance,Pass
+o16759,3,P.G. (Masters) | HARVARD UNI. | John F Kennedy School of Government,Public Admn,First
+o16760,1,"M.Phil. | JNU, New Delhi | South East Asian Studies Sch of International Studies",N.A.,First
+o16760,2,B.A. | Rajasthan University Jaipur | BBD College Chimanpura,Political Sc.,First
+o16760,3,"M.A. | J.N.U.,New Delhi | School of International Studies",Poltics,First
+o16760,4,LL.B. | Pt R S S University Raipur (CG),Law,First
+o16761,1,B.E. | Pune,Electronics,First with Distinction
+o16762,1,LL.B. | NAGPUR,Law,First
+o16763,1,B.A.,History,First
+o16763,2,M.A. | J.N.U.NEW DELHI,Geography,First
+o16763,3,M.Phil. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Political Geography,First
+o16764,1,M.Com. | Annamalai University Annamalai Nagar tamil Nadu | Annamlai University,Commerce,First
 o16765,1,B.A. | ALLHABAD,Political Sc.,First
 o16765,2,M.A. | JNU.N.DELHI | JNU New Delhi,INTNL RELATIONS,First
 o16765,3,"M.Phil. | JNU,N.DELHI",Diplomacy,First
@@ -4202,16 +4384,27 @@ o16767,1,B.A. | NAGARJUNA,History,First
 o16767,2,"PG Diploma | IIM,BANGALORE",Management,-
 o16768,1,B.Sc.(Agri) | KERALA,Agriculture,First with Distinction
 o16768,2,M.Sc. | IARI,Agriculture,First with Distinction
-o16776,1,M.A.,History,
-o16777,1,M.A.,English Lit,
-o16777,2,M.Phil.,English Lit,
-o16778,1,M.Sc.,Physics,
-o16779,1,M.A.,English Lit,
-o16781,1,B.Sc.,Physics,
-o16782,1,C.A.,C.A.,
-o16783,1,B.V.Sc.,Anatomy,
-o16784,1,B.A.,History,
-o16785,1,B.E.,Comp. Sci.,
+o16776,1,B.A. | LUCKNOW,History,First
+o16776,2,M.A. | LUCKNOW,History,First
+o16777,1,B.A. Honours | Delhi,English Lit,Second
+o16777,2,M.A. | Delhi,English Lit,Second
+o16777,3,M.Phil. | Delhi,English Lit,Pass
+o16777,4,Management Programme in Public Policy | London School of Economics & Political Science,Public Policy,Awarded
+o16778,1,B.Sc. | LUCKNOW,Physics,First
+o16778,2,M.Sc. | LUCKNOW,Physics,First
+o16779,1,B.A. Honours | Delhi,English Lit,Second
+o16779,2,M.A. | Delhi,English Lit,Second
+o16779,3,M.A. | Himachal Pradesh University,Public Admn,Second
+o16781,1,B.Sc. | Punjab University Chandigarh | MCM DAV COLLEGE,Physics,First
+o16781,2,MBA MBL | National Law School of India Univedrsity Bangalore | National Law School of India University Bangalore,Business Law,Second
+o16782,1,B.Com. | ANNAMALLAI,Auditing,First
+o16782,2,C.A. | ICAI,Auditing,Second
+o16783,1,B.V.Sc. & A.H. | Rajendra Agricultural University Bihar,Veterinary Sc.,First
+o16783,2,M.V.Sc. | Rajendra Agricultural University Bihar,Livestock Production,-
+o16783,3,M.A. | Indira Gandhi National Open Univerity (IGNOU) New Delhi,Economics,First
+o16784,1,B.A. | Delhi,History,Second
+o16784,2,Master of Business Laws | National Law School of India Univedrsity Bangalore | University College,Contract and Taxation Law,Pass
+o16785,1,B.E. | Delhi,Computer Sc,First with Distinction
 o16788,1,"B.A. | WARANGAL,A.P.",Economics,Second
 o16788,2,"M.A. | JNU,N.DELHI",Geography,First
 o16788,3,"M.Phil. | JNU,N.D.",Geography,First
@@ -4230,23 +4423,36 @@ o16794,1,"Graduate | ILS COLLEGE,PUNE",Social Services,First
 o16794,2,"LL.B. | ILS LAW,PUNE",Law,First
 o16794,3,B.A.LLB (Hons) | Pune University,Contract Act,First
 o16795,1,B.A. | RAJASTHAN,History,First
-o16797,1,B.Sc.,Mathematics,
-o16797,2,M.B.A.,,
-o16798,1,B.Sc.,,
-o16799,1,B.Tech.,,
-o16800,1,M.Sc.,Psychology,
-o16801,1,B.Tech.,Civil Engg,
-o16802,1,LL.B./B.L.,,
-o16802,2,M.Com.,,
-o16803,1,B.Sc.,Microbiology,
-o16803,2,M.Sc.,,
-o16804,1,C.A.,,
-o16804,2,Ph.D.,,
-o16805,1,M.A.,Political Sc.,
-o16806,1,B.A.M.S.,Ayurvedic,
-o16807,1,B.Tech.,Mech. Engg.,
-o16808,1,B.A.,Economics,
-o16809,1,B.A.,Public Admn,
+o16797,1,B.E. | Madras University Chennai | Hindustan College of Engineering,Mechanical,First
+o16797,2,B.Sc.(Hons) | Delhi | Miranda House,Mathematics,First
+o16797,3,"M.B.A. | IIM,AHMEDABAD",Business Mgt,Second
+o16797,4,Diploma,French,First with Distinction
+o16797,5,Certificate course | Syracuse,Public Admn,Grade 'A'
+o16798,1,B.Sc. | TAMIL NADU,Agriculture,First
+o16798,2,"M.Sc. | IARI,NEW DELHI",Plant Botany,First
+o16798,3,M.B.A. | Bharatidasan University Tiruchirapalli,Business Admn.,Grade 'A'
+o16799,1,"B.Tech. | IIT,DELHI",Electrical Engg.,First
+o16800,1,B.Com. | ANNAMALAI,Commerce,First
+o16800,2,M.Com. | ANNAMALAI,Commerce,Second
+o16801,1,B.E. | BHARATHIAR | Kumarguru College of Technology,Civil Engg,First
+o16802,1,B.Com. | BHARATHIAR | PSGR Krishanand womens college,Commerce,First
+o16802,2,M.Com. | BHARATHIAR | PSG College of Arts and Science,Commerce,First
+o16802,3,Bachelor of Law | Pt Ravi Shankar Shukla University Raipur | University College,Law,First
+o16803,1,B.Sc. | BHARATHIAR,Microbiology,First
+o16803,2,M.Sc. | BHARATHIAR,Microbiology,First
+o16803,3,Bachelor of Law | PT. Ravishankar Shukla University Raipur,Law,First
+o16804,1,B.Com. | GUJARAT,Commerce,First
+o16804,2,C.A. | ICAI,Accountancy,Second
+o16804,3,Ph. D. | Sardar Patel University Vallabh Vidyanagar Gujarat,Management,-
+o16805,1,B.A. | ALLHABAD | ALLAHABAD UNIIVERSITY,English Lit,First
+o16805,2,M.A. | ALLHABAD | ALLAHABAD UNIIVERSITY,Political Sc.,First
+o16805,3,Certificate | THE INDIAN LAW INSTITUTE NEW DELHI | THE INDIAN LAW INSTITUTE,Cyber Law,Grade 'A+'
+o16805,4,Certificate | THE INDIAN LAW INSTITUTE NEW DELHI | THE INDIAN LAW INSTITUTE,Intellectual Property Rights,Grade 'A+'
+o16805,5,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | King's College London | King's College London,Public Policy,First with Distinction
+o16806,1,Graduate | ROHTAK,Ayurvedic,First
+o16807,1,B.Tech. | BHU Varanasi,Mech.engg.,First
+o16808,1,B.A. | punjab,History,First
+o16809,1,B.A. | MUMBAI,Political Sc.,Second
 o16810,1,B.Sc.(Hons),Electrical Engg.,
 o16810,2,B.Tech.,Electrical Engg.,
 o16811,1,B.E.,Mech. Engg.,
@@ -4441,28 +4647,45 @@ o17097,1,B.A. LL.B.,,
 o17097,2,LL.M.,,
 o17098,1,Graduate,,
 o17099,1,B.A.,Hons,
-o17100,1,B.A.,English,
-o17100,2,M.Phil.,Intnl Politics,
-o17101,1,B.Tech.,,
-o17102,1,B.A.,English Lit,
-o17102,2,M.A.,Public Policy,
-o17103,1,B.E.,Mech. Engg.,
-o17104,1,M.B.B.S.,Medicine,
-o17105,1,B.E.,Comp. Sci.,
-o17105,2,M.A.,Public Policy,
-o17106,1,M.Sc.,Organic Chemistry,
-o17106,2,Ph.D.,Management,
-o17107,1,B.Com.,,
-o17107,2,M.B.A.,,
-o17108,1,B.Sc.,,
-o17108,2,M.B.A.,,
-o17109,1,B.A.,,
-o17110,1,B.A.,History,
-o17112,1,B.Tech.,,
-o17113,1,M.A.,Sociology,
-o17113,2,M.Phil.,Sociology,
-o17114,1,B.A.,,
-o17114,2,M.A.,Public Policy,
+o17100,1,B.A. | Sambalpur Univ.,English,First with Distinction
+o17100,2,M.A. | Utkal University,Political Sc.,First
+o17101,1,B.E. | U/RAJASTHAN JAIPUR,Electrical Engg.,First with Distinction
+o17102,1,B.A. Honours | U/Gujarat,English,-
+o17102,2,M.A. | Indira Gandhi Natinal Open University New Delhi | Indira Gandhi National Open University,Public Policy,First
+o17103,1,P.G. | Alagappa University,Business Mgt,First
+o17103,2,B.E. | U/Madras,Mech.engg.,First
+o17104,1,M.B.B.S. | Rajasthan Univ Jaipur,Medicine,First
+o17105,1,B.E. | U/Bharathidasan,Computer Sc,First
+o17106,1,B.Sc. | Magadh Univ,Physics,-
+o17106,2,M.Sc. | Magadh Univ Bodh-Gaya,Chemistry,First
+o17106,3,PG Diploma | CIPE&T Madras,Plasti Techlogy,-
+o17106,4,Certificate course | THE INDIAN LAW INSTITUTE NEW DELHI | THE INDIAN LAW INSTITUTE,Intellectual Property Rights,Grade 'A'
+o17106,5,Certificate course | Indian Law Institue New Delhi | THE INDIAN LAW INSTITUTE,Cyber Law,Grade 'A+'
+o17106,6,Master of Arts | IGNOU New Delhi | LBSNAA,Public Policy,Grade 'B'
+o17106,7,Master in Business Administration | SIKKIM MANIPAL UNIVERSITY MANIPAL | SIKKIM MANIPAL UNIVERSITY,Management,Pass
+o17106,8,Master of Arts | King's College London | King's College London,South Asian Security Issues,Pass with Merit
+o17106,9,Ph.D. (Doctor of Philosophy) | GUJARAT,Administrative Mgmt,-
+o17107,1,B.Com. | Punjab University Patiala,Commerce,First
+o17107,2,M.B.A. | Punjab University Patiala,Intrnl Business,First
+o17107,3,M.B.A. | Massachusetts,Management,Grade 'A'
+o17107,4,Master of Arts | IGNOU,Economics,First
+o17108,1,B.Sc. | AIHS&Hr.Ednfor Women Coimbatore,Computer Sc,First
+o17108,2,M.B.A. | AI for HS&Hr.Education for Women Coimbatore,Finance,First with Distinction
+o17108,3,LL.B. | U/Delhi,Law,First
+o17108,4,M.P.H. | University of Texas System,Public Health,Grade 'A'
+o17108,5,Master of Public Health | The University of Texas at Tyler,Public Health,First with Distinction
+o17109,1,B.A. | U/Madras,History,First
+o17109,2,Master of Arts | IGNOU New Delhi | IGNOU,Public Policy,Third
+o17109,3,M.A. | Harvard University | The Harvard Businessss School,Public Admn,Awarded
+o17109,4,Masters in Public Policy | Harvard University | The Harvard Businessss School,Administrative Mgmt,Pass
+o17109,5,Master of Arts | Harvard University Cambridge Massachusetts,Public Admn,First
+o17110,1,B.A. Honours | IGNOU New Delhi,History,First
+o17112,1,B.Tech. | U/Calicut Calicut,Architecture,Second
+o17113,1,B.A. Honours | U/Delhi Delhi,Sociology,Second
+o17113,2,M.A. | JNU New Delhi,Sociology,-
+o17113,3,M.Phil. | JNU New Delhi,Sociology,-
+o17114,1,B.A. | H.P.University Shimla | Vallabh Govt.College,Sociology,First
+o17114,2,"M.A. | IGNOU, New Delhi",Public Policy,-
 o17116,1,B.Sc. | U/Madras Chenai,Physics,First
 o17116,2,M.A. | Anamalai Univ. Chennai,Sociology,Second
 o17117,1,B.Sc. | U/Allahabad,Botany,First
@@ -4478,48 +4701,61 @@ o17122,1,B.A. | Bharathiar Univ Coimbatore,History,First
 o17122,2,M.A. | U/Madras,Anthropology,First
 o17127,1,M.Phil.,,
 o17127,2,M.Sc.,Mathematics,
-o17130,1,P.G. Diploma,,
-o17130,2,Ph.D.,Economics,
-o17131,1,B.Tech.,Electrical Engg.,
-o17132,1,B.E.,Mech. Engg.,
-o17133,1,B.Tech.,Mech. Engg.,
-o17134,1,B.A.(Hons),Economics,
-o17135,1,M.B.A.,,
-o17136,1,B.Sc.,Physics,
-o17137,1,M.A.,Philosophy,
-o17137,2,M.P.A.,Public Admn,
-o17139,1,B.Tech.,Mining.Engg.,
-o17140,1,M.B.B.S.,Medicine,
+o17130,1,B.A. | U/Allahabad,Economics,Second
+o17130,2,PG Diploma | IMD & R Pune,Management,-
+o17130,3,M.A. | U/Pune Pune,Economics,First
+o17130,4,Ph. D. | University of Mumbai,Economics,-
+o17131,1,B.Tech. | IIT Kanpur,Electrical Engg.,-
+o17132,1,B.E. | Roorkee Univ Roorkee,Mech.engg.,First
+o17133,1,B.Tech. | IIT Kanpur,Mech.engg.,First
+o17134,1,Graduate | Mahatma Gandhi Univ. Kottayam,Economics,First
+o17134,2,B.A. | Mahatama Gandhi University Kottayam,Economics,First
+o17135,1,B.Sc.(Agri) | Tamil Nadu Agricultural Univeristy Coimbatore Tamil Nadu,Agriculture,First
+o17135,2,M.B.M. | TN Agrl.Univ Coimbatore,Management,First
+o17136,1,B.Sc. | NAGPUR,Physics,First
+o17137,1,B.A. | U/o Allahabad Allahabad,Art,First
+o17137,2,M.A. | Allahabad University Allahabad,Philosophy,First
+o17137,3,M.P.A. | University College London (UCL) | University College,Public Administration,First
+o17139,1,"B.Tech. | IIT, Kharagpur Kharagpur",Mining.Engg.,First
+o17140,1,M.B.B.S. | Bangalore Univ.,Medicine,Second
 o17143,1,B.Sc. | Delhi University Delhli,Science,First
 o17143,2,M.Sc. | C C S University,Botany,First
 o17143,3,Ph. D. | CCS University Meerut,Philosophy,Awarded
 o17143,4,Ph. D. | CCS University Meerut,Botany,Awarded
 o17144,1,B.Sc.(Hons) | Delhi Univesity Delhi,Chemistry,First
-o17145,1,B.Com.,,
+o17145,1,B.Com. | University of Madras Madras,N.A.,First
 o17146,1,B.Tech. | Pondicherry | Puducherry University,Electronics,First with Distinction
 o17147,1,B.A. | U/o Allahabad,Art,First
 o17147,2,M.A. | Allahabad University Allahabad,Sanskrit,First
 o17148,1,B.A. Honours | Ranchi Univ. Ranchi,English,First
 o17149,1,M.B.B.S. | University of Rajasthan,N.A.,First
-o17151,1,M.A.,English,
-o17152,1,B.Tech.,Comp. Sci.,
-o17153,1,M.A.,Political Sc.,
-o17154,1,M.A.,History,
-o17155,1,M.V.Sc.,Dairy Science,
-o17156,1,B.E.,Electronics,
-o17156,2,M.A.,Public Policy,
-o17157,1,M.A.,Public Policy,
-o17157,2,M.B.A.,Marketing,
-o17158,1,M.Sc.,Agri.,
-o17158,2,Ph.D.,Agri.,
-o17159,1,Ph.D.,Agri.,
-o17160,1,M.A.,Ancient History,
-o17160,2,M.A.,Public Policy,
-o17161,1,M.A.,Public Policy,
-o17161,2,M.Com.,,
+o17151,1,B.A. Honours | Jadavpur Univ. Kolkata(WB),English,Second
+o17151,2,M.A. | Jadavpur University,English Lit,Second
+o17152,1,"B.Tech. | IIT, Kanpur Kanpur",Computer Tech,First
+o17153,1,B.A. | U/o Allahabad,Art,First
+o17153,2,M.A. | Allahabad University Allahaad,Political Sc.,First
+o17154,1,B.A. | Allahabad,History,Second
+o17154,2,M.A. | Allahabad,Modern Ind.Hist,Second
+o17155,1,B.V.Sc. & A.H. | TN VET.& Ani. Sciences Madras | Madras Veterinary,Science,-
+o17155,2,M.V.Sc. | TANUVAS | Madras Veteniary College,Dairy Science,First
+o17156,1,B.E. | M.K. University,Electronics,Second
+o17156,2,M.A. | IGNOU New Delhi,Public Policy,First
+o17157,1,B.A. | M L Sukhadia Univ. Udipur,English Lit,Second
+o17157,2,M.B.A. | MLSU Udaipur,Business Admn.,Second
+o17158,1,"B.Sc.(Agri) | TANU, COIMBATORE | AC&RI Madurai",Agriculture,First
+o17158,2,M.Sc. | IARI New Delhi,Agriculture,First
+o17159,1,B.Sc.(Hons),Agriculture,First
+o17159,2,M.Sc. | IARI New Delhi,Agronomy,First
+o17159,3,Ph. D. | University | Indian Agricultural Research Institute New Delhi,Agronomy,First
+o17160,1,B.A. | U/ALLAHABAD (U.P.),History,First
+o17160,2,M.A. | U/ALLAHABAD (U.P),Ancient History,First
+o17161,1,M.Com. | MG University Kottayam,N.A.,First with Distinction
+o17161,2,"B.Com. | Mahatama Gandhi University, Kottayam",N.A.,First with Distinction
+o17161,3,M.A. | Indira Gandhi Natinal Open University New Delhi,Public Policy,First
 o17162,1,B.A.,Hons,
 o17162,2,M.A.,Sociology,
-o17163,1,M.A.,Public Policy,
+o17163,1,B.A. | Bhagalpur University Bhagalpur,N.A.,Second
+o17163,2,M.A. | Indira Gandhi National Open University Delhi | Indira Gandhi National Open University New Delhi,Public Policy,Pass
 o17164,1,B.Tech.,Civil Engg,
 o17165,1,M.A.,English,
 o17165,2,M.Phil.,English Lit,
@@ -4728,9 +4964,9 @@ o17370,1,B.Com.,Hons,
 o17370,2,LL.M.,,
 o17371,1,M.A.,,
 o17371,2,M.Phil.,Economics,
-o17377,1,B.Sc.,,
-o17377,2,M.Sc.,,
-o17382,1,B.Sc.,Civil Engg,
+o17377,1,M.Sc. | Gujarat University,Physics,First
+o17382,1,B.Tech. | Bhagalpur University Bhagalpur Bihar,Civil Engg,First with Distinction
+o17382,2,Certificate course | IIM Calcutta Calcutta | IIM Calcuuta,Management,Awarded
 o17384,1,Graduate,Journalism,
 o17384,2,M.B.A.,,
 o17387,1,B.A.,Pharmacy,
@@ -4738,20 +4974,23 @@ o17388,1,B.E.,Chem. Engg,
 o17388,2,Diploma,Computer System,
 o17389,1,M.Sc.,Physics,
 o17390,1,B.A.,,
-o17391,1,P.G. Diploma,Pers.Mgt.,
-o17392,1,M.Phil.,Political Sc.,
-o17393,1,B.E.,Chem. Engg,
-o17394,1,B.Com.,,
-o17394,2,C.M.A.,,
-o17395,1,B.Tech.,Chem. Engg,
-o17396,1,B.A.,Economics,
-o17396,2,M.A.,Economics,
-o17397,1,B.Sc.,Science,
-o17398,1,B.V.Sc.,Veterinary Sc.,
-o17399,1,B.E.,Comp. Sci.,
-o17400,1,B.Tech.,Info. Tech.,
-o17401,1,B.Com.,Sociology,
-o17402,1,M.A.,Economics,
+o17391,1,B.A. | Univ. of Kerala Thiruvananthapuran,English Lit,First
+o17391,2,PG Diploma | Symb.Cent.forMGT.,Pers.Mgt.,Grade 'B'
+o17392,1,B.A. Honours | Univ. of Delhi Delhi,Political Sc.,Second
+o17392,2,M.A. | Univ. of Delhi Delhi,Political Sc.,Second
+o17393,1,B.E. | Univ. of Gujarat | L.D.Engg.College,Chemical Engg,First with Distinction
+o17394,1,B.Com. | Univ. of Madras,Commerce,First
+o17394,2,ICWAI | Inst.of C&WA,Accountancy,-
+o17395,1,B.Tech. | Nagpur University Nagpur,Chemical Engg,First
+o17396,1,B.A. | Lucknow Univ. Lucknow,Economics,First
+o17396,2,M.A. | Lucknow Univ. Lucknow,Economics,First
+o17397,1,B.Sc. | University of Pune,Science,First
+o17398,1,B.V.Sc. & A.H. | Univ.of Agri.Sciences Dharwad,Veterinary Sc.,-
+o17399,1,B.E. | Bharathiar Univ. Coimbatore,Computer Science and Engineering,First
+o17400,1,B.Tech. | U.P.Tech. University Lucknow,Iformation&tech,First
+o17401,1,B.Com Honours | Patna University,Sociology,First
+o17402,1,B.A. | MG University Kottayam,Art,First
+o17402,2,M.A. | MG University Kotttayam,Economics,First
 o17403,1,"B.Tech. | IIT, Madras",Mech.engg.,-
 o17404,1,B.Tech. | Kurushetra Univ.,Electrical Engg.,First
 o17404,2,M.A. | University of Rajasthan Jaipur,Public Admn,Second
@@ -4760,27 +4999,43 @@ o17404,4,Certificate | Deptt of Personnel & Training,Iformation&tech,-
 o17405,1,B.A. Honours | Univ. of Delhi,History,Second
 o17405,2,LL.B. | Univ. of Delhi,Law,Second
 o17406,1,M.A.,History,
-o17407,1,B.Tech.,Electrical Engg.,
-o17407,2,M.A.,Public Policy,
-o17408,1,M.A.,History,
-o17409,1,B.A.,Sociology,
-o17410,1,M.A.,English,
-o17410,2,M.A.,Philosophy,
-o17411,1,B.A.,Economics,
-o17412,1,M.Tech.,Computer Tech,
-o17413,1,B.E.,Mech. Engg.,
-o17414,1,P.G.,Economics,
+o17407,1,B.Tech. | Kakatipa University Hyderabad,Electrical Engg.,First
+o17407,2,P.G. | IIS Bangalore,Engineeriing,First
+o17408,1,Matric | Allahabad,Hindi English Math NaturalScience SSc Sanskrit Eco,First
+o17408,2,Intermediate | Allahabad,Hindi English Math Physics Chemistry,Second
+o17408,3,B.A. | Purva. University Jaun Pur,Economics,Second
+o17408,4,M.A. | V B S Purvanchal University Jaunpur,Economics,Second
+o17408,5,M.A. | VBS Purvan.Univ. Jaunpur,History,First
+o17408,6,NET | Varanasi,History,Awarded
+o17408,7,Certificate | New Delhi,Procurement,Awarded
+o17409,1,B.A. | IGNOU,Sociology,Second
+o17410,1,B.A. | Patna University,Art,First
+o17410,2,M.A. | Patna University,Philosophy,First
+o17410,3,M.A. | IGNOU | IGNOU,English,First
+o17411,1,B.A. | Delhi University,Economics,Second
+o17412,1,B.E. | Univ. of Rajasthan Jaipur,Computers,First
+o17412,2,"M.Tech. | IIT Delhi | IIT, Delhi",Computer Sc,First
+o17412,3,M.A. | IGNOU New Delhi | LBSNAA,Public Policy & Mgmt,First
+o17412,4,M.A. English | IGNOU New Delhi | A N College Patna,English,First
+o17413,1,B.E. | Univ.of Rajasthan Jaipur,Mech.engg.,First
+o17414,1,Master of Arts | University of Delhi | University of Delhi,Economics,Second
 o17416,1,B.Tech.,Electronics,
 o17417,1,B.E.,Civil Engg,
 o17418,1,B.Tech.,,
 o17420,1,M.Tech.,Indl Engg.,
-o17421,1,M.A.,Economics,
-o17421,2,Ph.D.,Economics,
-o17422,1,B.A.,Sanskrit,
-o17423,1,B.A.,Political Sc.,
-o17424,1,M.A.,Labour Welfare,
-o17425,1,B.Tech.,Electrical Engg.,
-o17426,1,B.Tech.,Comp. Sci.,
+o17421,1,B.A. Honours | Delhi University | Shriram College of Commerce,Economics,First
+o17421,2,M.A. | Delhi University | Delhi School of Economics,Economics,First
+o17421,3,"Ph. D. | Jamia Millia Islamia Uni., ND New Delhi | Jamia Millia Islamia Uni., ND",Economics,First
+o17422,1,Graduate | Patna University | Patna College,Sanskrit,First
+o17423,1,B.A. | Lucknow University | Lucknow,Political Sc.,First
+o17424,1,B.Sc. | Gujrat University | TOLANI C.A.S.,Physics,First
+o17424,2,P.G. | Gujrat University | U.S.S.,Labour Welfare,First
+o17425,1,B.Tech. | Deemed | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY,Electrical Engg.,First
+o17425,2,"M.A. | Indira Gandhi Natinal Open University New Delhi | IGNOU,New Delhi",Public Policy,First
+o17425,3,M.A. | Indira Gandhi Natinal Open University New Delhi | IGNOU NEW DELHI,Economics,Gold Medalist
+o17425,4,Master of Public Administration | Harvard University | Harvard University Massachusetts USA,Intnl Economics,Pass
+o17426,1,B.Tech. | KNIT,Computer Sc,First
+o17426,2,PG Diploma | NLSIU Bangalore,Environmental Laws,First
 o17427,1,"B.E. | Visveswarian, Tech. University Karnataka | Siddaganga, Institute",Electronics,First with Distinction
 o17427,2,Master of Arts | Indira Gandhi National Open University,Public Policy,First
 o17427,3,M.Sc. | University College London (UCL),Business Finance,First with Distinction
@@ -4794,20 +5049,27 @@ o17430,1,B.A. | IGNOU,History,First
 o17430,2,B.A. | IGNO University New Delhi,Political Sc.,First
 o17431,1,B.A. | Lucknow University,Political Sc.,First
 o17431,2,M.A. | Lucknow University,Political Sc.,First
-o17432,1,B.E.,Mech. Engg.,
-o17432,2,M.Tech.,Design of Mech Equipments,
-o17433,1,B.Tech.,Civil Engg,
-o17434,1,B.Sc.(Hons),Zoology,
-o17435,1,B.Ed.,,
-o17435,2,M.A.,Geography,
-o17436,1,M.A.,Sociology,
-o17437,1,B.E.,Prodn.Engg.,
-o17437,2,P.G. Diploma,Forestry,
-o17438,1,M.B.B.S.,,
-o17439,1,LL.B./B.L.,,
-o17440,1,M.A.,History,
-o17440,2,Ph.D.,History,
-o17441,1,B.A.(Hons),History,
+o17432,1,B.E. | Pune University | Vishwakarma Instt of Tech,Mech.engg.,First with Distinction
+o17432,2,M.Tech. | IIT Delhi | IIT DELHI,Design of Mech Equipments,-
+o17433,1,B.Tech. | IIT Delhi | IIT,Civil Engg,First with Distinction
+o17434,1,B.Sc.(Hons) | Delhi University | RAMJAS COLLEGE,Zoology,First
+o17435,1,B.A. | Pt. Ravishankar Shukla Raipur | Govt. DB Girils PG Coll,Political Sc.,First
+o17435,2,B.Ed. | Pt. Ravishankar Shukla Raipur | Govt. College of Education,Education,First
+o17436,1,B.A. | MD University Rohtak | University College,English,First
+o17436,2,"M.A. | JNU, New Delhi",Sociology,-
+o17437,1,B.E. | Nagpur University | Yeshwantrao Chavan College of Engg,Prodn.Engg.,First
+o17437,2,Bachelor of Engineering | Nagpur University,Prodn.Engg.,First
+o17437,3,PG Diploma | IIFM Univeristy Bhopal | IIFM Bhopal,Forestry,-
+o17438,1,M.B.B.S. | Gujarat University Ahmedabad | Mpl Medical College,Medicine,First
+o17438,2,Master of Arts | IGNOU | LBSNAA,Public Policy,First
+o17438,3,Master of Arts | KOTA OPEN UNIVERSITY KOTA RAJASTHAN,Sanskrit,First Rank
+o17439,1,B.Com Honours | Delhi Univeristy | Hindu College,Commerce,First
+o17439,2,LL.B. | Delhi University | Law Centre-1 Faculty of Law,Law,Second
+o17440,1,B.A. | Patna University | Patna College,History,First
+o17440,2,P.G. | Patna University,History,First
+o17440,3,LL.B. | Patna University Patna | Patna Law College,Civil & Criminal Law,First
+o17440,4,Ph. D. | Patna University Patna,History,-
+o17441,1,B.A. | Calcutta University | Presidency College,History (hons),Second
 o17442,1,M.B.B.S.,,
 o17442,2,M.P.A.,,
 o17443,1,B.V.Sc.,,
@@ -4822,7 +5084,9 @@ o17448,1,B.Tech.,Chem. Engg,
 o17452,1,M.A.,Public Policy,
 o17452,2,M.B.A.,Business Admn,
 o17453,1,M.Sc.,Botany,
-o17454,1,B.Tech.,Electrical Engg.,
+o17454,1,B.Tech. | IIT Madras Madras | IIT Madras,Electrical Engg.,-
+o17454,2,Master of Arts | Panjab University,Economics,First
+o17454,3,Micro Masters | MIT(Massachusetts Institute of Technology)USA,Development Economics,-
 o17455,1,LL.M.,,
 o17455,2,M.I.D.P.,,
 o17456,1,B.A.,Hons,
@@ -5086,21 +5350,40 @@ o17639,1,B.Tech.,Chem. Engg,
 o17640,1,M.A.,,
 o17641,1,B.A.,,
 o17641,2,M.A.,Psychology,
-o17642,1,M.Sc.,Agri.,
-o17642,2,Ph.D.,Agri.,
-o17643,1,B.E.,Computers,
-o17644,1,M.Sc.,Applied Eco.,
-o17645,1,M.B.B.S.,,
-o17646,1,M.A.,Economics,
-o17646,2,M.A.,Public Policy,
-o17647,1,B.Com.,Commerce,
-o17648,1,M.B.B.S.,Medicine,
-o17649,1,Graduate,History,
-o17650,1,B.Tech.,Civil Engg,
-o17651,1,B.Tech.,Electronics,
-o17652,1,M.B.B.S.,,
-o17653,1,M.B.A.,,
-o17654,1,B.E.,Mech. Engg.,
+o17642,1,B.Sc.(Agri) | HAU Hissar | College of Agriculture,Agriculture,First
+o17642,2,M.Sc. | IARI New Delhi New Delhi | IARI,Agri. Entomology,First
+o17642,3,Ph. D. | IARI New Delhi New Delhi | IARI,Agri. Entomology,First
+o17642,4,M.A. Economics | Anand,Applied Eco.,First with Distinction
+o17642,5,M.A. | Sardar Patel University Vallabh Vidyanagar Gujarat,Applied Eco.,First with Distinction
+o17643,1,B.E. | University of Gujarat | Nirma Institute of Techology,Computers,Pass
+o17644,1,B.A. | Madras Madras | Stella Maris College,Economics,First
+o17644,2,M.Sc. | Pondicherry Pondicherry,Applied Eco.,First
+o17645,1,M.B.B.S. | Gujarat University Ahmedabad | Smt N.H.L.Municipal Medical College,Medicine,First
+o17646,1,B.Com. | Bharathidasan University Tiruchirapalli | Centre for Distance Eduction,N.A.,First
+o17646,2,PG Diploma | Annamalai University | Directorate of Distance Eduction,Computer Application,First
+o17646,3,M.A. Economics | Madras University Chennai | Centre for Distance Eduction,Economics,Second
+o17646,4,Chartered Accountant | Indian Institute of Banking and Finance,Banking,Pass
+o17646,5,POST GRADUATE DIPLOMA IN MANAGEMENT | Indian Institute of Public Administration Delhi,Risk Management,Pass
+o17646,6,Masters in Public Policy | Indira Gandhi National Open University Delhi,Public Policy & Mgmt,Second
+o17646,7,M.Sc. | Annamalai University Chidambaram | Directorate of Distance Education,Computer Sc,First
+o17647,1,Diploma | Delhi not known,Computers,First
+o17647,2,B.Com. | PT. Ravishankar Shukla University Raipur | PT. Harishankar Shukla College,Commerce,First
+o17647,3,M.A. | Pt. Ravishankar Shukla Raipur,English Lit,First
+o17648,1,B.Sc. | CH. Charan Singh University Hardwar | Chinmay Degree College Hardwar,Zoology,First
+o17648,2,M.B.B.S. | K.G.M.U. Lucknow | King Georges Med. University Lucknow,Medicine,First
+o17649,1,Graduate | LMN University Darbhanga | R.B. College,History (hons),First
+o17650,1,"B.Tech. | IIT, KANPUR",Civil Engg,First
+o17651,1,B.Tech. | Deemed University Allahabad | Motilal Nehru Nl.Inst. of Tech.,Electronics,-
+o17652,1,"M.B.B.S. | MUHS Nashik | BJMC, Pune",Medicine,First
+o17652,2,Ph. D. | Andhra University,Management,Awarded
+o17653,1,"B.A. Honours | Delhi University New Delhi | St. Stephens College, Delhi",Economics,Second
+o17653,2,M.B.A. | IIM Ahmedabad | IIM Ahmedabad,Management,Awarded
+o17653,3,Chevening Gurukul Leadership Programme | University of Oxford Oxford | Dept.of Politics,Intnl Politics,Awarded
+o17653,4,Master of Public Administration | Harvard University Cambridge Massachusetts | John F Kennedy School of Government,Economics,Grade 'A+'
+o17654,1,B.E. | Pune Pune | College of Engineering,Mech.engg.,First with Distinction
+o17654,2,B.E. | Pune Univesity | College of Engineering,Mechanical,First with Distinction
+o17654,3,M.P.A. | Harvard University | John F Kennedy School of Government,Public Administration,Grade 'A'
+o17654,4,P.G. (Masters) | Harvard University | University College,Public Administration,Grade 'A'
 o17655,1,B.E. | Bangalore University | R V College of Engg,Computer Sc,First with Distinction
 o17655,2,M.B.A. | IIT Bombay Mumbai | IIT BOMBAY,Operations Management,First with Distinction
 o17655,3,"P.G. | School of Mgt, IIT",System Analysis,-
@@ -5118,31 +5401,49 @@ o17657,1,B.A. | University of Delhi | Hindu College,Political Sc.,Second
 o17657,2,M.A. | JNU Delhi | JNU,Poltics,-
 o17657,3,M.Phil. | JNU,Political Studies,-
 o17658,1,B.Sc. | Nagpur University | Instt.of Science,Chemistry,Second
-o17659,1,B.E.(Hons),Comp. Sci.,
-o17659,2,M.B.A.,,
-o17660,1,B.A.,Sociology,
-o17661,1,B.A.,History,
-o17662,1,M.A.,History,
-o17663,1,M.A.,History,
-o17664,1,M.A.,Sanskrit,
-o17665,1,B.A.,History,
-o17666,1,M.A.,History,
-o17667,1,B.A.(Hons),Ancient Ind.history,
-o17668,1,B.Sc.(Hons),Physics,
-o17668,2,M.Sc.,Physics,
-o17669,1,M.D./D.M.,Radio Pathology,
-o17670,1,B.Tech.,Electronics,
-o17671,1,M.A.,Public Admn,
-o17672,1,B.E.,Electrical Engg.,
-o17672,2,M.A.,Sociology,
-o17673,1,M.A.,,
-o17673,2,Ph.D.,Philosophy,
-o17674,1,P.G.,History,
-o17675,1,M.B.B.S.,,
-o17676,1,B.Tech.,,
-o17676,2,P.G. Diploma,Management,
-o17677,1,B.E.,Mech. Engg.,
-o17678,1,B.A.,,
+o17659,1,B.E. (Hons) | BITS PILANI,Computer Sc,First
+o17659,2,PG Diploma | IIM Ahmdabad,Management,First
+o17660,1,B.A. | Madras Chennai | Loyola College Chennai,Sociology,First
+o17661,1,B.A. | Shivaji Kolhapur | Bharat Mahavidyalaya Jeur,History,First with Distinction
+o17661,2,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | IIM Bangalore | IIM Bangalore,Public Mgmt & Policy,Not Awarded
+o17661,3,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | IIM Bangalore | IIM Bangalore,Management,Awarded
+o17662,1,B.A. Honours | Delhi University | Hindu College,History,First
+o17662,2,M.A. | Delhi University | Hindu College,History,Second
+o17663,1,B.A. | University of Lucknow,History,Second
+o17663,2,B.Ed. | University of Lucknow,Education,First
+o17663,3,M.A. | University of Lucknow,History,Gold Medalist
+o17664,1,B.A. | University of Allahabad,Sanskrit,First
+o17664,2,M.A. | Allahabad University,Sanskrit,First
+o17665,1,B.A. | T.M.B.U. Bhagalpur | Marwari College,History,First
+o17665,2,M.A. | IGNOU | IGNOU,Public Administration,First
+o17665,3,"Master in Business Administration | IGNO University New Delhi | IGNOU, New Delhi",Marketing Management,First
+o17666,1,B.A. | University of Anantapur Andhra Pradesh | Silver Jublee,History,First
+o17666,2,M.A. | University of Hyderabad,History,First
+o17666,3,Master of Arts | University of Hyderabad | University of Hyderabad,History,First
+o17666,4,Master of Arts | IGNOU New Delhi | IGNOU NEW DELHI,Public Policy,First
+o17666,5,P.G. | IG Nl. Open University New Delhi,Public Policy & Mgmt,First
+o17667,1,B.A. Honours | Lalit Narayan Mithila University Darbhanga | RBS College Teyai,Hindi,First
+o17668,1,B.Sc.(Hons) | IIT KHARAGPUR,Physics,First
+o17669,1,M.B.B.S. | King George Medical University Lucknow | King George Medical College,Anatomy,First
+o17669,2,M.D. | King George Medical University Lucknow,Radio Diagnosis,-
+o17670,1,B.Tech. | Uttar Pradesh Technical University Lucknow | Institute of Engineering and Technology,Electronics,First
+o17671,1,B.A. | University of Allahabad,Mathematics,First
+o17672,1,B.E. | Pt. Ravi Shankar Shukla University Raipur | Govt. Engineering College,Electrical Engg.,First
+o17672,2,M.A. | Pt. Ravi Shankar Shukla University Raipur,Sociology,Second
+o17672,3,Certificate | IGNOU,N.A.,-
+o17673,1,B.A. | University of Allahabad,Sanskrit,First
+o17673,2,M.A. | University of Allahabad,N.A.,First
+o17673,3,Certificate | University Grants Commission,N.A.,-
+o17673,4,Ph. D. | University of Allahabad,Philosophy,-
+o17674,1,"B.A. Honours | Jai Prakash University Chapra, Bihar | Rajendra College",History,First
+o17675,1,M.B.B.S. | Dr. NTR University of Health Sciences Vijaywada | Kurnool Medical College,Medical&dental,First
+o17676,1,B.Tech. | Madras University Madras | IITM,Civil Engg,Ordinary
+o17676,2,PG Diploma | IIMB,Management,Ordinary
+o17676,3,M.B.L. | National Law School of India Bangalore | Law College,Law,Pass
+o17676,4,M.B.L. | National Law School of India University Bangalore | Law College,Law,Pass
+o17677,1,B.E. | Madras University Madras | Vellore Institute of Technology,Mech.engg.,First
+o17678,1,M.A. | IGNOU Delhi | IGNOU,Public Policy,First
+o17678,2,Master of Public Administration | Harvard University | Harvard University Massachusetts USA,Decision Making Leadership,First
 o17679,1,B.A. | Gauhati University Gauhati | Ghanakanta Baruam College,Political Sc.,Second
 o17679,2,M.A. | Gauhati University Gauhati,Political Sc.,First
 o17680,1,"B.E. (Hons) | BITS Pilani University Rajasthan | Birla Institute of Technology & Science, Pilani",Mech.engg.,First
@@ -5154,19 +5455,27 @@ o17682,3,LL.M. | O.P. Jindal Global University (JGU) | University College,Law,Aw
 o17683,1,B.Sc.(Hons) | Patna University | Magadh Mahilla College,Zoology,First
 o17683,2,M.Sc. | Patna University | Science College,Zoology,First
 o17683,3,B.V.Sc. & A.H. | Rajendra Agriculture University Bihar | Bihar Veternary College,Veterinary Sc.,First
-o17684,1,M.Sc.,Bio Chemistry,
-o17684,2,P.G. Diploma,Computer Application,
-o17685,1,M.Sc.,Zoology,
-o17686,1,M.A.,,
-o17687,1,Graduate,,
-o17688,1,B.Sc.,,
-o17689,1,M.B.B.S.,,
-o17690,1,B.A.,History,
-o17691,1,M.Phil.,,
-o17691,2,Ph.D.,Hindi,
-o17692,1,M.B.B.S.,,
-o17693,1,M.A.,,
-o17693,2,M.Phil.,,
+o17684,1,"B.Sc. | Punjabi University | Govt. College, Malerkotla",Botany,Second
+o17684,2,PG Diploma | Kurukshetra University Kurukshetra,Computer Application,Second
+o17684,3,M.Sc. | Jamia Millia Islamia New Delhi,Bio Chemistry,First
+o17684,4,Ph. D. | Maharaj Vinayak Global University | Rajasthan,Bio-Technology,Awarded
+o17685,1,B.Sc. | Himachal Pradesh University Shimla | G.D. College,Zoology,First
+o17685,2,M.Sc. | Himachal Pradesh University,Zoology,First
+o17685,3,M.A. | IG Nl Open University Delhi | IGNOU NEW DELHI,Public Policy,First
+o17686,1,B.A. | Allahabad University,Philosophy,First
+o17686,2,M.A. | P U Jaunpur | V B P U,Modern Ind.Hist,First
+o17687,1,B.Tech. | JNTU Andhra Pradesh | DVRC ET,Electrical Engg.,First
+o17687,2,"M.B.A. | SCMHRD,Pune",Marketing,First
+o17688,1,B.Sc. | Pt.Ravi Shankar Shukla University Raipur | GDBGPG Col. Raipur,Biology,First
+o17689,1,"M.B.B.S. | BFU of Health Services | Govt.Med.Col.,Amritsar",Surgery,First
+o17690,1,B.A. | Baba Saheb Ambedkar Open University,History,First
+o17691,1,B.A. | Rajasthan Jaipur | Govt.P.G. College,Hindi,First
+o17691,2,M.A. | Rajasthan Jaipur | Deptt. of Hindi,Hindi,First
+o17691,3,M.Phil. | Rajasthan Jaipur | Deptt. of Hindi,Hindi,First
+o17692,1,M.B.B.S. | A.I.I.M.S,Medicine,Second
+o17693,1,B.A. | Patna University Bihar | Patna College,Geography,First
+o17693,2,M.A. | Delhi | Deptt of Geography,Geography,First
+o17693,3,M.Phil. | Delhi | Deptt of Geography,Geography,First
 o17694,1,M.B.B.S.,,
 o17695,1,B.Tech.,,
 o17696,1,M.Tech.,,
@@ -5235,7 +5544,8 @@ o17742,1,B.E.,Electronics,
 o17742,2,M.A.,Public Policy,
 o17743,1,M.Phil.,English Lit,
 o17743,2,Ph.D.,Philosophy,
-o17744,1,P.G.,Modern Ind.Hist,
+o17744,1,B.A. | Allahabad University,History,Second
+o17744,2,M.A. | Allahabad University,Medieval Indian History,Second
 o17745,1,M.B.B.S.,,
 o17746,1,B.Tech.,,
 o17746,2,M.A.,Economics,
@@ -5480,22 +5790,37 @@ o17911,1,B.E.,Computers,
 o17912,1,B.Tech.,Electronics,
 o17913,1,M.B.B.S.,,
 o17914,1,B.E.,Mech. Engg.,
-o17915,1,M.A.,English,
-o17916,1,M.B.B.S.,Medicine,
-o17917,1,B.E.,Mech. Engg.,
-o17918,1,B.Tech.,,
-o17919,1,M.Sc.,Pharmacy,
-o17920,1,B.A.M.S.,,
-o17920,2,M.B.A.,,
-o17921,1,B.Com.,,
-o17922,1,M.A.,Public Policy,
-o17923,1,M.Sc.,Geology,
-o17924,1,M.B.B.S.,,
-o17925,1,Ph.D.,,
-o17926,1,B.A.,Hons,
-o17926,2,LL.B./B.L.,,
-o17927,1,B.E.,Electronics,
-o17928,1,B.Tech.,Electronics,
+o17915,1,"B.A. Honours | Delhi University | Hindu College,Delhi",N.A.,First
+o17915,2,M.A. | J.N. University New Delhi,English Lit,-
+o17915,3,M.A. | I G N O U New Delhi,Public Policy,First
+o17916,1,M.B.B.S. | MUHS Nashik | BJ Medical College,Medicine,First
+o17917,1,B.E. | Pune University | MIT,Mech.engg.,First
+o17918,1,B.Tech. | University of Pondicherry Pondicherry | Pondicherry Engineering College,Electrical Engg.,First
+o17919,1,Graduate | Nirma University of Science & Technology Ahmedabad,Pharmacy,First with Distinction
+o17919,2,P.G. | Nl. Institute of Pharmaceuticals Education & Researh,Pharmacy,First with Distinction
+o17920,1,B.A.M.S. | MUHS Nashik |,Ayurvedic,First
+o17920,2,M.A. | University of Tilak Maharashtra,Political Sc.,First
+o17920,3,M.A. | IGNOU | Indira Gandhi National Open University,Public Policy,First
+o17920,4,M.B.A. | U/Pune | University of Pune,Marketing,First with Distinction
+o17921,1,B.Com. | UNIVERSITY OF DELHI DELHI | Kirorimal College,Accountancy,First
+o17922,1,B.Tech. | I.I.T. Roorkee,Prodn.Engg.,First
+o17922,2,M.A. | Indira Gandhi National Open University Delhi,Public Policy,First
+o17923,1,M.Sc. | University of Pune,Geology,First
+o17923,2,B.Sc. | University of Pune,Geology,First
+o17924,1,M.B.B.S. | Maharashtra University of Health Sciences Nashik,Medicine,First
+o17924,2,M.A. | IGNOU | IGNOU,Public Policy,First
+o17925,1,B.A. Honours | Banaras Hindu Univ.,Economics,First
+o17925,2,M.A. | Jawaharlal Nehru University New Delhi,International Relations,First
+o17925,3,"M.Phil. | JNU, New Delhi",International Relations,First
+o17926,1,B.A. Honours | Panjab University Chandigarh | Govt. collage,Political Sc.,First
+o17926,2,LL.B. | Punjab University | Dept of Laws,Law,Second
+o17926,3,LL.M. | KU Kurukshetra Kurukshetra,Civil & Criminal Law,First
+o17926,4,M.B.A. | U/SHIMLA,Business Admn.,First Rank
+o17926,5,Ph.D. (Doctor of Philosophy) | GURU NANAK DEV UNIVERSITY AMRITSAR AMRITSAR PUNJAB | Guru Nanak Dev University Amritsar,Law,-
+o17927,1,B.E. | University of Mumbai Mumbai | Thadomal Shahani Engineering College,Electronics,First
+o17927,2,M.A. | IGNOU Delhi | IGNOU Delhi,Public Policy,First
+o17927,3,Master of Arts | IGNOU New Delhi,Public Policy,First
+o17928,1,B.Tech. | NATIONAL INSTITUTE OF TECHNOLOGY,Electronics,-
 o17929,1,M.B.B.S. | University of Kerala Trivandrum | Govt. Medical College,Medicine,First
 o17930,1,B.Sc. | Andhra University | Dr.L.B.College,Bio-Technology,First
 o17930,2,M.A. | Andhra University,Journalism,First
@@ -5507,60 +5832,83 @@ o17933,2,M.Sc. | Andhra University Visakhapatnam,Computer Sc,First
 o17934,1,"B.E. | Visveswaraiah Technological University Belgaum, Karnataka",Mech.engg.,First
 o17934,2,"B.E. | Visveswaraiah Technological University Belgaum, Karnataka",Mechanical engineering,First
 o17934,3,Masters in Public Policy | IGNOU,Public Policy,First
-o17935,1,B.Tech.,,
-o17936,1,B.Arch.,,
-o17937,1,B.A.,Hons,
-o17938,1,B.E.,,
-o17939,1,B.V.Sc.,,
-o17939,2,P.G. Diploma,,
-o17940,1,P.G.,Hindi,
-o17941,1,B.Tech.,,
-o17942,1,M.A.,Philosophy,
-o17943,1,M.A.,Public Policy,
-o17943,2,M.Sc.,Bio-Technology,
-o17944,1,M.A.,Sanskrit,
-o17945,1,P.G.,Public Policy,
-o17946,1,M.B.B.S.,,
-o17947,1,M.B.B.S.,,
-o17949,1,B.Tech.,Civil Engg,
-o17950,1,B.Tech.,Electrical Engg.,
-o17951,1,B.Tech.,Electronics,
-o17952,1,B.Tech.,Electronics,
-o17953,1,B.Tech.,Mech. Engg.,
-o17954,1,P.G.,Electronics Engg,
-o17955,1,B.A.(Hons),English,
-o17956,1,B.Tech.,Electronics,
-o17957,1,M.B.B.S.,,
-o17958,1,B.E.,Mech. Engg.,
-o17958,2,M.Sc.,Mathematics,
-o17959,1,B.Sc.,Agri.,
-o17960,1,B.E.,Hons,
-o17961,1,B.Sc.,Agri.,
+o17935,1,B.Tech. | Jawaharlal Nehru Technological University Andhra Pradesh,Computer Sc,First with Distinction
+o17935,2,M.A. | Indira Gandhi National Open Univerity (IGNOU) New Delhi,Public Policy,First
+o17935,3,M.B.L. | National Law School of India Bangalore | National law School Bangalore,Business Law,Second
+o17935,4,Masters Degree in Taxation and Business Laws | National Law School of India University Bangalore,Business Law,First
+o17935,5,"M.B.A. | University of Petroleum and Energy Studies, Dehradun | University College",Power Management,First
+o17936,1,B.Arch. | Anna University Chennai,Architecture,First
+o17937,1,B.A. Honours | Mumbai Mumbai | St Xaviers College,English Lit,First
+o17937,2,M.A. | Indira Gandhi National Open University Delhi | Indira Gandhi National Open University,Public Policy,First
+o17938,1,B.E. | SVNIT Surat | SVNIT Surat,Electronics,First with Distinction
+o17939,1,B.V.Sc. & A.H. | T.N.Veternary & Animal Sc. University Chennai,Veterinary Sc.,First
+o17939,2,PG Diploma | SYMBIOSIS(SIMS),Management,First
+o17940,1,B.A. | IGNOU Delhi | IGNOU Delhi,Economics,First
+o17940,2,Master of Arts | IGNOU,Hindi,First
+o17941,1,B.Tech. | NIT Hamirpur Hamirpur | NIT Hamirpur,Civil Engg,-
+o17941,2,M.A. | IGNOU,Public Policy,First
+o17942,1,M.A. | Allahabad University | Art Faculty Philosophy Department,Philosophy,First
+o17942,2,M.Phil. | Dellhi University Delhi | Faculty of Art,Philosophy,Second
+o17943,1,B.Sc. | Kurukshetra | Kurukshetra,Science,First
+o17943,2,B.Ed. | Kurushetra | University College of Education,Education,First
+o17943,3,M.Sc. | BHU Varanasi | School of Biotechnology,Bio-Technology,First
+o17944,1,B.A. | University of Allahabad Allahabad,Sanskrit,First
+o17944,2,M.A. | University of Allahabad Allahabad,Sanskrit,First
+o17945,1,"B.Tech. | MPKV, Rahuri",Agri.Engg.,First
+o17945,2,"M.Sc. | IARI, Delhi",N.A.,First
+o17946,1,M.B.B.S. | Maharashtra Uni of Health of Sc Nashik | TERNA Medical College,Medicine,First
+o17946,2,Master of Arts | Indira Gandhi National Open University Delhi | Indira Gandhi National Open University,Public Policy,First
+o17947,1,M.B.B.S. | Dr.MGR Medical University Chennai | Coimbatore Medical College,Medicine,First
+o17947,2,M.B.B.S. | Tamil Nadu Dr MGR Medical University | Coimbatore Medical College,All Medical Subjects,Awarded
+o17949,1,B.Tech. | IIT KHARAGPUR,Civil Engg,First
+o17950,1,B.Tech. | National Instt. of Technology Silchar,Electrical Engg.,First
+o17951,1,B.Tech. | UP Tech University Lucknow,Electronics,First
+o17952,1,B.Tech. | UP Technical University,Electronics,First
+o17953,1,B.Tech. | IIT Kanpur,Mech.engg.,-
+o17954,1,B.Sc. | Goa University,Computer Sc,Second
+o17954,2,M.Sc. | Jiwaji University Gwalior,Electronics,First
+o17955,1,B.A. Honours | Delhi University Delhi,English Lit,Third
+o17956,1,B.Tech. | MNNIT Allahabad Uttar Pradesh,Electronics and Communication,First
+o17957,1,M.B.B.S. | NTR University of Health Sciences Andhra Pradesh,Medicine,Second
+o17958,1,M.Sc. | BITS Pilani | BITS PILANI,N.A.,-
+o17958,2,B.E. | BITS PILANI,Mech.engg.,First
+o17958,3,B.E. | BITS PILANI | BITS PILANI,Mechanical engineering,First
+o17958,4,M.Sc. | BITS PILANI | BITS PILANI,Mathematics hons,First
+o17959,1,B.Sc.(Agri) | TN Agricultural University Coimbatore | Agricultural college and Research Institute,Agriculture,First
+o17959,2,M.B.A. | ALAGAPPA UNIVERSITY KARAIKUDI,Banking and Finance,-
+o17960,1,"B.E. (Hons) | BITS, PILANI",Electrical Engg.,First
+o17961,1,B.Sc.(Agri) | Univ of Agriculture Bangalore | College of Agriculture,Agriculture,First
+o17961,2,M.Sc. (Agri) | Acharya N G Ranga University Hyderabad | Acharya NG Ranga Agricultural University(ANGRAU),Agriculture,First
 o17963,1,B.Sc.(Hons) | Delhi University,Chemistry,First
 o17964,1,B.Sc.(Hons) | University of Delhi,Zoology,First
 o17964,2,M.Sc. | University of Delhi,Zoology,First
 o17965,1,B.Sc. | Chhatrapati Shahu Ji Maharaj Univ Kanpur,Physics,First
 o17965,2,M.A. | Chhatrapati Shahu ji Maharaj Univ. Kanpur,Ancient Ind.history,First
-o17966,1,B.E.(Hons),Comp. Sci.,
-o17966,2,B.E.(Hons),Mech. Engg.,
-o17967,1,B.D.S.,,
-o17968,1,B.Tech.,Electrical Engg.,
-o17969,1,B.Tech.,,
-o17969,2,M.Tech.,,
-o17970,1,B.Tech.,,
-o17971,1,Graduate,,
-o17972,1,B.E.,Hons,
-o17973,1,B.Tech.,,
-o17974,1,B.A.,,
-o17974,2,M.B.A.,,
-o17975,1,B.A.,Economics,
-o17975,2,M.A.,Sociology,
-o17976,1,M.Tech.,,
-o17977,1,B.E.,,
-o17978,1,B.A.,Psychology,
-o17978,2,M.B.A.,Marketing,
-o17979,1,B.Ed.,English,
-o17979,2,M.A.,English Lit,
+o17966,1,"B.E. | Birla Institute of Technology & Science, Pilani RAJASTHAN | Birla Institue of Tech and Science Pilani",Computer Sc,First with Distinction
+o17966,2,B.E. (Hons) | The Birla Institute of Tech & Science,Mech.engg.,First with Distinction
+o17966,3,"B.E. | Birla Institute of Technology & Science, Pilani RAJASTHAN | Birla Institue of Tech and Science Pilani",Mechanical engineering,First with Distinction
+o17967,1,B.D.S. | MD University,Surgery,-
+o17967,2,"B.D.S. | Maharishi Dayanand University Rohtak | Pt. B. D. Sharma PGIMS, Rohtak",Dentistry,First
+o17968,1,B.Tech. | IIT Kanpur,Electrical Engg.,-
+o17969,1,M.Tech. | Indian Institute of tecnology Bombay,Electrical Engg.,First
+o17969,2,Bachelor of Engineering | Indian Institute of Technology Bombay Mumbai | INDIAN INSTITUTE OF TECHNOLOGY,Electrical Engg.,First
+o17970,1,B.Tech. | IIT,Civil Engg,First
+o17971,1,B.Sc. | M D University Rohtak,Physics,-
+o17971,2,B.Ed. | University of Delhi,Education,First
+o17972,1,B.E. | BITS PILANI,Computer Sc,First
+o17973,1,B.Tech. | IIT Kanpur,Civil Engg,First
+o17974,1,B.A. | University of Rajasthan,Political Sc.,First
+o17974,2,PG Diploma | IIM Bangalore,Management,First
+o17975,1,B.A. | Pune University Pune | Fergusson College,English,First with Distinction
+o17975,2,Master of Arts | IGNOU,Sociology,First
+o17976,1,M.Tech. | IIT Bombay,Computer Sc,First
+o17976,2,B.Tech. | Indian Institute of Technology Bambay,Computer Sc,First
+o17977,1,B.E. (Hons) | Birla Institute of Technology and Science Pilani,Computer Sc,First
+o17978,1,B.A. | Gujarat University Ahmedabad,Psychology,Second
+o17978,2,M.B.A. | Gujrat University Gujrat | NR Institute of Business Management,Marketing,First
+o17979,1,B.A. | Saurashtra University | MP Shah Arts and Science College,English Lit,First
+o17979,2,B.Ed. | Saurashtra University | PKM College of Education,English,First with Distinction
+o17979,3,M.A. | Saurashtra University,English Lit,Second
 o17980,1,B.Tech.,,
 o17981,1,M.A.,Development,
 o17981,2,M.Phil.,Development,
@@ -5700,7 +6048,8 @@ o18086,2,M.A.,Economics,
 o18087,1,B.Tech.,Electronics & Telecom Engg,
 o18088,1,B.E.,Electrical Engg.,
 o18088,2,M.B.A.,Finance,
-o18089,1,M.B.B.S.,,
+o18089,1,M.B.B.S. | University of Kashmir Srinagar | Govt Medical College,Medicine,First
+o18089,2,M.B.B.S. | University of Kashmir Srinagar | Govt Medical College,All Medical Subjects,First
 o18090,1,B.Sc.,,
 o18091,1,B.Tech.,Electrical Engg.,
 o18092,1,B.Tech.,Electronics & Telecom Engg,
@@ -5746,7 +6095,7 @@ o18124,1,M.A.,History,
 o18125,1,B.E.,Electronics,
 o18126,1,M.A.,History,
 o18127,1,M.A.,English Lit,
-o18128,1,M.A.,Economics,
+o18128,1,B.A. Honours | University of Delhi | Sant Stephens College,Economics,-
 o18129,1,B.Com.,Hons,
 o18129,2,C.A.,,
 o18130,1,B.Tech.,,
@@ -5888,7 +6237,7 @@ o18231,2,C.A.,,
 o18232,1,Graduate,,
 o18233,1,LL.B./B.L.,,
 o18234,1,Graduate,,
-o18235,1,Graduate,,
+o18235,1,B.E. | Mangalore University | Karnataka Regional Engg. College,Mech.engg.,First
 o18236,1,M.B.B.S.,,
 o18237,1,LL.B./B.L.,Hons,
 o18237,2,M.Phil.,Intnl.law,
@@ -5908,83 +6257,98 @@ o18250,1,B.Tech.,Chem. Engg,
 o18251,1,B.E.,Electronics,
 o18251,2,P.G. Diploma,Finance,
 o18252,1,B.E.,Electronics,
-o18253,1,B.Sc.,,
-o18254,1,B.Tech.,Civil Engg,
-o18255,1,M.B.B.S.,,
-o18256,1,B.Tech.,Mech. Engg.,
-o18257,1,B.A.,,
-o18258,1,M.B.B.S.,,
-o18259,1,B.Tech.,,
-o18259,2,M.B.A.,,
-o18260,1,B.A.,Political Sc.,
-o18261,1,Graduate,History,
-o18262,1,Graduate,,
-o18263,1,B.Sc.,Mathematics,
-o18264,1,B.Tech.,Mech. Engg.,
-o18265,1,M.B.B.S.,,
-o18266,1,Graduate,,
-o18267,1,B.A.,,
-o18268,1,B.Sc.,,
-o18268,2,LL.B./B.L.,Hons,
-o18269,1,M.Sc.,Economics,
-o18269,2,M.Sc.,Finance,
-o18270,1,B.Com.,,
-o18271,1,B.Tech.,Comp. Sci.,
+o18253,1,B.Sc. | Jaia Narain Vyas University Jodhpur,Zoology,First
+o18253,2,P.G. | International Management Institute,Planning.,First
+o18254,1,PG Diploma | Indira Gandhi National Open Univerity (IGNOU) New Delhi | Indira Gandhi National Open University,Environmental Science,-
+o18255,1,M.B.B.S. | Rajasthan University | Sardar Patel Med College Bikaner,Science,First
+o18255,2,Post Graduate Diploma in Health Promotion | Bangalore,Public Health,Awarded
+o18256,1,B.Tech. | G.B.T.U | KNIT Sultanpur,N.A.,First
+o18257,1,Graduate | Amravati | R.A College Washim,English,-
+o18258,1,"M.B.B.S. | MUHS, Nashik | Sh.Vasantrao Naik Govt.Medical College Yavatmal",Medicine,First
+o18259,1,B.Sc. | Kerala Agricultural University | Government College of Forestry,Forestry,First
+o18260,1,B.A. | University of Mumbai | St.Xaviers College Mumbai,Humanities,First
+o18261,1,Graduate | Delhi University | Shivaji College,History,First
+o18262,1,Graduate | UPTU | KNIT Sultanpur,Electronics,First
+o18262,2,M.Tech. | IIT | IIT DELHI,Energy Studies,First
+o18263,1,B.Sc. | Pt Ravi Shankar Shukla University Raipur | Go;vt.P.G.College Jagdalpur,Physics,-
+o18264,1,"B.Tech. | IIT, KANPUR",Mech.engg.,-
+o18265,1,M.B.B.S. | DAVV Indore | MGM Medical College,Medicine,First
+o18266,1,B.Sc. | Mohan Lal Sukhadia University Udaipur | Shri Bohogi Lal Pandya Govt.College Dungarpur,Botany,First
+o18266,2,B.Ed. | Mohan Lal Sukhadia University Udaipur | Vidya Bhawan G.S.T. College Udaipur,Chemistry,First
+o18266,3,M.Sc. | Mohan Lal Sudhadia University Udaipur | College of Science,Chemistry,First
+o18267,1,B.A. Honours | University of Delhi | Miranda House,Economics,First
+o18267,2,B.A. | Delhi University | Miranda House,Economic Hons.,First
+o18268,1,"LL.B. | National Law University Jodhpur | National Law University Jodhpur, Rajasthan",Law,-
+o18268,2,"LLB Bachelor of Law | National Law University Jodhpur | National Law University Jodhpur, Rajasthan",Corporate Laws,Gold Medalist
+o18269,1,M.Sc. Tech. | BITS PILANI | BITS PILANI,Finance,First
+o18269,2,Graduate | BITS Pilani | BITS PILANI,Economics,First
+o18270,1,Graduate | Lucknow University,Commerce,First
+o18271,1,B.Tech. | IIT Kanpur,Computer Sc,First
 o18272,1,B.Tech. | Jawaharlal Nehru Technology University | Srubdhi Institute of Science & Technology,Computer Sc,First
 o18273,1,Graduate | Bharathiar University | Kumarguru College of Technology,Electrical Engg.,First
 o18273,2,M.B.A. | Delhi University | FMS,Marketing,First
 o18274,1,Graduate | Bharathiar University | PSG College of Arts and Science,Psychology,First
 o18275,1,Graduate | Delhi University | St.Stephens College Delhi,Humanities,First
 o18275,2,M.A. | Delhi University Delhi | St.Stephens College,English,First
-o18276,1,B.Tech.,Mech. Engg.,
-o18276,2,M.B.A.,,
+o18276,1,B.Tech. | Harcourt Butler Technological Instt Kanpur,Mech.engg.,First
+o18276,2,M.B.A. | Delhi University | Faculty Management Studies,Marketing,Pass
 o18277,1,M.B.B.S. | RUGUS | JJM Medical College,Medicine,Second
 o18278,1,B.A. | Swami Ramanad Teerth Marathwada University Nanded,English,First
 o18278,2,M.A. | SRTMU Nanded,History,Grade 'A'
-o18279,1,B.Sc.,,
-o18280,1,B.Tech.,,
-o18281,1,B.Sc.,,
-o18282,1,B.E.,,
-o18282,2,P.G. Diploma,,
-o18283,1,B.Sc.,Agri.,
-o18283,2,Ph.D.,,
-o18284,1,B.Com.,Hons,
-o18284,2,M.Com.,,
-o18285,1,B.E.,Computer Tech,
+o18279,1,B.Sc.(Agri) | Tamil Nadu Agri University Coimbatore,N.A.,First
+o18280,1,B.Tech. | Pune University | PES Moddern College of Engineering,Electronics & Telecom Engg,First
+o18280,2,Bachelor of Engineering | Pune University | PES Moddern College of Engineering,Electronics & Telecom Engg,First with Distinction
+o18281,1,B.Sc. | Mumbai University | TS Chanakya Navi Mumbai,Science,-
+o18282,1,B.E. | BITS Pilani | BITS PILANI,Electronics,First
+o18282,2,"M.B.A. | IIM Ahmedabad | IIM, Ahmedabad",Management,First
+o18283,1,B.Sc.(Agri) | University of Agricultural Science Bangalore | Agri College Mandya,Agriculture,First
+o18283,2,M.Sc. (Agri) | Allahabad Agriculture Allahabad,Plant Physioloy,First
+o18283,3,Ph. D. | Indian Agricultural Research Institute New Delhi,Plant Physioloy,First
+o18284,1,B.Com Honours | Delhi University | Shri Ram College of Commerce,N.A.,First
+o18284,2,M.Com. | Delhi University | Hansraj College,N.A.,First
+o18284,3,Ph. D. | Panjab University | Punjab University,Philosophy,Pass
+o18285,1,B.E. | Madurai Kamraj University | RVS College of Engineering and Technology,Computer Sc,First
 o18286,1,B.Sc.,,
 o18286,2,M.A.,Political Sc.,
-o18287,1,P.G.,History,
-o18288,1,M.A.,Geography,
-o18288,2,M.Phil.,Population&devlp,
-o18289,1,M.V.Sc.,Veterinary Sc.,
-o18290,1,B.Com.,Accountancy,
-o18290,2,LL.B./B.L.,,
-o18291,1,B.A.(Hons),Geography,
-o18292,1,M.S.,Surgery,
-o18293,1,M.B.B.S.,,
-o18293,2,M.S.,Orthopaedics,
-o18294,1,B.A.(Hons),History,
-o18295,1,B.Tech.,Electrical Engg.,
-o18296,1,B.Tech.,Aero Engg,
-o18297,1,B.Tech.,Mech. Engg.,
-o18298,1,B.Tech.,Electrical Engg.,
-o18299,1,M.B.B.S.,,
-o18300,1,P.G.,Public Admn,
-o18301,1,B.Tech.,Computers,
-o18302,1,M.A.,Geography,
-o18303,1,B.Tech.,Computer Science & Engg.,
+o18287,1,B.A. Honours | Patna University | DDE Patna,History (hons),First
+o18287,2,P.G. | Patna University | DDE Patna,History (hons),First
+o18288,1,Graduate | Lucknow University | LUCKNOW UNIVERSITY,N.A.,First
+o18288,2,M.A. | JNU | JNU,Geography,-
+o18288,3,M.Phil. | JNU | JNU,Population&devlp,-
+o18289,1,B.A. | Rajasthan Agricultural University Bikaner | College of Veterinary Science & Animal Science,Veterinary Sc.,First
+o18290,1,Graduate | MJP rohilkhand University Bareilly Bareilly | Bareilly College Bareilly,Accountancy,First
+o18290,2,LL.B. | University of Delhi | Campus Law Centre,Law,Second
+o18291,1,B.A. Honours | Delhi University Delhi | Bhim Rao Ambedkar College,Art,First
+o18292,1,Graduate | Patna University Patna | Patna Medical College Patna,N.A.,First
+o18292,2,M.D. | Patna Medical College | Patna Medical College,N.A.,-
+o18292,3,P.G. | Patna Medical College | Patna Medical College,N.A.,-
+o18293,1,Graduate | Delhi | Maulana Azad Medical College,Medical&dental,Second
+o18294,1,B.A. Honours | Magdh University Bodhgaya,History,Second
+o18295,1,B.Tech. | IIT Delhi | IIT DELHI,Electrical Engg.,First
+o18295,2,B.E.E. | Delhi | I I T Delhi,Electrical Engg.,First
+o18296,1,Graduate | I.I.T. Kanpur | I I T Kanpur,Aerospace Enginneering,First
+o18296,2,M.Tech. | IIT Kanpur | IIT Kanpur,Aerospace Enginneering,First
+o18297,1,Graduate | VIT University Tamil Nadu | Vellore Institute of Technology,Mech.engg.,Gold Medalist
+o18298,1,B.Tech. | I I T Roorkee Roorkee | I I T Roorkee,Electrical Engg.,First
+o18299,1,Graduate | Delhi University | Maulana Azaaad Medical College,Medicine,Second
+o18300,1,Graduate | The West Bengal University | College of Engineering,Electronics and Communication,First
+o18301,1,Graduate | Delhi Univ. | Delhi Col.of Engg.,Computer Sc,First
+o18302,1,Graduate | Mohan Lal Sudhadia University Udaipur | Vidya Bhawan Rural Institute,Geography,Third
+o18302,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | JAWAHAR LAL NEHRU UNUVERSITY,Geography,First
+o18303,1,Graduate | IIT | I I T Delhi,Computer Sc,Second
+o18303,2,M.Tech. | IIT | IIT DELHI,Computer Sc,First
 o18304,1,P.G.,Mathematics,
 o18305,1,Graduate,Agri.,
 o18306,1,M.B.B.S.,,
 o18307,1,M.A.,Economics,
 o18308,1,B.E.,,
 o18308,2,M.Tech.,,
-o18309,1,B.Tech.,Mech. Engg.,
+o18309,1,Graduate | MDU Rohtak | YMCA I.E Faridabad,Mech.engg.,First
 o18310,1,M.B.A.,Finance,
 o18311,1,Graduate,,
-o18312,1,M.Sc.,Bio-Technology,
-o18313,1,B.A.,,
-o18313,2,LL.B./B.L.,,
+o18312,1,Graduate | U/Madras | Ethiraj College for Women,Plant Botany,First
+o18312,2,P.G. | U/Madras | Ethiraj College for Women,Plant Botany,First
+o18313,1,"Graduate | National Law University Jodhpur | National Law University Jodhpur, Rajasthan",Law,First
 o18314,1,Graduate | BHARATHIAR | Sri Ramakrishna Mission Vidyalaya Arts And Science College,Physics,First
 o18315,1,B.A.,Hons,
 o18316,1,Graduate | BIRLA INSTITUTE OF TECHNOLOGY MESRA RANCHI | BIRLA INSTITUTE OF TECHNOLOGY,Computer Sc,First
@@ -5992,28 +6356,33 @@ o18317,1,M.D. | Keala Univesity | Medical College,Medicine Surgery,First
 o18318,1,B.Tech.,Electronics,
 o18319,1,Graduate | Baba Farid University of Health Sciences Faridkot | Medical College,Medicine Surgery,Second
 o18319,2,M.B.B.S. | Baba Farid Univ of Health Sciences | Govt Medical College Amritsar,Medicine,Pass
-o18320,1,B.E.,Electronics,
-o18321,1,M.B.B.S.,,
-o18321,2,M.S.,Orthopaedics,
-o18322,1,B.E.(Hons),Comp. Sci.,
-o18323,1,B.E.(Hons),Electronics,
-o18324,1,B.Tech.,Computer Science & Engg.,
-o18324,2,M.A.,Political Sc.,
-o18325,1,Graduate,,
-o18326,1,Graduate,,
-o18327,1,M.Tech.,Comp. Sci.,
-o18328,1,Graduate,,
-o18329,1,Graduate,,
-o18330,1,B.Tech.,Bio-Technology,
-o18331,1,B.E.,Info. Tech.,
-o18332,1,B.E.,Chem. Engg,
-o18333,1,B.E.,,
-o18334,1,B.A.M.S.,,
-o18335,1,B.Tech.,Mech. Engg.,
-o18336,1,M.Tech.,,
-o18337,1,LL.B./B.L.,,
-o18338,1,B.Tech.,,
-o18339,1,B.Tech.,,
+o18320,1,B.E. | Kashmir University | REGIONAL ENGINEERING COLLEGE,Electronics and Communication,First
+o18321,1,M.B.B.S. | M.D.University Rohtak | Pt. BDS PGIMS,Medicine Surgery,First
+o18321,2,M.S. | Raj. University Jaipur | Rajasthan University,Orthopaedics,Pass
+o18322,1,Graduate | Birla Institute of Technology and Science Pilani | B.I.T.,Computer Sc,First
+o18323,1,"Graduate | Birla Institute of Technology & Science, Pilani RAJASTHAN | B.I.T.",Electronics Engg,First
+o18324,1,B.Tech. | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY JAIPUR | Malviya National Institute of Technology Jaipur,Computer Sc,First
+o18324,2,M.A. | Delhi University | Department of Political Science,Political Sc.,Second
+o18325,1,Graduate | Symbiosis University | SYMBIOSIS(SIMS),Law,First
+o18326,1,Graduate | BIRLA INSTITUTE OF TECHNOLOGY MESRA RANCHI | BIRLA INSTITUTE OF TECHNOLOGY MESRA RANCHI JHARKHAND,Electrical Engg.,First
+o18327,1,B.Tech. | Andhra University Visakhapatnam,Computer Science and Engineering,First
+o18327,2,Graduate | Andhra University | Andhra Vidhyalaya College,Computer Sc,First
+o18327,3,M.Tech. | University of Hyderabad,Computer Science and Engineering,First with Distinction
+o18327,4,M.Tech. | Hyderabad University Hyderabad | University of Hyderabad,Computer Sc,First
+o18328,1,Graduate | Delhi University | DELHI UNIVERSITY,Science,First
+o18329,1,Graduate | INDIAN SCHOOL OF MINES DHANBAD | INDIAN SCHOOL OF MINES,Petroleum Engg,First
+o18330,1,B.Tech. | VIT University Tamil Nadu | Vellore Institute of Technology,Bio-Technology,First
+o18331,1,B.E. | Univ of Rajasthan | Manikya Lal Verma Textile and Eng. College Bhilwara,Information Technology,First
+o18332,1,"B.E. | Birla Institute of Technology & Science, Pilani RAJASTHAN | Birla Institute of Technology and Science Pilani",Chemical Engg,First
+o18332,2,Master in Business Administration | NMIMS Mumbai | NMIMS,Finance,First
+o18333,1,B.E. | Pune University Pune | MIT,Electronics and Communication,First with Distinction
+o18334,1,B.A.M.S. | Kerala university Kerala | Govt. College,Ayurvedic,First
+o18335,1,"Graduate | I I T,Delhi Delhi | I I T Delhi",Mechanical,First
+o18336,1,"Graduate | Aeronautical Society of India | Aeronautical Society of India, New Delhi",Aeronautical Engineering,First
+o18336,2,M.Tech. | IIT Madras Chennai | IIT Madras Chennai,Aerospace Enginneering,First
+o18337,1,LL.B. | Law Centre | Law College,Law,First
+o18338,1,Graduate | Motial Nehru National Institute of Technology Allahabad | Motilal Nehru Regional Engineering College Allahabad,Electrical Engg.,First
+o18339,1,B.Tech. | Nirma University of Science & Technology Ahmedabad | II T,Electronics and Communication,First
 o18340,1,B.Com.,Hons,
 o18340,2,M.Com.,,
 o18341,1,M.B.A.,,
@@ -6211,9 +6580,10 @@ o25953,1,B.Tech.,,
 o25953,2,M.A.,Public Mgmt,
 o25954,1,M.A.,Public Mgmt,
 o25954,2,M.B.B.S.,,
-o25955,1,B.Tech.,,
+o25955,1,"B.Tech. | Indian Institute of Technology Bombay Bombay | I.I.T., Bombay Indian Institute of Technology",Chemical Engg,First
+o25955,2,Masters in Public Management | JN University New Delhi,Public Administration,First
 o25956,1,B.Tech.,,
-o25957,1,B.A.,History,
+o25957,1,B.A. | T.M.B.U. Bhagalpur,History,First
 o25958,1,B.E.,Hons,
 o25959,1,B.Tech.,,
 o25959,2,M.Tech.,,
@@ -6223,7 +6593,7 @@ o25961,1,M.A.,Public Mgmt,
 o25961,2,M.Sc.,Economics,
 o25962,1,B.Tech.,,
 o25962,2,M.P.M.,,
-o25963,1,B.H.M.S.,,
+o25963,1,B.H.M.S. | South Gujarat University,Homeopathy,Pass
 o25964,1,B.Tech.,,
 o25965,1,B.D.S.,,
 o25965,2,M.A.,Public Policy,
@@ -6317,8 +6687,8 @@ o26028,1,B.E.,Mech. Engg.,
 o26029,1,M.B.B.S.,,
 o26030,1,B.Tech.,Comp. Sci.,
 o26030,2,M.A.,Sociology,
-o26031,1,B.Tech.,Electrical Engg.,
-o26031,2,M.A.,Public Mgmt,
+o26031,1,B.E. | IIT Delhi | IIT DELHI,Electrical Engg.,First
+o26031,2,POST GRADUATE IN PUBLIC POLICY AND MANAGEMENT | JNU Delhi | JNU,Public Management,First
 o26032,1,B.Tech. | IIT Kanpur | IIT Kanpur,Electrical Engg.,First
 o26033,1,M.Sc.,Mathematics,
 o26034,1,M.Tech.,Electrical Engg.,
@@ -6344,11 +6714,11 @@ o26048,1,B.A.,,
 o26048,2,LL.B./B.L.,Hons,
 o26049,1,B.Tech.,,
 o26050,1,Master of Arts | Jawaharlal Nehru University New delhi | LBSNAA,Public Management,First
-o26051,1,B.E.,,
-o26051,2,M.B.A.,,
+o26051,1,M.B.A. | Bharathidasan University Tiruchirapalli | Bharathidesan Inst. of Mgnt.,Marketing Management,First with Distinction
 o26052,1,B.E.,,
-o26053,1,B.Tech.,Info. Tech.,
-o26054,1,Graduate,,
+o26053,1,B.Tech. | Anna University,Information Technology,Pass
+o26054,1,B.E. | Anna University Chennai | College of Engineering Guindy,Engineeriing,First
+o26054,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,Pass
 o26055,1,B.E.,,
 o26056,1,B.E.,Electronics,
 o26056,2,M.A.,Public Mgmt,
@@ -6358,7 +6728,8 @@ o26058,1,B.E.,Comp. Sci.,
 o26058,2,M.A.,,
 o26059,1,B.E.,Comp. Sci.,
 o26059,2,P.G. Diploma,,
-o26060,1,B.E.,,
+o26060,1,B.E. | Anna University | College of Engineering Guindy,Computer Sc,First with Distinction
+o26060,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,First
 o26061,1,B.E.,,
 o26062,1,M.B.B.S.,,
 o26063,1,M.A.,Public Mgmt,
@@ -6438,35 +6809,35 @@ o26114,2,M.Phil.,Economics,
 o26115,1,B.Tech.,Chem. Engg,
 o26115,2,M.A.,Public Mgmt,
 o26401,1,B.Sc. | NEHU | St Anthonys College,Physics (hons),First
-o26457,1,B.A.,,
+o26457,1,B.A. | University of Mysore Mysore,History,First
 o26459,1,LL.B./B.L.,,
 o26459,2,M.Sc.,Geology,
 o26460,1,M.Sc.,Physics,
 o26461,1,B.E.,Mech. Engg.,
 o26461,2,M.Tech.,Design Engineering,
 o26462,1,M.A.,,
-o26463,1,M.A.,,
+o26463,1,Master of Arts | Pandit Ravi Shanker University Raipur Raipur,Hindi,Second
 o26466,1,M.Com.,,
 o26466,2,M.Phil.,,
 o26469,1,M.Com.,,
 o26470,1,M.A.,,
 o26480,1,B.E.,Civil Engg,
 o26485,1,B.E.,Electrical Engg.,
-o26487,1,B.V.Sc.,,
+o26487,1,B.V.Sc. & A.H. | GUJARAT,Veterinary Sc.,Second
 o26489,1,B.E.,Civil Engg,
 o26490,1,M.E.,Env. Sci.,
 o26490,2,Ph.D.,,
-o26491,1,B.Tech.,,
-o26492,1,B.Sc.,,
-o26492,2,LL.M.,,
+o26491,1,B.Tech. | Dhanbad | INDIAN SCHOOL OF MINES DHANBAD,Mining.Engg.,First
+o26492,1,LL.M. | Himachal Pradesh university Summer Hill Shimla | HImachal Pradesh University,Administrative Law,Second
+o26492,2,M.A. | Himachal Pradesh University Shimla Summer Hill Shimla | HImachal Pradesh University,Public Admn,Second
+o26492,3,PG Diploma | IGNOU New Delhi New Delhi | IGNOU NEW DELHI,Journalism,First
 o26499,1,M.Sc.,Agri.,
 o26499,2,Ph.D.,Plant Pathology,
 o26500,1,M.A.,Economics,
 o26501,1,M.A.,Public Admn,
-o26502,1,M.B.A.,,
-o26502,2,M.Phil.,Chemistry,
-o26503,1,B.Sc.,,
-o26503,2,M.A.,Public Admn,
+o26502,1,M.Phil. | Himachal Pradesh University,Chemistry,First
+o26503,1,B.Sc. | Himachal Pradesh University Shimla | HImachal Pradesh University,Physics,Second
+o26503,2,M.A. | Himachal Pradesh University Shimla | HImachal Pradesh University,Public Admn,Second
 o26514,1,Graduate,,
 o26519,1,M.Sc.,Nuclear Physics,
 o26520,1,B.E.,Electronics,
@@ -6555,12 +6926,13 @@ o27158,1,B.A.,,
 o27158,2,LL.B./B.L.,,
 o27159,1,M.A.,,
 o27165,1,M.A.,Political Sc.,
-o27170,1,P.G.,Geography,
+o27170,1,M.A. | Pt Ravi Shankar Shukla University Raipur,Geography,First
 o27171,1,M.Sc.,Mathematics,
-o27172,1,M.Sc.,Physics,
-o27175,1,B.E.,Civil Engg,
-o27179,1,M.E.,Civil Engg,
-o27182,1,B.Com.,,
+o27172,1,B.Sc. | Guru Ghasidas Univ. Bilaspur,Physics,Second
+o27172,2,M.Sc. | Ravishankar University Raipur,Physics,First
+o27175,1,B.E. | Gujarat University | L D COLLEGE OF ENGINEERING,Civil Engg,First with Distinction
+o27179,1,"B.Sc. | JNVU, Jodhpur Jodhpur",Zoology,First
+o27182,1,B.Com. | Saurashtra University | Commerce College,Statistics,First
 o27188,1,M.A.,,
 o27188,2,M.Phil.,,
 o27190,1,M.A.,History,
@@ -6579,18 +6951,18 @@ o27213,1,B.E.,,
 o27213,2,M.A.,,
 o27221,1,B.E.,Electrical Engg.,
 o27333,1,B.Tech.,,
-o27334,1,M.B.B.S.,,
+o27334,1,M.B.B.S. | Dr. NTR University of Health Sciences A.P | University College,Medicine,First
 o27335,1,M.B.A. | IIM Ahmedabad | IIM Ahemdabad,Management Accounting,Second
 o27335,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | LBSNAA,Public Management,First
 o27336,1,M.B.B.S. | Dr. NTR University of Health Sciences A.P | Kurnool Medical College,Medicine,First
-o27337,1,B.Tech.,,
+o27337,1,B.Tech. | IIT Madras | IIT MADRAS,Metallurgy,First
 o27338,1,B.Tech.,Mech. Engg.,
 o27339,1,M.Sc.,,
-o27340,1,B.Tech.,Electrical Engg.,
-o27341,1,B.Sc.,,
-o27342,1,B.Tech.,Computer Science & Engg.,
-o27343,1,Graduate,,
-o27344,1,B.Tech.,Mech. Engg.,
+o27340,1,B.Tech. | IIT Kanpur | IIT KANPUR.,Electrical Engg.,First
+o27341,1,B.Sc. | Nagpur Nagpur | Nagpur University College,Science,First
+o27342,1,B.Tech. | SASTRA University Tamil Nadu | SASTRA University,Computer Sc,First
+o27343,1,B.Tech. | National Institute of Technology (NIT) Warangal Warangal (AP) | National Institute of Technology (NIT) Warangal,Civil Engg,First
+o27344,1,"B.Tech. | Sardar Patel University Vallabh Vidyanagar Gujarat | Sardar Vallabhbhai National Institute of Technology, Surat, Gujrat",Mechanical,First with Distinction
 o27345,1,B.Com.,Hons,
 o27346,1,B.E.,Metallurgy,
 o27347,1,M.A.,Psychology,
@@ -6604,14 +6976,15 @@ o27354,1,M.B.B.S.,,
 o27355,1,M.A.,Public Mgmt,
 o27355,2,M.B.B.S.,,
 o27356,1,B.V.Sc.,,
-o27357,1,B.Tech.,,
+o27357,1,Bachelor of Engineering | HARYANA | DCRUST(Deenbandhu Chhotu Ram University of Science & Technology),Bio-Technology,First
+o27357,2,Master of Arts | JNU Delhi | JNU New Delhi,Public Management,First
 o27358,1,B.V.Sc.,,
 o27358,2,M.V.Sc.,,
 o27359,1,B.Tech.,,
 o27360,1,Graduate,,
 o27361,1,M.A.,Public Mgmt,
 o27361,2,M.B.B.S.,,
-o27362,1,Graduate,,
+o27362,1,"B.Tech. | Institute of Engineers (India) | National Institute of Technology, Srinagar",Computer Sc,First
 o27363,1,B.Tech.,Civil Engg,
 o27364,1,B.Tech.,Electrical Engg.,
 o27365,1,M.Sc.,Zoology,
@@ -6626,12 +6999,12 @@ o27370,1,M.E.,Mech. Engg.,
 o27371,1,B.A.,Economics,
 o27372,1,B.E.,Indl.economics,
 o27373,1,Graduate,,
-o27374,1,B.E.,,
+o27374,1,"B.E. | Visveswaraiah Technological University Belgaum, Karnataka | University College",Information Sc,Not Awarded
 o27375,1,B.E.,Tel Comn Engg,
 o27376,1,B.Tech.,,
 o27376,2,M.B.A.,,
 o27377,1,B.E.(Hons),Electrical Engg.,
-o27378,1,B.Tech.,,
+o27378,1,B.Tech. | Kerala University | University College,Electronics and Communication,First
 o27379,1,Graduate,,
 o27380,1,B.Tech.,,
 o27381,1,B.Tech.,Hons,
@@ -6648,9 +7021,9 @@ o27389,1,B.A.,History,
 o27390,1,M.A.,Public Admn,
 o27391,1,B.A.M.S.,,
 o27391,2,M.A.,Public Mgmt,
-o27392,1,B.E.,Mech. Engg.,
-o27393,1,M.B.B.S.,,
-o27394,1,B.Tech.,,
+o27392,1,B.E. | Pune University | Pune University,Mechanical,Not Awarded
+o27393,1,M.B.B.S. | Maharashtra University of Health Sciences Nashik | University College,Anatomy,First
+o27394,1,B.Tech. | IIT | IIT Guwahati,Computer Sc,Pass
 o27395,1,B.A.,Political Sc.,
 o27396,1,M.B.B.S.,,
 o27397,1,B.E.,,
@@ -6685,19 +7058,23 @@ o27417,2,M.B.B.S.,,
 o27418,1,M.A.,Public Mgmt,
 o27418,2,M.Sc.,Economics,
 o27419,1,B.Tech.,,
-o27420,1,B.Tech.,Civil Engg,
+o27420,1,"B.Tech. | IIT,BOMBAY | INDIAN INSTITUTE OF TECHNOLOGY",Civil Engg,First
 o27421,1,B.Tech.,Electrical Engg.,
 o27422,1,B.Com.,Hons,
 o27422,2,M.Com.,,
-o27423,1,B.Tech.,,
-o27423,2,M.B.A.,,
-o27424,1,M.B.B.S.,,
-o27425,1,M.B.B.S.,,
-o27426,1,B.Tech.,,
-o27426,2,M.B.A.,,
-o27427,1,B.Sc.,,
-o27428,1,B.Tech.,,
-o27428,2,M.A.,Public Mgmt,
+o27423,1,B.Tech. | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY JAIPUR | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY,Electronics and Communication,Not Awarded
+o27424,1,M.B.B.S. | Rajasthan University of Health Science | Rajasthan University of Health Science,Medicine,First
+o27425,1,M.B.B.S. | AIIMS New Delhi | AIIMS,Medicine Surgery,Pass
+o27426,1,B.Tech. | RAJASTHAN,Electronics and Communication,First with Distinction
+o27426,2,M.B.A. | INDIAN INSTITUTE OF FOREIGN TRADE DEEMED UNI NEW DELHI,Finance,First with Distinction
+o27426,3,M.B.A. | INDIAN INSTITUTE OF FOREIGN TRADE DEEMED UNI NEW DELHI | Indian Instutute of Foreign Trade ( IIFT),Business Mgt,First
+o27426,4,Masters in Public Management | JNU | LBSNAA,Public Management & Governance,First with Distinction
+o27426,5,CFA and MFA | CFA Institute USA USA,Finance,First with Distinction
+o27426,6,M.A. Economics | IGNOU Delhi,Development Economics,First with Distinction
+o27426,7,CFA and MFA | CFA Institute USA USA,Financial Analysis,First with Distinction
+o27427,1,B.Sc. | MDS University Ajmer | MDS,Chemistry,First
+o27427,2,M.A. | JN University New Delhi,Public Mgmt,First
+o27428,1,B.Tech. | IIT MUMBAI | IIT BOMBAY,Metallurgy Engg,First
 o27429,1,B.Tech.,,
 o27429,2,M.Tech.,,
 o27430,1,B.Tech.,,
@@ -6719,8 +7096,8 @@ o27442,1,M.B.B.S.,,
 o27443,1,B.Tech.,,
 o27443,2,M.B.A.,,
 o27444,1,B.Tech.,,
-o27445,1,Graduate,,
-o27446,1,M.B.B.S.,,
+o27445,1,B.E. | OSMANIA UNIVERSITY HYDERABAD | Osmania College of Engineering,Electrical Engg.,First
+o27446,1,M.B.B.S. | Dr. NTR University of Health Sciences A.P | University College,Medicine,Second
 o27447,1,B.Tech.,Electronics & Telecom Engg,
 o27447,2,M.Tech.,Electronics & Telecom Engg,
 o27448,1,M.B.B.S.,Medicine,
@@ -6730,22 +7107,22 @@ o27450,1,B.Tech.,,
 o27451,1,B.Tech.,Electrical Engg.,
 o27452,1,B.E.,,
 o27453,1,B.Tech.,,
-o27454,1,Graduate,,
-o27455,1,B.E.,,
-o27455,2,M.B.A.,Business Mgt,
-o27456,1,B.Tech.,Electrical Engg.,
+o27454,1,M.B.B.S. | University of Delhi | University of Delhi,Medicine Surgery,Not Awarded
+o27454,2,M.B.B.S. | University of Delhi,Medicine,Pass
+o27454,3,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | LBSNAA,Public Management,First
+o27455,1,B.E. | UNIVERSITY OF DELHI DELHI | Netaji Subash Institute of Technology,Instrumentation,First
+o27456,1,B.E. | Motial Nehru National Institute of Technology Allahabad | Motial Nehru National Institute of Technology,Electrical Engg.,First
 o27457,1,B.A.,,
 o27457,2,LL.B./B.L.,,
 o27458,1,B.Tech.,Chem. Engg,
-o27459,1,B.Tech.,Comp. Sci.,
+o27459,1,B.E. | Motial Nehru National Institute of Technology Allahabad | Motilal Nehru National Institute of Technology Allahabad,Computer Sc,First
 o27460,1,M.A.,Public Mgmt,
 o27461,1,Graduate,,
 o27462,1,Graduate,,
 o27463,1,M.A.,Public Mgmt,
 o27463,2,M.B.A.,Finance,
 o27464,1,B.Tech.,,
-o27465,1,B.Tech.,Civil Engg,
-o27465,2,M.A.,Public Mgmt,
+o27465,1,B.Tech. | Lucknow Univ. | LUCKNOW UNIVERISITY,Civil Engg,First
 o27466,1,B.Tech.,,
 o27466,2,M.B.A.,,
 o27467,1,B.Tech.,Civil Engg,
@@ -6792,8 +7169,7 @@ o27496,1,B.Tech.,Civil Engg,
 o27496,2,M.P.M.,Public Mgmt,
 o27497,1,B.E.,Electrical Engg.,
 o27497,2,M.B.A.,Finance,
-o27498,1,B.E.,,
-o27498,2,M.B.A.,,
+o27498,1,M.B.A. | IIT Madras | IIT MADRAS,Business Mgt,Not Awarded
 o27499,1,B.E.,Electronics Engg,
 o27499,2,M.A.,Economics,
 o27500,1,B.Tech.,Electrical Engg.,
@@ -6809,17 +7185,16 @@ o27509,1,M.B.B.S.,,
 o31658,1,B.E.,Civil Engg,
 o31659,1,M.A.,History,
 o31660,1,M.A.,Sociology,
-o31662,1,M.A.,History,
+o31662,1,M.A. | Guru Ghasidas Univ. Bilaspur(CG) | Govt.Collage Bilaspur,History,First
 o31663,1,M.Phil.,,
 o31663,2,M.Sc.,Zoology,
-o31664,1,M.Sc.,Organic Chemistry,
+o31664,1,M.Sc. | A P S University Rewa MP | Maharaja College,Chemistry,First
 o31665,1,LL.B./B.L.,,
 o31665,2,M.Sc.,Chemistry,
 o31666,1,A.M.I.E,,
 o31674,1,B.Com.,,
-o31677,1,M.A.,Economics,
-o31677,2,M.A.,Public Admn,
-o31678,1,M.A.,History,
+o31677,1,M.A. | Himachal Pradesh University Shimla | HImachal Pradesh University,Economics,Second
+o31678,1,M.A. | Himachal Pradesh University Shimla,History,Second
 o31705,1,LL.B./B.L.,,
 o31705,2,M.Sc.,,
 o31706,1,LL.B./B.L.,,
@@ -6937,7 +7312,7 @@ o33086,1,M.P.A.,,
 o33086,2,M.Sc.,Physics,
 o33087,1,M.A.,Public Admn,
 o33088,1,B.Tech.,Civil Engg,
-o33089,1,P.G.,History,
+o33089,1,M.A. | Delhi University,History,Second
 o33091,1,B.A.,Economics,
 o33091,2,M.A.,Social Work,
 o33093,1,B.V.Sc.,,
@@ -6958,7 +7333,7 @@ o33178,1,B.Tech.,Mech. Engg.,
 o33179,1,M.Tech.,Bio-Technology,
 o33180,1,M.A.,Public Admn,
 o33181,1,B.Tech.,Civil Engg,
-o33182,1,B.Tech.,Computer Science & Engg.,
+o33182,1,B.Tech. | Indian Institute of Technology Kharagpur | IIT Karagpur,Computer Sc,First
 o33183,1,B.Tech.,Bio-Technology,
 o33183,2,M.Tech.,,
 o33184,1,M.B.B.S.,,
@@ -6972,11 +7347,11 @@ o33190,1,B.Com.,,
 o33191,1,B.E.,,
 o33192,1,B.Tech.,,
 o33193,1,Graduate,,
-o33194,1,B.Tech.,Electrical Engg.,
-o33195,1,B.Tech.,,
-o33195,2,M.A.,Public Admn,
-o33196,1,Graduate,,
-o33197,1,M.B.B.S.,,
+o33194,1,B.Tech. | Nirma University of Science & Technology Ahmedabad | Nirma Institute of Techology,Electrical Engg.,First
+o33195,1,B.Tech. | MDU Rohtak,Electronics and Communication,First
+o33195,2,M.A. | JNU New Delhi,Public Management,-
+o33196,1,B.E. | Delhi University | Netaji Subhas Institute of Technology,Electronics and Communication,First with Distinction
+o33197,1,M.B.B.S. | Maharshi Dayanand University Rohtak,All Medical Subjects,Pass
 o33198,1,B.Tech.,,
 o33199,1,B.Sc.,Chemistry,
 o33200,1,B.Tech.,Computers,
@@ -7026,16 +7401,18 @@ o33236,1,B.Tech.,Electronics,
 o33237,1,M.A.,Dev Studies,
 o33238,1,B.A.M.S.,,
 o33239,1,B.Tech.,Mech Hons,
-o33240,1,Graduate,,
-o33241,1,B.Tech.,Civil Engg,
-o33242,1,B.E.,Electronics,
+o33240,1,"B.E. | RGPV, Bhopal",Electronics and Communication,First
+o33240,2,M.A. | JNU Delhi | JNU,Public Management,Awarded
+o33241,1,B.Tech. | Indian Institue of Technology IIT Delhi New Delhi,Civil Engg,First
+o33241,2,Master of Arts | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,First
+o33242,1,"B.E. | RGPV, Bhopal | RGPV, Bhopal",Electronics and Communication,Awarded
 o33243,1,M.B.B.S.,,
 o33244,1,B.Tech.,Metallurgy,
 o33245,1,B.Tech.,Electronics,
 o33246,1,B.Tech.,Chem. Engg,
 o33247,1,B.Tech.,Chem. Engg,
 o33248,1,B.E.,,
-o33249,1,B.Tech.,,
+o33249,1,B.Tech. | Pune University | Pune University,Electronics & Telecom Engg,First with Distinction
 o33250,1,B.E.,,
 o33251,1,B.Tech.,Civil Engg,
 o33251,2,M.A.,Public Mgmt,
@@ -7064,9 +7441,11 @@ o33269,2,M.A.,Public Admn,
 o33270,1,B.Arch.,,
 o33271,1,Graduate,,
 o33272,1,B.Tech.,Computer Science & Engg.,
-o33273,1,B.E.,Electronics,
-o33273,2,M.Sc.,Mathematics,
-o33274,1,B.Sc.,Mathematics,
+o33273,1,M.Sc. | BITS Pilani | BITS PILANI,Mathematics,First
+o33273,2,B.E. (Hons) | BITS Pilani | BITS PILANI,Electrical Engg.,First
+o33274,1,B.Sc. | Jai Narain University Jodhpur | Jai Narain Vyas University,Mathematics,First
+o33274,2,M.A. | JNU Delhi | JAWAHAR LAL NEHRU UNUVERSITY,Hindi,First
+o33274,3,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | LBSNAA,Public Management,First
 o33275,1,B.Tech.,,
 o33276,1,M.Phil.,,
 o33276,2,Ph.D.,,
@@ -7082,11 +7461,11 @@ o33283,1,B.Tech.,Comp. Sci.,
 o33283,2,M.A.,Public Mgmt,
 o33284,1,B.Tech.,,
 o33284,2,M.A.,Public Mgmt,
-o33285,1,B.Com.,,
+o33285,1,Master of Business Laws | National Law School of India University Bangalore,Business Law,First
 o33286,1,M.Phil.,,
 o33287,1,B.Sc.,Agri.,
 o33287,2,M.B.A.,,
-o33288,1,B.Tech.,Bio-Technology,
+o33288,1,"B.Tech. | SRM University, Chennai | SRM University,Chennai",Bio-Technology,First with Distinction
 o33289,1,B.E.,Mech. Engg.,
 o33290,1,B.Tech.,Bio-Technology,
 o33290,2,M.B.A.,Fin. Mgmt,
@@ -7115,10 +7494,9 @@ o33310,1,B.Tech.,Electrical Engg.,
 o33310,2,M.A.,Public Mgmt,
 o33311,1,B.E.,Electronics Engg,
 o33312,1,B.Tech.,Electrical Engg.,
-o33313,1,M.B.B.S.,,
+o33313,1,M.B.B.S. | King George Medical University Lucknow,Medical Sciences,First
 o33314,1,B.Tech.,,
-o33315,1,B.Tech.,,
-o33315,2,M.A.,Public Admn,
+o33315,1,B.Tech. | IIT Delhi | Indian Institite of Technology Delhi,Engineeriing,First
 o33316,1,B.Tech.,Mech. Engg.,
 o33317,1,B.Tech.,,
 o33318,1,B.Tech.,,
@@ -7209,10 +7587,9 @@ o35488,2,P.G. Diploma,,
 o35489,1,M.A.,History,
 o35489,2,Ph.D.,,
 o35490,1,M.Sc.,,
-o35492,1,M.Sc.,,
-o35492,2,Ph.D.,,
+o35492,1,Ph. D. | SRI VENKATESWARA UNIVERSITY TIRUPATHI | Sri Venkateswara College,Mathematics,Pass
 o35493,1,M.Sc.,,
-o35494,1,M.Sc.,Agri.,
+o35494,1,M.Sc. | Acharya NGR Agrl.Univ. HYDERABAD | Acharya NG Ranga Agricultural University(ANGRAU),Agriculture,First
 o35503,1,M.A.,Political Sc.,
 o35505,1,M.A.,English,
 o35508,1,B.Sc.,Agri.,
@@ -7252,7 +7629,8 @@ o35552,1,M.A.,Sanskrit,
 o35553,1,B.Sc.,,
 o35554,1,B.A.,,
 o35555,1,M.A.,History,
-o36697,1,B.E.,Civil Engg,
+o36697,1,"B.Tech. | M.S./UNIV, BARODA(GJ) | College of Engineering and Tecchology",Civil Engg,First with Distinction
+o36697,2,"M.B.A. | IIM, Banagalor Bangalore | IIM Bangalore",Public Policy & Mgmt,First with Distinction
 o36699,1,B.A.,Hons,
 o36838,1,Graduate,,
 o36839,1,B.Sc.(Physics (hons)),,
@@ -7272,7 +7650,7 @@ o36848,2,C.A.,,
 o36849,1,B.Tech.,,
 o36849,2,M.A.,Anthropology,
 o36850,1,B.D.S.,,
-o36851,1,B.Com.,,
+o36851,1,B.Com Honours | Delhi University | Shri Ram College of Commerce,Taxation,First
 o36852,1,B.Tech.,Civil Engg,
 o36853,1,Graduate,,
 o36854,1,B.Tech.,Electrical Engg.,
@@ -7280,7 +7658,7 @@ o36855,1,M.B.B.S.,,
 o36856,1,Graduate,,
 o36857,1,B.Tech.,Engineeriing,
 o36858,1,LL.B./B.L.,,
-o36859,1,B.Tech.,Electrical Engg.,
+o36859,1,B.Tech. | IIT BOMBAY BOMBAY | IIT BOMBAY,Electrical Engg.,First
 o36860,1,B.Tech.,,
 o36861,1,B.Sc.,Physics,
 o36861,2,M.Sc.,Applied Physics,
@@ -7288,9 +7666,9 @@ o36862,1,B.Tech.,Civil Engg,
 o36862,2,M.A.,Public Admn,
 o36863,1,B.Tech.,,
 o36863,2,M.Tech.,,
-o36864,1,B.Tech.,,
+o36864,1,B.Tech. | Delhi University | DELHI UNIVERSITY,Chemical Engg,First
 o36865,1,B.Tech.,Computer Science & Engg.,
-o36866,1,B.Tech.,,
+o36866,1,"B.Tech. | IIT | Indian Institute of Technology, Patna (IIT Patna)",Electrical Engg.,First
 o36867,1,B.E.,,
 o36868,1,B.Tech.,,
 o36869,1,B.E.,Electrical Engg.,
@@ -7302,14 +7680,17 @@ o36873,1,B.Tech.,Engineeriing,
 o36874,1,B.Sc.,,
 o36875,1,B.Tech.,Electrical Engg.,
 o36876,1,B.Tech. | INDIAN SCHOOL OF MINES DHANBAD | INDIAN SCHOOL OF MINES DHANBAD,Petroleum Engg,First
-o36877,1,M.B.A.,,
+o36877,1,B.Sc. | Gujarat University | St Xaviers College,Chemistry,First
+o36877,2,M.B.A. | Gujarat University,Marketing,First
 o36878,1,M.B.B.S.,,
-o36879,1,Graduate,,
+o36879,1,B.Tech. | IIT KHARAGPUR KHARAGPUR | IIT KHARAGPUR,Electrical Engg.,First
 o36880,1,B.A.,,
 o36880,2,LL.M.,,
 o36881,1,Graduate,,
-o36882,1,B.A.,Hons,
-o36883,1,Graduate,,
+o36882,1,B.A. | University of Delhi | St. Stephen's College,Economic Hons.,First
+o36882,2,B.A. Honours | University of Delhi | University of Delhi,Economics,First
+o36883,1,B.Tech. | IIT Kanpur | IIT Kanpur,Biology,First
+o36883,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,Pass
 o36884,1,B.A.,Business Econ,
 o36885,1,B.A.(Hons),History,
 o36885,2,M.A.,Public Policy,
@@ -7324,24 +7705,24 @@ o36891,2,M.Tech.,,
 o36892,1,Graduate,Finance,
 o36893,1,B.E.,Electronics & Telecom Engg,
 o36894,1,"B.Tech. | REC,SILCHAR,ASSAM | National Instt. of Technology Silchar",Electrical Engg.,First
-o36895,1,Graduate,,
+o36895,1,B.Tech. | Indian Institute of Technology Kharagpur | Indian Institute of Technology Kharagpur,Mechanical engineering,First
 o36896,1,M.A.,Public Mgmt,
 o36896,2,M.Sc.,Sociology,
 o36897,1,B.E.,Hons,
 o36897,2,M.Tech.,,
-o36898,1,Graduate,,
-o36899,1,B.Tech.,Mech. Engg.,
+o36898,1,B.E. | Jammu University,Civil Engg,First with Distinction
+o36898,2,M.A. | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | JAWAHAR LAL NEHRU UNUVERSITY,Public Management,Pass
+o36899,1,B.Tech. | Uttar Pradesh Technical University Lucknow,Mechanical,First
 o36900,1,B.E.,,
 o36901,1,"B.A., LL.B. | National Law University Delhi | National Law School",Constitl. Law,First
 o36901,2,LL.B. | Delhi University | DELHI UNIVERSITY,Law,First
-o36902,1,B.E.,Info. Tech.,
-o36902,2,P.G.,Management,
+o36902,1,"B.E. | PEC,CHANDIGARH | University College",Information Technology,First
 o36903,1,B.Sc.(Hons),Physics,
 o36903,2,LL.B./B.L.,,
 o36904,1,B.Tech.,,
-o36905,1,B.Tech.,Comp. Sci.,
+o36905,1,"B.E. | BIRLA INSTITUTE OF TECHNOLOGY MESRA RANCHI | BIT, Mesra",Computer Sc,First
 o36906,1,B.Tech.,Chem. Engg,
-o36907,1,M.B.A.,,
+o36907,1,M.B.A. | Guru Gobind Singh Indraprstha Delhi | Army Institute of Technology,Finance,First
 o36908,1,B.A.(Hons),History,
 o36908,2,M.A.,Intnl Relations,
 o36909,1,B.Tech.,,
@@ -7351,20 +7732,22 @@ o36911,1,Graduate,,
 o36912,1,M.A.,Economics,
 o36913,1,Graduate,,
 o36914,1,B.Tech.,,
-o36915,1,B.E.(Hons),Civil Engg,
+o36915,1,M.Sc. | Birla Institute of Technology and Science Pilani | BIRLA INSTITUTE OF TECHNOLOGY,Physics,Second
+o36915,2,Bachelor of Engineering | Birla Institute of Technology and Science Pilani | Birla Institue of Tech and Science Pilani,Civil Engg,Second
 o36916,1,B.Tech.,,
 o36917,1,B.E.,Mech. Engg.,
 o36918,1,B.Tech.,,
-o36919,1,B.Sc.,,
+o36919,1,B.Sc. | Rajasthan Univ Jaipur | Rajasthan University,Zoology,First
+o36919,2,M.A. | JNU New Delhi | LBSNAA,Public Mgmt,First
 o36920,1,B.E.,Mech. Engg.,
 o36921,1,B.Tech.,Electrical Engg.,
-o36922,1,B.Tech.,Metallurgy,
+o36922,1,B.Tech. | IIT MUMBAI | IIT Mumbai,Metallurgy,First
 o36923,1,B.Tech.,,
 o36923,2,M.B.A.,,
-o36924,1,B.Tech.,,
-o36925,1,B.Tech.,Bio-Technology,
-o36925,2,M.Tech.,Bio-Technology,
-o36926,1,B.Tech.,Electronics,
+o36924,1,B.Tech. | NIT | National Institute of Technology REC,Mech.engg.,First
+o36924,2,B.Tech. | Karnataka | University College,Mechanical,First
+o36925,1,M.Tech. | IIT KHARAGPUR KHARAGPUR | IIT Kanpur,Bio Chemistry,First
+o36926,1,B.Tech. | Jawahar Lal Nehru Technological University Andhra Pradesh | University College,Electronics and Communication,First
 o36927,1,B.E.,Civil Engg,
 o36927,2,M.Tech.,,
 o36928,1,B.E.,,
@@ -7378,7 +7761,7 @@ o36932,1,B.E.,,
 o36932,2,M.Tech.,,
 o36933,1,M.A.,Public Mgmt,
 o36933,2,M.B.B.S.,,
-o36934,1,B.Tech.,,
+o36934,1,B.Tech. | IIT Delhi | IIT DELHI,Mechanical,First
 o36935,1,B.E.,,
 o36936,1,B.D.S.,,
 o36937,1,M.A.,Public Mgmt,
@@ -7401,7 +7784,7 @@ o36950,1,B.Tech.,,
 o36950,2,M.A.,Public Mgmt,
 o36951,1,M.Tech.,Commn.Engg,
 o36952,1,B.Tech.,,
-o36953,1,M.B.B.S.,,
+o36953,1,M.B.B.S. | Baba Farid University of Health Sciences Faridkot,Anatomy Physiology Biochemistry,First
 o36954,1,B.E.,,
 o36955,1,B.E.,,
 o36956,1,B.Tech.,,
@@ -7426,13 +7809,13 @@ o36970,1,B.A.(Hons),History,
 o36970,2,M.A.,History,
 o36971,1,B.E.,Mech. Engg.,
 o36972,1,B.H.M.S.,,
-o36973,1,B.E.,Electronics & Telecom Engg,
+o36973,1,B.E. | Pune University | University of Pune,Electronics & Telecom Engg,First
 o36974,1,B.E.,Mech. Engg.,
-o36975,1,B.E.,,
+o36975,1,B.Tech. | Indian Institute of Technology Kharagpur IIT Kharagpur | IIT KHARAGPUR,Chemical Engg,First
 o36976,1,Graduate,,
 o36977,1,B.Tech.,,
 o36978,1,B.E.,,
-o36979,1,B.E.,Electronics & Telecom Engg,
+o36979,1,B.E. | Pune University | Pune University,Electronics & Telecom Engg,First
 o36980,1,B.Tech.,Chem. Engg,
 o36981,1,B.Tech.,Civil Engg,
 o36982,1,Graduate,,
@@ -7449,14 +7832,14 @@ o36993,1,M.Tech.,,
 o36994,1,B.Tech.,,
 o36995,1,B.Tech.,Electrical Engg.,
 o36996,1,B.Tech.,Mech. Engg.,
-o36997,1,B.E.,Mech. Engg.,
-o36998,1,B.Tech.,Electronics Engg,
+o36997,1,Bachelor of Engineering | VTU Belgaum,Mech.engg.,Awarded
+o36998,1,B.Tech. | National Institute of Technology (NIT) Warangal Warangal (AP) | National Institute of Technology (NIT) Warangal,Electronics and Communication,First
 o36999,1,B.A.,,
 o37000,1,B.Tech.,,
-o37001,1,B.Tech.,Electronics,
+o37001,1,B.Tech. | Thapar University Patiala Punjab | Thapar Institute Of Engineering and Technology Patiala,Instrumentation,First
 o37002,1,M.B.B.S.,,
 o37003,1,B.Tech.,,
-o37004,1,B.Tech.,,
+o37004,1,M.A. | University of Delhi | Hindu College Delhi,Philosophy,Second
 o37005,1,B.Tech.,Electronics Engg,
 o37006,1,M.A.,Social Sciences,
 o37006,2,P.G.,Public Relation,
@@ -7466,12 +7849,13 @@ o37009,1,Graduate,,
 o37010,1,B.E. | University of Pune,Electronics & Telecom Engg,First with Distinction
 o37011,1,B.Sc.,,
 o37011,2,M.Sc.,,
-o37012,1,B.Tech.,,
-o37013,1,B.E.,,
+o37012,1,B.Tech. | IIT Kanpur | IIT Kanpur,Chemical Engg,First
+o37013,1,B.E. (Hons) | Panjab University | Department of Chemical Engineering and Technology,Chemical Engg,First with Distinction
 o37014,1,Graduate,,
 o37015,1,B.A. LL.B.,,
-o37016,1,B.Tech.,Computer Science & Engg.,
-o37017,1,LL.B./B.L.,,
+o37016,1,B.Tech. | I I T Roorkee Roorkee | I I T Roorkee,Computer Sc,First
+o37017,1,B.A. | University of Pune,Geography,First with Distinction
+o37017,2,LL.B. | Dr Babasaheb Ambedkar Marathwada University Aurangabad,Constitutional and Administrative Laws,First
 o37032,1,B.Sc.,Agri.,
 o37032,2,LL.M.,,
 o37042,1,M.Sc.,Agri.,
@@ -7638,8 +8022,9 @@ o37565,1,M.A.,Political Sc.,
 o37567,1,B.A.,,
 o37622,1,B.E.,Civil Engg,
 o37622,2,LL.B./B.L.,,
-o37624,1,B.Sc.,Physics,
-o37624,2,M.B.A.,,
+o37624,1,B.Sc. | Gujarat University,Physics,Second
+o37624,2,PG Diploma | Gujarat University Ahmedabad,Computer Sc,Pass
+o37624,3,MBA Part time | IGNOU,Marketing,First
 o37625,1,B.Sc.(Hons),Chemistry,
 o37626,1,LL.B./B.L.,,
 o37626,2,M.Tech.,Aplied Geologcl,
@@ -7661,10 +8046,13 @@ o37652,1,Graduate,,
 o37653,1,LL.B./B.L.,,
 o37654,1,B.A.(Hons),Political Sc.,
 o37655,1,B.Tech.,Electrical Engg.,
-o37656,1,B.E.,,
+o37656,1,"B.E. | Chhattisgarh Swami Vivekananda | Bhilai Institute of Technology, Durg",Electronics & Telecom Engg,First
 o37657,1,B.Tech.,Civil Engg,
 o37658,1,M.Sc.,,
-o37659,1,B.Com.,C.A.,
+o37659,1,B.Com. | University of Mumbai | College of Commerce,Commerce,First
+o37659,2,Chartered Accountant | ICAI New Delhi | ICAI,Accountancy,Pass with Merit
+o37659,3,Master of Arts | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI | Jawaharlal Nehru University,Public Administration,First
+o37659,4,Master of Laws | University of Law Delhi | National Law University Delhi,Contract and Taxation Law,First
 o37660,1,B.Tech.,,
 o37661,1,B.E.,Electronics Engg,
 o37662,1,B.A.(Hons),English,
@@ -7685,12 +8073,12 @@ o37672,1,M.Sc.,Development Mgmt,
 o37673,1,B.Tech.,Info. Tech.,
 o37674,1,M.Sc.,Zoology,
 o37674,2,Post Doctorate,Bio Chemistry,
-o37675,1,B.Tech.,,
+o37675,1,"B.Tech. | Indian Institute of Technology Kharagpur | IIT, Kharagpur",Electrical Engg.,First
 o37676,1,B.A.,,
 o37676,2,LL.B./B.L.,,
 o37677,1,B.Tech.,,
 o37678,1,B.A.,,
-o37679,1,B.Tech.,Chem. Engg,
+o37679,1,B.Tech. | IIT Delhi | IIT DELHI,Chemical Engg,First
 o37680,1,B.E.,,
 o37681,1,B.Tech.,Mech. Engg.,
 o37682,1,Graduate,,
@@ -7704,13 +8092,12 @@ o37688,1,B.E.,Info Tech,
 o37689,1,B.Tech.,Electrical Engg.,
 o37689,2,M.B.A.,,
 o37690,1,Graduate,,
-o37691,1,M.A.,Economics,
+o37691,1,M.A. | UNIVERSITY OF DELHI DELHI | Delhi Sch.of Economics,Economics,Second
 o37692,1,B.Tech.,Info Tech,
 o37692,2,M.B.A.,Finance,
-o37693,1,B.Tech.,,
+o37693,1,B.Tech. | IIT Kanpur | IIT Kanpur,Material Engg,First
 o37694,1,M.Tech.,Petroleum Engg,
-o37695,1,B.Tech.,Electronics,
-o37695,2,M.B.A.,,
+o37695,1,M.B.A. | Indian Institute of Management Lucknow | IIM Lucknow,Finance,Not Awarded
 o37696,1,B.Tech.,Electrical Engg.,
 o37697,1,B.E.,Electronics Engg,
 o37698,1,B.Tech.,Mech. Engg.,
@@ -7723,27 +8110,27 @@ o37701,2,M.A.,Public Mgmt,
 o37702,1,M.B.B.S.,,
 o37703,1,B.E.,Electronics & Telecom Engg,
 o37703,2,M.A.,Public Mgmt,
-o37704,1,B.Tech.,Electrical Engg.,
-o37705,1,M.B.B.S.,,
+o37704,1,B.Tech. | University of Patna | PATNA UNIVERSITY,Electrical Engg.,First
+o37705,1,M.B.B.S. | Delhi University | DELHI UNIVERSITY,Medicine,Second
 o37706,1,B.Tech.,Mech. Engg.,
 o37707,1,B.Tech.,Comp. Sci.,
 o37707,2,M.Sc.,Mathematics,
-o37708,1,B.Tech.,Info Tech,
+o37708,1,B.Tech. | Allahabad University Allhabad | Allhabad University,Information Technology,First
 o37709,1,B.Tech.,Comp. Sci.,
 o37710,1,B.Tech.,Mech. Engg.,
 o37711,1,B.Tech. | IIT KHARAGPUR KHARAGPUR | IIT KHARAGPUR,Electrical & Electronics Engineering,First
 o37712,1,B.Tech.,Chem. Engg,
 o37713,1,M.Tech.,,
 o37714,1,B.Tech. | Bhopal University | Moulana Azad College of Tech.,Electrical Engg.,First
-o37715,1,B.Tech.,Civil Engg,
+o37715,1,B.Tech. | Sri Venkatewara Universit College of Engineering Tirupati | Sri Venkateswara College,Civil Engg,First
 o37716,1,Graduate,,
 o37717,1,B.Tech. | IIT Kanpur | IIT Kanpur,Aerospace Enginneering,First
 o37718,1,M.B.B.S.,,
-o37719,1,B.E.,Electronics,
+o37719,1,B.E. | Anna Univ. Chenai | Sri sairam Engineering College,Electronics and Communication,First
 o37720,1,B.Tech.,,
 o37721,1,B.Tech. | INDIAN SCHOOL OF MINES DHANBAD | Indian Institute of Technology,Computer Sc,First
 o37722,1,M.B.B.S.,,
-o37723,1,B.Tech.,Mech. Engg.,
+o37723,1,"B.Tech. | DCRUST, Murthal | DCRUST(Deenbandhu Chhotu Ram University of Science & Technology)",Mechanical engineering,First
 o37724,1,M.A.,English Lit,
 o37725,1,B.Com.,,
 o37725,2,M.A.,Public Admn,
@@ -7755,7 +8142,7 @@ o37729,1,B.Tech.,,
 o37729,2,M.Tech.,,
 o37730,1,B.Tech.,Electrical Engg.,
 o37730,2,M.A.,Public Admn,
-o37731,1,M.Sc.,Technology,
+o37731,1,"Integrated Masters in Technology | INDIAN SCHOOL OF MINES DHANBAD | IIT(ISM), Dhanbad",Geology,First
 o37732,1,B.Tech.,Mech. Engg.,
 o37733,1,B.Sc.,Agri.,
 o37733,2,M.A.,,
@@ -7764,15 +8151,17 @@ o37734,2,M.B.A.,,
 o37735,1,B.E.,,
 o37736,1,B.Tech.,Mech. Engg.,
 o37737,1,B.Tech.,Electronics & Telecom Engg,
-o37738,1,B.Tech.,Chem. Engg,
+o37738,1,B.Tech. | University of Kerala Thiruvanthapuram | TKM COLLEGE OF ENGINEERING,Chemical Engg,First
 o37739,1,LL.B./B.L.,Hons,
 o37739,2,M.A.,Public Mgmt,
 o37740,1,B.Tech.,,
-o37741,1,M.Tech.,,
+o37741,1,M.Tech. | Raj University Rajasthan | Rajasthan University,Information Technology,First
+o37741,2,LL.M. | National Law University Delhi | National Law University Delhi,Crimnology,First
+o37741,3,Master of Arts | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,First
 o37742,1,B.Sc.(Hons),Zoology,
 o37743,1,M.A.,Public Mgmt,
 o37743,2,M.B.B.S.,Medicine,
-o37744,1,B.Tech.,,
+o37744,1,B.Tech. | IIT Delhi | IIT DELHI,Electrical Engg.,First
 o37745,1,B.Tech.,Electrical Engg.,
 o37746,1,B.Tech.,Mech. Engg.,
 o37747,1,M.A.,Economics,
@@ -7790,19 +8179,19 @@ o37757,1,B.A.(Hons),Micro &macro Eco,
 o37758,1,B.Tech.,Comp. Sci.,
 o37759,1,Graduate,,
 o37760,1,B.Tech.,Mech. Engg.,
-o37761,1,B.Tech.,,
+o37761,1,B.Tech. | University of Punjab Punjab | Punjab University,Information Technology,First
 o37762,1,B.E.,Mech. Engg.,
 o37763,1,Graduate,,
 o37764,1,M.B.B.S.,Medicine,
-o37765,1,B.Tech.,,
+o37765,1,B.Tech. | Guru Gobind Singh Indraprastha University Delhi | Guru Govind Singh Indraprastha University Delhi,Electronics and Communication,First
 o37766,1,B.Tech.,Civil Engg,
 o37767,1,B.Tech.,Mech. Engg.,
 o37767,2,P.G. Diploma,Urban Planning,
 o37768,1,B.Sc.,Horticulture,
-o37769,1,B.E.,,
-o37771,1,Graduate,,
+o37769,1,B.E. | Shivaji Univ KOLHAPUR | COLLEGE OF ENG.,Computer Sc,First
+o37771,1,B.Tech. | IIT Delhi | IIT DELHI,Mechanical engineering,First
 o37772,1,Graduate,,
-o37773,1,Graduate,,
+o37773,1,B.Ed. | Vinoba Bhave University Hazari Bagh | University College,Education,First
 o37774,1,B.E.,Civil Engg,
 o37775,1,LL.M.,,
 o37775,2,M.A.,Public Admn,
@@ -7810,13 +8199,13 @@ o37776,1,Graduate,,
 o37777,1,B.Tech.,Electrical Engg.,
 o37778,1,B.Tech.,,
 o37778,2,M.B.A.,,
-o37779,1,B.Tech.,Mech. Engg.,
+o37779,1,B.Tech. | IIT Delhi | IIT DELHI,Mechanical engineering,First
 o37780,1,B.Tech.,,
 o37781,1,B.Tech. | IIT Kanpur | IIT Kanpur,Material Engg,First
-o37782,1,B.Tech.,,
+o37782,1,B.Tech. | Kurukshetra University Haryana | KURUKSHETRA UNIVERSITY,Electronics & Telecom Engg,First
 o37783,1,B.Tech.,Electrical Engg.,
 o37784,1,B.Tech.,Mech. Engg.,
-o37785,1,B.E.,,
+o37785,1,"B.Tech. | IIIT hyderabad | IIIT, Hyderabad",Electrical Engg.,First
 o37786,1,Graduate,,
 o37787,1,M.B.B.S.,,
 o37788,1,B.Tech.,,
@@ -7825,17 +8214,17 @@ o37790,1,M.B.B.S. | Delhi Univ | DELHI UNIVERSITY,Medical Sciences,First
 o37791,1,B.Tech.,Electronics & Telecom Engg,
 o37792,1,B.E.,Comp. Sci.,
 o37793,1,B.A.,,
-o37794,1,B.Tech.,Mech. Engg.,
+o37794,1,"B.Tech. | Sardar Patel University Vallabh Vidyanagar Gujarat | Sardar Vallabhbhai National Institute of Technology, Surat, Gujrat",Mech.engg.,First
 o37795,1,M.Tech.,,
 o37796,1,M.B.B.S.,Medicine,
 o37797,1,B.Tech.,Biology,
 o37798,1,B.E.,,
-o37799,1,B.Tech.,,
+o37799,1,B.Tech. | IIT KHARAGPUR KHARAGPUR | IIT Karagpur,Computer Sc,First
 o37800,1,B.Tech.,Textile Engg.,
 o37801,1,B.Sc.(Hons),Physics,
 o37801,2,M.A.,,
 o37802,1,B.Tech.,Chem. Engg,
-o37803,1,M.B.B.S.,,
+o37803,1,M.B.B.S. | UNIVERSITY OF DELHI DELHI | Lady Hardinge Medical College,Medical Sciences,Second
 o37804,1,B.Tech.,Electrical Engg.,
 o37804,2,M.A.,Economics,
 o37805,1,B.Tech. | SNDT University Mumbai | University College,Information Technology,First
@@ -7843,21 +8232,22 @@ o37806,1,B.Tech.,Electronics & Telecom Engg,
 o37807,1,B.Arch.,Architecture,
 o37808,1,B.Tech.,Mech. Engg.,
 o37809,1,B.E.,Communication,
-o37810,1,B.A.,,
+o37810,1,B.A. | Andhra Univ. | University College,English,First
+o37810,2,Master of Arts | JAWAHAR LAL NEHRU UNUVERSITY NEW DELHI,Public Management,First
 o37811,1,M.B.B.S.,,
 o37812,1,B.E.,,
 o37813,1,M.A.,Economics,
-o37814,1,B.Tech.,,
+o37814,1,B.Tech. | IIT Kanpur | IIT Kanpur,Mechanical engineering,First
 o37815,1,B.E.,,
 o37816,1,B.Tech.,,
 o37817,1,LL.M.,,
 o37817,2,M.A.,Public Admn,
 o37818,1,B.E.,Electronics & Telecom Engg,
-o37819,1,B.Tech.,,
+o37819,1,B.Tech. | IIT Delhi | IIT DELHI,Mech.engg.,First
 o37820,1,M.B.B.S.,Medicine,
 o37821,1,B.Tech.,Electrical Engg.,
 o37822,1,LL.B./B.L.,,
-o37823,1,B.A. LL.B.,,
+o37823,1,LL.B. | National Law School of India University Banglore KARNATAKA | National Law School of India University Bangalore,Economics,First
 o37824,1,M.C.A.,,
 o37825,1,B.E.,,
 o37825,2,M.A.,Public Mgmt,
@@ -7867,7 +8257,7 @@ o37836,1,B.Tech.,Electronics Engg,
 o37836,2,M.B.A.,,
 o37859,1,B.Tech.,,
 o37879,1,B.Sc.,Home Science,
-o37880,1,M.A.,,
+o37880,1,Ph. D. | Dr B R Ambedkar Open university Hyderabad Andhra Pradesh | University College,Sociology,Pass
 o37881,1,M.B.B.S.,,
 o37882,1,B.A.,,
 o37883,1,M.B.A.,,
@@ -7910,15 +8300,15 @@ o46139,1,M.A.,Public Admn,
 o46139,2,M.Sc.,Geology,
 o46140,1,B.Sc.,Forestry,
 o46140,2,Ph.D.,Bio-Technology,
-o46141,1,M.A.,English,
-o46141,2,M.Sc.,,
+o46141,1,Master of Arts | Punjab Univ. Chandigarh | Punjab University,English,Second
+o46141,2,Master of Science | Sikkim Manipal University Gangtok Sikkim | SIKKIM MANIPAL UNIVERSITY,Disaster Management,First
 o46142,1,M.B.A.,Business Admn,
 o46147,1,B.Sc.,,
 o46147,2,LL.B./B.L.,,
 o46148,1,B.Tech.,,
 o46148,2,M.B.A.,,
 o47183,1,B.E.,Civil Engg,
-o47184,1,B.E.,Civil Engg,
+o47184,1,Master of Technology | M.S University Baroda | Faculty of Engg.,Environmental Engineering,First
 o47195,1,M.A.,History,
 o47196,1,M.A.,Economics,
 o47197,1,LL.B./B.L.,,
@@ -8029,8 +8419,10 @@ o54349,1,B.Sc.,,
 o54350,1,B.Sc.,Chemistry,
 o54351,1,LL.B./B.L.,,
 o54351,2,M.Com.,,
-o54354,1,LL.B./B.L.,,
-o54354,2,M.E.,Civil Engg,
+o54354,1,B.E. | MS University Vadodara Gujarat,Civil Engg,First
+o54354,2,M.E. | Gujarat University | L.D.Engg.College,Civil Engg,First
+o54354,3,LL.B. | Saurashtra University Rajkot,Law,Second
+o54354,4,POST GRADUATE DIPLOMA IN MANAGEMENT | IIM Kozhikode | IIM Kozhikode,Management,Awarded
 o54356,1,B.Sc.,,
 o54356,2,LL.B./B.L.,,
 o54357,1,Diploma,Yoga,
@@ -8117,8 +8509,7 @@ o54458,1,B.Tech.,Computers,
 o54458,2,M.A.,Sociology,
 o54459,1,B.Tech.,Electronics & Telecom Engg,
 o54460,1,Graduate,,
-o54461,1,B.Tech.,,
-o54461,2,LL.M.,,
+o54461,1,B.Tech. | MAHARISHI DAYANAND UNIVERSITY HARYANA,Information Technology,First with Distinction
 o54462,1,B.Tech.,Electronics & Telecom Engg,
 o54463,1,B.Tech.,Comp. Sci.,
 o54464,1,Graduate,,
@@ -8142,8 +8533,8 @@ o54481,1,M.A.,Economics,
 o54482,1,B.Tech.,Civil Engg,
 o54483,1,B.Tech.,Mech. Engg.,
 o54484,1,B.Tech.,,
-o54485,1,B.Com.,Hons,
-o54485,2,C.A.,,
+o54485,1,B.Com. Hons. | Calcutta University | St. Xaviers College,Accounting and Auditing,First
+o54485,2,Chartered Accountant | Institute of Chartered Accountants of India Delhi | Institute of Chartered Accountants of India,Accounting and Auditing,Pass
 o54486,1,M.Tech.,,
 o54487,1,B.A.,,
 o54487,2,LL.B./B.L.,,
@@ -8318,7 +8709,7 @@ o54740,1,M.Sc.,,
 o54741,1,Graduate,,
 o54743,1,M.A.,Geography,
 o54743,2,M.Phil.,Geography,
-o54745,1,B.E.,Civil Engg,
+o54745,1,B.E. | Sardar Patel University Vallabh Vidyanagar Gujarat,Civil Engg,First with Distinction
 o55886,1,LL.B./B.L.,,
 o55886,2,M.Sc.,Botany,
 o55889,1,M.A.,Economics,
@@ -8395,13 +8786,11 @@ o56073,2,M.B.A.,,
 o56074,1,LL.M.,Law,
 o56074,2,P.G. Diploma,Management,
 o56076,1,B.E.,Civil Engg,
-o56081,1,B.Ed.,,
-o56081,2,M.A.,,
-o56082,1,B.Com.,,
-o56084,1,B.Com.,,
+o56081,1,M.A. | Gujarat University,English,Pass
+o56082,1,B.Com. | Gujarat University Ahmedabad | Commerce College,Commerce,Second
+o56084,1,B.Com. | Gujrat University,Accountancy,-
 o56088,1,M.E.,,
-o56090,1,B.E.,,
-o56090,2,M.A.,Development Mgmt,
+o56090,1,B.E. | GUJARAT,Instrumentation,First with Distinction
 o56093,1,B.Com.,,
 o56093,2,LL.B./B.L.,,
 o56094,1,M.Com.,,
@@ -8450,14 +8839,14 @@ o56183,1,M.A.,Education,
 o56184,1,M.Sc.,Zoology,
 o57328,1,M.A.,History,
 o57330,1,B.Tech.,,
-o57371,1,B.Tech.,Civil Engg,
+o57371,1,B.Tech. | IIT BOMBAY BOMBAY | IIT BOMBAY,Civil Engg,First
 o57372,1,B.Tech.,,
 o57373,1,B.Tech.,Comp. Sci.,
 o57374,1,M.A.,Economics,
 o57375,1,B.Sc.(Hons),Physics,
 o57376,1,B.Tech.,,
 o57377,1,B.Tech.,,
-o57378,1,B.Tech.,,
+o57378,1,B.Tech. | IIT Bombay Mumbai | IIT BOMBAY,Mechanical engineering,First
 o57379,1,B.A.,,
 o57380,1,B.E.,Hons,
 o57381,1,M.B.B.S.,,
@@ -8480,7 +8869,7 @@ o57394,2,Ph.D.,,
 o57395,1,Graduate,,
 o57396,1,B.E.,Hons,
 o57396,2,M.B.A.,,
-o57397,1,B.Tech.,,
+o57397,1,B.Tech. | Indian Institute of Technology | Banaras Hindu University,Electrical Engg.,First
 o57398,1,B.Tech.,,
 o57399,1,B.Tech.,,
 o57400,1,M.B.A.,,
@@ -8495,7 +8884,7 @@ o57407,1,B.D.S.,,
 o57408,1,B.E.(Hons),Electronics,
 o57408,2,M.Sc.,Mathematics,
 o57409,1,B.Tech.,,
-o57410,1,B.Tech.,,
+o57410,1,B.Tech. | IIT Delhi | IIT DELHI,Civil Engg,First
 o57411,1,B.Tech.,Civil Engg,
 o57412,1,B.Tech.,Electrical Engg.,
 o57413,1,B.A.,Political Sc.,
@@ -8503,25 +8892,23 @@ o57414,1,B.Tech.,,
 o57415,1,B.E.,,
 o57416,1,B.Tech.,,
 o57417,1,B.Tech.,,
-o57418,1,B.Tech.,,
-o57418,2,M.Tech.,,
+o57418,1,B.Tech. | IIT Delhi | IIT DELHI,Bio Chemistry,First
 o57419,1,B.Tech.,,
-o57420,1,B.E.,,
+o57420,1,"B.E. | Birla Institute of Technology & Science, Pilani RAJASTHAN | BIRLA INSTITUTE OF TECHNOLOGY",Energy Studies,First
 o57421,1,M.Sc. | Bhopal Univercity Bhopal | MANIT Bhopal,Biology,First
 o57422,1,B.Tech.,,
 o57423,1,M.A.,Economics,
 o57424,1,B.Tech.,Electronics & Telecom Engg,
-o57425,1,B.Com.,,
-o57426,1,B.Tech.,,
+o57425,1,B.Com Honours | University Of Delhi Delhi | Shri Ram College of Commerce,Commerce,First
+o57426,1,B.Tech. | Indian Institute of Technology Bombay Mumbai | I.I.T. Bombay,Mechanical engineering,First
 o57427,1,B.Com.(Hons),Commerce,
-o57428,1,B.Sc.,,
-o57428,2,LL.B./B.L.,,
+o57428,1,LL.B. | Gujrat University | Gujarat National Law University,Law,First
 o57429,1,B.Tech.,,
 o57430,1,M.B.B.S.,,
 o57431,1,B.A. Honours | University Of Delhi Delhi | Hindu College Delhi,English,First
-o57432,1,B.A.(Hons),Political Sc.,
+o57432,1,B.A. Honours | UNIVERSITY OF DELHI DELHI | University of Delhi,Political Sc.,Second
 o57433,1,B.Tech.,,
-o57434,1,B.Tech.,,
+o57434,1,B.Tech. | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY JAIPUR | MALVIYA NATIONAL INSTITUTE OF TECHNOLOGY,Mechanical engineering,First
 o57435,1,B.Tech.,Mech. Engg.,
 o57436,1,B.Tech. | Motial Nehru National Institute of Technology Allahabad | Motilal Nehru National Instt. of Technology,Electronics and Communication,First
 o57437,1,B.Tech.,,
@@ -8531,7 +8918,7 @@ o57439,2,P.G. Diploma,,
 o57440,1,B.Tech.,Civil Engg,
 o57441,1,B.Sc. | Delhi University,Zoology,First with Distinction
 o57441,2,M.Sc. | University Of Delhi Delhi | University of Delhi,Zoology,First
-o57442,1,B.Tech.,,
+o57442,1,B.Tech. | Indian Institute of Technology Kanpur | IIT Kanpur,Electrical Engg.,First
 o57443,1,B.Tech.,,
 o57444,1,B.E.,,
 o57445,1,B.Tech.,,
@@ -8539,7 +8926,7 @@ o57446,1,B.A.,Hons,
 o57446,2,M.A.,Economics,
 o57447,1,B.Tech.,,
 o57448,1,B.E.,Electronics,
-o57449,1,B.Tech.,,
+o57449,1,B.Tech. | DELHI TECHNOLOGICAL UNIVERSITY | University College,Electrical Engg.,First
 o57450,1,B.Tech.,,
 o57451,1,B.Tech.,,
 o57452,1,B.Sc.(Hons),Chemistry,
@@ -8551,7 +8938,7 @@ o57455,2,M.Sc.,,
 o57456,1,B.Tech.,Civil Engg,
 o57457,1,B.Sc.,,
 o57458,1,B.Tech.,Electrical Engg.,
-o57459,1,M.B.B.S.,,
+o57459,1,M.B.B.S. | Kerala university Kerala | University College,Medicine,First
 o57460,1,M.Sc.,Mathematics,
 o57461,1,B.E.,Mech. Engg.,
 o57462,1,B.Tech.,,
@@ -8559,7 +8946,7 @@ o57463,1,B.Tech.,Computer Science & Engg.,
 o57463,2,M.A.,Political Sc.,
 o57465,1,B.Tech.,,
 o57465,2,M.A.,Public Mgmt,
-o57466,1,B.Tech.,,
+o57466,1,B.Tech. | DELHI TECHNOLOGICAL UNIVERSITY | University College,Electronics and Communication,First
 o57467,1,B.E.,,
 o57468,1,B.E.,,
 o57469,1,B.Tech.,Comp. Sci.,
@@ -8567,16 +8954,17 @@ o57470,1,B.Sc.(Hons),Chemistry,
 o57471,1,M.Sc.,,
 o57472,1,B.Tech.,,
 o57473,1,B.Tech.,Mech. Engg.,
-o57474,1,B.Tech.,,
+o57474,1,B.Tech. | Rajiv Gandhi University of Knowledge Technologies | University College,Electronics and Communication,First
 o57475,1,B.Tech.,Electrical Engg.,
-o57476,1,B.E.,,
+o57476,1,B.E. | Delhi Unitversity Delhi | DELHI COLLEGE OF ENGINEERING,Computers,First
 o57477,1,B.Tech.,,
-o57478,1,B.E.,,
+o57478,1,B.E. | Rajiv Gandhi Prodyogiki Vishvavidyalaya Bhopal | Rajeev Gandhi PV Bhopal,Electronics Engg,First
 o57479,1,B.E. | DEVI AHILYA UNIVERSITY INDORE MP | College of Engineering and Technology,Computer Sc,First
 o57480,1,B.Tech.,,
 o57481,1,M.B.B.S.,,
-o57482,1,Graduate,,
-o57483,1,M.A.,Political Sc.,
+o57482,1,B.A. | Maharashi Dayanand University Rohatak | University College,History,First
+o57483,1,B.A. | M J P ROHILKHAND UNIV. Bareily | Bareilly College Bareilly,Political Sc.,First
+o57483,2,M.A. | M J P ROHILKHAND UNIV. Bareily | Bareilly College Bareilly,Political Sc.,First
 o57484,1,B.Tech.,,
 o57485,1,M.Sc.,Physics,
 o57486,1,B.Com.(Hons),Commerce,
@@ -8588,12 +8976,12 @@ o57490,1,B.E.,,
 o57491,1,B.Tech.,,
 o57491,2,M.A.,Political Sc.,
 o57492,1,B.Tech.,,
-o57493,1,M.A.,Political Sc.,
+o57493,1,B.A. Honours | University of Mumbai Mumbai | University College,Political Sc.,Pass
 o57494,1,B.Arch.,,
-o57495,1,B.Tech.,,
+o57495,1,B.Tech. | Delhi IIT Delhi IIT Delhi | IIT DELHI,Civil Engg,First
 o57496,1,B.A.(Hons),Political Sc.,
 o57496,2,M.Phil.,,
-o57497,1,B.Tech.,,
+o57497,1,B.Tech. | Shivaji Univ. Kohlapur | University College,Civil Engg,First
 o57498,1,B.E.,,
 o57499,1,M.B.B.S. | All India Institute of Medical Sciences New Delhi | AIIMS,Medicine,First
 o57500,1,B.Tech.,Electronics & Telecom Engg,
@@ -8610,7 +8998,7 @@ o57509,1,B.Tech.,,
 o57510,1,B.Sc.,Agri.,
 o57511,1,B.E.,,
 o57512,1,M.A.,English,
-o57513,1,B.Tech.,,
+o57513,1,"B.Tech. | Gautam Buddh Technical University | Gautam Buddha Technical University, Lucknow",Mechanical engineering,First
 o57514,1,B.Tech.,,
 o57515,1,B.Tech.,Computer Science & Engg.,
 o57516,1,B.E.,,
@@ -8628,16 +9016,16 @@ o57527,1,B.A.(Hons),Economics,
 o57528,1,B.Tech.,,
 o57528,2,M.B.A.,,
 o57529,1,M.Tech.,,
-o57530,1,B.Tech.,,
+o57530,1,B.Tech. | IIT | IIT,Mechanical engineering,First
 o57531,1,B.Tech. | Varanasi | University College,Mechanical engineering,First
 o57532,1,M.Tech.,,
 o57533,1,B.Tech.,,
 o57534,1,B.Tech.,,
-o57535,1,B.Tech.,,
+o57535,1,B.Tech. | IIT Delhi | IIT DELHI,Mechanical engineering,First
 o57536,1,B.Tech.,,
 o57537,1,B.Tech.,Info. Tech.,
 o57538,1,M.B.B.S.,,
-o57539,1,B.E.,,
+o57539,1,B.E. | OSMANIA UNIVERSITY HYDERABAD | OSMANIA UNIVERSITY,Electrical Engg.,First
 o57540,1,B.Tech.,,
 o57541,1,B.Tech.,,
 o57542,1,B.Tech.,,
@@ -8775,7 +9163,9 @@ o57884,1,B.E.,Mech. Engg.,
 o57884,2,M.B.A.,Management,
 o57885,1,Graduate,,
 o57886,1,M.Sc.,Zoology,
-o57914,1,M.A.,,
+o57914,1,B.A. | Gujarat University,Literature,First
+o57914,2,M.A. | Gujarat University,Literature,First
+o57914,3,LL.B. | Gujarat University,AI & Law,Second
 o57933,1,P.G.,Mathematics,
 o57938,1,B.A.,Economics,
 o57938,2,M.B.A.,,
@@ -8797,7 +9187,7 @@ o57962,1,B.Sc.,Agri.,
 o57963,1,M.Sc.,Agri.,
 o57964,1,Graduate,,
 o57972,1,P.G.,History,
-o57976,1,P.G.,History,
+o57976,1,Master of Arts | Patna University Patna,History,Second
 o57977,1,B.A.,History,
 o58003,1,M.A.,,
 o58003,2,Ph.D.,,
@@ -8854,9 +9244,9 @@ o58095,1,B.A.,Hons,
 o58096,1,M.A.,Economics,
 o58097,1,M.Sc.,,
 o58098,1,M.Sc.,Zoology,
-o58103,1,B.Tech.,,
-o58104,1,B.Tech.,,
-o58105,1,B.Tech.,,
+o58103,1,B.Tech. | JNTU KAKINADA | College of Engineering Kakinada,Computer Science and Engineering,Grade 'A'
+o58104,1,B.Tech. | National Institute of Technology Warangal Andhra Pradesh | NIT Warangal,Electronics and Communication,First
+o58105,1,B.Tech. | NIT | N.I.T.Karnataka,Electronics and Communication,First
 o58106,1,B.Tech.,,
 o58107,1,B.Tech.,Mech. Engg.,
 o58108,1,B.Tech.,,
@@ -8864,19 +9254,20 @@ o58109,1,B.Tech. | Amity University | University College,Biotechnology,First
 o58110,1,B.Tech.,Mech. Engg.,
 o58111,1,B.Tech.,,
 o58112,1,M.B.B.S.,,
-o58113,1,M.A.,Geography,
+o58113,1,B.Sc.(Hons) | Delhi University | Hansraj College,Computer Sc,Second
+o58113,2,M.A. | JNU Delhi | JNU,Geography,First
 o58114,1,B.Tech.,Electrical Engg.,
 o58115,1,B.Tech.,,
 o58116,1,B.Tech.,,
 o58117,1,B.Tech.,Civil Engg,
 o58117,2,M.Tech.,Construction Mgt,
-o58118,1,B.Tech.,,
+o58118,1,B.Tech. | NIT Trichy | NIT Trichy,Mechanical engineering,First
 o58119,1,B.Tech.,,
 o58120,1,B.Tech.,,
 o58121,1,B.Tech.,,
-o58122,1,B.Tech.,Electrical Engg.,
-o58123,1,B.Tech.,Electronics,
-o58124,1,B.Tech.,Electrical Engg.,
+o58122,1,"B.Tech. | A.K.U Patna/ Aryabhatt Knowledge University, Patna | Bhagalpur College of Engineering",Electronics and Communication,First
+o58123,1,B.Tech. | INDIAN SCHOOL OF MINES DHANBAD | INDIAN SCHOOL OF MINES,Electronics and Communication,First
+o58124,1,B.Tech. | NIT | NIT,Electrical Engg.,First
 o58125,1,B.Tech.,,
 o58126,1,M.Sc.,,
 o58127,1,B.Tech.,,
@@ -8890,16 +9281,17 @@ o58134,1,M.A.,Sociology,
 o58135,1,B.Tech.,,
 o58136,1,M.A.,History,
 o58137,1,B.Tech.,,
-o58138,1,B.E.,Comp. Sci.,
+o58138,1,"B.E. | Birla Institute of Technology & Science, Pilani RAJASTHAN | BITS PILANI",Computer Sc,First
 o58139,1,B.M.S.,,
 o58140,1,B.Tech. | IIT Delhi | IIT DELHI,Engineering Physics,First
-o58141,1,B.Tech.,Mech. Engg.,
+o58141,1,B.Tech. | Cochin University of Science & Technology | University College,Mechanical engineering,First
 o58142,1,M.Com.,,
 o58143,1,B.Tech.,Comp. Sci.,
 o58143,2,M.A.,Social Work,
 o58144,1,B.A.,Political Sc.,
 o58144,2,M.A.,,
-o58145,1,B.Com.,,
+o58145,1,B.Com. | Gujarat University Ahmedabad | H L Col of Commerce,Accountancy,First
+o58145,2,Masters in Public Management | J N U New Delhi | JNU New Delhi,Public Management,First with Distinction
 o58146,1,M.Sc.,Agri.,
 o58147,1,B.Tech.,,
 o58148,1,B.E.,,
@@ -8909,13 +9301,14 @@ o58150,2,PG Diploma | IIM INDORE | IIM INDORE,Management,Grade 'B'
 o58151,1,B.Sc.,Mathematics,
 o58152,1,B.Tech.,Aero Engg,
 o58152,2,M.A.,Public Admn,
-o58153,1,M.A.,English,
-o58154,1,B.Com.,,
-o58154,2,M.A.,Public Admn,
+o58153,1,B.A. | UNIVERSITY OF DELHI DELHI | Lady Shriram College for Women,English,First
+o58153,2,M.A. | University of Delhi | Indraprastha College For Women,English,Second
+o58154,1,B.Com. Hons. | UNIVERSITY OF DELHI DELHI | Hansraj College,accountancy Economics Management Organisational Be,First
+o58154,2,M.A. | Jamia Milia Islamia Delhi | Jamia Milia Islamia,Public Administration,First
 o58155,1,B.Tech.,Mech. Engg.,
 o58156,1,B.Tech.,Comp. Sci.,
 o58157,1,B.Tech.,,
-o58158,1,Graduate,,
+o58158,1,B.Tech. | I I T Kanpur | IIT Kanpur,Biological Sciences and Bioengineering,First
 o58159,1,B.Tech.,,
 o58160,1,B.E. | Rajiv Gandhi Prodyogiki Vishvavidyalaya Bhopal | University College,Mechanical engineering,First
 o58161,1,B.A.,,
@@ -8923,7 +9316,7 @@ o58162,1,B.Tech.,,
 o58163,1,C.A.,,
 o58164,1,M.Sc.,Zoology,
 o58165,1,B.Tech. | DELHI TECHNOLOGICAL UNIVERSITY | University College,Electronics,First
-o58166,1,B.Tech.,Electronics,
+o58166,1,B.Tech. | NIT Hamirpur Hamirpur | NIT Hamirpur,Electronics and Communication,First
 o58167,1,Graduate,Computer Application,
 o58168,1,B.A. LL.B.,,
 o58169,1,Graduate,,
@@ -8932,7 +9325,7 @@ o58171,1,B.Sc.,,
 o58172,1,B.E.,Electronics Engg,
 o58173,1,B.E.,,
 o58174,1,B.E.,Information Sc,
-o58175,1,B.E.,,
+o58175,1,"B.E. | Visveswaraiah Technological University, Belgaum | University College",Electronics and Communication,First
 o58176,1,B.D.S.,,
 o58177,1,B.E.,Computer Science & Engg.,
 o58178,1,B.Tech.,,
@@ -8943,14 +9336,15 @@ o58181,2,P.G. Diploma,,
 o58182,1,B.E.,,
 o58183,1,B.Sc.,,
 o58184,1,B.Tech.,,
-o58185,1,B.Tech.,Civil Engg,
+o58185,1,B.Tech. | University of Pune Pune | Vishwakarma Instt of Tech,Computers,First
 o58186,1,B.Tech.,,
 o58187,1,B.Tech.,,
 o58187,2,P.G. Diploma,,
-o58188,1,B.Tech.,,
-o58189,1,B.Sc.,Agri.,
-o58190,1,B.E.,,
-o58191,1,B.A.,,
+o58188,1,B.Tech. | Indian Institute of Technology Kanpur | Indian Inistitute of Technology Kanpur,Materials and Metallurgical Engineering,Grade 'B'
+o58188,2,M.Tech. | IIT Bombay Mumbai | IIT BOMBAY,Material Sc,Grade 'A'
+o58189,1,B.Sc.(Agri) | Mahatma phule agriculture university Rahuri Dist Ahmadnagar | University College,Agronomy,First
+o58190,1,B.E. | University of Pune | PES Moddern College of Engineering,Mechanical engineering,First
+o58191,1,B.A. | University of Pune Pune | Fergusson College,English,First
 o58192,1,B.Sc.,Mathematics,
 o58193,1,B.A. | Devi Ahilya Vishwavidyalaya Indore Indore MP | University College,Political Sc.,First
 o58194,1,B.Tech. | IIT Delhi | IIT DELHI,Production and Industrial Engg,First
@@ -8961,7 +9355,8 @@ o58197,1,P.G. Diploma,Management,
 o58198,1,B.Sc.,,
 o58199,1,M.A.,Political Sc.,
 o58200,1,B.E.,,
-o58201,1,M.Sc.,Economics,
+o58201,1,M.S. | I I T Kanpur | I I T Kanpur,Economics,First
+o58201,2,B.S. | IIT Kanpur | IIT Kanpur,Economics,Pass
 o58202,1,B.A. LL.B.,,
 o58203,1,B.E.,,
 o58204,1,B.Tech.,,
@@ -8971,13 +9366,12 @@ o58207,1,B.A. LL.B.,,
 o58208,1,B.Com.,Hons,
 o58209,1,B.Com.,,
 o58210,1,B.Tech.,,
-o58211,1,B.Tech.,Civil Engg,
-o58211,2,M.A.,Political Sc.,
+o58211,1,B.Tech. | IIT Kanpur | IIT Kanpur,Civil Engg,First
 o58212,1,M.B.B.S.,,
 o58213,1,B.Tech.,Civil Engg,
 o58214,1,M.B.B.S.,,
 o58215,1,B.Tech.,Electrical Engg.,
-o58216,1,B.Tech.,,
+o58216,1,B.Tech. | I I T Roorkee Roorkee | I I T Roorkee,Civil Engg,First
 o58217,1,B.Sc.(Hons),Botany,
 o58218,1,B.Tech.,,
 o58219,1,B.Tech.,,
@@ -8988,7 +9382,7 @@ o58223,1,B.Tech.,Comp. Sci.,
 o58224,1,B.Tech.,Chem. Engg,
 o58225,1,B.Tech.,Civil Engg,
 o58226,1,M.Sc.,,
-o58227,1,B.Sc.,,
+o58227,1,B.Sc.(Hons) | Delhi Unitversity Delhi | University College,Mathematics,First
 o58228,1,M.B.B.S.,,
 o58229,1,B.Tech.,Structural Engg,
 o58229,2,M.Tech.,Structural Engg,
@@ -9003,11 +9397,11 @@ o58236,1,B.Tech.,,
 o58237,1,M.Tech.,,
 o58238,1,M.B.B.S.,,
 o58239,1,B.Tech.,,
-o58240,1,B.Tech.,,
+o58240,1,B.Tech. | Jawahar Lal Nehru Technological University Andhra Pradesh | University College,Electronics and Communication,First
 o58241,1,B.E.,,
 o58242,1,B.V.Sc.,,
-o58243,1,B.Tech.,,
-o58244,1,B.Tech.,,
+o58243,1,"B.Tech. | Indian Institute of Technology, Hyderabad, Telangana | IIT",N.A.,Pass
+o58244,1,B.Tech. | Indian Institute of Technology Madras | INDIAN INSTITUTE OF TECHNOLOGY MADRAS,Chemical Engg,First with Distinction
 o58245,1,B.E.,Civil Engg,
 o58246,1,B.Tech.,,
 o58247,1,B.E.,,
@@ -9035,10 +9429,10 @@ o58268,1,B.Tech.,,
 o58269,1,B.Tech.,,
 o58270,1,B.A.,Hons,
 o58271,1,B.A.,,
-o58272,1,B.Tech.,Electrical Engg.,
-o58273,1,B.Tech.,Electrical Engg.,
-o58274,1,B.Tech.,,
-o58275,1,B.Tech.,,
+o58272,1,B.Tech. | IIT Delhi | IIT DELHI,Electrical Engg.,First
+o58273,1,B.Tech. | SVNIT Surat | SVNIT Surat,Electrical Engg.,First
+o58274,1,B.Tech. | IIT Kanpur | IIT Kanpur,biological sciences and bioengineering,First
+o58275,1,B.Tech. | IIT Kanpur | IIT Kanpur,Material Sc,First
 o58276,1,B.E.,Hons,
 o58277,1,B.Tech.,,
 o58278,1,B.A.,,
@@ -9090,12 +9484,12 @@ o58518,2,LL.B./B.L.,,
 o58519,1,M.A.,English,
 o58520,1,B.A.,,
 o58521,1,B.E.,Civil Engg,
-o58522,1,M.A.,,
-o58523,1,M.Sc.,Agrl.Economics,
+o58522,1,"M.A., B.Ed. | Gujarat University",English,Pass
+o58523,1,M.Sc. | University of Gujarat,Agrl.Economics,Gold Medalist
 o58524,1,M.A.,,
 o58525,1,M.A.,,
 o58525,2,M.B.A.,,
-o58526,1,B.Com.,,
+o58526,1,"B.Com. | Bhavnagar University, Bhavnagar, Gujarat | M J College of Commerce, Bhavnagar, Gujarat",Accountancy,Second
 o58527,1,M.A.,,
 o58529,1,Graduate,,
 o58530,1,Graduate,,
@@ -9268,14 +9662,15 @@ o58872,1,P.G.,Geology,
 o58877,1,P.G.,Modern Ind.Hist,
 o58879,1,P.G.,Ancient History,
 o58880,1,M.A.,Ancient Ind.history,
-o58881,1,M.Sc.,Statistics,
+o58881,1,M.Sc. | Patna University Bihar,Statistics,First
 o58882,1,M.A.,Labour,
-o58883,1,B.Sc.(Hons),Geology,
+o58883,1,B.Sc. | Ranch University Ranchi | Ranchi University,Geology,Gold Medalist
 o58887,1,M.Sc.,Mathematics,
 o58888,1,P.G.,History,
 o58889,1,B.A. LL.B.,,
 o58889,2,P.G.,History,
-o58890,1,P.G.,Political Sc.,
+o58890,1,B.A. | Patna University Patna Bihar | Patna Womens College,Political Sc.,First
+o58890,2,M.A. | Patna University Patna Bihar | PATNA UNIVERSITY,Political Sc.,First
 o58891,1,M.Sc.,Zoology,
 o58893,1,B.Sc.(Hons),Zoology,
 o58897,1,P.G.,Political Sc.,
@@ -9341,39 +9736,44 @@ o58960,1,M.B.B.S.,,
 o58961,1,B.Tech.,Mech. Engg.,
 o58962,1,B.Tech.,,
 o58963,1,M.A.,Intnl Relations,
-o58964,1,Graduate,,
-o58965,1,Graduate,,
+o58964,1,B.Com. | University of Delhi | Sh Ram College of Commerce,Economics,First
+o58965,1,B.Tech. | AMRITA VISHWA VIDYAPEETHAM UNIVERSITY | University College,Mechanical engineering,First
 o58966,1,Graduate,,
 o58967,1,Graduate,,
 o58968,1,Graduate,,
-o58969,1,B.Sc.,,
+o58969,1,B.V.Sc. & A.H. | Bihar University | Bihar Veterinary College Patna,Veterinary Sc.,First
 o58970,1,B.E.,Mech. Engg.,
 o58970,2,M.Tech.,Mech. Engg.,
 o58971,1,B.A.,Geography,
 o58972,1,Graduate,,
-o58973,1,B.Tech.,,
+o58973,1,B.Tech. | IIT | IIT,Civil Engg,First
 o58974,1,B.Tech.,Engineeriing,
 o58974,2,M.B.A.,,
 o58975,1,B.Sc.,,
 o58975,2,M.Sc.,Mathematics,
-o58976,1,B.Com.,,
+o58976,1,B.Com. | University of Delhi | Kirori Mal College,Commerce,First
 o58977,1,B.Tech.,,
 o58978,1,B.E.,Engineeriing,
-o58979,1,M.A.,English Lit,
+o58979,1,B.A. | Banaras Hindu Univ. | University College,English,First
+o58979,2,M.A. | Banaras Hindu Univ. | University College,English Lit,First
+o58979,3,PG Diploma | IGNOU Delhi | University College,translation,First
+o58979,4,Ph. D. | Banaras Hindu Univ. | Department of Eng.,Study of Sexual violence in post independence Indi,First
 o58980,1,Graduate,,
-o58981,1,M.A.,English,
+o58981,1,B.A. Honours | Sikkim Manipal Univ | University College,English,First
+o58981,2,M.A. | Indira Gandhi National Open Univerity (IGNOU) New Delhi | IGNOU,English,Grade 'A'
 o58982,1,B.Tech.,,
 o58983,1,M.B.B.S.,,
 o58984,1,Graduate,,
 o58985,1,Graduate,,
-o58986,1,B.Tech.,Textile Engg.,
+o58986,1,B.Tech. | IIT Delhi | IIT DELHI,Textile Technology,Grade 'B'
 o58987,1,B.Tech.,,
 o58987,2,M.S.,,
 o58988,1,Graduate,,
 o58989,1,B.A.,Hons,
 o58989,2,M.A.,Geography,
 o58990,1,B.D.S.,,
-o58991,1,B.Tech.,,
+o58991,1,"B.Tech. | IIIT hyderabad | IIIT, Hyderabad",Computer Sc,Pass
+o58991,2,M.S. | IIIT hyderabad | University College,machine translation,First
 o58992,1,B.Sc.,,
 o58993,1,M.A.,,
 o58994,1,B.Tech.,,
@@ -9394,11 +9794,12 @@ o59003,1,M.Tech.,,
 o59004,1,B.Sc.,,
 o59005,1,B.A.(Hons),Political Sc.,
 o59006,1,Graduate,,
-o59007,1,B.Sc.,,
+o59007,1,B.Sc. | University of Delhi | Hindu College,Physics,First
 o59008,1,Graduate,,
 o59009,1,B.Tech.,Mech. Engg.,
 o59010,1,B.Tech.,Civil Engg,
-o59011,1,B.Sc.,,
+o59011,1,B.Sc. | Jammu Univesity | University College,English,Grade 'A+'
+o59011,2,M.Sc. | Jammu University | University College,Physical Chem,Pass
 o59012,1,Graduate,,
 o59013,1,B.Tech.,,
 o59014,1,B.Tech.,Civil Engg,
@@ -9407,7 +9808,7 @@ o59015,2,M.A.,English,
 o59016,1,Graduate,,
 o59017,1,Graduate,,
 o59018,1,Graduate,,
-o59019,1,B.Tech.,,
+o59019,1,B.Tech. | APJ Abdul Kalam Technological University | University College,Electronics and Communication,Grade 'A'
 o59020,1,M.A.,Dev Studies,
 o59021,1,B.Tech.,Civil Engg,
 o59021,2,P.G.,Sociology,
@@ -9417,14 +9818,14 @@ o59024,1,B.Tech.,,
 o59024,2,M.Sc.,,
 o59025,1,B.E.,Mech. Engg.,
 o59026,1,B.E.,Electrical & Electronics Engineering,
-o59027,1,Graduate,,
+o59027,1,"B.E. | Visveswaraiah Technological University, Belgaum | Sri Venkateswara College",Electronics and Communication,First
 o59028,1,B.Tech.,Mech. Engg.,
 o59029,1,B.D.S.,,
 o59030,1,B.Tech.,,
 o59031,1,B.E.,Mech. Engg.,
 o59032,1,B.Tech.,,
 o59033,1,B.Tech.,Info. Tech.,
-o59034,1,Graduate,,
+o59034,1,B.Tech. | University of Pune | Vishwakarma Instt of Tech,Chemical Engg,First
 o59035,1,LL.B./B.L.,Law,
 o59037,1,B.Tech. | NIT Warangal Warangal | NIT Warangal,Computer Science and Engineering,Second
 o59038,1,Graduate,,
@@ -9437,11 +9838,11 @@ o59044,1,B.Tech.,Mech. Engg.,
 o59045,1,B.A.,Sociology,
 o59046,1,Graduate,,
 o59047,1,Graduate,,
-o59048,1,B.E.,Electrical Engg.,
+o59048,1,B.E. | Rajiv Gandhi Prodyogiki Vishvavidyalaya Bhopal | University College,Electrical Engg.,First
 o59049,1,"B.Tech. | Birla Institute of Technology & Science, Pilani RAJASTHAN | BITS PILANI",Structure Analysis Surveying,First
 o59050,1,B.Tech. | Visvesvaraya National Institute Of Technology | Visvesvaraya National Institute of Technology,Civil Engg,Grade 'A'
 o59051,1,B.Sc.,Agri.,
-o59052,1,B.Tech.,Mech. Engg.,
+o59052,1,"B.Tech. | Biju Patnaik University of Technology, Orrissa Orrissa | College of Engg and Technology",Mechanical engineering,First
 o59053,1,M.Phil.,Economics,
 o59053,2,M.Sc.,Economics,
 o59054,1,B.Tech.,Computer Science & Engg.,
@@ -9456,16 +9857,16 @@ o59061,1,Graduate,,
 o59062,1,Graduate,,
 o59063,1,B.Tech.,,
 o59063,2,C.F.A.,,
-o59064,1,Graduate,,
+o59064,1,B.A. | Delhi University | Hansraj College,Philosophy,First
 o59065,1,B.Tech.,,
-o59066,1,B.Tech.,Aero Engg,
+o59066,1,B.Tech. | IIT Kanpur | IIT Kanpur,Aerospace Enginneering,First
 o59067,1,B.Sc. | University Of Delhi Delhi | University College,Mathematics,First
 o59068,1,B.Tech.,,
 o59068,2,M.A.,,
 o59069,1,B.Tech.,Electrical Engg.,
 o59070,1,B.Tech.,,
 o59071,1,B.Tech.,Electrical Engg.,
-o59072,1,B.Tech.,,
+o59072,1,"B.Tech. | PDPM IIITDM, Jabalpur | University College",Mechanical engineering,First
 o59073,1,B.Tech.,Mech. Engg.,
 o59074,1,Graduate,,
 o59075,1,M.Sc.,Physics,
@@ -9477,8 +9878,8 @@ o59080,1,B.Sc.,Chemistry,
 o59081,1,B.Tech.,,
 o59082,1,B.Tech.,Mining.Engg.,
 o59082,2,M.Tech.,Safety Engg.,
-o59083,1,Graduate,,
-o59084,1,B.D.S.,,
+o59083,1,Integrated Masters in Technology | IIT Roorkee | IIT ROORKEE,Seismology,First
+o59084,1,B.D.S. | NTR University of Health Sciences Andhra Pradesh | University College,Dental Sciences,Second
 o59085,1,Graduate,,
 o59086,1,B.E.,Hons,
 o59087,1,Graduate,,
@@ -9487,11 +9888,11 @@ o59089,1,B.Tech.,,
 o59090,1,B.E. | OSMANIA UNIVERSITY HYDERABAD | University College,Computer Science and Engineering,First
 o59091,1,B.Tech.,Chem. Engg,
 o59091,2,M.Tech.,Chem. Engg,
-o59092,1,B.Tech.,,
+o59092,1,B.Tech. | National Institute of Technology Warangal Andhra Pradesh | NIT Warangal,Electrical & Electronics Engineering,Grade 'A'
 o59093,1,B.Tech.,Mech. Engg.,
-o59094,1,B.D.S.,,
+o59094,1,B.D.S. | Tamil Nadu Dr. MGR Medical University Chennai | University College,Medical&dental,First
 o59095,1,B.E.,,
-o59096,1,B.Sc.,Agri.,
+o59096,1,B.Sc. | Tamil Nadu Agri University Coimbatore | Agricultural college and Research Institute,Agriculture,First
 o59097,1,B.Tech.,,
 o59098,1,B.D.S.,,
 o59099,1,B.E.,Mech. Engg.,
@@ -9508,7 +9909,8 @@ o59108,1,B.A.(Hons),Economics,
 o59108,2,M.A.,Economics,
 o59109,1,B.Sc.,Physics,
 o59109,2,M.A.,Political Sc.,
-o59110,1,Graduate,,
+o59110,1,B.Sc.(Hons) | Dayalbagh Educational Insitute | University College,Computer Sc,First
+o59110,2,M.Sc. | Dayalbagh Educational Insitute | University College,Computer Sc,First
 o59111,1,B.A.LLB (Hons) | The West Bengal National University of JUridical Sciences Kolkata | The West Bengal University of Juridical Science,Law,First
 o59112,1,Graduate,,
 o59113,1,B.A.(Hons),Economics,
@@ -9518,10 +9920,11 @@ o59115,1,B.Tech.,Computer Science & Engg.,
 o59116,1,Graduate,,
 o59117,1,B.Sc.,Statistics,
 o59118,1,B.A.,Hons,
-o59119,1,B.Tech.,Civil Engg,
-o59120,1,M.A.,Hindi,
+o59119,1,"B.Tech. | M N N I T ,ALLAHABAD | MNNIT Allahabad Uttar Pradesh",Civil Engg,First
+o59120,1,B.A. | Chhatrapati Sahu Ji Maharaj University Kanpur | PPN College Kanpur,English Lit,First
+o59120,2,M.A. | Chhatrapati Sahu Ji Maharaj University Kanpur | PPN College Kanpur,Hindi,First
 o59121,1,B.Tech.,,
-o59122,1,B.A.,,
+o59122,1,B.A. Honours | University of Delhi | Jesus and Mary College,Sociology,First
 o59123,1,B.Tech.,,
 o59124,1,B.Tech.,Mech. Engg.,
 o59125,1,B.Tech.,Civil Engg,
@@ -9536,8 +9939,8 @@ o59132,2,LL.B./B.L.,,
 o59133,1,B.A.,Hons,
 o59134,1,B.A.,,
 o59135,1,B.Tech.,,
-o59136,1,B.Sc.,,
-o59137,1,B.Tech.,Civil Engg,
+o59136,1,B.Sc. | Mumbai Universisty | University College,Zoology,First
+o59137,1,B.Tech. | NIT | NIT Kurukshetra,Civil Engg,First
 o59138,1,B.Tech.,Info Tech,
 o59139,1,B.Tech.,,
 o59139,2,M.A.,,
@@ -9982,7 +10385,7 @@ o65686,2,B.Ed.,,
 o65687,1,B.Com.,,
 o65688,1,B.Sc.,Physics,
 o65689,1,B.A.,,
-o65691,1,B.A.,,
+o65691,1,B.A. | Gujarat University | Govt. Arts College,English,First
 o65692,1,B.E.,,
 o65693,1,B.Ed.,,
 o65693,2,M.Sc.,,
