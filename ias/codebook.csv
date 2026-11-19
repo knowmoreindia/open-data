@@ -1,0 +1,136 @@
+file,column,type,description
+data/officers.csv,officer_key,string,"Unique key for the officer: o plus DoPT's officer number, or identity number and date of birth where DoPT's number is not known"
+data/officers.csv,officer_id,"string,null",DoPT's officer number
+data/officers.csv,identity_number,"string,null",Latest identity number
+data/officers.csv,name,"string,null",Name
+data/officers.csv,name_hindi,"string,null",Name in Hindi
+data/officers.csv,gender,"string,null",Gender
+data/officers.csv,date_of_birth,date,Date of birth
+data/officers.csv,cadre,"string,null",Cadre code
+data/officers.csv,allotment_year,integer,Batch; empty where DoPT has not fixed one
+data/officers.csv,source_of_recruitment,string,How the officer entered the IAS
+data/officers.csv,date_of_joining,date,Date of joining the service
+data/officers.csv,appointed_on,date,Date of appointment to the IAS
+data/officers.csv,domicile,"string,null",State of domicile
+data/officers.csv,mother_tongue,"string,null",Mother tongue
+data/officers.csv,languages,"string,null",Languages known
+data/officers.csv,status,"string,null","Serving, or reason for leaving the service"
+data/officers.csv,on_current_list,boolean,In the latest civil list
+data/officers.csv,pay_level,integer,Pay matrix level
+data/officers.csv,posting,"string,null",Present posting
+data/officers.csv,posting_designation,"string,null","Post held, from the posting"
+data/officers.csv,posting_place,"string,null","Place, from the posting"
+data/officers.csv,posting_since,date,In the present posting since
+data/officers.csv,on_central_deputation,boolean,On deputation to the Government of India
+data/officers.csv,central_deputation_start,date,Central deputation start
+data/officers.csv,central_deputation_expiry,date,Central deputation end of tenure
+data/officers.csv,central_deputation_tenure,"string,null",Central deputation tenure type
+data/officers.csv,inter_cadre_deputation_to,"string,null",Cadre on inter-cadre deputation to
+data/officers.csv,cadre_changed_from,"string,null",Former cadre
+data/officers.csv,remarks,"string,null",Remarks
+data/officers.csv,profile_updated_on,date,Record last updated by DoPT
+data/identity_numbers.csv,officer_key,string,"Officer key, see officers"
+data/identity_numbers.csv,identity_number,string,Identity number
+data/identity_numbers.csv,cadre,"string,null",Cadre code
+data/identity_numbers.csv,first_seen,date,First seen on
+data/identity_numbers.csv,last_seen,date,Last seen on
+data/civil_list.csv,edition,date,Civil list as on this date
+data/civil_list.csv,officer_key,string,"Officer key, see officers"
+data/civil_list.csv,identity_number,string,Identity number
+data/civil_list.csv,cadre,string,Cadre code
+data/civil_list.csv,serial,integer,Seniority within the cadre
+data/civil_list.csv,name,string,Name
+data/civil_list.csv,name_hindi,"string,null",Name in Hindi
+data/civil_list.csv,date_of_birth,date,Date of birth
+data/civil_list.csv,allotment_year,integer,Batch; empty where DoPT has not fixed one
+data/civil_list.csv,appointed_on,date,Date of appointment to the IAS
+data/civil_list.csv,source_of_recruitment,string,How the officer entered the IAS
+data/civil_list.csv,qualifications,"string,null","Degrees, separated by semicolons"
+data/civil_list.csv,domicile,"string,null",State of domicile
+data/civil_list.csv,pay_level,integer,Pay matrix level
+data/civil_list.csv,posting,"string,null",Posting
+data/civil_list.csv,posting_designation,"string,null","Post held, from the posting"
+data/civil_list.csv,posting_place,"string,null","Place, from the posting"
+data/civil_list.csv,posting_since,date,In the posting since
+data/civil_list.csv,on_central_deputation,boolean,On deputation to the Government of India
+data/civil_list.csv,central_deputation_since,date,On central deputation since
+data/civil_list.csv,inter_cadre_deputation_to,"string,null",Cadre on inter-cadre deputation to
+data/civil_list.csv,cadre_changed_from,"string,null",Former cadre
+data/civil_list.csv,remarks,"string,null",Remarks
+data/seniority.csv,edition,date,Civil list as on this date
+data/seniority.csv,list,string,All-India list
+data/seniority.csv,rank,integer,Rank in the list
+data/seniority.csv,officer_key,"string,null","Officer key, see officers"
+data/seniority.csv,name,"string,null",Name
+data/seniority.csv,cadre,"string,null",Cadre code
+data/seniority.csv,date_of_birth,date,Date of birth
+data/seniority.csv,allotment_year,integer,Batch
+data/education.csv,officer_key,string,"Officer key, see officers"
+data/education.csv,position,integer,Order
+data/education.csv,qualification,"string,null",Qualification and university
+data/education.csv,subject,"string,null",Subject
+data/education.csv,division,"string,null",Division
+data/postings.csv,officer_key,string,"Officer key, see officers"
+data/postings.csv,position,integer,"Order, 1 is the latest"
+data/postings.csv,designation,"string,null",Post
+data/postings.csv,level,"string,null",Level
+data/postings.csv,office,"string,null","Ministry, department, office and place"
+data/postings.csv,organisation,"string,null",Organisation
+data/postings.csv,field_major,"string,null",Field of work
+data/postings.csv,field_minor,"string,null",Sub-field of work
+data/postings.csv,from,date,Start
+data/postings.csv,to,date,End
+data/postings.csv,ongoing,boolean,Still held
+data/trainings.csv,officer_key,string,"Officer key, see officers"
+data/trainings.csv,kind,string,Kind of training
+data/trainings.csv,year,"string,null",Year
+data/trainings.csv,name,"string,null",Training
+data/trainings.csv,subject,"string,null",Subject
+data/trainings.csv,institute,"string,null",Institute
+data/trainings.csv,city,"string,null",City
+data/trainings.csv,country,"string,null",Country
+data/trainings.csv,duration,"string,null",Duration
+data/trainings.csv,weeks,"number,null",Duration in weeks
+data/trainings.csv,from,date,Start
+data/trainings.csv,to,date,End
+data/awards.csv,officer_key,string,"Officer key, see officers"
+data/awards.csv,position,integer,Order
+data/awards.csv,type,"string,null",Award or publication
+data/awards.csv,area,"string,null",Area
+data/awards.csv,year,"string,null",Year
+data/awards.csv,title,"string,null",Award or title
+data/awards.csv,given_by,"string,null",Given by or publisher
+data/awards.csv,subject,"string,null",Subject
+data/awards.csv,level,"string,null",Level
+data/cadre_strength.csv,edition,date,Civil list as on this date
+data/cadre_strength.csv,cadre,string,Cadre code
+data/cadre_strength.csv,cadre_name,string,Cadre name
+data/cadre_strength.csv,senior_duty_posts,integer,Senior duty posts under the State
+data/cadre_strength.csv,central_deputation_reserve,integer,Central deputation reserve
+data/cadre_strength.csv,state_deputation_reserve,integer,State deputation reserve
+data/cadre_strength.csv,junior_and_leave_reserve,integer,Junior posts and leave reserve
+data/cadre_strength.csv,training_reserve,integer,Training reserve
+data/cadre_strength.csv,direct_recruitment_posts,integer,Direct recruitment posts
+data/cadre_strength.csv,promotion_posts,integer,Promotion quota posts
+data/cadre_strength.csv,authorised_strength,integer,Total authorised strength
+data/cadre_strength.csv,in_position_direct,integer,Direct recruits in position
+data/cadre_strength.csv,in_position_promoted,integer,Promoted officers in position
+data/cadre_strength.csv,in_position,integer,Officers in position
+data/cadre_strength.csv,batch_from,integer,Earliest batch in position
+data/cadre_strength.csv,batch_to,integer,Latest batch in position
+data/cadre_reviews.csv,cadre,string,Cadre code
+data/cadre_reviews.csv,review_year,integer,Year of the cadre review
+data/cadre_reviews.csv,notified_on,date,Notification date
+data/retirements.csv,edition,date,Civil list as on this date
+data/retirements.csv,cadre,"string,null",Cadre code
+data/retirements.csv,year,integer,Year of retirement
+data/retirements.csv,officers,integer,Officers due to retire
+data/exam_intake.csv,allotment_year,integer,Batch
+data/exam_intake.csv,officers,integer,Officers appointed through the civil services examination
+data/editions.csv,edition,date,Civil list as on this date
+data/editions.csv,officers,integer,Officers in position
+data/editions.csv,direct_recruits,integer,Direct recruits in position
+data/editions.csv,promoted,integer,Promoted officers in position
+data/editions.csv,authorised_strength,integer,Authorised strength
+data/editions.csv,pages,integer,Pages in the e-book
+data/editions.csv,pdf,"string,null",E-book link

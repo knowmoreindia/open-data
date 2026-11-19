@@ -1,0 +1,998 @@
+{
+  "name": "ias-officers-data",
+  "title": "IAS officers",
+  "homepage": "https://github.com/knowmoreindia/ias-officers-data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Department of Personnel and Training: IAS Civil List",
+      "path": "https://iascivillist.dopt.gov.in/Home/CadreListDashBoard"
+    },
+    {
+      "title": "Department of Personnel and Training: Supremo",
+      "path": "https://supremo.dopt.gov.in"
+    }
+  ],
+  "version": "2026-11-19",
+  "resources": [
+    {
+      "name": "officers",
+      "path": "data/officers.csv",
+      "format": "csv",
+      "description": "One row per officer, serving and retired",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Unique key for the officer: o plus DoPT's officer number, or identity number and date of birth where DoPT's number is not known"
+          },
+          {
+            "name": "officer_id",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "DoPT's officer number"
+          },
+          {
+            "name": "identity_number",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Latest identity number"
+          },
+          {
+            "name": "name",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Name"
+          },
+          {
+            "name": "name_hindi",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Name in Hindi"
+          },
+          {
+            "name": "gender",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Gender"
+          },
+          {
+            "name": "date_of_birth",
+            "type": "date",
+            "description": "Date of birth"
+          },
+          {
+            "name": "cadre",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre code"
+          },
+          {
+            "name": "allotment_year",
+            "type": "integer",
+            "description": "Batch; empty where DoPT has not fixed one"
+          },
+          {
+            "name": "source_of_recruitment",
+            "type": "string",
+            "description": "How the officer entered the IAS"
+          },
+          {
+            "name": "date_of_joining",
+            "type": "date",
+            "description": "Date of joining the service"
+          },
+          {
+            "name": "appointed_on",
+            "type": "date",
+            "description": "Date of appointment to the IAS"
+          },
+          {
+            "name": "domicile",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State of domicile"
+          },
+          {
+            "name": "mother_tongue",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Mother tongue"
+          },
+          {
+            "name": "languages",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Languages known"
+          },
+          {
+            "name": "status",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Serving, or reason for leaving the service"
+          },
+          {
+            "name": "on_current_list",
+            "type": "boolean",
+            "description": "In the latest civil list"
+          },
+          {
+            "name": "pay_level",
+            "type": "integer",
+            "description": "Pay matrix level"
+          },
+          {
+            "name": "posting",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Present posting"
+          },
+          {
+            "name": "posting_designation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Post held, from the posting"
+          },
+          {
+            "name": "posting_place",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Place, from the posting"
+          },
+          {
+            "name": "posting_since",
+            "type": "date",
+            "description": "In the present posting since"
+          },
+          {
+            "name": "on_central_deputation",
+            "type": "boolean",
+            "description": "On deputation to the Government of India"
+          },
+          {
+            "name": "central_deputation_start",
+            "type": "date",
+            "description": "Central deputation start"
+          },
+          {
+            "name": "central_deputation_expiry",
+            "type": "date",
+            "description": "Central deputation end of tenure"
+          },
+          {
+            "name": "central_deputation_tenure",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Central deputation tenure type"
+          },
+          {
+            "name": "inter_cadre_deputation_to",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre on inter-cadre deputation to"
+          },
+          {
+            "name": "cadre_changed_from",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Former cadre"
+          },
+          {
+            "name": "remarks",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Remarks"
+          },
+          {
+            "name": "profile_updated_on",
+            "type": "date",
+            "description": "Record last updated by DoPT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "identity-numbers",
+      "path": "data/identity_numbers.csv",
+      "format": "csv",
+      "description": "Every identity number an officer has held",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "identity_number",
+            "type": "string",
+            "description": "Identity number"
+          },
+          {
+            "name": "cadre",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre code"
+          },
+          {
+            "name": "first_seen",
+            "type": "date",
+            "description": "First seen on"
+          },
+          {
+            "name": "last_seen",
+            "type": "date",
+            "description": "Last seen on"
+          }
+        ]
+      }
+    },
+    {
+      "name": "civil-list",
+      "path": "data/civil_list.csv",
+      "format": "csv",
+      "description": "Every officer in every yearly civil list",
+      "schema": {
+        "fields": [
+          {
+            "name": "edition",
+            "type": "date",
+            "description": "Civil list as on this date"
+          },
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "identity_number",
+            "type": "string",
+            "description": "Identity number"
+          },
+          {
+            "name": "cadre",
+            "type": "string",
+            "description": "Cadre code"
+          },
+          {
+            "name": "serial",
+            "type": "integer",
+            "description": "Seniority within the cadre"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name"
+          },
+          {
+            "name": "name_hindi",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Name in Hindi"
+          },
+          {
+            "name": "date_of_birth",
+            "type": "date",
+            "description": "Date of birth"
+          },
+          {
+            "name": "allotment_year",
+            "type": "integer",
+            "description": "Batch; empty where DoPT has not fixed one"
+          },
+          {
+            "name": "appointed_on",
+            "type": "date",
+            "description": "Date of appointment to the IAS"
+          },
+          {
+            "name": "source_of_recruitment",
+            "type": "string",
+            "description": "How the officer entered the IAS"
+          },
+          {
+            "name": "qualifications",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Degrees, separated by semicolons"
+          },
+          {
+            "name": "domicile",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State of domicile"
+          },
+          {
+            "name": "pay_level",
+            "type": "integer",
+            "description": "Pay matrix level"
+          },
+          {
+            "name": "posting",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Posting"
+          },
+          {
+            "name": "posting_designation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Post held, from the posting"
+          },
+          {
+            "name": "posting_place",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Place, from the posting"
+          },
+          {
+            "name": "posting_since",
+            "type": "date",
+            "description": "In the posting since"
+          },
+          {
+            "name": "on_central_deputation",
+            "type": "boolean",
+            "description": "On deputation to the Government of India"
+          },
+          {
+            "name": "central_deputation_since",
+            "type": "date",
+            "description": "On central deputation since"
+          },
+          {
+            "name": "inter_cadre_deputation_to",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre on inter-cadre deputation to"
+          },
+          {
+            "name": "cadre_changed_from",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Former cadre"
+          },
+          {
+            "name": "remarks",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Remarks"
+          }
+        ]
+      }
+    },
+    {
+      "name": "seniority",
+      "path": "data/seniority.csv",
+      "format": "csv",
+      "description": "All-India seniority lists of each year",
+      "schema": {
+        "fields": [
+          {
+            "name": "edition",
+            "type": "date",
+            "description": "Civil list as on this date"
+          },
+          {
+            "name": "list",
+            "type": "string",
+            "description": "All-India list"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "Rank in the list"
+          },
+          {
+            "name": "officer_key",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "name",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Name"
+          },
+          {
+            "name": "cadre",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre code"
+          },
+          {
+            "name": "date_of_birth",
+            "type": "date",
+            "description": "Date of birth"
+          },
+          {
+            "name": "allotment_year",
+            "type": "integer",
+            "description": "Batch"
+          }
+        ]
+      }
+    },
+    {
+      "name": "education",
+      "path": "data/education.csv",
+      "format": "csv",
+      "description": "Degrees, with university, subject and division",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "position",
+            "type": "integer",
+            "description": "Order"
+          },
+          {
+            "name": "qualification",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Qualification and university"
+          },
+          {
+            "name": "subject",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subject"
+          },
+          {
+            "name": "division",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Division"
+          }
+        ]
+      }
+    },
+    {
+      "name": "postings",
+      "path": "data/postings.csv",
+      "format": "csv",
+      "description": "Every post held, with dates",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "position",
+            "type": "integer",
+            "description": "Order, 1 is the latest"
+          },
+          {
+            "name": "designation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Post"
+          },
+          {
+            "name": "level",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Level"
+          },
+          {
+            "name": "office",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Ministry, department, office and place"
+          },
+          {
+            "name": "organisation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Organisation"
+          },
+          {
+            "name": "field_major",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Field of work"
+          },
+          {
+            "name": "field_minor",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Sub-field of work"
+          },
+          {
+            "name": "from",
+            "type": "date",
+            "description": "Start"
+          },
+          {
+            "name": "to",
+            "type": "date",
+            "description": "End"
+          },
+          {
+            "name": "ongoing",
+            "type": "boolean",
+            "description": "Still held"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trainings",
+      "path": "data/trainings.csv",
+      "format": "csv",
+      "description": "In-service, domestic, foreign and mid-career training",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "Kind of training"
+          },
+          {
+            "name": "year",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Year"
+          },
+          {
+            "name": "name",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Training"
+          },
+          {
+            "name": "subject",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subject"
+          },
+          {
+            "name": "institute",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Institute"
+          },
+          {
+            "name": "city",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "City"
+          },
+          {
+            "name": "country",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Country"
+          },
+          {
+            "name": "duration",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Duration"
+          },
+          {
+            "name": "weeks",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Duration in weeks"
+          },
+          {
+            "name": "from",
+            "type": "date",
+            "description": "Start"
+          },
+          {
+            "name": "to",
+            "type": "date",
+            "description": "End"
+          }
+        ]
+      }
+    },
+    {
+      "name": "awards",
+      "path": "data/awards.csv",
+      "format": "csv",
+      "description": "Awards and publications",
+      "schema": {
+        "fields": [
+          {
+            "name": "officer_key",
+            "type": "string",
+            "description": "Officer key, see officers"
+          },
+          {
+            "name": "position",
+            "type": "integer",
+            "description": "Order"
+          },
+          {
+            "name": "type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Award or publication"
+          },
+          {
+            "name": "area",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Area"
+          },
+          {
+            "name": "year",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Year"
+          },
+          {
+            "name": "title",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Award or title"
+          },
+          {
+            "name": "given_by",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Given by or publisher"
+          },
+          {
+            "name": "subject",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subject"
+          },
+          {
+            "name": "level",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Level"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cadre-strength",
+      "path": "data/cadre_strength.csv",
+      "format": "csv",
+      "description": "Authorised and actual strength of each cadre, each year",
+      "schema": {
+        "fields": [
+          {
+            "name": "edition",
+            "type": "date",
+            "description": "Civil list as on this date"
+          },
+          {
+            "name": "cadre",
+            "type": "string",
+            "description": "Cadre code"
+          },
+          {
+            "name": "cadre_name",
+            "type": "string",
+            "description": "Cadre name"
+          },
+          {
+            "name": "senior_duty_posts",
+            "type": "integer",
+            "description": "Senior duty posts under the State"
+          },
+          {
+            "name": "central_deputation_reserve",
+            "type": "integer",
+            "description": "Central deputation reserve"
+          },
+          {
+            "name": "state_deputation_reserve",
+            "type": "integer",
+            "description": "State deputation reserve"
+          },
+          {
+            "name": "junior_and_leave_reserve",
+            "type": "integer",
+            "description": "Junior posts and leave reserve"
+          },
+          {
+            "name": "training_reserve",
+            "type": "integer",
+            "description": "Training reserve"
+          },
+          {
+            "name": "direct_recruitment_posts",
+            "type": "integer",
+            "description": "Direct recruitment posts"
+          },
+          {
+            "name": "promotion_posts",
+            "type": "integer",
+            "description": "Promotion quota posts"
+          },
+          {
+            "name": "authorised_strength",
+            "type": "integer",
+            "description": "Total authorised strength"
+          },
+          {
+            "name": "in_position_direct",
+            "type": "integer",
+            "description": "Direct recruits in position"
+          },
+          {
+            "name": "in_position_promoted",
+            "type": "integer",
+            "description": "Promoted officers in position"
+          },
+          {
+            "name": "in_position",
+            "type": "integer",
+            "description": "Officers in position"
+          },
+          {
+            "name": "batch_from",
+            "type": "integer",
+            "description": "Earliest batch in position"
+          },
+          {
+            "name": "batch_to",
+            "type": "integer",
+            "description": "Latest batch in position"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cadre-reviews",
+      "path": "data/cadre_reviews.csv",
+      "format": "csv",
+      "description": "Cadre reviews and their notification dates",
+      "schema": {
+        "fields": [
+          {
+            "name": "cadre",
+            "type": "string",
+            "description": "Cadre code"
+          },
+          {
+            "name": "review_year",
+            "type": "integer",
+            "description": "Year of the cadre review"
+          },
+          {
+            "name": "notified_on",
+            "type": "date",
+            "description": "Notification date"
+          }
+        ]
+      }
+    },
+    {
+      "name": "retirements",
+      "path": "data/retirements.csv",
+      "format": "csv",
+      "description": "Officers due to retire, by cadre and year",
+      "schema": {
+        "fields": [
+          {
+            "name": "edition",
+            "type": "date",
+            "description": "Civil list as on this date"
+          },
+          {
+            "name": "cadre",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Cadre code"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "Year of retirement"
+          },
+          {
+            "name": "officers",
+            "type": "integer",
+            "description": "Officers due to retire"
+          }
+        ]
+      }
+    },
+    {
+      "name": "exam-intake",
+      "path": "data/exam_intake.csv",
+      "format": "csv",
+      "description": "Officers appointed through the civil services examination, by batch",
+      "schema": {
+        "fields": [
+          {
+            "name": "allotment_year",
+            "type": "integer",
+            "description": "Batch"
+          },
+          {
+            "name": "officers",
+            "type": "integer",
+            "description": "Officers appointed through the civil services examination"
+          }
+        ]
+      }
+    },
+    {
+      "name": "editions",
+      "path": "data/editions.csv",
+      "format": "csv",
+      "description": "Each yearly civil list",
+      "schema": {
+        "fields": [
+          {
+            "name": "edition",
+            "type": "date",
+            "description": "Civil list as on this date"
+          },
+          {
+            "name": "officers",
+            "type": "integer",
+            "description": "Officers in position"
+          },
+          {
+            "name": "direct_recruits",
+            "type": "integer",
+            "description": "Direct recruits in position"
+          },
+          {
+            "name": "promoted",
+            "type": "integer",
+            "description": "Promoted officers in position"
+          },
+          {
+            "name": "authorised_strength",
+            "type": "integer",
+            "description": "Authorised strength"
+          },
+          {
+            "name": "pages",
+            "type": "integer",
+            "description": "Pages in the e-book"
+          },
+          {
+            "name": "pdf",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "E-book link"
+          }
+        ]
+      }
+    }
+  ]
+}
