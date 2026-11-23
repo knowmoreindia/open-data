@@ -14,14 +14,14 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,13,01TG031000-1960-05-05,Binoy Kumar,TG,1960-05-05,1983
 2020-01-01,direct-recruits,14,01CG035000-1960-02-12,Ajay Singh,CG,1960-02-12,1983
 2020-01-01,direct-recruits,15,01MH034600-1960-04-17,Sanjeevanee Kutty,MH,1960-04-17,1983
-2020-01-01,direct-recruits,16,01OD020900-1960-05-26,Injeti Srinivas,OD,1960-05-26,1983
+2020-01-01,direct-recruits,16,01OR020900-1960-05-26,Injeti Srinivas,OD,1960-05-26,1983
 2020-01-01,direct-recruits,17,01WB028600-1960-04-14,Gopal Krishna,WB,1960-04-14,1983
 2020-01-01,direct-recruits,18,01PB016100-1961-07-31,Karan Bir Singh Sidhu,PB,1961-07-31,1984
 2020-01-01,direct-recruits,19,01PB016200-1960-08-04,Karan Avtar Singh,PB,1960-08-04,1984
 2020-01-01,direct-recruits,20,01RJ024800-1960-07-05,Mukesh Kumar Sharma,RJ,1960-07-05,1984
 2020-01-01,direct-recruits,21,01BH035600-1960-02-03,Deepak Kumar,BH,1960-02-03,1984
 2020-01-01,direct-recruits,22,01UP054600-1961-12-04,Durga Shanker Mishra,UP,1961-12-04,1984
-2020-01-01,direct-recruits,23,01OD021400-1960-04-30,Arun Kumar Panda,OD,1960-04-30,1984
+2020-01-01,direct-recruits,23,01OR021400-1960-04-30,Arun Kumar Panda,OD,1960-04-30,1984
 2020-01-01,direct-recruits,24,01BH035500-1961-06-02,Ravi Kant,BH,1961-06-02,1984
 2020-01-01,direct-recruits,25,01HP009800-1960-11-16,Arvind Mehta,HP,1960-11-16,1984
 2020-01-01,direct-recruits,26,01UT016100-1961-03-06,Rina Ray,UT,1961-03-06,1984
@@ -86,7 +86,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,85,01PB016700-1961-01-01,Chhabilendra Roul,PB,1961-01-01,1985
 2020-01-01,direct-recruits,86,01WB030500-1960-01-02,Debashis Sen,WB,1960-01-02,1985
 2020-01-01,direct-recruits,87,01WB030700-1961-03-03,Sanjeev Chopra,WB,1961-03-03,1985
-2020-01-01,direct-recruits,88,01OD022200-1960-01-02,Surendra Nath Tripathi,OD,1960-01-02,1985
+2020-01-01,direct-recruits,88,01OR022200-1960-01-02,Surendra Nath Tripathi,OD,1960-01-02,1985
 2020-01-01,direct-recruits,89,01GJ024000-1960-08-15,Anil Gopishankar Mukim,GJ,1960-08-15,1985
 2020-01-01,direct-recruits,90,01HP010300-1961-09-24,Sanjeev Gupta,HP,1961-09-24,1985
 2020-01-01,direct-recruits,91,01AM019900-1961-09-28,Sailesh,AM,1961-09-28,1985
@@ -135,7 +135,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,134,01HY017600-1960-02-12,Rajni Sekhri Sibal,HY,1960-02-12,1986
 2020-01-01,direct-recruits,135,01KL016400-1961-02-19,Vishwas Mehta,KL,1961-02-19,1986
 2020-01-01,direct-recruits,136,01KN026700-1963-11-10,Vandita Sharma,KN,1963-11-10,1986
-2020-01-01,direct-recruits,137,01OD022500-1960-12-23,Asit Kumar Tripathy,OD,1960-12-23,1986
+2020-01-01,direct-recruits,137,01OR022500-1960-12-23,Asit Kumar Tripathy,OD,1960-12-23,1986
 2020-01-01,direct-recruits,138,01UT017700-1961-09-20,Anshu Prakash,UT,1961-09-20,1986
 2020-01-01,direct-recruits,139,01GJ025200-1960-10-27,Sangeeta Singh,GJ,1960-10-27,1986
 2020-01-01,direct-recruits,140,01HP010600-1963-06-22,Anil Kumar Khachi,HP,1963-06-22,1986
@@ -143,7 +143,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,142,01MH037100-1962-02-06,Debashish Chakrabarty,MH,1962-02-06,1986
 2020-01-01,direct-recruits,143,01CG038900-1960-06-01,Alok Shukla,CG,1960-06-01,1986
 2020-01-01,direct-recruits,144,01MP038700-1960-01-03,S.P. Singh Parihar,MP,1960-01-03,1986
-2020-01-01,direct-recruits,145,01OD022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
+2020-01-01,direct-recruits,145,01OR022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
 2020-01-01,direct-recruits,146,01UP056700-1962-09-22,Alok Tandon,UP,1962-09-22,1986
 2020-01-01,direct-recruits,147,01JH038400-1960-03-26,Devendra Kumar Tiwari,JH,1960-03-26,1986
 2020-01-01,direct-recruits,148,01KN026800-1961-09-18,Sanjiv Kumar,KN,1961-09-18,1986
@@ -161,7 +161,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,160,01UD056900-1960-07-29,Utpal Kumar Singh,UD,1960-07-29,1986
 2020-01-01,direct-recruits,161,01UP056800-1962-04-30,Mukul Singhal,UP,1962-04-30,1986
 2020-01-01,direct-recruits,162,01GJ025400-1962-05-06,Pankaj Kumar,GJ,1962-05-06,1986
-2020-01-01,direct-recruits,163,01OD022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
+2020-01-01,direct-recruits,163,01OR022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
 2020-01-01,direct-recruits,164,01MH037500-1960-04-13,Shreekant Singh,MH,1960-04-13,1986
 2020-01-01,direct-recruits,165,01RJ026600-1960-07-15,Sanjay Dixit,RJ,1960-07-15,1986
 2020-01-01,direct-recruits,166,01HY017800-1962-08-12,Pranab Kishore Das,HY,1962-08-12,1986
@@ -196,7 +196,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,195,01GJ025500-1960-09-22,P. D. Vaghela,GJ,1960-09-22,1986
 2020-01-01,direct-recruits,196,01UP057100-1962-04-07,Prabhat Kumar Sarangi,UP,1962-04-07,1986
 2020-01-01,direct-recruits,197,01TN030600-1964-05-30,Hans Raj Verma,TN,1964-05-30,1986
-2020-01-01,direct-recruits,198,01OD022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
+2020-01-01,direct-recruits,198,01OR022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
 2020-01-01,direct-recruits,199,01MH037800-1960-02-20,Bipin Bihari Mallick,MH,1960-02-20,1986
 2020-01-01,direct-recruits,200,01BH038700-1964-04-10,Amir Subhani,BH,1964-04-10,1987
 2020-01-01,direct-recruits,201,o14910,T. V Somanathan,TN,1965-05-10,1987
@@ -217,7 +217,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,216,01MP039600-1961-04-07,Manoj Kr Shrivastava,MP,1961-04-07,1987
 2020-01-01,direct-recruits,217,01HY018600-1961-10-15,Jyoti Arora,HY,1961-10-15,1987
 2020-01-01,direct-recruits,218,01KN027700-1962-04-25,G Kalpana,KN,1962-04-25,1987
-2020-01-01,direct-recruits,219,01UT007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
+2020-01-01,direct-recruits,219,01JK007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
 2020-01-01,direct-recruits,220,01JK007500-1962-10-08,Sudhanshu Pandey,JK,1962-10-08,1987
 2020-01-01,direct-recruits,221,01GJ025900-1965-01-06,Raj Kumar,GJ,1965-01-06,1987
 2020-01-01,direct-recruits,222,01KN027500-1962-02-06,Rajeev Chawla,KN,1962-02-06,1987
@@ -248,7 +248,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,247,01UP058701-1961-10-30,Jivesh Nandan,UP,1961-10-30,1987
 2020-01-01,direct-recruits,248,01RJ026800-1963-02-04,Neel Kamal Darbari,RJ,1963-02-04,1987
 2020-01-01,direct-recruits,249,01HY018400-1962-06-30,Amit Jha,HY,1962-06-30,1987
-2020-01-01,direct-recruits,250,01OD023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
+2020-01-01,direct-recruits,250,01OR023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
 2020-01-01,direct-recruits,251,01AM021200-1962-08-02,M C Jauhari,AM,1962-08-02,1987
 2020-01-01,direct-recruits,252,01MP039900-1961-12-07,Pravir Krishna,MP,1961-12-07,1987
 2020-01-01,direct-recruits,253,01UP058000-1963-06-26,Renuka Kumar,UP,1963-06-26,1987
@@ -259,7 +259,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,258,01TN031400-1961-10-10,Apurva Varma,TN,1961-10-10,1987
 2020-01-01,direct-recruits,259,01KL017200-1961-01-01,Pradeep Kumar,KL,1961-01-01,1987
 2020-01-01,direct-recruits,260,01JH039600-1962-10-24,Indu Shekhar Chaturvedi,JH,1962-10-24,1987
-2020-01-01,direct-recruits,261,01OD023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
+2020-01-01,direct-recruits,261,01OR023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
 2020-01-01,direct-recruits,262,01WB032400-1963-12-05,Sunil Kumar Gupta,WB,1963-12-05,1987
 2020-01-01,direct-recruits,263,01UD058300-1962-05-14,Om Prakash,UD,1962-05-14,1987
 2020-01-01,direct-recruits,264,01PB017800-1961-06-02,Viswajeet Khanna,PB,1961-06-02,1987
@@ -280,7 +280,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,279,01MP039700-1962-12-20,Sanjay Kumar Singh,MP,1962-12-20,1987
 2020-01-01,direct-recruits,280,01SK003400-1962-03-02,K Jayakumar,SK,1962-03-02,1987
 2020-01-01,direct-recruits,281,01KL017600-1961-10-30,T K Manojkumar,KL,1961-10-30,1987
-2020-01-01,direct-recruits,282,01OD023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
+2020-01-01,direct-recruits,282,01OR023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
 2020-01-01,direct-recruits,283,01MP039400-1962-07-01,Rajesh Kr Chaturvedi,MP,1962-07-01,1987
 2020-01-01,direct-recruits,284,01SK003300-1963-04-25,Arun Kumar Yadav,SK,1963-04-25,1987
 2020-01-01,direct-recruits,285,01TR012300-1961-09-25,Sushil Kumar,TR,1961-09-25,1987
@@ -313,18 +313,18 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,312,01BH040700-1962-03-06,Sudhir Kumar,BH,1962-03-06,1988
 2020-01-01,direct-recruits,313,01HY019200-1963-08-31,Rajesh Khullar,HY,1963-08-31,1988
 2020-01-01,direct-recruits,314,01MH038800-1964-09-19,Apurva Chandra,MH,1964-09-19,1988
-2020-01-01,direct-recruits,315,01UT008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
+2020-01-01,direct-recruits,315,01JK008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
 2020-01-01,direct-recruits,316,01KL017700-1964-01-27,Gyanesh Kumar,KL,1964-01-27,1988
 2020-01-01,direct-recruits,317,01UD060000-1964-03-06,Radha Raturi,UD,1964-03-06,1988
 2020-01-01,direct-recruits,318,01GJ026500-1964-01-26,Mukesh Puri,GJ,1964-01-26,1988
 2020-01-01,direct-recruits,319,01RJ027200-1965-12-17,Subodh Agarwal,RJ,1965-12-17,1988
 2020-01-01,direct-recruits,320,01NL004500-1963-08-02,Rajiv Bansal,NL,1963-08-02,1988
-2020-01-01,direct-recruits,321,01OD023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
+2020-01-01,direct-recruits,321,01OR023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
 2020-01-01,direct-recruits,322,01PB018301-1963-10-09,Ravneet Kaur,PB,1963-10-09,1988
 2020-01-01,direct-recruits,323,01MH038701-1963-12-31,Ashish Kumar Singh,MH,1963-12-31,1988
 2020-01-01,direct-recruits,324,01MH039000-1964-03-29,Nitin N Kareer,MH,1964-03-29,1988
 2020-01-01,direct-recruits,325,01HP011500-1964-07-15,Ali Raza Rizvi,HP,1964-07-15,1988
-2020-01-01,direct-recruits,326,01OD023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
+2020-01-01,direct-recruits,326,01OR023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
 2020-01-01,direct-recruits,327,01KN028500-1963-08-18,E V Ramana Reddy,KN,1963-08-18,1988
 2020-01-01,direct-recruits,328,01AP035200-1964-07-01,Poonam Malakondiah,AP,1964-07-01,1988
 2020-01-01,direct-recruits,329,01SK003600-1963-07-09,Upma Srivastava,SK,1963-07-09,1988
@@ -332,7 +332,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,331,01KN028100-1962-11-25,M V Jayanthi,KN,1962-11-25,1988
 2020-01-01,direct-recruits,332,01MN012600-1964-06-01,Mamnoon Hasan Khan,MN,1964-06-01,1988
 2020-01-01,direct-recruits,333,01GJ026900-1962-11-26,Anita Karwal,GJ,1962-11-26,1988
-2020-01-01,direct-recruits,334,01UT007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
+2020-01-01,direct-recruits,334,01JK007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
 2020-01-01,direct-recruits,335,01UP059900-1964-06-21,S Radha Chauhan,UP,1964-06-21,1988
 2020-01-01,direct-recruits,336,01MH039200-1963-05-14,Arvind Singh,MH,1963-05-14,1988
 2020-01-01,direct-recruits,337,01UP059400-1963-07-25,Navneet Kumar Sehgal,UP,1963-07-25,1988
@@ -406,7 +406,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,405,01AP035700-1963-12-22,Somesh Kumar,AP,1963-12-22,1989
 2020-01-01,direct-recruits,406,01AM022500-1963-11-09,Sameer Kumar Khare,AM,1963-11-09,1989
 2020-01-01,direct-recruits,407,o15137,V. Srinivas,RJ,1966-09-01,1989
-2020-01-01,direct-recruits,408,01UT008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
+2020-01-01,direct-recruits,408,01JK008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
 2020-01-01,direct-recruits,409,o15079,Anurag Jain,MP,1965-08-11,1989
 2020-01-01,direct-recruits,410,01MH039801-1963-09-10,Pradeep Kumar Vyas,MH,1963-09-10,1989
 2020-01-01,direct-recruits,411,01TG035800-1965-04-07,A Santi Kumari,TG,1965-04-07,1989
@@ -423,7 +423,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,422,o15125,Sandeep Saxena,TN,1966-04-02,1989
 2020-01-01,direct-recruits,423,01UT019301-1963-01-27,Raajiv Yaduvanshi,UT,1963-01-27,1989
 2020-01-01,direct-recruits,424,01KL018600-1963-06-20,Devendra Kumar Singh,KL,1963-06-20,1989
-2020-01-01,direct-recruits,425,01OD024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
+2020-01-01,direct-recruits,425,01OR024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
 2020-01-01,direct-recruits,426,o15099,Shalini Rajneesh,KN,1967-06-06,1989
 2020-01-01,direct-recruits,427,01KN029000-1964-01-08,Jawaid Akhtar,KN,1964-01-08,1989
 2020-01-01,direct-recruits,428,o15070,Rajendra Kumar,UT,1966-12-16,1989
@@ -454,7 +454,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,453,01TN032800-1963-12-03,Md Nasimuddin,TN,1963-12-03,1989
 2020-01-01,direct-recruits,454,o15064,Atri Bhattacharya,WB,1966-04-07,1989
 2020-01-01,direct-recruits,455,01MP041100-1965-05-27,Vinod Kumar,MP,1965-05-27,1989
-2020-01-01,direct-recruits,456,01OD023600-1964-01-25,Vinod Kumar,OD,1964-01-25,1989
+2020-01-01,direct-recruits,456,01OR023600-1964-01-25,Vinod Kumar,OD,1964-01-25,1989
 2020-01-01,direct-recruits,457,01UP061000-1964-12-03,Manoj Singh,UP,1964-12-03,1989
 2020-01-01,direct-recruits,458,01BH041200-1965-06-19,Sujata Chaturvedi,BH,1965-06-19,1989
 2020-01-01,direct-recruits,459,01RJ027500-1964-07-12,Rajeshwar Singh,RJ,1964-07-12,1989
@@ -497,7 +497,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,496,01HY019900-1964-12-13,Ankur Gupta,HY,1964-12-13,1990
 2020-01-01,direct-recruits,497,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2020-01-01,direct-recruits,498,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2020-01-01,direct-recruits,499,01UT008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
+2020-01-01,direct-recruits,499,01JK008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
 2020-01-01,direct-recruits,500,01UP061500-1964-09-11,Nitin Ramesh Gokarn,UP,1964-09-11,1990
 2020-01-01,direct-recruits,501,01UP062001-1964-02-11,Sudhir Garg,UP,1964-02-11,1990
 2020-01-01,direct-recruits,502,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
@@ -578,7 +578,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,577,01JH041900-1965-06-18,Alok Goyal,JH,1965-06-18,1990
 2020-01-01,direct-recruits,578,o15303,Raju Narayanaswamy,KL,1968-05-24,1991
 2020-01-01,direct-recruits,579,o15273,Manoj Govil,MP,1969-03-20,1991
-2020-01-01,direct-recruits,580,01OD025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
+2020-01-01,direct-recruits,580,01OR025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
 2020-01-01,direct-recruits,581,01HY020600-1965-04-30,Ashok Khemka,HY,1965-04-30,1991
 2020-01-01,direct-recruits,582,o15284,Anu Garg,OD,1969-03-01,1991
 2020-01-01,direct-recruits,583,01TN034100-1965-09-07,T K Ramachandran,TN,1965-09-07,1991
@@ -590,7 +590,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,589,o15344,Jayanti S. Ravi,GJ,1967-08-17,1991
 2020-01-01,direct-recruits,590,01TG036800-1963-11-12,Rajat Kumar,TG,1963-11-12,1991
 2020-01-01,direct-recruits,591,01KN030200-1965-01-14,L K Atheeq,KN,1965-01-14,1991
-2020-01-01,direct-recruits,592,01OD024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
+2020-01-01,direct-recruits,592,01OR024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
 2020-01-01,direct-recruits,593,o15315,K Ramakrishna Rao,TG,1965-08-30,1991
 2020-01-01,direct-recruits,594,01MH041100-1962-04-05,Mahesh Dinkar Pathak,MH,1962-04-05,1991
 2020-01-01,direct-recruits,595,01TG037000-1962-07-18,Harpreet Singh,TG,1962-07-18,1991
@@ -614,7 +614,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,613,o15322,N Muruganandam,TN,1967-12-23,1991
 2020-01-01,direct-recruits,614,o15357,Rajit Punhani,BH,1967-07-01,1991
 2020-01-01,direct-recruits,615,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2020-01-01,direct-recruits,616,01UT008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
+2020-01-01,direct-recruits,616,01JK008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
 2020-01-01,direct-recruits,617,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2020-01-01,direct-recruits,618,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2020-01-01,direct-recruits,619,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -645,7 +645,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,644,o15265,Puneet Kumar Goel,UT,1966-08-03,1991
 2020-01-01,direct-recruits,645,o15354,Ram Prakash Sisodia,AP,1968-01-24,1991
 2020-01-01,direct-recruits,646,01HY020900-1964-06-01,Shrikant Walgad,HY,1964-06-01,1991
-2020-01-01,direct-recruits,647,01OD025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
+2020-01-01,direct-recruits,647,01OR025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
 2020-01-01,direct-recruits,648,o15342,G Anupama,HY,1967-11-07,1991
 2020-01-01,direct-recruits,649,o15276,Manu Shrivastava,MP,1967-09-06,1991
 2020-01-01,direct-recruits,650,o15340,Apoorva Kumar Singh,HY,1967-10-24,1991
@@ -729,7 +729,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,728,o15433,V L Kantha Rao,MP,1967-12-05,1992
 2020-01-01,direct-recruits,729,01BH044100-1964-11-29,Ravi Manubhai Parmar,BH,1964-11-29,1992
 2020-01-01,direct-recruits,730,01MP043601-1964-02-02,Kalpana Shrivastava,MP,1964-02-02,1992
-2020-01-01,direct-recruits,731,01UT008800-1964-07-30,A. K. Parmar,JK,1964-07-30,1992
+2020-01-01,direct-recruits,731,01JK008800-1964-07-30,A. K. Parmar,JK,1964-07-30,1992
 2020-01-01,direct-recruits,732,01UT021500-1965-08-23,Sanjiv Kumar,UT,1965-08-23,1992
 2020-01-01,direct-recruits,733,o15371,Shamsheer Singh Rawat,AP,1969-12-20,1992
 2020-01-01,direct-recruits,734,01MH041800-1963-11-23,Bipin Chandra Punambhai,MH,1963-11-23,1992
@@ -796,7 +796,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,795,o15498,Veena Kumari Meena,UP,1967-06-02,1993
 2020-01-01,direct-recruits,796,o15501,Nagaraju Maddirala,TR,1966-05-24,1993
 2020-01-01,direct-recruits,797,o15495,Davendra Kr Dhodawat,KL,1967-02-02,1993
-2020-01-01,direct-recruits,798,01UT008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
+2020-01-01,direct-recruits,798,01JK008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
 2020-01-01,direct-recruits,799,01JH044801-1964-07-01,Surendra Singh,JH,1964-07-01,1993
 2020-01-01,direct-recruits,800,o15482,Surendra Kumar Bagde,MH,1969-03-19,1993
 2020-01-01,direct-recruits,801,01AM024400-1965-09-04,Donald Philips Wahlang,AM,1965-09-04,1993
@@ -1214,7 +1214,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,1213,o16140,Sunil Kumar,JH,1970-06-02,1999
 2020-01-01,direct-recruits,1214,o16114,Ashok Kumar Singh,KL,1969-08-25,1999
 2020-01-01,direct-recruits,1215,o16128,Dev Raj Dev,TN,1973-01-21,1999
-2020-01-01,direct-recruits,1216,01JK009701-1970-05-09,Sarita Chauhan,JK,1970-05-09,1999
+2020-01-01,direct-recruits,1216,o16117,Sarita Chauhan,JK,1970-05-09,1999
 2020-01-01,direct-recruits,1217,o16217,Sorabh Babu,UP,1976-11-10,2000
 2020-01-01,direct-recruits,1218,01TN039401-1971-09-12,Santosh K. Misra,TN,1971-09-12,2000
 2020-01-01,direct-recruits,1219,o16199,Manju Rajpal,RJ,1972-06-01,2000
@@ -1228,7 +1228,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,1227,o16184,Pooja Singhal,JH,1978-07-07,2000
 2020-01-01,direct-recruits,1228,o16283,Santanu Basu,WB,1974-09-11,2000
 2020-01-01,direct-recruits,1229,o16166,Diwakar Nath Misra,AM,1974-07-31,2000
-2020-01-01,direct-recruits,1230,01OD027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
+2020-01-01,direct-recruits,1230,01OR027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
 2020-01-01,direct-recruits,1231,o16160,Prem Singh Meena,BH,1976-04-10,2000
 2020-01-01,direct-recruits,1232,o16228,Anand Singh,KL,1974-01-01,2000
 2020-01-01,direct-recruits,1233,o16202,Alaknanda Dayal,PB,1975-06-13,2000
@@ -1260,7 +1260,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,1259,o16208,Anil Meshram,TN,1971-07-18,2000
 2020-01-01,direct-recruits,1260,o16221,Dhanalakshmi K.,UP,1972-11-27,2000
 2020-01-01,direct-recruits,1261,o16235,Niranjan Kr. Sudhansu,MH,1975-07-26,2000
-2020-01-01,direct-recruits,1262,01OD027700-1974-04-01,Manish Kumar Verma,OD,1974-04-01,2000
+2020-01-01,direct-recruits,1262,01OR027700-1974-04-01,Manish Kumar Verma,OD,1974-04-01,2000
 2020-01-01,direct-recruits,1263,o16274,Madhup Vyas,UT,1974-10-09,2000
 2020-01-01,direct-recruits,1264,o16222,Ranjan Kumar,UP,1976-08-12,2000
 2020-01-01,direct-recruits,1265,o16223,Anurag Yadav,UP,1976-06-16,2000
@@ -1756,7 +1756,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,1755,o17408,Jai Singh,BH,1977-02-01,2007
 2020-01-01,direct-recruits,1756,o17391,Remya M. Moothadath,GJ,1980-04-14,2007
 2020-01-01,direct-recruits,1757,o17393,Dilip Kumar Bhuraram Rana,GJ,1978-04-10,2007
-2020-01-01,direct-recruits,1758,01JK010900-1982-11-28,Yasha Mudgil,JK,1982-11-28,2007
+2020-01-01,direct-recruits,1758,o17336,Yasha Mudgil,JK,1982-11-28,2007
 2020-01-01,direct-recruits,1759,o17369,Parveen Kumar Thind,PB,1980-04-21,2007
 2020-01-01,direct-recruits,1760,o17321,Nagargoje M Bibhishan,MP,1983-06-04,2007
 2020-01-01,direct-recruits,1761,o17402,Shainamol A,HP,1982-05-11,2007
@@ -3229,7 +3229,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,3228,o33184,Kumar Tarachand,JH,1984-04-17,2017
 2020-01-01,direct-recruits,3229,o33216,Keerthishree G,JH,1991-04-20,2017
 2020-01-01,direct-recruits,3230,o33210,Bilal Mohi Ud Din Bhat,JK,1985-11-01,2017
-2020-01-01,direct-recruits,3231,01JK116I02-1993-09-01,Santosh Sukhadeve,JK,1993-09-01,2017
+2020-01-01,direct-recruits,3231,o33251,Santosh Sukhadeve,JK,1993-09-01,2017
 2020-01-01,direct-recruits,3232,o33220,Priyanka G,KL,1990-03-12,2017
 2020-01-01,direct-recruits,3233,o33315,Vikalp Bharadwaj,KL,1993-02-06,2017
 2020-01-01,direct-recruits,3234,o33253,Patil Pranjal Lahensingh,UT,1984-04-01,2017
@@ -3704,7 +3704,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,direct-recruits,3703,o37809,Wankhede Archana,WB,1983-01-09,2019
 2020-01-01,direct-recruits,3704,o37810,Katta Simhachalam,AP,1989-05-16,2019
 2020-01-01,direct-recruits,3705,o37811,Balpreet Singh,KL,1989-07-11,2019
-2020-01-01,direct-recruits,3706,01TR118Z04-1992-12-16,B Vaishnavi,TR,1992-12-16,2019
+2020-01-01,direct-recruits,3706,o37812,B Vaishnavi,TR,1992-12-16,2019
 2020-01-01,direct-recruits,3707,o37813,Neelam Lalitaditya,CG,1994-03-16,2019
 2020-01-01,direct-recruits,3708,o37814,Vikas Marmat,AP,1996-03-25,2019
 2020-01-01,direct-recruits,3709,o37815,Birathiviraj M,TN,1994-08-11,2019
@@ -3911,11 +3911,11 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,191,01UP812113-1961-01-14,Satyendra Kumar Singh,UP,1961-01-14,2003
 2020-01-01,promotion-quota,192,01UP812114-1960-07-29,Mahendra Kumar,UP,1960-07-29,2003
 2020-01-01,promotion-quota,193,01AP907101-1962-02-01,P. Lakshmi Narasimham,AP,1962-02-01,2003
-2020-01-01,promotion-quota,194,01OD909001-1961-09-15,Anil Kumar Samal,OD,1961-09-15,2003
-2020-01-01,promotion-quota,195,01OD909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
+2020-01-01,promotion-quota,194,01OR909001-1961-09-15,Anil Kumar Samal,OD,1961-09-15,2003
+2020-01-01,promotion-quota,195,01OR909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
 2020-01-01,promotion-quota,196,o13837,Y. Kikheto Sema,NL,1967-01-01,2003
-2020-01-01,promotion-quota,197,01OD910101-1960-05-02,Pradeep Kumar Biswal,OD,1960-05-02,2003
-2020-01-01,promotion-quota,198,01OD910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
+2020-01-01,promotion-quota,197,01OR910101-1960-05-02,Pradeep Kumar Biswal,OD,1960-05-02,2003
+2020-01-01,promotion-quota,198,01OR910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
 2020-01-01,promotion-quota,199,01MH910005-1960-07-12,D. G. Mhaisekar,MH,1960-07-12,2003
 2020-01-01,promotion-quota,200,01RJ910005-1962-08-15,Veena Pradhan,RJ,1962-08-15,2003
 2020-01-01,promotion-quota,201,01RJ911005-1962-07-01,Rajesh Sharma,RJ,1962-07-01,2003
@@ -4003,11 +4003,11 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,283,01AM813202-1960-12-01,Kumud Chandra Kalita,AM,1960-12-01,2004
 2020-01-01,promotion-quota,284,01RJ813303-1960-07-28,Pradeep Kumar Borad,RJ,1960-07-28,2004
 2020-01-01,promotion-quota,285,01AM813204-1960-11-24,Gaurav Bothra,AM,1960-11-24,2004
-2020-01-01,promotion-quota,286,01OD813104-1961-01-20,Niranjan Sahu,OD,1961-01-20,2004
-2020-01-01,promotion-quota,287,01OD813105-1960-04-01,Prasanta Kumar Senapati,OD,1960-04-01,2004
+2020-01-01,promotion-quota,286,01OR813104-1961-01-20,Niranjan Sahu,OD,1961-01-20,2004
+2020-01-01,promotion-quota,287,01OR813105-1960-04-01,Prasanta Kumar Senapati,OD,1960-04-01,2004
 2020-01-01,promotion-quota,288,01AM813206-1960-01-17,Roshan Ara Begum,AM,1960-01-17,2004
 2020-01-01,promotion-quota,289,01AM813208-1960-02-13,Shamsher Singh,AM,1960-02-13,2004
-2020-01-01,promotion-quota,290,01OD813108-1960-05-20,Sundarlal Seal,OD,1960-05-20,2004
+2020-01-01,promotion-quota,290,01OR813108-1960-05-20,Sundarlal Seal,OD,1960-05-20,2004
 2020-01-01,promotion-quota,291,01AM813210-1960-11-20,Rupak Kr. Mazumdar,AM,1960-11-20,2004
 2020-01-01,promotion-quota,292,01AM813211-1961-10-17,Monalisa Goswami,AM,1961-10-17,2004
 2020-01-01,promotion-quota,293,01KL908001-1965-04-20,Biju Prabhakar,KL,1965-04-20,2004
@@ -4138,20 +4138,20 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,418,01AM814003-1962-05-09,Merilyn Nellie Nampui,AM,1962-05-09,2005
 2020-01-01,promotion-quota,419,01RJ814303-1962-07-05,Suresh Chand Gupta,RJ,1962-07-05,2005
 2020-01-01,promotion-quota,420,01AM814403-1960-02-06,Sanjib K Gohain Boruah,AM,1960-02-06,2005
-2020-01-01,promotion-quota,421,01OD814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
-2020-01-01,promotion-quota,422,01OD814304-1960-01-22,Pratap Chandra Dash,OD,1960-01-22,2005
+2020-01-01,promotion-quota,421,01OR814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
+2020-01-01,promotion-quota,422,01OR814304-1960-01-22,Pratap Chandra Dash,OD,1960-01-22,2005
 2020-01-01,promotion-quota,423,01RJ814304-1963-04-26,Vinita Srivastava,RJ,1963-04-26,2005
 2020-01-01,promotion-quota,424,01SK814304-1960-04-10,Tenzing Dolkar,SK,1960-04-10,2005
 2020-01-01,promotion-quota,425,01RJ814305-1962-12-05,Dinesh Kumar Yadav,RJ,1962-12-05,2005
 2020-01-01,promotion-quota,426,01OD814305-1961-07-04,Prafulla Chandra Pradhan,OD,1961-07-04,2005
-2020-01-01,promotion-quota,427,01OD814307-1960-01-27,Madhusudan Mishra,OD,1960-01-27,2005
+2020-01-01,promotion-quota,427,01OR814307-1960-01-27,Madhusudan Mishra,OD,1960-01-27,2005
 2020-01-01,promotion-quota,428,01OD814308-1961-05-02,Anjan Kumar Manik,OD,1961-05-02,2005
-2020-01-01,promotion-quota,429,01OD814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
+2020-01-01,promotion-quota,429,01OR814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
 2020-01-01,promotion-quota,430,01HY909101-1961-04-08,Satyavir Singh Phulia,HY,1961-04-08,2005
 2020-01-01,promotion-quota,431,01KL909002-1961-05-14,V. Ratheesan,KL,1961-05-14,2005
 2020-01-01,promotion-quota,432,01TN911006-1964-10-20,L. Subramanian,TN,1964-10-20,2005
-2020-01-01,promotion-quota,433,01OD913001-1960-04-13,Prasanna Kumar Jena,OD,1960-04-13,2005
-2020-01-01,promotion-quota,434,01OD913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
+2020-01-01,promotion-quota,433,01OR913001-1960-04-13,Prasanna Kumar Jena,OD,1960-04-13,2005
+2020-01-01,promotion-quota,434,01OR913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
 2020-01-01,promotion-quota,435,01OD94A301-1961-02-01,Debendra Kumar Jena,OD,1961-02-01,2005
 2020-01-01,promotion-quota,436,01JH914301-1963-01-05,Jata Shankar Choudhary,JH,1963-01-05,2005
 2020-01-01,promotion-quota,437,01WB914301-1962-05-21,Arun Prasad Sen,WB,1962-05-21,2005
@@ -4211,7 +4211,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,491,01UP813113-1962-01-17,Rajendra Pratap Pandey,UP,1962-01-17,2006
 2020-01-01,promotion-quota,492,01UP813114-1965-08-31,Shahid M Abbas Rizvi,UP,1961-08-31,2006
 2020-01-01,promotion-quota,493,01UP813115-1961-08-21,Shafakat Kamal,UP,1961-08-21,2006
-2020-01-01,promotion-quota,494,01UD813116-1964-10-05,Vijay Kumar Yadav,UP,1964-10-05,2006
+2020-01-01,promotion-quota,494,01UP813116-1964-10-05,Vijay Kumar Yadav,UP,1964-10-05,2006
 2020-01-01,promotion-quota,495,01UP813117-1963-02-15,Shakuntla Gautam,UP,1963-02-15,2006
 2020-01-01,promotion-quota,496,01AM814404-1960-08-01,Sajeeda Ismal Rashid,AM,1960-08-01,2006
 2020-01-01,promotion-quota,497,01AM814405-1961-02-27,Devola Devi Das,AM,1961-02-27,2006
@@ -4250,15 +4250,15 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,530,01BH814010-1961-02-27,Mithilesh Kumar,BH,1961-02-27,2006
 2020-01-01,promotion-quota,531,01WB814310-1960-06-10,Swarup Kumar Paul,WB,1960-06-10,2006
 2020-01-01,promotion-quota,532,01BH814012-1960-12-04,Bivekanand Jha,BH,1960-12-04,2006
-2020-01-01,promotion-quota,533,01OD814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
+2020-01-01,promotion-quota,533,01OR814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
 2020-01-01,promotion-quota,534,01BH814013-1961-04-05,Arshad Aziz,BH,1961-04-05,2006
 2020-01-01,promotion-quota,535,01BH814014-1960-10-11,Shobhendra Kumar,BH,1960-10-11,2006
-2020-01-01,promotion-quota,536,01OD814014-1961-06-17,Rabindra Kumar Mishra,OD,1961-06-17,2006
-2020-01-01,promotion-quota,537,01OD814015-1960-07-30,Bibhuti Bhusan Patnaik,OD,1960-07-30,2006
+2020-01-01,promotion-quota,536,01OR814014-1961-06-17,Rabindra Kumar Mishra,OD,1961-06-17,2006
+2020-01-01,promotion-quota,537,01OR814015-1960-07-30,Bibhuti Bhusan Patnaik,OD,1960-07-30,2006
 2020-01-01,promotion-quota,538,01BH814015-1962-01-24,Harendra Nath Dubey,BH,1962-01-24,2006
 2020-01-01,promotion-quota,539,01BH814016-1961-02-19,Ishwar Chandra Sinha,BH,1961-02-19,2006
-2020-01-01,promotion-quota,540,01OD814016-1960-04-23,Tribikram Pradhan,OD,1960-04-23,2006
-2020-01-01,promotion-quota,541,01OD814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
+2020-01-01,promotion-quota,540,01OR814016-1960-04-23,Tribikram Pradhan,OD,1960-04-23,2006
+2020-01-01,promotion-quota,541,01OR814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
 2020-01-01,promotion-quota,542,01BH814017-1961-03-01,Surendra Jha,BH,1961-03-01,2006
 2020-01-01,promotion-quota,543,01BH814018-1962-12-28,Gorakh Nath,BH,1962-12-28,2006
 2020-01-01,promotion-quota,544,01WB815301-1963-03-06,Atonu Chatterjee,WB,1963-03-06,2006
@@ -4367,7 +4367,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,647,01BH815007-1963-02-07,Vijay Kumar,BH,1963-02-07,2007
 2020-01-01,promotion-quota,648,01WB815308-1965-03-12,Debashis Das,WB,1965-03-12,2007
 2020-01-01,promotion-quota,649,01WB815309-1964-03-28,Probhudutta D Pradhan,WB,1964-03-28,2007
-2020-01-01,promotion-quota,650,01OD815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
+2020-01-01,promotion-quota,650,01OR815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
 2020-01-01,promotion-quota,651,01WB816001-1964-04-10,Ajoy Sanyamath,WB,1964-04-10,2007
 2020-01-01,promotion-quota,652,01AM816201-1961-01-02,Monoranjan Dutta,AM,1961-01-02,2007
 2020-01-01,promotion-quota,653,01TR816001-1963-01-03,Satyajit Sarkar,TR,1963-01-03,2007
@@ -4377,28 +4377,28 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,657,01RJ816002-1961-06-25,Chhagan Lal Shrimali,RJ,1961-06-25,2007
 2020-01-01,promotion-quota,658,o31768,Pratibha Singh,RJ,1966-02-20,2007
 2020-01-01,promotion-quota,659,01SK816003-1962-12-16,Tshering Namgyal Bhutia,SK,1962-12-16,2007
-2020-01-01,promotion-quota,660,01OD816003-1960-10-16,Bijaya Kumar Nayak,OD,1960-10-16,2007
+2020-01-01,promotion-quota,660,01OR816003-1960-10-16,Bijaya Kumar Nayak,OD,1960-10-16,2007
 2020-01-01,promotion-quota,661,01WB816003-1964-11-04,Biswajit Dutta,WB,1964-11-04,2007
 2020-01-01,promotion-quota,662,01AM816203-1962-10-12,Neera Gogoi Sonowal,AM,1962-10-12,2007
 2020-01-01,promotion-quota,663,01AM816204-1960-01-26,Honmillee Teronpi,AM,1960-01-26,2007
 2020-01-01,promotion-quota,664,01WB816004-1965-12-25,Subhra Chakrabarti,WB,1965-12-25,2007
-2020-01-01,promotion-quota,665,01OD816004-1961-04-18,Rasid Khan,OD,1961-04-18,2007
+2020-01-01,promotion-quota,665,01OR816004-1961-04-18,Rasid Khan,OD,1961-04-18,2007
 2020-01-01,promotion-quota,666,01RJ816004-1960-08-15,Ram Chandra Dhenwal,RJ,1960-08-15,2007
 2020-01-01,promotion-quota,667,01RJ816005-1962-05-22,Rakesh Kumar Jaiswal,RJ,1962-05-22,2007
-2020-01-01,promotion-quota,668,01OD816005-1960-06-24,Pradipta Kumar Mohapatra,OD,1960-06-24,2007
+2020-01-01,promotion-quota,668,01OR816005-1960-06-24,Pradipta Kumar Mohapatra,OD,1960-06-24,2007
 2020-01-01,promotion-quota,669,01AM816205-1961-01-02,Robinson Mochahari,AM,1961-01-02,2007
-2020-01-01,promotion-quota,670,01OD816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
+2020-01-01,promotion-quota,670,01OR816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
 2020-01-01,promotion-quota,671,01RJ816006-1962-06-01,Indra Singh,RJ,1962-06-01,2007
 2020-01-01,promotion-quota,672,01RJ816007-1961-07-15,Veerendra Singh Bankawat,RJ,1961-07-15,2007
-2020-01-01,promotion-quota,673,01OD816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
-2020-01-01,promotion-quota,674,01OD816008-1961-05-20,Susanta Mohapatra,OD,1961-05-20,2007
+2020-01-01,promotion-quota,673,01OR816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
+2020-01-01,promotion-quota,674,01OR816008-1961-05-20,Susanta Mohapatra,OD,1961-05-20,2007
 2020-01-01,promotion-quota,675,01RJ816008-1963-09-12,Yagya Mitra Singhdeo,RJ,1963-09-12,2007
 2020-01-01,promotion-quota,676,01RJ816009-1963-12-12,Chauthi Ram Meena,RJ,1963-12-12,2007
-2020-01-01,promotion-quota,677,01OD816009-1960-03-17,Biswanath Acharya,OD,1960-03-17,2007
-2020-01-01,promotion-quota,678,01OD816010-1960-05-23,Amarendra Kumar Patnaik,OD,1960-05-23,2007
+2020-01-01,promotion-quota,677,01OR816009-1960-03-17,Biswanath Acharya,OD,1960-03-17,2007
+2020-01-01,promotion-quota,678,01OR816010-1960-05-23,Amarendra Kumar Patnaik,OD,1960-05-23,2007
 2020-01-01,promotion-quota,679,01RJ816010-1960-07-01,Prakash Chand Pawan,RJ,1960-07-01,2007
 2020-01-01,promotion-quota,680,01RJ816011-1964-09-20,Sanwar Mal Verma,RJ,1964-09-20,2007
-2020-01-01,promotion-quota,681,01OD816011-1960-06-02,Sarat Chandra Nayak,OD,1960-06-02,2007
+2020-01-01,promotion-quota,681,01OR816011-1960-06-02,Sarat Chandra Nayak,OD,1960-06-02,2007
 2020-01-01,promotion-quota,682,01RJ816012-1965-05-05,Mahesh Chandra Sharma,RJ,1965-05-05,2007
 2020-01-01,promotion-quota,683,01RJ816013-1964-10-27,Nirmala Meena,RJ,1964-10-27,2007
 2020-01-01,promotion-quota,684,01RJ816014-1961-07-12,Shyam Lal Goojar,RJ,1961-07-12,2007
@@ -4516,16 +4516,16 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,796,01WB816009-1962-02-08,Anindya Narayan Biswas,WB,1962-02-08,2008
 2020-01-01,promotion-quota,797,01WB816010-1962-03-25,Rabijyoti Majumdar,WB,1962-03-25,2008
 2020-01-01,promotion-quota,798,01WB817001-1963-01-05,Tarun Kumar,WB,1963-01-05,2008
-2020-01-01,promotion-quota,799,01OD817001-1961-02-07,Maguni Charan Patra,OD,1961-02-07,2008
+2020-01-01,promotion-quota,799,01OR817001-1961-02-07,Maguni Charan Patra,OD,1961-02-07,2008
 2020-01-01,promotion-quota,800,01UT817102-1960-09-01,Kuldeep Pakad,UT,1960-09-01,2008
 2020-01-01,promotion-quota,801,01NL817001-1964-05-07,Anenla T Sato,NL,1964-05-07,2008
 2020-01-01,promotion-quota,802,o37102,Dipankar Chowdhury,WB,1966-06-22,2008
-2020-01-01,promotion-quota,803,01OD817002-1961-03-25,Brundaban Behera,OD,1961-03-25,2008
+2020-01-01,promotion-quota,803,01OR817002-1961-03-25,Brundaban Behera,OD,1961-03-25,2008
 2020-01-01,promotion-quota,804,01RJ817002-1964-08-19,Mohan Lal Yadav,RJ,1964-08-19,2008
 2020-01-01,promotion-quota,805,01RJ817003-1962-10-01,Kunj Bihari Pandya,RJ,1962-10-01,2008
 2020-01-01,promotion-quota,806,01WB817003-1961-05-07,Rabindra Nath Sarkar,WB,1961-05-07,2008
-2020-01-01,promotion-quota,807,01OD817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
-2020-01-01,promotion-quota,808,01OD817004-1961-04-20,Gangadhar Patra,OD,1961-04-20,2008
+2020-01-01,promotion-quota,807,01OR817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
+2020-01-01,promotion-quota,808,01OR817004-1961-04-20,Gangadhar Patra,OD,1961-04-20,2008
 2020-01-01,promotion-quota,809,01WB817004-1964-01-25,Esha Sengupta,WB,1964-01-25,2008
 2020-01-01,promotion-quota,810,01AM817104-1962-12-15,Atika Sultana,AM,1962-12-15,2008
 2020-01-01,promotion-quota,811,01RJ817004-1965-10-02,Mahendra Soni,RJ,1965-10-02,2008
@@ -4533,11 +4533,11 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,813,01AM817105-1961-09-02,Majnur Hussain,AM,1961-09-02,2008
 2020-01-01,promotion-quota,814,o37093,Sarmistha Das,WB,1967-06-16,2008
 2020-01-01,promotion-quota,815,01WB817006-1965-03-03,Nilanjan Sandilya,WB,1965-03-03,2008
-2020-01-01,promotion-quota,816,01OD817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
+2020-01-01,promotion-quota,816,01OR817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
 2020-01-01,promotion-quota,817,01AM817106-1962-12-01,Deepak Majumdar,AM,1962-12-01,2008
 2020-01-01,promotion-quota,818,01RJ817006-1965-06-13,Shelly Kishnani,RJ,1965-06-13,2008
 2020-01-01,promotion-quota,819,01RJ817007-1961-06-30,Kishor Kumar Sharma,RJ,1961-06-30,2008
-2020-01-01,promotion-quota,820,01OD817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
+2020-01-01,promotion-quota,820,01OR817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
 2020-01-01,promotion-quota,821,o37050,Soumya Purkait,WB,1967-12-25,2008
 2020-01-01,promotion-quota,822,o37051,Dipika Sanyamath,WB,1967-12-16,2008
 2020-01-01,promotion-quota,823,01RJ817008-1965-05-28,Sushma Arora,RJ,1965-05-28,2008
@@ -4962,7 +4962,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2020-01-01,promotion-quota,1242,o37408,Shrikant Shastree,BH,1972-08-05,2012
 2020-01-01,promotion-quota,1243,o31674,Kiran B. Jhaveri,GJ,1968-09-16,2012
 2020-01-01,promotion-quota,1244,o33077,Smruti Ranjan Pradhan,OD,1970-05-01,2012
-2020-01-01,promotion-quota,1245,01OD916002-1960-04-02,Prafulla Kumar Rout,OD,1960-04-02,2012
+2020-01-01,promotion-quota,1245,01OR916002-1960-04-02,Prafulla Kumar Rout,OD,1960-04-02,2012
 2020-01-01,promotion-quota,1246,o35521,Korra Lakshmi,TG,1971-08-30,2013
 2020-01-01,promotion-quota,1247,01TG815002-1960-07-08,K Dharma Reddy,TG,1960-07-08,2013
 2020-01-01,promotion-quota,1248,o35523,Chittem Lakshmi,TG,1970-01-08,2013
@@ -5278,7 +5278,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,72,01HP010600-1963-06-22,Anil Kumar Khachi,HP,1963-06-22,1986
 2021-01-01,direct-recruits,73,01MP038600-1962-10-16,Anil Kumar Jain,MP,1962-10-16,1986
 2021-01-01,direct-recruits,74,01MH037100-1962-02-06,Debashish Chakrabarty,MH,1962-02-06,1986
-2021-01-01,direct-recruits,75,01OD022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
+2021-01-01,direct-recruits,75,01OR022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
 2021-01-01,direct-recruits,76,01UP056700-1962-09-22,Alok Tandon,UP,1962-09-22,1986
 2021-01-01,direct-recruits,77,01KN026800-1961-09-18,Sanjiv Kumar,KN,1961-09-18,1986
 2021-01-01,direct-recruits,78,01KN027301-1963-06-15,I S N Prasad,KN,1963-06-15,1986
@@ -5290,7 +5290,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,84,01UP056600-1962-04-16,Alok Sinha,UP,1962-04-16,1986
 2021-01-01,direct-recruits,85,01UP056800-1962-04-30,Mukul Singhal,UP,1962-04-30,1986
 2021-01-01,direct-recruits,86,01GJ025400-1962-05-06,Pankaj Kumar,GJ,1962-05-06,1986
-2021-01-01,direct-recruits,87,01OD022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
+2021-01-01,direct-recruits,87,01OR022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
 2021-01-01,direct-recruits,88,01HY017800-1962-08-12,Pranab Kishore Das,HY,1962-08-12,1986
 2021-01-01,direct-recruits,89,01SK003100-1962-08-21,Suresh Chandra Gupta,SK,1962-08-21,1986
 2021-01-01,direct-recruits,90,01MH037803-1961-03-12,Kshatrapati Shivaji,MH,1961-03-12,1986
@@ -5315,7 +5315,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,109,01WB031600-1962-06-26,Arun Mishra,WB,1962-06-26,1986
 2021-01-01,direct-recruits,110,01UP057100-1962-04-07,Prabhat Kumar Sarangi,UP,1962-04-07,1986
 2021-01-01,direct-recruits,111,01TN030600-1964-05-30,Hans Raj Verma,TN,1964-05-30,1986
-2021-01-01,direct-recruits,112,01OD022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
+2021-01-01,direct-recruits,112,01OR022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
 2021-01-01,direct-recruits,113,01BH038700-1964-04-10,Amir Subhani,BH,1964-04-10,1987
 2021-01-01,direct-recruits,114,o14910,T. V Somanathan,TN,1965-05-10,1987
 2021-01-01,direct-recruits,115,01JH038900-1964-07-29,Nagendra Nath Sinha,JH,1964-07-29,1987
@@ -5335,7 +5335,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,129,01MP039600-1961-04-07,Manoj Kr Shrivastava,MP,1961-04-07,1987
 2021-01-01,direct-recruits,130,01HY018600-1961-10-15,Jyoti Arora,HY,1961-10-15,1987
 2021-01-01,direct-recruits,131,01KN027700-1962-04-25,G Kalpana,KN,1962-04-25,1987
-2021-01-01,direct-recruits,132,01UT007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
+2021-01-01,direct-recruits,132,01JK007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
 2021-01-01,direct-recruits,133,01JK007500-1962-10-08,Sudhanshu Pandey,JK,1962-10-08,1987
 2021-01-01,direct-recruits,134,01GJ025900-1965-01-06,Raj Kumar,GJ,1965-01-06,1987
 2021-01-01,direct-recruits,135,01KN027500-1962-02-06,Rajeev Chawla,KN,1962-02-06,1987
@@ -5365,7 +5365,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,159,01UP058701-1961-10-30,Jivesh Nandan,UP,1961-10-30,1987
 2021-01-01,direct-recruits,160,01RJ026800-1963-02-04,Neel Kamal Darbari,RJ,1963-02-04,1987
 2021-01-01,direct-recruits,161,01HY018400-1962-06-30,Amit Jha,HY,1962-06-30,1987
-2021-01-01,direct-recruits,162,01OD023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
+2021-01-01,direct-recruits,162,01OR023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
 2021-01-01,direct-recruits,163,01AM021200-1962-08-02,M C Jauhari,AM,1962-08-02,1987
 2021-01-01,direct-recruits,164,01MP039900-1961-12-07,Pravir Krishna,MP,1961-12-07,1987
 2021-01-01,direct-recruits,165,01UP058000-1963-06-26,Renuka Kumar,UP,1963-06-26,1987
@@ -5375,7 +5375,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,169,01GJ025800-1961-12-12,Rameshwar Prasad Gupta,GJ,1961-12-12,1987
 2021-01-01,direct-recruits,170,01TN031400-1961-10-10,Apurva Varma,TN,1961-10-10,1987
 2021-01-01,direct-recruits,171,01JH039600-1962-10-24,Indu Shekhar Chaturvedi,JH,1962-10-24,1987
-2021-01-01,direct-recruits,172,01OD023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
+2021-01-01,direct-recruits,172,01OR023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
 2021-01-01,direct-recruits,173,01WB032400-1963-12-05,Sunil Kumar Gupta,WB,1963-12-05,1987
 2021-01-01,direct-recruits,174,01UD058300-1962-05-14,Om Prakash,UD,1962-05-14,1987
 2021-01-01,direct-recruits,175,01PB017800-1961-06-02,Viswajeet Khanna,PB,1961-06-02,1987
@@ -5395,7 +5395,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,189,01MP039700-1962-12-20,Sanjay Kumar Singh,MP,1962-12-20,1987
 2021-01-01,direct-recruits,190,01SK003400-1962-03-02,K Jayakumar,SK,1962-03-02,1987
 2021-01-01,direct-recruits,191,01KL017600-1961-10-30,T K Manojkumar,KL,1961-10-30,1987
-2021-01-01,direct-recruits,192,01OD023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
+2021-01-01,direct-recruits,192,01OR023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
 2021-01-01,direct-recruits,193,01MP039400-1962-07-01,Rajesh Kr Chaturvedi,MP,1962-07-01,1987
 2021-01-01,direct-recruits,194,01SK003300-1963-04-25,Arun Kumar Yadav,SK,1963-04-25,1987
 2021-01-01,direct-recruits,195,01TR012300-1961-09-25,Sushil Kumar,TR,1961-09-25,1987
@@ -5425,18 +5425,18 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,219,01BH040700-1962-03-06,Sudhir Kumar,BH,1962-03-06,1988
 2021-01-01,direct-recruits,220,01HY019200-1963-08-31,Rajesh Khullar,HY,1963-08-31,1988
 2021-01-01,direct-recruits,221,01MH038800-1964-09-19,Apurva Chandra,MH,1964-09-19,1988
-2021-01-01,direct-recruits,222,01UT008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
+2021-01-01,direct-recruits,222,01JK008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
 2021-01-01,direct-recruits,223,01KL017700-1964-01-27,Gyanesh Kumar,KL,1964-01-27,1988
 2021-01-01,direct-recruits,224,01UD060000-1964-03-06,Radha Raturi,UD,1964-03-06,1988
 2021-01-01,direct-recruits,225,01GJ026500-1964-01-26,Mukesh Puri,GJ,1964-01-26,1988
 2021-01-01,direct-recruits,226,01RJ027200-1965-12-17,Subodh Agarwal,RJ,1965-12-17,1988
 2021-01-01,direct-recruits,227,01NL004500-1963-08-02,Rajiv Bansal,NL,1963-08-02,1988
-2021-01-01,direct-recruits,228,01OD023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
+2021-01-01,direct-recruits,228,01OR023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
 2021-01-01,direct-recruits,229,01PB018301-1963-10-09,Ravneet Kaur,PB,1963-10-09,1988
 2021-01-01,direct-recruits,230,01MH038701-1963-12-31,Ashish Kumar Singh,MH,1963-12-31,1988
 2021-01-01,direct-recruits,231,01MH039000-1964-03-29,Nitin N Kareer,MH,1964-03-29,1988
 2021-01-01,direct-recruits,232,01HP011500-1964-07-15,Ali Raza Rizvi,HP,1964-07-15,1988
-2021-01-01,direct-recruits,233,01OD023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
+2021-01-01,direct-recruits,233,01OR023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
 2021-01-01,direct-recruits,234,01KN028500-1963-08-18,E V Ramana Reddy,KN,1963-08-18,1988
 2021-01-01,direct-recruits,235,01AP035200-1964-07-01,Poonam Malakondiah,AP,1964-07-01,1988
 2021-01-01,direct-recruits,236,01SK003600-1963-07-09,Upma Srivastava,SK,1963-07-09,1988
@@ -5444,7 +5444,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,238,01KN028100-1962-11-25,M V Jayanthi,KN,1962-11-25,1988
 2021-01-01,direct-recruits,239,01MN012600-1964-06-01,Mamnoon Hasan Khan,MN,1964-06-01,1988
 2021-01-01,direct-recruits,240,01GJ026900-1962-11-26,Anita Karwal,GJ,1962-11-26,1988
-2021-01-01,direct-recruits,241,01UT007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
+2021-01-01,direct-recruits,241,01JK007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
 2021-01-01,direct-recruits,242,01UP059900-1964-06-21,S Radha Chauhan,UP,1964-06-21,1988
 2021-01-01,direct-recruits,243,01MH039200-1963-05-14,Arvind Singh,MH,1963-05-14,1988
 2021-01-01,direct-recruits,244,01UP059400-1963-07-25,Navneet Kumar Sehgal,UP,1963-07-25,1988
@@ -5515,7 +5515,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,309,01AP035700-1963-12-22,Somesh Kumar,AP,1963-12-22,1989
 2021-01-01,direct-recruits,310,01AM022500-1963-11-09,Sameer Kumar Khare,AM,1963-11-09,1989
 2021-01-01,direct-recruits,311,o15137,V. Srinivas,RJ,1966-09-01,1989
-2021-01-01,direct-recruits,312,01UT008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
+2021-01-01,direct-recruits,312,01JK008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
 2021-01-01,direct-recruits,313,o15079,Anurag Jain,MP,1965-08-11,1989
 2021-01-01,direct-recruits,314,01MH039801-1963-09-10,Pradeep Kumar Vyas,MH,1963-09-10,1989
 2021-01-01,direct-recruits,315,01TG035800-1965-04-07,A Santi Kumari,TG,1965-04-07,1989
@@ -5532,7 +5532,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,326,o15125,Sandeep Saxena,TN,1966-04-02,1989
 2021-01-01,direct-recruits,327,01UT019301-1963-01-27,Raajiv Yaduvanshi,UT,1963-01-27,1989
 2021-01-01,direct-recruits,328,01KL018600-1963-06-20,Devendra Kumar Singh,KL,1963-06-20,1989
-2021-01-01,direct-recruits,329,01OD024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
+2021-01-01,direct-recruits,329,01OR024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
 2021-01-01,direct-recruits,330,o15099,Shalini Rajneesh,KN,1967-06-06,1989
 2021-01-01,direct-recruits,331,01KN029000-1964-01-08,Jawaid Akhtar,KN,1964-01-08,1989
 2021-01-01,direct-recruits,332,o15070,Rajendra Kumar,UT,1966-12-16,1989
@@ -5563,7 +5563,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,357,01TN032800-1963-12-03,Md Nasimuddin,TN,1963-12-03,1989
 2021-01-01,direct-recruits,358,o15064,Atri Bhattacharya,WB,1966-04-07,1989
 2021-01-01,direct-recruits,359,01MP041100-1965-05-27,Vinod Kumar,MP,1965-05-27,1989
-2021-01-01,direct-recruits,360,01OD023600-1964-01-25,Vinod Kumar,OD,1964-01-25,1989
+2021-01-01,direct-recruits,360,01OR023600-1964-01-25,Vinod Kumar,OD,1964-01-25,1989
 2021-01-01,direct-recruits,361,01UP061000-1964-12-03,Manoj Singh,UP,1964-12-03,1989
 2021-01-01,direct-recruits,362,01BH041200-1965-06-19,Sujata Chaturvedi,BH,1965-06-19,1989
 2021-01-01,direct-recruits,363,01RJ027500-1964-07-12,Rajeshwar Singh,RJ,1964-07-12,1989
@@ -5604,7 +5604,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,398,01HY019900-1964-12-13,Ankur Gupta,HY,1964-12-13,1990
 2021-01-01,direct-recruits,399,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2021-01-01,direct-recruits,400,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2021-01-01,direct-recruits,401,01UT008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
+2021-01-01,direct-recruits,401,01JK008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
 2021-01-01,direct-recruits,402,01UP061500-1964-09-11,Nitin Ramesh Gokarn,UP,1964-09-11,1990
 2021-01-01,direct-recruits,403,01UP062001-1964-02-11,Sudhir Garg,UP,1964-02-11,1990
 2021-01-01,direct-recruits,404,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
@@ -5683,7 +5683,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,477,01JH041900-1965-06-18,Alok Goyal,JH,1965-06-18,1990
 2021-01-01,direct-recruits,478,o15303,Raju Narayanaswamy,KL,1968-05-24,1991
 2021-01-01,direct-recruits,479,o15273,Manoj Govil,MP,1969-03-20,1991
-2021-01-01,direct-recruits,480,01OD025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
+2021-01-01,direct-recruits,480,01OR025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
 2021-01-01,direct-recruits,481,01HY020600-1965-04-30,Ashok Khemka,HY,1965-04-30,1991
 2021-01-01,direct-recruits,482,o15284,Anu Garg,OD,1969-03-01,1991
 2021-01-01,direct-recruits,483,01TN034100-1965-09-07,T K Ramachandran,TN,1965-09-07,1991
@@ -5695,7 +5695,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,489,o15344,Jayanti S. Ravi,GJ,1967-08-17,1991
 2021-01-01,direct-recruits,490,01TG036800-1963-11-12,Rajat Kumar,TG,1963-11-12,1991
 2021-01-01,direct-recruits,491,01KN030200-1965-01-14,L K Atheeq,KN,1965-01-14,1991
-2021-01-01,direct-recruits,492,01OD024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
+2021-01-01,direct-recruits,492,01OR024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
 2021-01-01,direct-recruits,493,o15315,K Ramakrishna Rao,TG,1965-08-30,1991
 2021-01-01,direct-recruits,494,01MH041100-1962-04-05,Mahesh Dinkar Pathak,MH,1962-04-05,1991
 2021-01-01,direct-recruits,495,01TG037000-1962-07-18,Harpreet Singh,TG,1962-07-18,1991
@@ -5719,7 +5719,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,513,o15322,N Muruganandam,TN,1967-12-23,1991
 2021-01-01,direct-recruits,514,o15357,Rajit Punhani,BH,1967-07-01,1991
 2021-01-01,direct-recruits,515,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2021-01-01,direct-recruits,516,01UT008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
+2021-01-01,direct-recruits,516,01JK008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
 2021-01-01,direct-recruits,517,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2021-01-01,direct-recruits,518,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2021-01-01,direct-recruits,519,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -5748,7 +5748,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,542,o15265,Puneet Kumar Goel,UT,1966-08-03,1991
 2021-01-01,direct-recruits,543,o15354,Ram Prakash Sisodia,AP,1968-01-24,1991
 2021-01-01,direct-recruits,544,01HY020900-1964-06-01,Shrikant Walgad,HY,1964-06-01,1991
-2021-01-01,direct-recruits,545,01OD025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
+2021-01-01,direct-recruits,545,01OR025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
 2021-01-01,direct-recruits,546,o15342,G Anupama,HY,1967-11-07,1991
 2021-01-01,direct-recruits,547,o15276,Manu Shrivastava,MP,1967-09-06,1991
 2021-01-01,direct-recruits,548,o15340,Apoorva Kumar Singh,HY,1967-10-24,1991
@@ -5829,7 +5829,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,623,o15433,V L Kantha Rao,MP,1967-12-05,1992
 2021-01-01,direct-recruits,624,01BH044100-1964-11-29,Ravi Manubhai Parmar,BH,1964-11-29,1992
 2021-01-01,direct-recruits,625,01MP043601-1964-02-02,Kalpana Shrivastava,MP,1964-02-02,1992
-2021-01-01,direct-recruits,626,01UT008800-1964-07-30,A. K. Parmar,JK,1964-07-30,1992
+2021-01-01,direct-recruits,626,01JK008800-1964-07-30,A. K. Parmar,JK,1964-07-30,1992
 2021-01-01,direct-recruits,627,01UT021500-1965-08-23,Sanjiv Kumar,UT,1965-08-23,1992
 2021-01-01,direct-recruits,628,o15371,Shamsheer Singh Rawat,AP,1969-12-20,1992
 2021-01-01,direct-recruits,629,01MH041800-1963-11-23,Bipin Chandra Punambhai,MH,1963-11-23,1992
@@ -5896,7 +5896,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,690,o15498,Veena Kumari Meena,UP,1967-06-02,1993
 2021-01-01,direct-recruits,691,o15501,Nagaraju Maddirala,TR,1966-05-24,1993
 2021-01-01,direct-recruits,692,o15495,Davendra Kr Dhodawat,KL,1967-02-02,1993
-2021-01-01,direct-recruits,693,01UT008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
+2021-01-01,direct-recruits,693,01JK008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
 2021-01-01,direct-recruits,694,01JH044801-1964-07-01,Surendra Singh,JH,1964-07-01,1993
 2021-01-01,direct-recruits,695,o15482,Surendra Kumar Bagde,MH,1969-03-19,1993
 2021-01-01,direct-recruits,696,01AM024400-1965-09-04,Donald Phillips Wahlang,AM,1965-09-04,1993
@@ -6310,7 +6310,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,1104,o16140,Sunil Kumar,JH,1970-06-02,1999
 2021-01-01,direct-recruits,1105,o16114,Ashok Kumar Singh,KL,1969-08-25,1999
 2021-01-01,direct-recruits,1106,o16128,Dev Raj Dev,TN,1973-01-21,1999
-2021-01-01,direct-recruits,1107,01JK009701-1970-05-09,Sarita Chauhan,JK,1970-05-09,1999
+2021-01-01,direct-recruits,1107,o16117,Sarita Chauhan,JK,1970-05-09,1999
 2021-01-01,direct-recruits,1108,o16217,Sorabh Babu,UP,1976-11-10,2000
 2021-01-01,direct-recruits,1109,01TN039401-1971-09-12,Santosh K. Misra,TN,1971-09-12,2000
 2021-01-01,direct-recruits,1110,o16199,Manju Rajpal,RJ,1972-06-01,2000
@@ -6324,7 +6324,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,1118,o16184,Pooja Singhal,JH,1978-07-07,2000
 2021-01-01,direct-recruits,1119,o16283,Santanu Basu,WB,1974-09-11,2000
 2021-01-01,direct-recruits,1120,o16166,Diwakar Nath Misra,AM,1974-07-31,2000
-2021-01-01,direct-recruits,1121,01OD027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
+2021-01-01,direct-recruits,1121,01OR027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
 2021-01-01,direct-recruits,1122,o16160,Prem Singh Meena,BH,1976-04-10,2000
 2021-01-01,direct-recruits,1123,o16228,Anand Singh,KL,1974-01-01,2000
 2021-01-01,direct-recruits,1124,o16202,Alaknanda Dayal,PB,1975-06-13,2000
@@ -6356,7 +6356,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,1150,o16208,Anil Meshram,TN,1971-07-18,2000
 2021-01-01,direct-recruits,1151,o16221,Dhanalakshmi K.,UP,1972-11-27,2000
 2021-01-01,direct-recruits,1152,o16235,Niranjan Kr. Sudhansu,MH,1975-07-26,2000
-2021-01-01,direct-recruits,1153,01OD027700-1974-04-01,Manish Kumar Verma,OD,1974-04-01,2000
+2021-01-01,direct-recruits,1153,01OR027700-1974-04-01,Manish Kumar Verma,OD,1974-04-01,2000
 2021-01-01,direct-recruits,1154,o16274,Madhup Vyas,UT,1974-12-09,2000
 2021-01-01,direct-recruits,1155,o16222,Ranjan Kumar,UP,1976-08-12,2000
 2021-01-01,direct-recruits,1156,o16223,Anurag Yadav,UP,1975-01-16,2000
@@ -6852,7 +6852,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,1646,o17408,Jai Singh,BH,1977-02-01,2007
 2021-01-01,direct-recruits,1647,o17391,Remya M. Moothadath,GJ,1980-04-14,2007
 2021-01-01,direct-recruits,1648,o17393,Dilip Kumar Bhuraram Rana,GJ,1978-04-10,2007
-2021-01-01,direct-recruits,1649,01JK010900-1982-11-28,Yasha Mudgil,JK,1982-11-28,2007
+2021-01-01,direct-recruits,1649,o17336,Yasha Mudgil,JK,1982-11-28,2007
 2021-01-01,direct-recruits,1650,o17369,Parveen Kumar Thind,PB,1980-04-21,2007
 2021-01-01,direct-recruits,1651,o17321,Nagargoje M Bibhishan,MP,1983-06-04,2007
 2021-01-01,direct-recruits,1652,o17402,Shainamol A,HP,1982-05-11,2007
@@ -8324,7 +8324,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,3118,o33184,Kumar Tarachand,JH,1984-04-17,2017
 2021-01-01,direct-recruits,3119,o33216,Keerthishree G,JH,1991-04-20,2017
 2021-01-01,direct-recruits,3120,o33210,Bilal Mohi Ud Din Bhat,JK,1985-11-01,2017
-2021-01-01,direct-recruits,3121,01JK116I02-1993-09-01,Santosh Sukhadeve,JK,1993-09-01,2017
+2021-01-01,direct-recruits,3121,o33251,Santosh Sukhadeve,JK,1993-09-01,2017
 2021-01-01,direct-recruits,3122,o33220,Priyanka G,KL,1990-03-12,2017
 2021-01-01,direct-recruits,3123,o33315,Vikalp Bharadwaj,KL,1993-02-06,2017
 2021-01-01,direct-recruits,3124,o33253,Patil Pranjal Lahensingh,UT,1988-04-01,2017
@@ -8798,7 +8798,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,direct-recruits,3592,o37809,Wankhede Archana,WB,1983-01-09,2019
 2021-01-01,direct-recruits,3593,o37810,Katta Simhachalam,AP,1989-05-16,2019
 2021-01-01,direct-recruits,3594,o37811,Balpreet Singh,KL,1989-07-11,2019
-2021-01-01,direct-recruits,3595,01TR118Z04-1992-12-16,B Vaishnavi,TR,1992-12-16,2019
+2021-01-01,direct-recruits,3595,o37812,B Vaishnavi,TR,1992-12-16,2019
 2021-01-01,direct-recruits,3596,o37813,Lalitaditya Neelam,CG,1994-03-16,2019
 2021-01-01,direct-recruits,3597,o37814,Vikas Marmat,AP,1996-03-25,2019
 2021-01-01,direct-recruits,3598,o37815,Birathiviraj M,TN,1994-08-11,2019
@@ -9111,10 +9111,10 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,118,01UP812112-1961-04-22,Priti Shukla,UP,1961-04-22,2003
 2021-01-01,promotion-quota,119,01UP812113-1961-01-14,Satyendra Kumar Singh,UP,1961-01-14,2003
 2021-01-01,promotion-quota,120,01AP907101-1962-02-01,P. Lakshmi Narasimham,AP,1962-02-01,2003
-2021-01-01,promotion-quota,121,01OD909001-1961-09-15,Anil Kumar Samal,OD,1961-09-15,2003
-2021-01-01,promotion-quota,122,01OD909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
+2021-01-01,promotion-quota,121,01OR909001-1961-09-15,Anil Kumar Samal,OD,1961-09-15,2003
+2021-01-01,promotion-quota,122,01OR909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
 2021-01-01,promotion-quota,123,o13837,Y. Kikheto Sema,NL,1967-01-01,2003
-2021-01-01,promotion-quota,124,01OD910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
+2021-01-01,promotion-quota,124,01OR910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
 2021-01-01,promotion-quota,125,01RJ910005-1962-08-15,Veena Pradhan,RJ,1962-08-15,2003
 2021-01-01,promotion-quota,126,01RJ911005-1962-07-01,Rajesh Sharma,RJ,1962-07-01,2003
 2021-01-01,promotion-quota,127,o17035,E. Sridhar,TG,1968-05-28,2004
@@ -9178,7 +9178,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,185,01WB812112-1962-07-18,Soma Bhattacharjee Basu,WB,1962-07-18,2004
 2021-01-01,promotion-quota,186,01WB812114-1962-12-18,Pradip G Chaudhuri,WB,1962-12-18,2004
 2021-01-01,promotion-quota,187,01UP812115-1962-06-01,Virendra Kumar Singh,UP,1962-06-01,2004
-2021-01-01,promotion-quota,188,01OD813104-1961-01-20,Niranjan Sahu,OD,1961-01-20,2004
+2021-01-01,promotion-quota,188,01OR813104-1961-01-20,Niranjan Sahu,OD,1961-01-20,2004
 2021-01-01,promotion-quota,189,01AM813211-1961-10-17,Monalisa Goswami,AM,1961-10-17,2004
 2021-01-01,promotion-quota,190,01GJ908001-1964-01-13,M. A. Gandhi,GJ,1964-01-13,2004
 2021-01-01,promotion-quota,191,01KL908001-1965-04-20,Biju Prabhakar,KL,1965-04-20,2004
@@ -9269,18 +9269,18 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,276,01AM814002-1961-09-12,Shella N Marak,AM,1961-09-12,2005
 2021-01-01,promotion-quota,277,01AM814003-1962-05-09,Merilyn Nellie Nampui,AM,1962-05-09,2005
 2021-01-01,promotion-quota,278,01RJ814303-1962-07-05,Suresh Chand Gupta,RJ,1962-07-05,2005
-2021-01-01,promotion-quota,279,01OD814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
+2021-01-01,promotion-quota,279,01OR814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
 2021-01-01,promotion-quota,280,01RJ814304-1963-04-26,Vinita Srivastava,RJ,1963-04-26,2005
 2021-01-01,promotion-quota,281,01RJ814305-1962-12-05,Dinesh Kumar Yadav,RJ,1962-12-05,2005
 2021-01-01,promotion-quota,282,01OD814305-1961-07-04,Prafulla Chandra Pradhan,OD,1961-07-04,2005
 2021-01-01,promotion-quota,283,01SK814305-1964-07-15,Yashoda Bhandari,SK,1964-07-15,2005
 2021-01-01,promotion-quota,284,01OD814308-1961-05-02,Anjan Kumar Manik,OD,1961-05-02,2005
-2021-01-01,promotion-quota,285,01OD814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
+2021-01-01,promotion-quota,285,01OR814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
 2021-01-01,promotion-quota,286,01RJ815305-1963-11-21,Jitendra Kumar Upadhyaya,RJ,1963-11-21,2005
 2021-01-01,promotion-quota,287,01HY909101-1961-04-08,Satyavir Singh Phulia,HY,1961-04-08,2005
 2021-01-01,promotion-quota,288,01KL909002-1961-05-14,V. Ratheesan,KL,1961-05-14,2005
 2021-01-01,promotion-quota,289,01TN911006-1964-10-20,L. Subramanian,TN,1964-10-20,2005
-2021-01-01,promotion-quota,290,01OD913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
+2021-01-01,promotion-quota,290,01OR913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
 2021-01-01,promotion-quota,291,01OD94A301-1961-02-01,Debendra Kumar Jena,OD,1961-02-01,2005
 2021-01-01,promotion-quota,292,01JH914301-1963-01-05,Jata Shankar Choudhary,JH,1963-01-05,2005
 2021-01-01,promotion-quota,293,01WB914301-1962-05-21,Arun Prasad Sen,WB,1962-05-21,2005
@@ -9331,7 +9331,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,338,01UP813113-1962-01-17,Rajendra Pratap Pandey,UP,1962-01-17,2006
 2021-01-01,promotion-quota,339,01UP813114-1965-08-31,Shahid M Abbas Rizvi,UP,1961-08-31,2006
 2021-01-01,promotion-quota,340,01UP813115-1961-08-21,Shafakat Kamal,UP,1961-08-21,2006
-2021-01-01,promotion-quota,341,01UD813116-1964-10-05,Vijay Kumar Yadav,UP,1964-10-05,2006
+2021-01-01,promotion-quota,341,01UP813116-1964-10-05,Vijay Kumar Yadav,UP,1964-10-05,2006
 2021-01-01,promotion-quota,342,01UP813117-1963-02-15,Shakuntla Gautam,UP,1963-02-15,2006
 2021-01-01,promotion-quota,343,01AM814405-1961-02-27,Devola Devi Das,AM,1961-02-27,2006
 2021-01-01,promotion-quota,344,01AM814413-1961-11-29,Ruby Borah,AM,1961-11-29,2006
@@ -9350,13 +9350,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,357,01WB814309-1964-06-17,Gholam H O Rahman,WB,1964-06-17,2006
 2021-01-01,promotion-quota,358,01BH814009-1961-01-15,Abhay Raj,BH,1961-01-15,2006
 2021-01-01,promotion-quota,359,01BH814010-1961-02-27,Mithilesh Kumar,BH,1961-02-27,2006
-2021-01-01,promotion-quota,360,01OD814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
+2021-01-01,promotion-quota,360,01OR814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
 2021-01-01,promotion-quota,361,01BH814013-1961-04-05,Arshad Aziz,BH,1961-04-05,2006
-2021-01-01,promotion-quota,362,01OD814014-1961-06-17,Rabindra Kumar Mishra,OD,1961-06-17,2006
+2021-01-01,promotion-quota,362,01OR814014-1961-06-17,Rabindra Kumar Mishra,OD,1961-06-17,2006
 2021-01-01,promotion-quota,363,01BH814015-1962-01-24,Harendra Nath Dubey,BH,1962-01-24,2006
 2021-01-01,promotion-quota,364,01BH814016-1961-02-19,Ishwar Chandra Sinha,BH,1961-02-19,2006
 2021-01-01,promotion-quota,365,01BH814017-1961-03-01,Surendra Jha,BH,1961-03-01,2006
-2021-01-01,promotion-quota,366,01OD814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
+2021-01-01,promotion-quota,366,01OR814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
 2021-01-01,promotion-quota,367,01BH814018-1962-12-28,Gorakh Nath,BH,1962-12-28,2006
 2021-01-01,promotion-quota,368,01NL815301-1963-11-12,Asenla Keitzar,NL,1963-11-12,2006
 2021-01-01,promotion-quota,369,01WB815301-1963-03-06,Atonu Chatterjee,WB,1963-03-06,2006
@@ -9443,7 +9443,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,450,01BH815007-1963-02-07,Vijay Kumar,BH,1963-02-07,2007
 2021-01-01,promotion-quota,451,01WB815308-1965-03-12,Debashis Das,WB,1965-03-12,2007
 2021-01-01,promotion-quota,452,01WB815309-1964-03-28,Probhudutta D Pradhan,WB,1964-03-28,2007
-2021-01-01,promotion-quota,453,01OD815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
+2021-01-01,promotion-quota,453,01OR815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
 2021-01-01,promotion-quota,454,01WB816001-1964-04-10,Ajoy Sanyamath,WB,1964-04-10,2007
 2021-01-01,promotion-quota,455,01AM816201-1961-01-02,Monoranjan Dutta,AM,1961-01-02,2007
 2021-01-01,promotion-quota,456,01TR816001-1963-01-03,Satyajit Sarkar,TR,1963-01-03,2007
@@ -9455,17 +9455,17 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,462,01WB816003-1964-11-04,Biswajit Dutta,WB,1964-11-04,2007
 2021-01-01,promotion-quota,463,01AM816203-1962-10-12,Neera Gogoi Sonowal,AM,1962-10-12,2007
 2021-01-01,promotion-quota,464,01WB816004-1965-12-25,Subhra Chakrabarti,WB,1965-12-25,2007
-2021-01-01,promotion-quota,465,01OD816004-1961-04-18,Rasid Khan,OD,1961-04-18,2007
+2021-01-01,promotion-quota,465,01OR816004-1961-04-18,Rasid Khan,OD,1961-04-18,2007
 2021-01-01,promotion-quota,466,01RJ816005-1962-05-22,Rakesh Kumar Jaiswal,RJ,1962-05-22,2007
 2021-01-01,promotion-quota,467,01AM816205-1961-01-02,Robinson Mochahari,AM,1961-01-02,2007
 2021-01-01,promotion-quota,468,01RJ816006-1962-06-01,Indra Singh,RJ,1962-06-01,2007
-2021-01-01,promotion-quota,469,01OD816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
+2021-01-01,promotion-quota,469,01OR816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
 2021-01-01,promotion-quota,470,01BH816006-1961-01-06,Arun Kumar,BH,1961-01-06,2007
 2021-01-01,promotion-quota,471,01BH816007-1962-12-18,Ram Anugrah Narayan,BH,1962-12-18,2007
-2021-01-01,promotion-quota,472,01OD816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
+2021-01-01,promotion-quota,472,01OR816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
 2021-01-01,promotion-quota,473,01RJ816007-1961-07-15,Veerendra Singh Bankawat,RJ,1961-07-15,2007
 2021-01-01,promotion-quota,474,01RJ816008-1963-09-12,Yagya Mitra Singhdeo,RJ,1963-09-12,2007
-2021-01-01,promotion-quota,475,01OD816008-1961-05-20,Susanta Mohapatra,OD,1961-05-20,2007
+2021-01-01,promotion-quota,475,01OR816008-1961-05-20,Susanta Mohapatra,OD,1961-05-20,2007
 2021-01-01,promotion-quota,476,01BH816008-1962-01-02,Om Prakash Pal,BH,1962-01-02,2007
 2021-01-01,promotion-quota,477,01RJ816009-1963-12-12,Chauthi Ram Meena,RJ,1963-12-12,2007
 2021-01-01,promotion-quota,478,01BH816010-1960-12-28,Nivedita Roy,BH,1960-12-28,2007
@@ -9579,17 +9579,17 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,586,01BH816015-1963-01-19,Satish Kumar Sharma,BH,1963-01-19,2008
 2021-01-01,promotion-quota,587,01BH817001-1961-01-26,Pankaj Patel,BH,1961-01-26,2008
 2021-01-01,promotion-quota,588,01WB817001-1963-01-05,Tarun Kumar,WB,1963-01-05,2008
-2021-01-01,promotion-quota,589,01OD817001-1961-02-07,Maguni Charan Patra,OD,1961-02-07,2008
+2021-01-01,promotion-quota,589,01OR817001-1961-02-07,Maguni Charan Patra,OD,1961-02-07,2008
 2021-01-01,promotion-quota,590,o37102,Dipankar Chowdhury,WB,1966-06-22,2008
 2021-01-01,promotion-quota,591,01RJ817002-1964-08-19,Mohan Lal Yadav,RJ,1964-08-19,2008
-2021-01-01,promotion-quota,592,01OD817002-1961-03-25,Brundaban Behera,OD,1961-03-25,2008
+2021-01-01,promotion-quota,592,01OR817002-1961-03-25,Brundaban Behera,OD,1961-03-25,2008
 2021-01-01,promotion-quota,593,01NL817001-1964-05-07,Anenla T Sato,NL,1964-05-07,2008
 2021-01-01,promotion-quota,594,01BH817002-1961-05-11,Manoj Kumar Jha,BH,1961-05-11,2008
 2021-01-01,promotion-quota,595,01BH817003-1961-03-01,Kritya Nand Singh,BH,1961-03-01,2008
 2021-01-01,promotion-quota,596,01RJ817003-1962-10-01,Kunj Bihari Pandya,RJ,1962-10-01,2008
 2021-01-01,promotion-quota,597,01WB817003-1961-05-07,Rabindra Nath Sarkar,WB,1961-05-07,2008
-2021-01-01,promotion-quota,598,01OD817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
-2021-01-01,promotion-quota,599,01OD817004-1961-04-20,Gangadhar Patra,OD,1961-04-20,2008
+2021-01-01,promotion-quota,598,01OR817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
+2021-01-01,promotion-quota,599,01OR817004-1961-04-20,Gangadhar Patra,OD,1961-04-20,2008
 2021-01-01,promotion-quota,600,01WB817004-1964-01-25,Esha Sengupta,WB,1964-01-25,2008
 2021-01-01,promotion-quota,601,01RJ817004-1965-10-02,Mahendra Soni,RJ,1965-10-02,2008
 2021-01-01,promotion-quota,602,01AM817104-1962-12-15,Atika Sultana,AM,1962-12-15,2008
@@ -9599,13 +9599,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,606,01RJ817005-1965-02-08,Vijay Pal Singh,RJ,1965-02-08,2008
 2021-01-01,promotion-quota,607,o37093,Sarmistha Das,WB,1967-06-16,2008
 2021-01-01,promotion-quota,608,01WB817006-1965-03-03,Nilanjan Sandilya,WB,1965-03-03,2008
-2021-01-01,promotion-quota,609,01OD817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
+2021-01-01,promotion-quota,609,01OR817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
 2021-01-01,promotion-quota,610,01RJ817006-1965-06-13,Shelly Kishnani,RJ,1965-06-13,2008
 2021-01-01,promotion-quota,611,01AM817106-1962-12-01,Deepak Majumdar,AM,1962-12-01,2008
 2021-01-01,promotion-quota,612,01BH817006-1962-11-12,Rishideo Jha,BH,1962-11-12,2008
 2021-01-01,promotion-quota,613,01BH817007-1962-02-19,Sanjay Kumar Singh,BH,1962-02-19,2008
 2021-01-01,promotion-quota,614,01RJ817007-1961-06-30,Kishor Kumar Sharma,RJ,1961-06-30,2008
-2021-01-01,promotion-quota,615,01OD817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
+2021-01-01,promotion-quota,615,01OR817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
 2021-01-01,promotion-quota,616,o37050,Soumya Purkait,WB,1967-12-25,2008
 2021-01-01,promotion-quota,617,o37051,Dipika Sanyamath,WB,1967-12-16,2008
 2021-01-01,promotion-quota,618,01RJ817008-1965-05-28,Sushma Arora,RJ,1965-05-28,2008
@@ -9784,17 +9784,17 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2021-01-01,promotion-quota,791,01OD818003-1963-05-12,Susanta Kumar Barik,OD,1963-05-12,2009
 2021-01-01,promotion-quota,792,01AM818103-1962-03-02,Devajyoti Hazarika,AM,1962-03-02,2009
 2021-01-01,promotion-quota,793,01AM818104-1962-11-09,Seema Rekha Bhuyan,AM,1962-11-09,2009
-2021-01-01,promotion-quota,794,01OD818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
+2021-01-01,promotion-quota,794,01OR818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
 2021-01-01,promotion-quota,795,01NL818004-1965-10-11,Kenilo Apon,NL,1965-10-11,2009
 2021-01-01,promotion-quota,796,01WB818004-1964-07-02,Pranita Shewa Nee Pariyar,WB,1964-07-02,2009
 2021-01-01,promotion-quota,797,01RJ818004-1962-05-05,Aradhana Saxena,RJ,1962-05-05,2009
 2021-01-01,promotion-quota,798,01RJ818005-1964-12-19,Ghanendra Bhan,RJ,1964-12-19,2009
-2021-01-01,promotion-quota,799,01OD818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
-2021-01-01,promotion-quota,800,01OD818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
+2021-01-01,promotion-quota,799,01OR818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
+2021-01-01,promotion-quota,800,01OR818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
 2021-01-01,promotion-quota,801,01RJ818006-1964-10-10,Karan Singh,RJ,1964-10-10,2009
 2021-01-01,promotion-quota,802,01RJ818007-1964-03-01,Parmeshwar Lal,RJ,1964-03-01,2009
 2021-01-01,promotion-quota,803,01OD818007-1962-06-12,Ramakrishna Sahoo,OD,1962-06-12,2009
-2021-01-01,promotion-quota,804,01OD818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
+2021-01-01,promotion-quota,804,01OR818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
 2021-01-01,promotion-quota,805,01RJ818008-1962-03-20,Mahavir Prasad Verma,RJ,1962-03-20,2009
 2021-01-01,promotion-quota,806,o37567,Vishram Meena,RJ,1968-12-10,2009
 2021-01-01,promotion-quota,807,01OD818009-1962-05-06,Chitaranjan Mohanty,OD,1962-05-06,2009
@@ -10462,7 +10462,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,25,01KN026700-1963-11-10,Vandita Sharma,KN,1963-11-10,1986
 2022-01-01,direct-recruits,26,01MP038600-1962-10-16,Anil Kumar Jain,MP,1962-10-16,1986
 2022-01-01,direct-recruits,27,01MH037100-1962-02-06,Debashish Chakrabarty,MH,1962-02-06,1986
-2022-01-01,direct-recruits,28,01OD022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
+2022-01-01,direct-recruits,28,01OR022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
 2022-01-01,direct-recruits,29,01UP056700-1962-09-22,Alok Tandon,UP,1962-09-22,1986
 2022-01-01,direct-recruits,30,01KN027301-1963-06-15,I S N Prasad,KN,1963-06-15,1986
 2022-01-01,direct-recruits,31,01HY018202-1964-07-07,Sanjeev Kaushal,HY,1964-07-07,1986
@@ -10471,7 +10471,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,34,01UP056600-1962-04-16,Alok Sinha,UP,1962-04-16,1986
 2022-01-01,direct-recruits,35,01UP056800-1962-04-30,Mukul Singhal,UP,1962-04-30,1986
 2022-01-01,direct-recruits,36,01GJ025400-1962-05-06,Pankaj Kumar,GJ,1962-05-06,1986
-2022-01-01,direct-recruits,37,01OD022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
+2022-01-01,direct-recruits,37,01OR022901-1962-10-04,G V Venugopala Sarma,OD,1962-10-04,1986
 2022-01-01,direct-recruits,38,01HY017800-1962-08-12,Pranab Kishore Das,HY,1962-08-12,1986
 2022-01-01,direct-recruits,39,01SK003100-1962-08-21,Suresh Chandra Gupta,SK,1962-08-21,1986
 2022-01-01,direct-recruits,40,01UT017800-1962-02-04,Manoj Kumar Parida,UT,1962-02-04,1986
@@ -10484,7 +10484,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,47,01WB031600-1962-06-26,Arun Mishra,WB,1962-06-26,1986
 2022-01-01,direct-recruits,48,01UP057100-1962-04-07,Prabhat Kumar Sarangi,UP,1962-04-07,1986
 2022-01-01,direct-recruits,49,01TN030600-1964-05-30,Hans Raj Verma,TN,1964-05-30,1986
-2022-01-01,direct-recruits,50,01OD022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
+2022-01-01,direct-recruits,50,01OR022900-1963-03-29,Sudershan Pal Thakur,OD,1963-03-29,1986
 2022-01-01,direct-recruits,51,01BH038700-1964-04-10,Amir Subhani,BH,1964-04-10,1987
 2022-01-01,direct-recruits,52,o14910,T. V Somanathan,TN,1965-05-10,1987
 2022-01-01,direct-recruits,53,01JH038900-1964-07-29,Nagendra Nath Sinha,JH,1964-07-29,1987
@@ -10499,7 +10499,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,62,01WB032300-1963-07-20,Talleen Kumar,WB,1963-07-20,1987
 2022-01-01,direct-recruits,63,01AP034600-1964-06-05,Neerabh Kumar Prasad,AP,1964-06-05,1987
 2022-01-01,direct-recruits,64,01KN027700-1962-04-25,G Kalpana,KN,1962-04-25,1987
-2022-01-01,direct-recruits,65,01UT007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
+2022-01-01,direct-recruits,65,01JK007600-1964-06-18,Pradip Kumar Tripathi,JK,1964-06-18,1987
 2022-01-01,direct-recruits,66,01JK007500-1962-10-08,Sudhanshu Pandey,JK,1962-10-08,1987
 2022-01-01,direct-recruits,67,01GJ025900-1965-01-06,Raj Kumar,GJ,1965-01-06,1987
 2022-01-01,direct-recruits,68,01KN027500-1962-02-06,Rajeev Chawla,KN,1962-02-06,1987
@@ -10522,13 +10522,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,85,01UT018400-1963-11-18,Naresh Kumar,UT,1963-11-18,1987
 2022-01-01,direct-recruits,86,01RJ026800-1963-02-04,Neel Kamal Darbari,RJ,1963-02-04,1987
 2022-01-01,direct-recruits,87,01HY018400-1962-06-30,Amit Jha,HY,1962-06-30,1987
-2022-01-01,direct-recruits,88,01OD023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
+2022-01-01,direct-recruits,88,01OR023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
 2022-01-01,direct-recruits,89,01AM021200-1962-08-02,M C Jauhari,AM,1962-08-02,1987
 2022-01-01,direct-recruits,90,01UP058000-1963-06-26,Renuka Kumar,UP,1963-06-26,1987
 2022-01-01,direct-recruits,91,01BH039500-1963-07-31,Rajesh Bhushan,BH,1963-07-31,1987
 2022-01-01,direct-recruits,92,01HP011101-1964-11-02,Nisha Singh,HP,1964-11-02,1987
 2022-01-01,direct-recruits,93,01JH039600-1962-10-24,Indu Shekhar Chaturvedi,JH,1962-10-24,1987
-2022-01-01,direct-recruits,94,01OD023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
+2022-01-01,direct-recruits,94,01OR023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
 2022-01-01,direct-recruits,95,01WB032400-1963-12-05,Sunil Kumar Gupta,WB,1963-12-05,1987
 2022-01-01,direct-recruits,96,01UD058300-1962-05-14,Om Prakash,UD,1962-05-14,1987
 2022-01-01,direct-recruits,97,01UP058200-1962-01-05,Debasish Panda,UP,1962-01-05,1987
@@ -10539,7 +10539,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,102,01JH039400-1964-03-05,Sukhdeo Singh,JH,1964-03-05,1987
 2022-01-01,direct-recruits,103,01MP039700-1962-12-20,Sanjay Kumar Singh,MP,1962-12-20,1987
 2022-01-01,direct-recruits,104,01SK003400-1962-03-02,K Jayakumar,SK,1962-03-02,1987
-2022-01-01,direct-recruits,105,01OD023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
+2022-01-01,direct-recruits,105,01OR023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
 2022-01-01,direct-recruits,106,01MP039400-1962-07-01,Rajesh Kr Chaturvedi,MP,1962-07-01,1987
 2022-01-01,direct-recruits,107,01SK003300-1963-04-25,Arun Kumar Yadav,SK,1963-04-25,1987
 2022-01-01,direct-recruits,108,01UT018500-1963-03-08,Vijay Kumar Dev,UT,1963-03-08,1987
@@ -10567,18 +10567,18 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,130,01BH040700-1962-03-06,Sudhir Kumar,BH,1962-03-06,1988
 2022-01-01,direct-recruits,131,01HY019200-1963-08-31,Rajesh Khullar,HY,1963-08-31,1988
 2022-01-01,direct-recruits,132,01MH038800-1964-09-19,Apurva Chandra,MH,1964-09-19,1988
-2022-01-01,direct-recruits,133,01UT008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
+2022-01-01,direct-recruits,133,01JK008000-1963-07-22,Sundeep Kumar Nayak,JK,1963-07-22,1988
 2022-01-01,direct-recruits,134,01KL017700-1964-01-27,Gyanesh Kumar,KL,1964-01-27,1988
 2022-01-01,direct-recruits,135,01UD060000-1964-03-06,Radha Raturi,UD,1964-03-06,1988
 2022-01-01,direct-recruits,136,01GJ026500-1964-01-26,Mukesh Puri,GJ,1964-01-26,1988
 2022-01-01,direct-recruits,137,01RJ027200-1965-12-17,Subodh Agarwal,RJ,1965-12-17,1988
 2022-01-01,direct-recruits,138,01NL004500-1963-08-02,Rajiv Bansal,NL,1963-08-02,1988
-2022-01-01,direct-recruits,139,01OD023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
+2022-01-01,direct-recruits,139,01OR023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
 2022-01-01,direct-recruits,140,01PB018301-1963-10-09,Ravneet Kaur,PB,1963-10-09,1988
 2022-01-01,direct-recruits,141,01MH038701-1963-12-31,Ashish Kumar Singh,MH,1963-12-31,1988
 2022-01-01,direct-recruits,142,01MH039000-1964-03-29,Nitin N Kareer,MH,1964-03-29,1988
 2022-01-01,direct-recruits,143,01HP011500-1964-07-15,Ali Raza Rizvi,HP,1964-07-15,1988
-2022-01-01,direct-recruits,144,01OD023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
+2022-01-01,direct-recruits,144,01OR023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
 2022-01-01,direct-recruits,145,01KN028500-1963-08-18,E V Ramana Reddy,KN,1963-08-18,1988
 2022-01-01,direct-recruits,146,01AP035200-1964-07-01,Poonam Malakondiah,AP,1964-07-01,1988
 2022-01-01,direct-recruits,147,01SK003600-1963-07-09,Upma Srivastava,SK,1963-07-09,1988
@@ -10586,7 +10586,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,149,01KN028100-1962-11-25,M V Jayanthi,KN,1962-11-25,1988
 2022-01-01,direct-recruits,150,01MN012600-1964-06-01,Mamnoon Hasan Khan,MN,1964-06-01,1988
 2022-01-01,direct-recruits,151,01GJ026900-1962-11-26,Anita Karwal,GJ,1962-11-26,1988
-2022-01-01,direct-recruits,152,01UT007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
+2022-01-01,direct-recruits,152,01JK007900-1963-12-01,Arun Kumar Mehta,JK,1963-12-01,1988
 2022-01-01,direct-recruits,153,01UP059900-1964-06-21,S Radha Chauhan,UP,1964-06-21,1988
 2022-01-01,direct-recruits,154,01MH039200-1963-05-14,Arvind Singh,MH,1963-05-14,1988
 2022-01-01,direct-recruits,155,01UP059400-1963-07-25,Navneet Kumar Sehgal,UP,1963-07-25,1988
@@ -10652,7 +10652,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,215,01AP035700-1963-12-22,Somesh Kumar,AP,1963-12-22,1989
 2022-01-01,direct-recruits,216,01AM022500-1963-11-09,Sameer Kumar Khare,AM,1963-11-09,1989
 2022-01-01,direct-recruits,217,o15137,V. Srinivas,RJ,1966-09-01,1989
-2022-01-01,direct-recruits,218,01UT008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
+2022-01-01,direct-recruits,218,01JK008100-1965-06-14,Umang Narula,JK,1965-06-14,1989
 2022-01-01,direct-recruits,219,o15079,Anurag Jain,MP,1965-08-11,1989
 2022-01-01,direct-recruits,220,01MH039801-1963-09-10,Pradeep Kumar Vyas,MH,1963-09-10,1989
 2022-01-01,direct-recruits,221,01TG035800-1965-04-07,A Santi Kumari,TG,1965-04-07,1989
@@ -10669,7 +10669,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,232,o15125,Sandeep Saxena,TN,1966-04-02,1989
 2022-01-01,direct-recruits,233,01UT019301-1963-01-27,Raajiv Yaduvanshi,UT,1963-01-27,1989
 2022-01-01,direct-recruits,234,01KL018600-1963-06-20,Devendra Kumar Singh,KL,1963-06-20,1989
-2022-01-01,direct-recruits,235,01OD024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
+2022-01-01,direct-recruits,235,01OR024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
 2022-01-01,direct-recruits,236,o15099,Shalini Rajneesh,KN,1967-06-06,1989
 2022-01-01,direct-recruits,237,01KN029000-1964-01-08,Jawaid Akhtar,KN,1964-01-08,1989
 2022-01-01,direct-recruits,238,o15070,Rajendra Kumar,UT,1966-12-16,1989
@@ -10738,7 +10738,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,301,01HY019900-1964-12-13,Ankur Gupta,HY,1964-12-13,1990
 2022-01-01,direct-recruits,302,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2022-01-01,direct-recruits,303,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2022-01-01,direct-recruits,304,01UT008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
+2022-01-01,direct-recruits,304,01JK008300-1965-08-10,Raj Kumar Goyal,JK,1965-08-10,1990
 2022-01-01,direct-recruits,305,01UP061500-1964-09-11,Nitin Ramesh Gokarn,UP,1964-09-11,1990
 2022-01-01,direct-recruits,306,01UP062001-1964-02-11,Sudhir Garg,UP,1964-02-11,1990
 2022-01-01,direct-recruits,307,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
@@ -10816,7 +10816,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,379,01AP036400-1964-04-21,Praveen Kumar Kolaventy,AP,1964-04-21,1990
 2022-01-01,direct-recruits,380,o15303,Raju Narayanaswamy,KL,1968-05-24,1991
 2022-01-01,direct-recruits,381,o15273,Manoj Govil,MP,1969-03-20,1991
-2022-01-01,direct-recruits,382,01OD025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
+2022-01-01,direct-recruits,382,01OR025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
 2022-01-01,direct-recruits,383,01HY020600-1965-04-30,Ashok Khemka,HY,1965-04-30,1991
 2022-01-01,direct-recruits,384,o15284,Anu Garg,OD,1969-03-01,1991
 2022-01-01,direct-recruits,385,01TN034100-1965-09-07,T K Ramachandran,TN,1965-09-07,1991
@@ -10827,7 +10827,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,390,o15344,Jayanti S. Ravi,GJ,1967-08-17,1991
 2022-01-01,direct-recruits,391,01TG036800-1963-11-12,Rajat Kumar,TG,1963-11-12,1991
 2022-01-01,direct-recruits,392,01KN030200-1965-01-14,L K Atheeq,KN,1965-01-14,1991
-2022-01-01,direct-recruits,393,01OD024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
+2022-01-01,direct-recruits,393,01OR024900-1962-10-02,Madhu Sudan Padhi,OD,1962-10-02,1991
 2022-01-01,direct-recruits,394,o15315,K Ramakrishna Rao,TG,1965-08-30,1991
 2022-01-01,direct-recruits,395,01MH041100-1962-04-05,Mahesh Dinkar Pathak,MH,1962-04-05,1991
 2022-01-01,direct-recruits,396,01TG037000-1962-07-18,Harpreet Singh,TG,1962-07-18,1991
@@ -10850,7 +10850,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,413,o15322,N Muruganandam,TN,1967-12-23,1991
 2022-01-01,direct-recruits,414,o15357,Rajit Punhani,BH,1967-07-01,1991
 2022-01-01,direct-recruits,415,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2022-01-01,direct-recruits,416,01UT008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
+2022-01-01,direct-recruits,416,01JK008400-1965-12-28,Shantmanu,JK,1965-12-28,1991
 2022-01-01,direct-recruits,417,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2022-01-01,direct-recruits,418,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2022-01-01,direct-recruits,419,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -10879,7 +10879,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,442,o15265,Puneet Kumar Goel,UT,1966-08-03,1991
 2022-01-01,direct-recruits,443,o15354,Ram Prakash Sisodia,AP,1968-01-24,1991
 2022-01-01,direct-recruits,444,01HY020900-1964-06-01,Shrikant Walgad,HY,1964-06-01,1991
-2022-01-01,direct-recruits,445,01OD025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
+2022-01-01,direct-recruits,445,01OR025000-1965-05-07,Vijay Arora,OD,1965-05-07,1991
 2022-01-01,direct-recruits,446,o15342,G Anupama,HY,1967-11-07,1991
 2022-01-01,direct-recruits,447,o15276,Manu Srivastava,MP,1967-09-06,1991
 2022-01-01,direct-recruits,448,o15340,Apoorva Kumar Singh,HY,1967-10-24,1991
@@ -10960,7 +10960,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,523,o15433,V L Kantha Rao,MP,1967-12-05,1992
 2022-01-01,direct-recruits,524,01BH044100-1964-11-29,Parmar Ravi Manubhai,BH,1964-11-29,1992
 2022-01-01,direct-recruits,525,01MP043601-1964-02-02,Kalpana Shrivastava,MP,1964-02-02,1992
-2022-01-01,direct-recruits,526,01UT008800-1964-07-30,Ashok Kumar R Parmar,JK,1964-07-30,1992
+2022-01-01,direct-recruits,526,01JK008800-1964-07-30,Ashok Kumar R Parmar,JK,1964-07-30,1992
 2022-01-01,direct-recruits,527,01UT021500-1965-08-23,Sanjiv Kumar,UT,1965-08-23,1992
 2022-01-01,direct-recruits,528,o15371,Shamsheer Singh Rawat,AP,1969-12-20,1992
 2022-01-01,direct-recruits,529,01MH041800-1963-11-23,Bipin Chandra Punambhai,MH,1963-11-23,1992
@@ -11025,7 +11025,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,588,o15498,Veena Kumari Meena,UP,1967-06-02,1993
 2022-01-01,direct-recruits,589,o15501,Nagaraju Maddirala,TR,1966-05-24,1993
 2022-01-01,direct-recruits,590,o15495,Davendra Kr Dhodawat,KL,1967-02-02,1993
-2022-01-01,direct-recruits,591,01UT008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
+2022-01-01,direct-recruits,591,01JK008901-1963-06-17,Asgar Hassan Samoon,JK,1963-06-17,1993
 2022-01-01,direct-recruits,592,01JH044801-1964-07-01,Surendra Singh,JH,1964-07-01,1993
 2022-01-01,direct-recruits,593,o15482,Surendra Kumar Bagde,MH,1969-03-19,1993
 2022-01-01,direct-recruits,594,01AM024400-1965-09-04,Donald Phillips Wahlang,AM,1965-09-04,1993
@@ -11438,7 +11438,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,1001,o16140,Sunil Kumar,JH,1970-06-02,1999
 2022-01-01,direct-recruits,1002,o16114,Ashok Kumar Singh,KL,1969-08-25,1999
 2022-01-01,direct-recruits,1003,o16128,Dev Raj Dev,TN,1973-01-21,1999
-2022-01-01,direct-recruits,1004,01JK009701-1970-05-09,Sarita Chauhan,JK,1970-05-09,1999
+2022-01-01,direct-recruits,1004,o16117,Sarita Chauhan,JK,1970-05-09,1999
 2022-01-01,direct-recruits,1005,o16217,Sorabh Babu,UP,1976-11-10,2000
 2022-01-01,direct-recruits,1006,o16199,Manju Rajpal,RJ,1972-06-01,2000
 2022-01-01,direct-recruits,1007,o16164,S Suresh Kumar,AP,1972-05-25,2000
@@ -11451,7 +11451,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,1014,o16184,Pooja Singhal,JH,1978-07-07,2000
 2022-01-01,direct-recruits,1015,o16283,Santanu Basu,WB,1974-09-11,2000
 2022-01-01,direct-recruits,1016,o16166,Diwakar Nath Misra,AM,1974-07-31,2000
-2022-01-01,direct-recruits,1017,01OD027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
+2022-01-01,direct-recruits,1017,01OR027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
 2022-01-01,direct-recruits,1018,o16160,Prem Singh Meena,BH,1976-04-10,2000
 2022-01-01,direct-recruits,1019,o16228,Anand Singh,KL,1974-01-01,2000
 2022-01-01,direct-recruits,1020,o16202,Alaknanda Dayal,PB,1975-06-13,2000
@@ -11978,7 +11978,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,1541,o17408,Jai Singh,BH,1977-02-01,2007
 2022-01-01,direct-recruits,1542,o17391,Remya M. Moothadath,GJ,1980-04-14,2007
 2022-01-01,direct-recruits,1543,o17393,Dilip Kumar Bhuraram Rana,GJ,1978-04-10,2007
-2022-01-01,direct-recruits,1544,01JK010900-1982-11-28,Yasha Mudgal,JK,1982-11-28,2007
+2022-01-01,direct-recruits,1544,o17336,Yasha Mudgal,JK,1982-11-28,2007
 2022-01-01,direct-recruits,1545,o17369,Parveen Kumar Thind,PB,1980-04-21,2007
 2022-01-01,direct-recruits,1546,o17321,Madan Bibhishan Nagargoje,MP,1983-06-04,2007
 2022-01-01,direct-recruits,1547,o17402,Shainamol A,HP,1982-05-11,2007
@@ -13450,7 +13450,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,3013,o33184,Kumar Tarachand,JH,1984-04-17,2017
 2022-01-01,direct-recruits,3014,o33216,Keerthishree G,JH,1991-04-20,2017
 2022-01-01,direct-recruits,3015,o33210,Bilal Mohiuddin Bhat,JK,1985-11-01,2017
-2022-01-01,direct-recruits,3016,01JK116I02-1993-09-01,Santosh Sukhadeve,JK,1993-09-01,2017
+2022-01-01,direct-recruits,3016,o33251,Santosh Sukhadeve,JK,1993-09-01,2017
 2022-01-01,direct-recruits,3017,o33220,Priyanka G,KL,1990-03-12,2017
 2022-01-01,direct-recruits,3018,o33315,Vikalp Bharadwaj,GJ,1993-02-06,2017
 2022-01-01,direct-recruits,3019,o33253,Patil Pranjal Lahensingh,UT,1988-04-01,2017
@@ -13924,7 +13924,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,direct-recruits,3487,o37809,Wankhede Archana,WB,1983-01-09,2019
 2022-01-01,direct-recruits,3488,o37810,Katta Simhachalam,AP,1989-05-16,2019
 2022-01-01,direct-recruits,3489,o37811,Balpreet Singh,KL,1989-07-11,2019
-2022-01-01,direct-recruits,3490,01TR118Z04-1992-12-16,B Vaishnavi,TR,1992-12-16,2019
+2022-01-01,direct-recruits,3490,o37812,B Vaishnavi,TR,1992-12-16,2019
 2022-01-01,direct-recruits,3491,o37813,Lalitaditya Neelam,CG,1994-03-16,2019
 2022-01-01,direct-recruits,3492,o37814,Vikas Marmat,AP,1996-03-25,2019
 2022-01-01,direct-recruits,3493,o37815,Birathiviraj M,TN,1994-08-11,2019
@@ -14370,9 +14370,9 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,71,01MP811016-1963-08-15,Alka Shrivastava,MP,1963-08-15,2003
 2022-01-01,promotion-quota,72,01MP812305-1962-09-11,Ashish Saxena,MP,1962-09-11,2003
 2022-01-01,promotion-quota,73,01AP907101-1962-02-01,P. Lakshmi Narasimham,AP,1962-02-01,2003
-2022-01-01,promotion-quota,74,01OD909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
+2022-01-01,promotion-quota,74,01OR909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
 2022-01-01,promotion-quota,75,o13837,Y. Kikheto Sema,NL,1967-01-01,2003
-2022-01-01,promotion-quota,76,01OD910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
+2022-01-01,promotion-quota,76,01OR910102-1962-02-19,Gopabandhu Satpathy,OD,1962-02-19,2003
 2022-01-01,promotion-quota,77,01RJ910005-1962-08-15,Veena Pradhan,RJ,1962-08-15,2003
 2022-01-01,promotion-quota,78,01RJ911005-1962-07-01,Rajesh Sharma,RJ,1962-07-01,2003
 2022-01-01,promotion-quota,79,o17035,E. Sridhar,TG,1968-05-28,2004
@@ -14492,15 +14492,15 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,193,01RJ814301-1962-10-09,Gajanand Sharma,RJ,1962-10-09,2005
 2022-01-01,promotion-quota,194,01SK814302-1962-08-31,Ambika Pradhan,SK,1962-08-31,2005
 2022-01-01,promotion-quota,195,01RJ814303-1962-07-05,Suresh Chand Gupta,RJ,1962-07-05,2005
-2022-01-01,promotion-quota,196,01OD814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
+2022-01-01,promotion-quota,196,01OR814303-1962-01-03,Dasarathi Satpathy,OD,1962-01-03,2005
 2022-01-01,promotion-quota,197,01AM814003-1962-05-09,Merilyn Nellie Nampui,AM,1962-05-09,2005
 2022-01-01,promotion-quota,198,01RJ814304-1963-04-26,Vinita Srivastava,RJ,1963-04-26,2005
 2022-01-01,promotion-quota,199,01RJ814305-1962-12-05,Dinesh Kumar Yadav,RJ,1962-12-05,2005
 2022-01-01,promotion-quota,200,01SK814305-1964-07-15,Yashoda Bhandari,SK,1964-07-15,2005
-2022-01-01,promotion-quota,201,01OD814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
+2022-01-01,promotion-quota,201,01OR814311-1962-06-03,Benudhar Behera,OD,1962-06-03,2005
 2022-01-01,promotion-quota,202,01RJ815305-1963-11-21,Jitendra Kumar Upadhyaya,RJ,1963-11-21,2005
 2022-01-01,promotion-quota,203,01TN911006-1964-10-20,L. Subramanian,TN,1964-10-20,2005
-2022-01-01,promotion-quota,204,01OD913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
+2022-01-01,promotion-quota,204,01OR913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
 2022-01-01,promotion-quota,205,01JH914301-1963-01-05,Jata Shankar Choudhary,JH,1963-01-05,2005
 2022-01-01,promotion-quota,206,01WB914301-1962-05-21,Arun Prasad Sen,WB,1962-05-21,2005
 2022-01-01,promotion-quota,207,01WB914302-1964-08-07,Sudip Kumar Sinha,WB,1964-08-07,2005
@@ -14535,7 +14535,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,236,01UP813112-1962-06-15,Rajendra Prashad I,UP,1962-06-15,2006
 2022-01-01,promotion-quota,237,01GJ813112-1962-04-14,M. D. Modia,GJ,1962-04-14,2006
 2022-01-01,promotion-quota,238,01UP813113-1962-01-17,Rajendra Pratap Pandey,UP,1962-01-17,2006
-2022-01-01,promotion-quota,239,01UD813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
+2022-01-01,promotion-quota,239,01UP813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
 2022-01-01,promotion-quota,240,01UP813117-1963-02-15,Shakuntla Gautam,UP,1963-02-15,2006
 2022-01-01,promotion-quota,241,01NL814301-1962-02-01,Tridibesh Roy,NL,1962-02-01,2006
 2022-01-01,promotion-quota,242,01WB814302-1963-10-29,Madhumita Sinha Roy,WB,1963-10-29,2006
@@ -14545,9 +14545,9 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,246,01RJ814307-1965-05-27,Urmila Rajoria,RJ,1965-05-27,2006
 2022-01-01,promotion-quota,247,01WB814308-1962-06-10,Tapas Chowdhury,WB,1962-06-10,2006
 2022-01-01,promotion-quota,248,01WB814309-1964-06-17,Gholam H O Rahman,WB,1964-06-17,2006
-2022-01-01,promotion-quota,249,01OD814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
+2022-01-01,promotion-quota,249,01OR814312-1962-06-21,Partha Sarathi Mishra,OD,1962-06-21,2006
 2022-01-01,promotion-quota,250,01BH814015-1962-01-24,Harendra Nath Dubey,BH,1962-01-24,2006
-2022-01-01,promotion-quota,251,01OD814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
+2022-01-01,promotion-quota,251,01OR814017-1962-05-02,Premananda Khuntia,OD,1962-05-02,2006
 2022-01-01,promotion-quota,252,01BH814018-1962-12-28,Gorakh Nath,BH,1962-12-28,2006
 2022-01-01,promotion-quota,253,01WB815301-1963-03-06,Atonu Chatterjee,WB,1963-03-06,2006
 2022-01-01,promotion-quota,254,01NL815301-1963-11-12,Asenla Keitzar,NL,1963-11-12,2006
@@ -14620,7 +14620,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,321,01BH815007-1963-02-07,Vijay Kumar,BH,1963-02-07,2007
 2022-01-01,promotion-quota,322,01WB815308-1965-03-12,Debashis Das,WB,1965-03-12,2007
 2022-01-01,promotion-quota,323,01WB815309-1964-03-28,Probhudutta David Pradhan,WB,1964-03-28,2007
-2022-01-01,promotion-quota,324,01OD815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
+2022-01-01,promotion-quota,324,01OR815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
 2022-01-01,promotion-quota,325,01WB816001-1964-04-10,Ajoy Sanyamath,WB,1964-04-10,2007
 2022-01-01,promotion-quota,326,01TR816001-1963-01-03,Satyajit Sarkar,TR,1963-01-03,2007
 2022-01-01,promotion-quota,327,01SK816002-1962-05-15,Sarala Rai,SK,1962-05-15,2007
@@ -14631,8 +14631,8 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,332,01WB816004-1965-12-25,Subhra Chakrabarti,WB,1965-12-25,2007
 2022-01-01,promotion-quota,333,01RJ816005-1962-05-22,Rakesh Kumar Jaiswal,RJ,1962-05-22,2007
 2022-01-01,promotion-quota,334,01RJ816006-1962-06-01,Indra Singh,RJ,1962-06-01,2007
-2022-01-01,promotion-quota,335,01OD816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
-2022-01-01,promotion-quota,336,01OD816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
+2022-01-01,promotion-quota,335,01OR816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
+2022-01-01,promotion-quota,336,01OR816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
 2022-01-01,promotion-quota,337,01BH816007-1962-12-18,Ram Anugrah Narayan,BH,1962-12-18,2007
 2022-01-01,promotion-quota,338,01BH816008-1962-01-02,Om Prakash Pal,BH,1962-01-02,2007
 2022-01-01,promotion-quota,339,01RJ816008-1963-09-12,Yagya Mitra Singhdeo,RJ,1963-09-12,2007
@@ -14735,7 +14735,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,436,o37102,Dipankar Chowdhury,WB,1966-06-22,2008
 2022-01-01,promotion-quota,437,01RJ817002-1964-08-19,Mohan Lal Yadav,RJ,1964-08-19,2008
 2022-01-01,promotion-quota,438,01NL817001-1964-05-07,Anenla T Sato,NL,1964-05-07,2008
-2022-01-01,promotion-quota,439,01OD817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
+2022-01-01,promotion-quota,439,01OR817003-1962-05-20,Dhananjay Hembram,OD,1962-05-20,2008
 2022-01-01,promotion-quota,440,01RJ817003-1962-10-01,Kunj Bihari Pandya,RJ,1962-10-01,2008
 2022-01-01,promotion-quota,441,01RJ817004-1965-10-02,Mahendra Soni,RJ,1965-10-02,2008
 2022-01-01,promotion-quota,442,01WB817004-1964-01-25,Esha Sengupta,WB,1964-01-25,2008
@@ -14746,10 +14746,10 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,447,01RJ817006-1965-06-13,Shelly Kishnani,RJ,1965-06-13,2008
 2022-01-01,promotion-quota,448,01WB817006-1965-03-03,Nilanjan Sandilya,WB,1965-03-03,2008
 2022-01-01,promotion-quota,449,01AM817106-1962-12-01,Deepak Majumdar,AM,1962-12-01,2008
-2022-01-01,promotion-quota,450,01OD817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
+2022-01-01,promotion-quota,450,01OR817006-1962-07-01,Pabitra Mandal,OD,1962-07-01,2008
 2022-01-01,promotion-quota,451,01BH817006-1962-11-12,Rishideo Jha,BH,1962-11-12,2008
 2022-01-01,promotion-quota,452,01BH817007-1962-02-19,Sanjay Kumar Singh,BH,1962-02-19,2008
-2022-01-01,promotion-quota,453,01OD817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
+2022-01-01,promotion-quota,453,01OR817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
 2022-01-01,promotion-quota,454,o37050,Soumya Purkait,WB,1967-12-25,2008
 2022-01-01,promotion-quota,455,o37051,Dipika Sanyamath,WB,1967-12-16,2008
 2022-01-01,promotion-quota,456,01RJ817008-1965-05-28,Sushma Arora,RJ,1965-05-28,2008
@@ -14919,17 +14919,17 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,620,01OD818003-1963-05-12,Susanta Kumar Barik,OD,1963-05-12,2009
 2022-01-01,promotion-quota,621,01AM818103-1962-03-02,Devajyoti Hazarika,AM,1962-03-02,2009
 2022-01-01,promotion-quota,622,01AM818104-1962-11-09,Seema Rekha Bhuyan,AM,1962-11-09,2009
-2022-01-01,promotion-quota,623,01OD818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
+2022-01-01,promotion-quota,623,01OR818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
 2022-01-01,promotion-quota,624,01NL818004-1965-10-11,Kenilo Apon,NL,1965-10-11,2009
 2022-01-01,promotion-quota,625,01WB818004-1964-07-02,Pranita Shewa Nee Pariyar,WB,1964-07-02,2009
 2022-01-01,promotion-quota,626,01RJ818004-1962-05-05,Aradhana Saxena,RJ,1962-05-05,2009
 2022-01-01,promotion-quota,627,01RJ818005-1964-12-19,Ghanendra Bhan,RJ,1964-12-19,2009
-2022-01-01,promotion-quota,628,01OD818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
-2022-01-01,promotion-quota,629,01OD818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
+2022-01-01,promotion-quota,628,01OR818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
+2022-01-01,promotion-quota,629,01OR818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
 2022-01-01,promotion-quota,630,01RJ818006-1964-10-10,Karan Singh,RJ,1964-10-10,2009
 2022-01-01,promotion-quota,631,01RJ818007-1964-03-01,Parmeshwar Lal,RJ,1964-03-01,2009
 2022-01-01,promotion-quota,632,01OD818007-1962-06-12,Ramakrishna Sahoo,OD,1962-06-12,2009
-2022-01-01,promotion-quota,633,01OD818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
+2022-01-01,promotion-quota,633,01OR818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
 2022-01-01,promotion-quota,634,01RJ818008-1962-03-20,Mahavir Prasad Verma,RJ,1962-03-20,2009
 2022-01-01,promotion-quota,635,o37567,Vishram Meena,RJ,1968-12-10,2009
 2022-01-01,promotion-quota,636,01OD818009-1962-05-06,Chitaranjan Mohanty,OD,1962-05-06,2009
@@ -15109,7 +15109,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,810,01WB819101-1963-12-24,Abhijit Mukhopadhyay,WB,1963-12-24,2010
 2022-01-01,promotion-quota,811,o56005,Sujay Sarkar,WB,1968-12-22,2010
 2022-01-01,promotion-quota,812,01OD819102-1963-07-20,Ganesh Chandra Patra,OD,1963-07-20,2010
-2022-01-01,promotion-quota,813,01OR819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
+2022-01-01,promotion-quota,813,01OD819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
 2022-01-01,promotion-quota,814,o56006,Lalita Agarwala,WB,1967-10-10,2010
 2022-01-01,promotion-quota,815,01WB819104-1965-02-28,Ikhlaque Islam,WB,1965-02-28,2010
 2022-01-01,promotion-quota,816,01OD819104-1963-05-15,Bikash Chandra Mohapatra,OD,1963-05-15,2010
@@ -15126,13 +15126,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2022-01-01,promotion-quota,827,01OD819111-1963-06-21,Dayanidhi Nayak,OD,1963-06-21,2010
 2022-01-01,promotion-quota,828,01OD819112-1964-05-07,Srinibas Behera,OD,1964-05-07,2010
 2022-01-01,promotion-quota,829,01OD819113-1964-06-14,Yudhisthir Nayak,OD,1964-06-14,2010
-2022-01-01,promotion-quota,830,01OR819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
+2022-01-01,promotion-quota,830,01OD819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
 2022-01-01,promotion-quota,831,01OD819115-1964-06-30,Sujata Sahu,OD,1964-06-30,2010
 2022-01-01,promotion-quota,832,01OD819116-1963-06-08,Gangadhar Sahoo,OD,1963-06-08,2010
 2022-01-01,promotion-quota,833,01OD819117-1964-10-06,Aswini Kumar Mishra,OD,1964-10-06,2010
-2022-01-01,promotion-quota,834,01OR819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
+2022-01-01,promotion-quota,834,01OD819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
 2022-01-01,promotion-quota,835,01OD819119-1963-07-15,Sushanta Kumar Mohanty,OD,1963-07-15,2010
-2022-01-01,promotion-quota,836,01OR819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
+2022-01-01,promotion-quota,836,01OD819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
 2022-01-01,promotion-quota,837,01OD819121-1963-04-21,Sitansu Kumar Rout,OD,1963-04-21,2010
 2022-01-01,promotion-quota,838,01OD819122-1963-02-13,Krushna Prasad Pati,OD,1963-02-13,2010
 2022-01-01,promotion-quota,839,01AM819301-1963-01-02,Ashok Kumar Barman,AM,1963-01-02,2010
@@ -15760,7 +15760,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,6,01MP038000-1962-11-13,Iqbal Singh Bains,MP,1962-11-13,1985
 2023-01-01,direct-recruits,7,01RJ026201-1963-06-26,Usha Sharma,RJ,1963-06-26,1985
 2023-01-01,direct-recruits,8,01KN026700-1963-11-10,Vandita Sharma,KN,1963-11-10,1986
-2023-01-01,direct-recruits,9,01OD022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
+2023-01-01,direct-recruits,9,01OR022600-1962-02-04,Suresh Chandra Mahapatra,OD,1962-02-04,1986
 2023-01-01,direct-recruits,10,01KN027301-1963-06-15,I S N Prasad,KN,1963-06-15,1986
 2023-01-01,direct-recruits,11,01HY018202-1964-07-07,Sanjeev Kaushal,HY,1964-07-07,1986
 2023-01-01,direct-recruits,12,01MH037200-1963-04-15,Manu Kumar Srivastava,MH,1963-04-15,1986
@@ -15778,7 +15778,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,24,01OR023100-1965-07-08,Tuhin Kanta Pandey,OD,1965-07-08,1987
 2023-01-01,direct-recruits,25,01WB032300-1963-07-20,Talleen Kumar,WB,1963-07-20,1987
 2023-01-01,direct-recruits,26,01AP034600-1964-06-05,Neerabh Kumar Prasad,AP,1964-06-05,1987
-2023-01-01,direct-recruits,27,01UT007600-1964-06-18,Pradip Kumar Tripathi,UT,1964-06-18,1987
+2023-01-01,direct-recruits,27,01JK007600-1964-06-18,Pradip Kumar Tripathi,UT,1964-06-18,1987
 2023-01-01,direct-recruits,28,01GJ025900-1965-01-06,Raj Kumar,GJ,1965-01-06,1987
 2023-01-01,direct-recruits,29,01KN027800-1964-05-18,V Manjula,KN,1964-05-18,1987
 2023-01-01,direct-recruits,30,01NL004100-1963-09-02,Pankaj Kumar,NL,1963-09-02,1987
@@ -15793,15 +15793,15 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,39,01UP058500-1964-12-19,Leena Nandan,UP,1964-12-19,1987
 2023-01-01,direct-recruits,40,01UT018400-1963-11-18,Naresh Kumar,UT,1963-11-18,1987
 2023-01-01,direct-recruits,41,01RJ026800-1963-02-04,Neel Kamal Darbari,RJ,1963-02-04,1987
-2023-01-01,direct-recruits,42,01OD023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
+2023-01-01,direct-recruits,42,01OR023000-1963-03-02,Nikunja Kishore Sundaray,OD,1963-03-02,1987
 2023-01-01,direct-recruits,43,01BH039500-1963-07-31,Rajesh Bhushan,BH,1963-07-31,1987
 2023-01-01,direct-recruits,44,01HP011101-1964-11-02,Nisha Singh,HP,1964-11-02,1987
-2023-01-01,direct-recruits,45,01OD023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
+2023-01-01,direct-recruits,45,01OR023101-1963-08-25,Raj Kumar Sharma,OD,1963-08-25,1987
 2023-01-01,direct-recruits,46,01WB032400-1963-12-05,Sunil Kumar Gupta,WB,1963-12-05,1987
 2023-01-01,direct-recruits,47,01UP057700-1963-08-08,Sanjiv Kumar Mittal,UP,1963-08-08,1987
 2023-01-01,direct-recruits,48,01MH038200-1963-12-02,Ashwani Kumar,MH,1963-12-02,1987
 2023-01-01,direct-recruits,49,01JH039400-1964-03-05,Sukhdeo Singh,JH,1964-03-05,1987
-2023-01-01,direct-recruits,50,01OD023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
+2023-01-01,direct-recruits,50,01OR023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
 2023-01-01,direct-recruits,51,01SK003300-1963-04-25,Arun Kumar Yadav,SK,1963-04-25,1987
 2023-01-01,direct-recruits,52,01UP058700-1964-02-25,Hemant Rao,UP,1964-02-25,1987
 2023-01-01,direct-recruits,53,01MP040200-1963-12-17,Ajay Tirkey,MP,1963-12-17,1987
@@ -15820,23 +15820,23 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,66,01UT018202-1963-09-10,Dharmendra Sharma,UT,1963-09-10,1988
 2023-01-01,direct-recruits,67,01HY019200-1963-08-31,Rajesh Khullar,HY,1963-08-31,1988
 2023-01-01,direct-recruits,68,01MH038800-1964-09-19,Apurva Chandra,MH,1964-09-19,1988
-2023-01-01,direct-recruits,69,01UT008000-1963-07-22,Sundeep Kumar Nayak,UT,1963-07-22,1988
+2023-01-01,direct-recruits,69,01JK008000-1963-07-22,Sundeep Kumar Nayak,UT,1963-07-22,1988
 2023-01-01,direct-recruits,70,01KL017700-1964-01-27,Gyanesh Kumar,KL,1964-01-27,1988
 2023-01-01,direct-recruits,71,01UD060000-1964-03-06,Radha Raturi,UD,1964-03-06,1988
 2023-01-01,direct-recruits,72,01GJ026500-1964-01-26,Mukesh Puri,GJ,1964-01-26,1988
 2023-01-01,direct-recruits,73,01RJ027200-1965-12-17,Subodh Agarwal,RJ,1965-12-17,1988
 2023-01-01,direct-recruits,74,01NL004500-1963-08-02,Rajiv Bansal,NL,1963-08-02,1988
-2023-01-01,direct-recruits,75,01OD023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
+2023-01-01,direct-recruits,75,01OR023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
 2023-01-01,direct-recruits,76,01PB018301-1963-10-09,Ravneet Kaur,PB,1963-10-09,1988
 2023-01-01,direct-recruits,77,01MH038701-1963-12-31,Ashish Kumar Singh,MH,1963-12-31,1988
 2023-01-01,direct-recruits,78,01MH039000-1964-03-29,Nitin N Kareer,MH,1964-03-29,1988
 2023-01-01,direct-recruits,79,01HP011500-1964-07-15,Ali Raza Rizvi,HP,1964-07-15,1988
-2023-01-01,direct-recruits,80,01OD023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
+2023-01-01,direct-recruits,80,01OR023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
 2023-01-01,direct-recruits,81,01KN028500-1963-08-18,E V Ramana Reddy,KN,1963-08-18,1988
 2023-01-01,direct-recruits,82,01AP035200-1964-07-01,Poonam Malakondiah,AP,1964-07-01,1988
 2023-01-01,direct-recruits,83,01SK003600-1963-07-09,Upma Srivastava,SK,1963-07-09,1988
 2023-01-01,direct-recruits,84,01MN012600-1964-06-01,Mamnoon Hasan Khan,MN,1964-06-01,1988
-2023-01-01,direct-recruits,85,01UT007900-1963-12-01,Arun Kumar Mehta,UT,1963-12-01,1988
+2023-01-01,direct-recruits,85,01JK007900-1963-12-01,Arun Kumar Mehta,UT,1963-12-01,1988
 2023-01-01,direct-recruits,86,01UP059900-1964-06-21,S Radha Chauhan,UP,1964-06-21,1988
 2023-01-01,direct-recruits,87,01MH039200-1963-05-14,Arvind Singh,MH,1963-05-14,1988
 2023-01-01,direct-recruits,88,01UP059400-1963-07-25,Navneet Kumar Sehgal,UP,1963-07-25,1988
@@ -15884,7 +15884,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,130,01AP035700-1963-12-22,Somesh Kumar,AP,1963-12-22,1989
 2023-01-01,direct-recruits,131,01AM022500-1963-11-09,Sameer Kumar Khare,AM,1963-11-09,1989
 2023-01-01,direct-recruits,132,o15137,V. Srinivas,RJ,1966-09-01,1989
-2023-01-01,direct-recruits,133,01UT008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
+2023-01-01,direct-recruits,133,01JK008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
 2023-01-01,direct-recruits,134,o15079,Anurag Jain,MP,1965-08-11,1989
 2023-01-01,direct-recruits,135,01MH039801-1963-09-10,Pradeep Kumar Vyas,MH,1963-09-10,1989
 2023-01-01,direct-recruits,136,01TG035800-1965-04-07,A Santhi Kumari,TG,1965-04-07,1989
@@ -15901,7 +15901,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,147,o15125,Sandeep Saxena,TN,1966-04-02,1989
 2023-01-01,direct-recruits,148,01UT019301-1963-01-27,Raajiv Yaduvanshi,UT,1963-01-27,1989
 2023-01-01,direct-recruits,149,01KL018600-1963-06-20,Devendra Kumar Singh,KL,1963-06-20,1989
-2023-01-01,direct-recruits,150,01OD024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
+2023-01-01,direct-recruits,150,01OR024000-1963-03-22,Mona Sharma,OD,1963-03-22,1989
 2023-01-01,direct-recruits,151,o15099,Shalini Rajneesh,KN,1967-06-06,1989
 2023-01-01,direct-recruits,152,01KN029000-1964-01-08,Jawaid Akhtar,KN,1964-01-08,1989
 2023-01-01,direct-recruits,153,o15070,Rajendra Kumar,UT,1966-12-16,1989
@@ -15962,7 +15962,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,208,01HY019900-1964-12-13,Ankur Gupta,HY,1964-12-13,1990
 2023-01-01,direct-recruits,209,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2023-01-01,direct-recruits,210,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2023-01-01,direct-recruits,211,01UT008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
+2023-01-01,direct-recruits,211,01JK008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
 2023-01-01,direct-recruits,212,01UP061500-1964-09-11,Nitin Ramesh Gokarn,UP,1964-09-11,1990
 2023-01-01,direct-recruits,213,01UP062001-1964-02-11,Sudhir Garg,UP,1964-02-11,1990
 2023-01-01,direct-recruits,214,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
@@ -16037,7 +16037,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,283,01AP036400-1964-04-21,Praveen Kumar Kolaventy,AP,1964-04-21,1990
 2023-01-01,direct-recruits,284,o15303,Raju Narayanaswamy,KL,1968-05-24,1991
 2023-01-01,direct-recruits,285,o15273,Manoj Govil,MP,1969-03-20,1991
-2023-01-01,direct-recruits,286,01OD025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
+2023-01-01,direct-recruits,286,01OR025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
 2023-01-01,direct-recruits,287,01HY020600-1965-04-30,Ashok Khemka,HY,1965-04-30,1991
 2023-01-01,direct-recruits,288,o15284,Anu Garg,OD,1969-03-01,1991
 2023-01-01,direct-recruits,289,01TN034100-1965-09-07,T K Ramachandran,TN,1965-09-07,1991
@@ -16068,7 +16068,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,314,o15322,N Muruganandam,TN,1967-12-23,1991
 2023-01-01,direct-recruits,315,o15357,Rajit Punhani,BH,1967-07-01,1991
 2023-01-01,direct-recruits,316,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2023-01-01,direct-recruits,317,01UT008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
+2023-01-01,direct-recruits,317,01JK008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
 2023-01-01,direct-recruits,318,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2023-01-01,direct-recruits,319,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2023-01-01,direct-recruits,320,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -16172,7 +16172,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,418,o15433,V L Kantha Rao,MP,1967-12-05,1992
 2023-01-01,direct-recruits,419,01BH044100-1964-11-29,Parmar Ravi Manubhai,BH,1964-11-29,1992
 2023-01-01,direct-recruits,420,01MP043601-1964-02-02,Kalpana Shrivastava,MP,1964-02-02,1992
-2023-01-01,direct-recruits,421,01UT008800-1964-07-30,Ashok Kumar R Parmar,UT,1964-07-30,1992
+2023-01-01,direct-recruits,421,01JK008800-1964-07-30,Ashok Kumar R Parmar,UT,1964-07-30,1992
 2023-01-01,direct-recruits,422,01UT021500-1965-08-23,Sanjiv Kumar,UT,1965-08-23,1992
 2023-01-01,direct-recruits,423,o15371,Shamsheer Singh Rawat,AP,1969-12-20,1992
 2023-01-01,direct-recruits,424,01MH041800-1963-11-23,Bipin Chandra Punambhai,MH,1963-11-23,1992
@@ -16236,7 +16236,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,482,o15498,Veena Kumari Meena,UP,1967-06-02,1993
 2023-01-01,direct-recruits,483,o15501,Nagaraju Maddirala,TR,1966-05-24,1993
 2023-01-01,direct-recruits,484,o15495,Davendra Kr Dhodawat,KL,1967-02-02,1993
-2023-01-01,direct-recruits,485,01UT008901-1963-06-17,Asgar Hassan Samoon,UT,1963-06-17,1993
+2023-01-01,direct-recruits,485,01JK008901-1963-06-17,Asgar Hassan Samoon,UT,1963-06-17,1993
 2023-01-01,direct-recruits,486,01JH044801-1964-07-01,Surendra Singh,JH,1964-07-01,1993
 2023-01-01,direct-recruits,487,o15482,Surendra Kumar Bagde,MH,1969-03-19,1993
 2023-01-01,direct-recruits,488,01AM024400-1965-09-04,Donald Phillips Wahlang,AM,1965-09-04,1993
@@ -16657,7 +16657,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,direct-recruits,903,o16184,Pooja Singhal,JH,1978-07-07,2000
 2023-01-01,direct-recruits,904,o16283,Santanu Basu,WB,1974-09-11,2000
 2023-01-01,direct-recruits,905,o16166,Diwakar Nath Misra,AM,1974-07-31,2000
-2023-01-01,direct-recruits,906,01OD027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
+2023-01-01,direct-recruits,906,01OR027601-1974-05-29,V Karthikeya Pandian,OD,1974-05-29,2000
 2023-01-01,direct-recruits,907,o16160,Prem Singh Meena,BH,1976-04-10,2000
 2023-01-01,direct-recruits,908,o16228,Anand Singh,KL,1974-01-01,2000
 2023-01-01,direct-recruits,909,o16202,Alaknanda Dayal,PB,1975-06-13,2000
@@ -19730,7 +19730,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,49,01MP811013-1965-09-10,Rajeev Sharma,MP,1965-09-10,2003
 2023-01-01,promotion-quota,50,01MP811014-1963-03-30,Mukesh Kumar Shukla,MP,1963-03-30,2003
 2023-01-01,promotion-quota,51,01MP811016-1963-08-15,Alka Shrivastava,MP,1963-08-15,2003
-2023-01-01,promotion-quota,52,01OD909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
+2023-01-01,promotion-quota,52,01OR909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
 2023-01-01,promotion-quota,53,o13837,Y. Kikheto Sema,NL,1967-01-01,2003
 2023-01-01,promotion-quota,54,o17035,E. Sridhar,TG,1968-05-28,2004
 2023-01-01,promotion-quota,55,01TG808002-1963-01-02,Mohammed Abdul Azeem,TG,1963-01-02,2004
@@ -19823,7 +19823,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,142,01SK814305-1964-07-15,Yashoda Bhandari,SK,1964-07-15,2005
 2023-01-01,promotion-quota,143,01RJ815305-1963-11-21,Jitendra Kumar Upadhyaya,RJ,1963-11-21,2005
 2023-01-01,promotion-quota,144,01TN911006-1964-10-20,L. Subramanian,TN,1964-10-20,2005
-2023-01-01,promotion-quota,145,01OD913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
+2023-01-01,promotion-quota,145,01OR913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
 2023-01-01,promotion-quota,146,01JH914301-1963-01-05,Jata Shankar Choudhary,JH,1963-01-05,2005
 2023-01-01,promotion-quota,147,01WB914302-1964-08-07,Sudip Kumar Sinha,WB,1964-08-07,2005
 2023-01-01,promotion-quota,148,01WB914304-1964-01-07,Achintya Kumar Pati,WB,1964-01-07,2005
@@ -19847,7 +19847,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,166,o26583,Mal Singh Bhaydiya,MP,1966-06-06,2006
 2023-01-01,promotion-quota,167,01UT813105-1963-04-29,Virendra Kumar,UT,1963-04-29,2006
 2023-01-01,promotion-quota,168,01UP813111-1963-10-01,Rajendra Pratap Singh,UP,1963-10-01,2006
-2023-01-01,promotion-quota,169,01UD813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
+2023-01-01,promotion-quota,169,01UP813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
 2023-01-01,promotion-quota,170,01UP813117-1963-02-15,Shakuntla Gautam,UP,1963-02-15,2006
 2023-01-01,promotion-quota,171,01WB814302-1963-10-29,Madhumita Sinha Roy,WB,1963-10-29,2006
 2023-01-01,promotion-quota,172,01WB814304-1963-12-07,Mausumi Guha Roy,WB,1963-12-07,2006
@@ -19913,14 +19913,14 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,232,01BH815007-1963-02-07,Vijay Kumar,BH,1963-02-07,2007
 2023-01-01,promotion-quota,233,01WB815308-1965-03-12,Debashis Das,WB,1965-03-12,2007
 2023-01-01,promotion-quota,234,01WB815309-1964-03-28,Probhudutta David Pradhan,WB,1964-03-28,2007
-2023-01-01,promotion-quota,235,01OD815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
+2023-01-01,promotion-quota,235,01OR815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
 2023-01-01,promotion-quota,236,01WB816001-1964-04-10,Ajoy Sanyamath,WB,1964-04-10,2007
 2023-01-01,promotion-quota,237,01TR816001-1963-01-03,Satyajit Sarkar,TR,1963-01-03,2007
 2023-01-01,promotion-quota,238,01WB816003-1964-11-04,Biswajit Dutta,WB,1964-11-04,2007
 2023-01-01,promotion-quota,239,o31768,Pratibha Singh,RJ,1966-02-20,2007
 2023-01-01,promotion-quota,240,01WB816004-1965-12-25,Subhra Chakrabarti,WB,1965-12-25,2007
-2023-01-01,promotion-quota,241,01OD816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
-2023-01-01,promotion-quota,242,01OD816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
+2023-01-01,promotion-quota,241,01OR816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
+2023-01-01,promotion-quota,242,01OR816007-1963-06-11,Sangramjit Nayak,OD,1963-06-11,2007
 2023-01-01,promotion-quota,243,01RJ816008-1963-09-12,Yagya Mitra Singhdeo,RJ,1963-09-12,2007
 2023-01-01,promotion-quota,244,01RJ816009-1963-12-12,Chauthi Ram Meena,RJ,1963-12-12,2007
 2023-01-01,promotion-quota,245,01RJ816011-1964-09-20,Sanwar Mal Verma,RJ,1964-09-20,2007
@@ -20013,7 +20013,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,332,o37093,Sarmistha Das,WB,1967-06-16,2008
 2023-01-01,promotion-quota,333,01WB817006-1965-03-03,Nilanjan Sandilya,WB,1965-03-03,2008
 2023-01-01,promotion-quota,334,01RJ817006-1965-06-13,Shelly Kishnani,RJ,1965-06-13,2008
-2023-01-01,promotion-quota,335,01OD817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
+2023-01-01,promotion-quota,335,01OR817007-1963-08-19,Sunil Kumar Nayak,OD,1963-08-19,2008
 2023-01-01,promotion-quota,336,o37050,Soumya Purkait,WB,1967-12-25,2008
 2023-01-01,promotion-quota,337,o37051,Dipika Sanyamath,WB,1967-12-16,2008
 2023-01-01,promotion-quota,338,01RJ817008-1965-05-28,Sushma Arora,RJ,1965-05-28,2008
@@ -20153,15 +20153,15 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,472,01NL818003-1964-03-09,T Mhabemo Yanthan,NL,1964-03-09,2009
 2023-01-01,promotion-quota,473,01RJ818003-1964-01-14,Antar Singh Nehra,RJ,1964-01-14,2009
 2023-01-01,promotion-quota,474,01OD818003-1963-05-12,Susanta Kumar Barik,OD,1963-05-12,2009
-2023-01-01,promotion-quota,475,01OD818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
+2023-01-01,promotion-quota,475,01OR818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
 2023-01-01,promotion-quota,476,01NL818004-1965-10-11,Kenilo Apon,NL,1965-10-11,2009
 2023-01-01,promotion-quota,477,01WB818004-1964-07-02,Pranita Shewa Nee Pariyar,WB,1964-07-02,2009
 2023-01-01,promotion-quota,478,01RJ818005-1964-12-19,Ghanendra Bhan,RJ,1964-12-19,2009
-2023-01-01,promotion-quota,479,01OD818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
-2023-01-01,promotion-quota,480,01OD818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
+2023-01-01,promotion-quota,479,01OR818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
+2023-01-01,promotion-quota,480,01OR818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
 2023-01-01,promotion-quota,481,01RJ818006-1964-10-10,Karan Singh,RJ,1964-10-10,2009
 2023-01-01,promotion-quota,482,01RJ818007-1964-03-01,Parmeshwar Lal,RJ,1964-03-01,2009
-2023-01-01,promotion-quota,483,01OD818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
+2023-01-01,promotion-quota,483,01OR818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
 2023-01-01,promotion-quota,484,o37567,Vishram Meena,RJ,1968-12-10,2009
 2023-01-01,promotion-quota,485,o14025,Lalrozama,UT,1968-05-13,2009
 2023-01-01,promotion-quota,486,01AM916101-1963-12-11,Rakesh Agarwala,AM,1963-12-11,2009
@@ -20376,7 +20376,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,695,01WB819101-1963-12-24,Abhijit Mukhopadhyay,WB,1963-12-24,2010
 2023-01-01,promotion-quota,696,o56005,Sujay Sarkar,WB,1968-12-22,2010
 2023-01-01,promotion-quota,697,01OD819102-1963-07-20,Ganesh Chandra Patra,OD,1963-07-20,2010
-2023-01-01,promotion-quota,698,01OR819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
+2023-01-01,promotion-quota,698,01OD819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
 2023-01-01,promotion-quota,699,o56006,Lalita Agarwala,WB,1967-10-10,2010
 2023-01-01,promotion-quota,700,01WB819104-1965-02-28,Ikhlaque Islam,WB,1965-02-28,2010
 2023-01-01,promotion-quota,701,01OD819104-1963-05-15,Bikash Chandra Mohapatra,OD,1963-05-15,2010
@@ -20393,13 +20393,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,712,01OD819111-1963-06-21,Dayanidhi Nayak,OD,1963-06-21,2010
 2023-01-01,promotion-quota,713,01OD819112-1964-05-07,Srinibas Behera,OD,1964-05-07,2010
 2023-01-01,promotion-quota,714,01OD819113-1964-06-14,Yudhisthir Nayak,OD,1964-06-14,2010
-2023-01-01,promotion-quota,715,01OR819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
+2023-01-01,promotion-quota,715,01OD819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
 2023-01-01,promotion-quota,716,01OD819115-1964-06-30,Sujata Sahu,OD,1964-06-30,2010
 2023-01-01,promotion-quota,717,01OD819116-1963-06-08,Gangadhar Sahoo,OD,1963-06-08,2010
 2023-01-01,promotion-quota,718,01OD819117-1964-10-06,Aswini Kumar Mishra,OD,1964-10-06,2010
-2023-01-01,promotion-quota,719,01OR819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
+2023-01-01,promotion-quota,719,01OD819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
 2023-01-01,promotion-quota,720,01OD819119-1963-07-15,Sushanta Kumar Mohanty,OD,1963-07-15,2010
-2023-01-01,promotion-quota,721,01OR819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
+2023-01-01,promotion-quota,721,01OD819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
 2023-01-01,promotion-quota,722,01OD819121-1963-04-21,Sitansu Kumar Rout,OD,1963-04-21,2010
 2023-01-01,promotion-quota,723,01OD819122-1963-02-13,Krushna Prasad Pati,OD,1963-02-13,2010
 2023-01-01,promotion-quota,724,01AM819301-1963-01-02,Ashok Kumar Barman,AM,1963-01-02,2010
@@ -20537,7 +20537,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,856,01JH820J02-1965-11-22,Nelson Eyon Bage,JH,1965-11-22,2011
 2023-01-01,promotion-quota,857,o57642,Temsunaro Aier,NL,1966-03-05,2011
 2023-01-01,promotion-quota,858,o57819,Tonmoy Pratim Borgohain,AM,1967-02-18,2011
-2023-01-01,promotion-quota,859,01OR820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
+2023-01-01,promotion-quota,859,01OD820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
 2023-01-01,promotion-quota,860,o57631,Dilip Routrai,OD,1966-07-05,2011
 2023-01-01,promotion-quota,861,o57820,Syed Isfaqur Rahman,AM,1967-08-02,2011
 2023-01-01,promotion-quota,862,01NL820P03-1964-01-26,Peter Lichamo,NL,1964-01-26,2011
@@ -20565,10 +20565,10 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,884,o57636,Subrata Satapathy,OD,1966-07-21,2011
 2023-01-01,promotion-quota,885,o57827,Devasish Sharmah,AM,1967-02-23,2011
 2023-01-01,promotion-quota,886,01AM820111-1965-03-15,Juri Doley,AM,1965-03-15,2011
-2023-01-01,promotion-quota,887,01OR820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
+2023-01-01,promotion-quota,887,01OD820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
 2023-01-01,promotion-quota,888,01JH820J11-1964-02-27,Arvinid Kumar,JH,1964-02-27,2011
 2023-01-01,promotion-quota,889,01JH820J12-1964-12-21,Raju Ranjan Roy,JH,1964-12-21,2011
-2023-01-01,promotion-quota,890,01OR820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
+2023-01-01,promotion-quota,890,01OD820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
 2023-01-01,promotion-quota,891,o57829,Puspanjali Das,AM,1966-11-01,2011
 2023-01-01,promotion-quota,892,01AM820113-1965-03-01,Prakash Ranjan Gharphalia,AM,1965-03-01,2011
 2023-01-01,promotion-quota,893,01OD820Q13-1964-04-16,Susanta Kumar Dash,OD,1964-04-16,2011
@@ -20758,18 +20758,18 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,1077,o56095,Harji Lal Atal,RJ,1969-07-01,2012
 2023-01-01,promotion-quota,1078,01JH821J01-1965-07-14,Manmohan Prasad,JH,1965-07-14,2012
 2023-01-01,promotion-quota,1079,o57946,Kumud Sahay,JH,1966-12-12,2012
-2023-01-01,promotion-quota,1080,01OR821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
+2023-01-01,promotion-quota,1080,01OD821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
 2023-01-01,promotion-quota,1081,o58436,Ravi Ranjan Kumar Vikram,JH,1968-06-22,2012
-2023-01-01,promotion-quota,1082,01OR821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
+2023-01-01,promotion-quota,1082,01OD821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
 2023-01-01,promotion-quota,1083,01JH821J04-1965-07-11,Sashi Bhushan Mehra,JH,1965-07-11,2012
 2023-01-01,promotion-quota,1084,01JH821J05-1965-01-26,Pradeep Tigga,JH,1965-01-26,2012
-2023-01-01,promotion-quota,1085,01OR821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
+2023-01-01,promotion-quota,1085,01OD821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
 2023-01-01,promotion-quota,1086,o58058,Saroj Kumar Sethi,OD,1966-03-08,2012
 2023-01-01,promotion-quota,1087,01JH821J06-1965-05-29,Poonam Prabha Purti,JH,1965-05-29,2012
 2023-01-01,promotion-quota,1088,o57950,Manohar Marandi,JH,1966-04-12,2012
-2023-01-01,promotion-quota,1089,01OR821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
+2023-01-01,promotion-quota,1089,01OD821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
 2023-01-01,promotion-quota,1090,o58060,Sangram Keshari,OD,1968-03-21,2012
-2023-01-01,promotion-quota,1091,01OR821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
+2023-01-01,promotion-quota,1091,01OD821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
 2023-01-01,promotion-quota,1092,o58062,Ganeswar Jena,OD,1967-01-23,2012
 2023-01-01,promotion-quota,1093,o58063,Deben Kumar Pradhan,OD,1967-09-20,2012
 2023-01-01,promotion-quota,1094,o58064,Trilochan Majhi,OD,1966-08-15,2012
@@ -20836,12 +20836,12 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2023-01-01,promotion-quota,1155,o57882,Aijaz Ahmad Bhat,UT,1968-08-17,2013
 2023-01-01,promotion-quota,1156,o54430,Bharathi D,KN,1974-10-02,2013
 2023-01-01,promotion-quota,1157,o54431,Yogesh A M,KN,1973-01-20,2013
-2023-01-01,promotion-quota,1158,01UT818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
+2023-01-01,promotion-quota,1158,01JK818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
 2023-01-01,promotion-quota,1159,o57884,Majid Khalil Ahmad Drabu,UT,1967-09-06,2013
 2023-01-01,promotion-quota,1160,o54432,Shivaprasad P R,KN,1973-05-29,2013
 2023-01-01,promotion-quota,1161,o57885,Mohammad Akbar Wani,UT,1967-04-04,2013
 2023-01-01,promotion-quota,1162,o57886,Sheikh Arshad Ayub,UT,1968-10-20,2013
-2023-01-01,promotion-quota,1163,01UT818I10-1963-06-26,Rajesh Sharma,UT,1963-06-26,2013
+2023-01-01,promotion-quota,1163,01JK818I10-1963-06-26,Rajesh Sharma,UT,1963-06-26,2013
 2023-01-01,promotion-quota,1164,01PB817002-1964-12-12,Navjot Pal Singh Randhawa,PB,1964-12-12,2013
 2023-01-01,promotion-quota,1165,o37343,Parneet Shergill,PB,1977-11-30,2013
 2023-01-01,promotion-quota,1166,o37398,P.S. Dhruv,CG,1967-03-12,2013
@@ -21229,7 +21229,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,11,01UP057900-1964-05-03,Mahesh Kumar Gupta,UP,1964-05-03,1987
 2024-01-01,direct-recruits,12,01OR023100-1965-07-08,Tuhin Kanta Pandey,OD,1965-07-08,1987
 2024-01-01,direct-recruits,13,01AP034600-1964-06-05,Neerabh Kumar Prasad,AP,1964-06-05,1987
-2024-01-01,direct-recruits,14,01UT007600-1964-06-18,Pradip Kumar Tripathi,UT,1964-06-18,1987
+2024-01-01,direct-recruits,14,01JK007600-1964-06-18,Pradip Kumar Tripathi,UT,1964-06-18,1987
 2024-01-01,direct-recruits,15,01GJ025900-1965-01-06,Raj Kumar,GJ,1965-01-06,1987
 2024-01-01,direct-recruits,16,01KN027800-1964-05-18,V Manjula,KN,1964-05-18,1987
 2024-01-01,direct-recruits,17,01PB017700-1964-10-21,Vini Mahajan,PB,1964-10-21,1987
@@ -21240,7 +21240,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,22,01UT018400-1963-11-18,Naresh Kumar,UT,1963-11-18,1987
 2024-01-01,direct-recruits,23,01HP011101-1964-11-02,Nisha Singh,HP,1964-11-02,1987
 2024-01-01,direct-recruits,24,01JH039400-1964-03-05,Sukhdeo Singh,JH,1964-03-05,1987
-2024-01-01,direct-recruits,25,01OD023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
+2024-01-01,direct-recruits,25,01OR023200-1964-09-01,Rajesh Verma,OD,1964-09-01,1987
 2024-01-01,direct-recruits,26,01UP058700-1964-02-25,Hemant Rao,UP,1964-02-25,1987
 2024-01-01,direct-recruits,27,01UP059000-1964-08-11,Rajneesh Dube,UP,1964-08-11,1988
 2024-01-01,direct-recruits,28,01AP035100-1963-06-12,Aramane Giridhar,AP,1963-06-12,1988
@@ -21253,10 +21253,10 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,35,01UD060000-1964-03-06,Radha Raturi,UD,1964-03-06,1988
 2024-01-01,direct-recruits,36,01GJ026500-1964-01-26,Mukesh Puri,GJ,1964-01-26,1988
 2024-01-01,direct-recruits,37,01RJ027200-1965-12-17,Subodh Agarwal,RJ,1965-12-17,1988
-2024-01-01,direct-recruits,38,01OD023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
+2024-01-01,direct-recruits,38,01OR023500-1964-11-27,C J Venugopal,OD,1964-11-27,1988
 2024-01-01,direct-recruits,39,01MH039000-1964-03-29,Nitin N Kareer,MH,1964-03-29,1988
 2024-01-01,direct-recruits,40,01HP011500-1964-07-15,Ali Raza Rizvi,HP,1964-07-15,1988
-2024-01-01,direct-recruits,41,01OD023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
+2024-01-01,direct-recruits,41,01OR023400-1964-05-25,Pradipta Kumar Mohapatra,OD,1964-05-25,1988
 2024-01-01,direct-recruits,42,01AP035200-1964-07-01,Poonam Malakondiah,AP,1964-07-01,1988
 2024-01-01,direct-recruits,43,01MN012600-1964-06-01,Mamnoon Hasan Khan,MN,1964-06-01,1988
 2024-01-01,direct-recruits,44,01UP059900-1964-06-21,S Radha Chauhan,UP,1964-06-21,1988
@@ -21287,7 +21287,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,69,01RJ027803-1964-03-16,Rohit Kumar Singh,RJ,1964-03-16,1989
 2024-01-01,direct-recruits,70,01UP060300-1965-04-14,Monika S Garg,UP,1965-04-14,1989
 2024-01-01,direct-recruits,71,o15137,V. Srinivas,RJ,1966-09-01,1989
-2024-01-01,direct-recruits,72,01UT008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
+2024-01-01,direct-recruits,72,01JK008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
 2024-01-01,direct-recruits,73,o15079,Anurag Jain,MP,1965-08-11,1989
 2024-01-01,direct-recruits,74,01TG035800-1965-04-07,A Santhi Kumari,TG,1965-04-07,1989
 2024-01-01,direct-recruits,75,o15157,Ansuli Arya,BH,1966-09-17,1989
@@ -21342,7 +21342,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,124,01HY019900-1964-12-13,Ankur Gupta,HY,1964-12-13,1990
 2024-01-01,direct-recruits,125,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2024-01-01,direct-recruits,126,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2024-01-01,direct-recruits,127,01UT008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
+2024-01-01,direct-recruits,127,01JK008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
 2024-01-01,direct-recruits,128,01UP061500-1964-09-11,Nitin Ramesh Gokarn,UP,1964-09-11,1990
 2024-01-01,direct-recruits,129,01UP062001-1964-02-11,Sudhir Garg,UP,1964-02-11,1990
 2024-01-01,direct-recruits,130,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
@@ -21407,7 +21407,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,189,01AP036400-1964-04-21,Praveen Kumar Kolaventy,AP,1964-04-21,1990
 2024-01-01,direct-recruits,190,o15303,Raju Narayanaswamy,KL,1968-05-24,1991
 2024-01-01,direct-recruits,191,o15273,Manoj Govil,MP,1969-03-20,1991
-2024-01-01,direct-recruits,192,01OD025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
+2024-01-01,direct-recruits,192,01OR025001-1964-07-28,Saurabh Garg,OD,1964-07-28,1991
 2024-01-01,direct-recruits,193,01HY020600-1965-04-30,Ashok Khemka,HY,1965-04-30,1991
 2024-01-01,direct-recruits,194,o15284,Anu Garg,OD,1969-03-01,1991
 2024-01-01,direct-recruits,195,01TN034100-1965-09-07,T K Ramachandran,TN,1965-09-07,1991
@@ -21436,7 +21436,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,218,o15322,N Muruganandam,TN,1967-12-23,1991
 2024-01-01,direct-recruits,219,o15357,Rajit Punhani,BH,1967-07-01,1991
 2024-01-01,direct-recruits,220,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2024-01-01,direct-recruits,221,01UT008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
+2024-01-01,direct-recruits,221,01JK008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
 2024-01-01,direct-recruits,222,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2024-01-01,direct-recruits,223,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2024-01-01,direct-recruits,224,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -21535,7 +21535,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,direct-recruits,317,o15433,V L Kantha Rao,MP,1967-12-05,1992
 2024-01-01,direct-recruits,318,01BH044100-1964-11-29,Parmar Ravi Manubhai,BH,1964-11-29,1992
 2024-01-01,direct-recruits,319,01MP043601-1964-02-02,Kalpana Shrivastava,MP,1964-02-02,1992
-2024-01-01,direct-recruits,320,01UT008800-1964-07-30,Ashok Kumar R Parmar,UT,1964-07-30,1992
+2024-01-01,direct-recruits,320,01JK008800-1964-07-30,Ashok Kumar R Parmar,UT,1964-07-30,1992
 2024-01-01,direct-recruits,321,01UT021500-1965-08-23,Sanjiv Kumar,UT,1965-08-23,1992
 2024-01-01,direct-recruits,322,o15371,Shamsheer Singh Rawat,AP,1969-12-20,1992
 2024-01-01,direct-recruits,323,o15394,K Gopal,TN,1966-08-10,1992
@@ -25232,7 +25232,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,27,01CG810012-1964-12-14,Govindram Churendra,CG,1964-12-14,2003
 2024-01-01,promotion-quota,28,01MH811104-1964-07-22,Sumant N Bhange,MH,1964-07-22,2003
 2024-01-01,promotion-quota,29,01MH811105-1964-03-18,Anil Mahadeo Kawade,MH,1964-03-18,2003
-2024-01-01,promotion-quota,30,01OD909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
+2024-01-01,promotion-quota,30,01OR909003-1964-07-01,Srikanta Prusty,OD,1964-07-01,2003
 2024-01-01,promotion-quota,31,o13837,Y. Kikheto Sema,NL,1967-01-01,2003
 2024-01-01,promotion-quota,32,o17035,E. Sridhar,TG,1968-05-28,2004
 2024-01-01,promotion-quota,33,o17037,T. K. Sreedevi,TG,1970-08-14,2004
@@ -25302,7 +25302,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,97,01WB814301-1964-09-29,Sunrita Hazra,WB,1964-09-29,2005
 2024-01-01,promotion-quota,98,01SK814305-1964-07-15,Yashoda Bhandari,SK,1964-07-15,2005
 2024-01-01,promotion-quota,99,01TN911006-1964-10-20,L. Subramanian,TN,1964-10-20,2005
-2024-01-01,promotion-quota,100,01OD913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
+2024-01-01,promotion-quota,100,01OR913002-1964-01-17,Suresh Chandra Dalai,OD,1964-01-17,2005
 2024-01-01,promotion-quota,101,01WB914302-1964-08-07,Sudip Kumar Sinha,WB,1964-08-07,2005
 2024-01-01,promotion-quota,102,01WB914304-1964-01-07,Achintya Kumar Pati,WB,1964-01-07,2005
 2024-01-01,promotion-quota,103,o13912,S Jayandhi,TN,1974-09-12,2006
@@ -25322,7 +25322,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,117,o26582,Anil Suchari,MP,1967-09-30,2006
 2024-01-01,promotion-quota,118,o26583,Mal Singh Bhaydiya,MP,1966-06-06,2006
 2024-01-01,promotion-quota,119,01UP813114-1965-08-31,Shahid M Abbas Rizvi,UP,1965-08-31,2006
-2024-01-01,promotion-quota,120,01UD813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
+2024-01-01,promotion-quota,120,01UP813116-1964-10-05,Vijay Kumar Yadav,UD,1964-10-05,2006
 2024-01-01,promotion-quota,121,01RJ814307-1965-05-27,Urmila Rajoria,RJ,1965-05-27,2006
 2024-01-01,promotion-quota,122,01WB814309-1964-06-17,Gholam H O Rahman,WB,1964-06-17,2006
 2024-01-01,promotion-quota,123,01KN910005-1964-07-02,G. C. Prakash,KN,1964-07-02,2006
@@ -25373,12 +25373,12 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,168,01WB815307-1965-06-17,Dipankar Sinha,WB,1965-06-17,2007
 2024-01-01,promotion-quota,169,01WB815308-1965-03-12,Debashis Das,WB,1965-03-12,2007
 2024-01-01,promotion-quota,170,01WB815309-1964-03-28,Probhudutta David Pradhan,WB,1964-03-28,2007
-2024-01-01,promotion-quota,171,01OD815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
+2024-01-01,promotion-quota,171,01OR815012-1964-01-03,Gyanaranjan Das,OD,1964-01-03,2007
 2024-01-01,promotion-quota,172,01WB816001-1964-04-10,Ajoy Sanyamath,WB,1964-04-10,2007
 2024-01-01,promotion-quota,173,01WB816003-1964-11-04,Biswajit Dutta,WB,1964-11-04,2007
 2024-01-01,promotion-quota,174,o31768,Pratibha Singh,RJ,1966-02-20,2007
 2024-01-01,promotion-quota,175,01WB816004-1965-12-25,Subhra Chakrabarti,WB,1965-12-25,2007
-2024-01-01,promotion-quota,176,01OD816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
+2024-01-01,promotion-quota,176,01OR816006-1964-05-27,Ranjan Kumar Das,OD,1964-05-27,2007
 2024-01-01,promotion-quota,177,01RJ816011-1964-09-20,Sanwar Mal Verma,RJ,1964-09-20,2007
 2024-01-01,promotion-quota,178,01RJ816012-1965-05-05,Mahesh Chandra Sharma,RJ,1965-05-05,2007
 2024-01-01,promotion-quota,179,01RJ816013-1964-10-27,Nirmala Meena,RJ,1964-10-27,2007
@@ -25579,14 +25579,14 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,374,01WB818003-1964-01-07,Debasis Ghosh Il,WB,1964-01-07,2009
 2024-01-01,promotion-quota,375,01NL818003-1964-03-09,T Mhabemo Yanthan,NL,1964-03-09,2009
 2024-01-01,promotion-quota,376,01NL818004-1965-10-11,Kenilo Apon,NL,1965-10-11,2009
-2024-01-01,promotion-quota,377,01OD818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
+2024-01-01,promotion-quota,377,01OR818004-1964-09-25,Umakanta Tripathy,OD,1964-09-25,2009
 2024-01-01,promotion-quota,378,01WB818004-1964-07-02,Pranita Shewa Nee Pariyar,WB,1964-07-02,2009
 2024-01-01,promotion-quota,379,01RJ818005-1964-12-19,Ghanendra Bhan,RJ,1964-12-19,2009
-2024-01-01,promotion-quota,380,01OD818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
-2024-01-01,promotion-quota,381,01OD818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
+2024-01-01,promotion-quota,380,01OR818005-1964-04-01,Bishnu Prasad Mishra,OD,1964-04-01,2009
+2024-01-01,promotion-quota,381,01OR818006-1964-10-20,Suvendu Kanungo,OD,1964-10-20,2009
 2024-01-01,promotion-quota,382,01RJ818006-1964-10-10,Karan Singh,RJ,1964-10-10,2009
 2024-01-01,promotion-quota,383,01RJ818007-1964-03-01,Parmeshwar Lal,RJ,1964-03-01,2009
-2024-01-01,promotion-quota,384,01OD818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
+2024-01-01,promotion-quota,384,01OR818008-1964-01-05,Rabindra Nath Sahu,OD,1964-01-05,2009
 2024-01-01,promotion-quota,385,o37567,Vishram Meena,RJ,1968-12-10,2009
 2024-01-01,promotion-quota,386,o14025,Lalrozama,UT,1968-05-13,2009
 2024-01-01,promotion-quota,387,o37312,Khalid Aizaz Anwar,WB,1966-11-15,2009
@@ -25766,7 +25766,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,561,01JH819J17-1964-03-05,Gayatri Kumari,JH,1964-03-05,2010
 2024-01-01,promotion-quota,562,o56005,Sujay Sarkar,WB,1968-12-22,2010
 2024-01-01,promotion-quota,563,o56006,Lalita Agarwala,WB,1967-10-10,2010
-2024-01-01,promotion-quota,564,01OR819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
+2024-01-01,promotion-quota,564,01OD819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
 2024-01-01,promotion-quota,565,01WB819104-1965-02-28,Ikhlaque Islam,WB,1965-02-28,2010
 2024-01-01,promotion-quota,566,o56008,Jaydip Mukhopadhyay,WB,1966-06-09,2010
 2024-01-01,promotion-quota,567,o56010,Arup Sengupta,WB,1966-02-25,2010
@@ -25776,11 +25776,11 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,571,01OD819110-1964-08-14,Mary Lakra,OD,1964-08-14,2010
 2024-01-01,promotion-quota,572,01OD819112-1964-05-07,Srinibas Behera,OD,1964-05-07,2010
 2024-01-01,promotion-quota,573,01OD819113-1964-06-14,Yudhisthir Nayak,OD,1964-06-14,2010
-2024-01-01,promotion-quota,574,01OR819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
+2024-01-01,promotion-quota,574,01OD819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
 2024-01-01,promotion-quota,575,01OD819115-1964-06-30,Sujata Sahu,OD,1964-06-30,2010
 2024-01-01,promotion-quota,576,01OD819117-1964-10-06,Aswini Kumar Mishra,OD,1964-10-06,2010
-2024-01-01,promotion-quota,577,01OR819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
-2024-01-01,promotion-quota,578,01OR819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
+2024-01-01,promotion-quota,577,01OD819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
+2024-01-01,promotion-quota,578,01OD819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
 2024-01-01,promotion-quota,579,01AM819303-1965-12-02,Debajyoti Dutta,AM,1965-12-02,2010
 2024-01-01,promotion-quota,580,o55886,Partha Pratim Majumdar,AM,1966-08-31,2010
 2024-01-01,promotion-quota,581,01AM819305-1965-04-20,Abhijit Baruah,AM,1965-04-20,2010
@@ -25905,7 +25905,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,700,o58780,Satyajit Sen,WB,1966-01-02,2011
 2024-01-01,promotion-quota,701,o57642,Temsunaro Aier,NL,1966-03-05,2011
 2024-01-01,promotion-quota,702,o57748,Jigme Dorjee Bhutia,SK,1966-11-02,2011
-2024-01-01,promotion-quota,703,01OR820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
+2024-01-01,promotion-quota,703,01OD820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
 2024-01-01,promotion-quota,704,o57819,Tonmoy Pratim Borgohain,AM,1967-02-18,2011
 2024-01-01,promotion-quota,705,01JH820J02-1965-11-22,Nelson Eyon Bage,JH,1965-11-22,2011
 2024-01-01,promotion-quota,706,o57933,Shashi Prakash Jha,JH,1967-12-19,2011
@@ -25945,10 +25945,10 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,740,o57940,Sanjay Kumar,JH,1966-07-02,2011
 2024-01-01,promotion-quota,741,01JH820J11-1964-02-27,Arvinid Kumar,JH,1964-02-27,2011
 2024-01-01,promotion-quota,742,01AM820111-1965-03-15,Juri Doley,AM,1965-03-15,2011
-2024-01-01,promotion-quota,743,01OR820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
+2024-01-01,promotion-quota,743,01OD820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
 2024-01-01,promotion-quota,744,01WB820X11-1965-10-12,Sital Chandra Mondal,WB,1965-10-12,2011
 2024-01-01,promotion-quota,745,o58790,Sonam Wangdi Bhutia,WB,1968-05-25,2011
-2024-01-01,promotion-quota,746,01OR820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
+2024-01-01,promotion-quota,746,01OD820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
 2024-01-01,promotion-quota,747,o57829,Puspanjali Das,AM,1966-11-01,2011
 2024-01-01,promotion-quota,748,01JH820J12-1964-12-21,Raju Ranjan Roy,JH,1964-12-21,2011
 2024-01-01,promotion-quota,749,01JH820J13-1965-12-07,Pawan Kumar,JH,1965-12-07,2011
@@ -26139,16 +26139,16 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,934,01AM821102-1965-02-21,Gitanjali Bhattacharjee,AM,1965-02-21,2012
 2024-01-01,promotion-quota,935,o58095,Sotsula,NL,1968-04-09,2012
 2024-01-01,promotion-quota,936,o57946,Kumud Sahay,JH,1966-12-12,2012
-2024-01-01,promotion-quota,937,01OR821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
+2024-01-01,promotion-quota,937,01OD821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
 2024-01-01,promotion-quota,938,o58436,Ravi Ranjan Kumar Vikram,JH,1968-06-22,2012
 2024-01-01,promotion-quota,939,o58667,Shah Nawaz Choudhury,AM,1966-07-17,2012
 2024-01-01,promotion-quota,940,o58952,Chaitali Chakrabarti,WB,1970-03-24,2012
 2024-01-01,promotion-quota,941,o58953,Debjani Datta,WB,1969-12-05,2012
 2024-01-01,promotion-quota,942,o58668,Fazlul Haque Choudhury,AM,1966-03-01,2012
-2024-01-01,promotion-quota,943,01OR821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
+2024-01-01,promotion-quota,943,01OD821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
 2024-01-01,promotion-quota,944,01JH821J04-1965-07-11,Sashi Bhushan Mehra,JH,1965-07-11,2012
 2024-01-01,promotion-quota,945,01JH821J05-1965-01-26,Pradeep Tigga,JH,1965-01-26,2012
-2024-01-01,promotion-quota,946,01OR821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
+2024-01-01,promotion-quota,946,01OD821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
 2024-01-01,promotion-quota,947,o58669,Kavyashree Mahanta,AM,1966-06-02,2012
 2024-01-01,promotion-quota,948,o58954,Asita Misra,WB,1970-08-06,2012
 2024-01-01,promotion-quota,949,o58955,Sudeep Mitra,WB,1967-02-22,2012
@@ -26160,13 +26160,13 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,955,o58956,Arundhati Sarkar,WB,1966-04-23,2012
 2024-01-01,promotion-quota,956,01WB821X08-1965-09-10,Mukesh Kumar Singh,WB,1965-09-10,2012
 2024-01-01,promotion-quota,957,o58672,Indreswar Kalita,AM,1966-01-02,2012
-2024-01-01,promotion-quota,958,01OR821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
+2024-01-01,promotion-quota,958,01OD821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
 2024-01-01,promotion-quota,959,o58060,Sangram Keshari,OD,1968-03-21,2012
 2024-01-01,promotion-quota,960,01AM821109-1965-01-25,Kausar Jamil Hilaly,AM,1965-01-25,2012
 2024-01-01,promotion-quota,961,01WB821X09-1965-08-30,Bijit Kumar Dhar,WB,1965-08-30,2012
 2024-01-01,promotion-quota,962,o58959,Utpal Bhadra,WB,1967-07-02,2012
 2024-01-01,promotion-quota,963,01AM821110-1965-03-01,Deba Kumar Kalita,AM,1965-03-01,2012
-2024-01-01,promotion-quota,964,01OR821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
+2024-01-01,promotion-quota,964,01OD821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
 2024-01-01,promotion-quota,965,o58062,Ganeswar Jena,OD,1967-01-23,2012
 2024-01-01,promotion-quota,966,o58675,Arundhati Chakraborty,AM,1966-01-16,2012
 2024-01-01,promotion-quota,967,o58063,Deben Kumar Pradhan,OD,1967-09-20,2012
@@ -26233,7 +26233,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2024-01-01,promotion-quota,1028,o57882,Aijaz Ahmad Bhat,UT,1968-08-17,2013
 2024-01-01,promotion-quota,1029,o54430,Bharathi D,KN,1974-10-02,2013
 2024-01-01,promotion-quota,1030,o54431,Yogesh A M,KN,1973-01-20,2013
-2024-01-01,promotion-quota,1031,01UT818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
+2024-01-01,promotion-quota,1031,01JK818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
 2024-01-01,promotion-quota,1032,o57884,Majid Khalil Ahmad Drabu,UT,1967-09-06,2013
 2024-01-01,promotion-quota,1033,o54432,Shivaprasad P R,KN,1973-05-29,2013
 2024-01-01,promotion-quota,1034,o57885,Mohammad Akbar Wani,UT,1967-04-04,2013
@@ -26784,7 +26784,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,direct-recruits,24,01GJ027200-1965-10-19,Pankaj Joshi,GJ,1965-10-19,1989
 2025-01-01,direct-recruits,25,01UP060300-1965-04-14,Monika S Garg,UP,1965-04-14,1989
 2025-01-01,direct-recruits,26,o15137,V. Srinivas,RJ,1966-09-01,1989
-2025-01-01,direct-recruits,27,01UT008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
+2025-01-01,direct-recruits,27,01JK008100-1965-06-14,Umang Narula,UT,1965-06-14,1989
 2025-01-01,direct-recruits,28,o15079,Anurag Jain,MP,1965-08-11,1989
 2025-01-01,direct-recruits,29,01TG035800-1965-04-07,A Santhi Kumari,TG,1965-04-07,1989
 2025-01-01,direct-recruits,30,o15157,Ansuli Arya,BH,1966-09-17,1989
@@ -26818,7 +26818,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,direct-recruits,58,o15188,Sumita Misra,HY,1967-01-30,1990
 2025-01-01,direct-recruits,59,o15184,Anurag Rastogi,HY,1965-06-21,1990
 2025-01-01,direct-recruits,60,o15246,Rajesh Kumar Rajora,MP,1967-05-13,1990
-2025-01-01,direct-recruits,61,01UT008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
+2025-01-01,direct-recruits,61,01JK008300-1965-08-10,Raj Kumar Goyal,UT,1965-08-10,1990
 2025-01-01,direct-recruits,62,01OR024200-1965-10-25,Niten Chandra,OD,1965-10-25,1990
 2025-01-01,direct-recruits,63,01TN033100-1965-10-24,Vibhu Nayar,TN,1965-10-24,1990
 2025-01-01,direct-recruits,64,01OR024100-1964-12-24,Manoj Ahuja,OD,1964-12-24,1990
@@ -26888,7 +26888,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,direct-recruits,128,o15322,N Muruganandam,TN,1967-12-23,1991
 2025-01-01,direct-recruits,129,o15357,Rajit Punhani,BH,1967-07-01,1991
 2025-01-01,direct-recruits,130,01NL004900-1965-08-01,Jan E Alam,NL,1965-08-01,1991
-2025-01-01,direct-recruits,131,01UT008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
+2025-01-01,direct-recruits,131,01JK008400-1965-12-28,Shantmanu,UT,1965-12-28,1991
 2025-01-01,direct-recruits,132,o15263,Debashree Mukherjee,UT,1968-11-19,1991
 2025-01-01,direct-recruits,133,01GJ028300-1965-12-03,Sayed Jawaid Haider,GJ,1965-12-03,1991
 2025-01-01,direct-recruits,134,o15351,G Sai Prasad,AP,1966-05-06,1991
@@ -31219,7 +31219,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,400,01JH819J16-1965-10-02,Lalchand Dadel,JH,1965-10-02,2010
 2025-01-01,promotion-quota,401,o57977,Rakesh Kumar,BH,1966-02-10,2010
 2025-01-01,promotion-quota,402,o56005,Sujay Sarkar,WB,1968-12-22,2010
-2025-01-01,promotion-quota,403,01OR819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
+2025-01-01,promotion-quota,403,01OD819103-1965-01-21,Sashadhara Nayak,OD,1965-01-21,2010
 2025-01-01,promotion-quota,404,o56006,Lalita Agarwala,WB,1967-10-10,2010
 2025-01-01,promotion-quota,405,01WB819104-1965-02-28,Ikhlaque Islam,WB,1965-02-28,2010
 2025-01-01,promotion-quota,406,o56008,Jaydip Mukhopadhyay,WB,1966-06-09,2010
@@ -31227,9 +31227,9 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,408,01WB819108-1965-11-06,Siladitya Basuray,WB,1965-11-06,2010
 2025-01-01,promotion-quota,409,o56012,Amitava Banerjee,WB,1966-09-09,2010
 2025-01-01,promotion-quota,410,o56013,Debabrata Chakraborty,WB,1966-05-10,2010
-2025-01-01,promotion-quota,411,01OR819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
-2025-01-01,promotion-quota,412,01OR819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
-2025-01-01,promotion-quota,413,01OR819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
+2025-01-01,promotion-quota,411,01OD819114-1965-05-24,Udaya Narayan Das,OD,1965-05-24,2010
+2025-01-01,promotion-quota,412,01OD819118-1965-01-15,Ramashis Hazra,OD,1965-01-15,2010
+2025-01-01,promotion-quota,413,01OD819120-1965-07-08,Jyoti Prakash Das,OD,1965-07-08,2010
 2025-01-01,promotion-quota,414,01AM819303-1965-12-02,Debajyoti Dutta,AM,1965-12-02,2010
 2025-01-01,promotion-quota,415,o55886,Partha Pratim Majumdar,AM,1966-08-31,2010
 2025-01-01,promotion-quota,416,01AM819305-1965-04-20,Abhijit Baruah,AM,1965-04-20,2010
@@ -31349,7 +31349,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,530,o57818,Riju Gogoi,AM,1966-03-08,2011
 2025-01-01,promotion-quota,531,01JH820J02-1965-11-22,Nelson Eyon Bage,JH,1965-11-22,2011
 2025-01-01,promotion-quota,532,o58780,Satyajit Sen,WB,1966-01-02,2011
-2025-01-01,promotion-quota,533,01OR820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
+2025-01-01,promotion-quota,533,01OD820Q02-1965-02-02,Susamarani Devi,OD,1965-02-02,2011
 2025-01-01,promotion-quota,534,o57642,Temsunaro Aier,NL,1966-03-05,2011
 2025-01-01,promotion-quota,535,o57748,Jigme Dorjee Bhutia,SK,1966-11-02,2011
 2025-01-01,promotion-quota,536,o57819,Tonmoy Pratim Borgohain,AM,1967-02-18,2011
@@ -31382,11 +31382,11 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,563,o57636,Subrata Satapathy,OD,1966-07-21,2011
 2025-01-01,promotion-quota,564,o57827,Devasish Sharmah,AM,1967-02-23,2011
 2025-01-01,promotion-quota,565,01WB820X11-1965-10-12,Sital Chandra Mondal,WB,1965-10-12,2011
-2025-01-01,promotion-quota,566,01OR820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
+2025-01-01,promotion-quota,566,01OD820Q11-1965-03-04,Trilochan Pradhan,OD,1965-03-04,2011
 2025-01-01,promotion-quota,567,01AM820111-1965-03-15,Juri Doley,AM,1965-03-15,2011
 2025-01-01,promotion-quota,568,o58790,Sonam Wangdi Bhutia,WB,1968-05-25,2011
 2025-01-01,promotion-quota,569,o58872,Mukesh Kumar Sinha,BH,1966-06-10,2011
-2025-01-01,promotion-quota,570,01OR820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
+2025-01-01,promotion-quota,570,01OD820Q12-1965-04-05,Alok Kumar Kar,OD,1965-04-05,2011
 2025-01-01,promotion-quota,571,o57829,Puspanjali Das,AM,1966-11-01,2011
 2025-01-01,promotion-quota,572,01JH820J13-1965-12-07,Pawan Kumar,JH,1965-12-07,2011
 2025-01-01,promotion-quota,573,o58791,Chandani Tudu,WB,1967-04-14,2011
@@ -31560,27 +31560,27 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,741,o58665,Monita Borgohain,AM,1966-03-02,2012
 2025-01-01,promotion-quota,742,o58951,Shakil Ahmed,WB,1969-06-21,2012
 2025-01-01,promotion-quota,743,01AM821102-1965-02-21,Gitanjali Bhattacharjee,AM,1965-02-21,2012
-2025-01-01,promotion-quota,744,01OR821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
+2025-01-01,promotion-quota,744,01OD821Q03-1965-01-22,Tushar Kanta Mohanty,OD,1965-01-22,2012
 2025-01-01,promotion-quota,745,o58952,Chaitali Chakrabarti,WB,1970-03-24,2012
 2025-01-01,promotion-quota,746,01JH821J01-1965-07-14,Manmohan Prasad,JH,1965-07-14,2012
 2025-01-01,promotion-quota,747,o58667,Shah Nawaz Choudhury,AM,1966-07-17,2012
-2025-01-01,promotion-quota,748,01OR821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
+2025-01-01,promotion-quota,748,01OD821Q04-1965-02-19,Saroj Kumar Samal,OD,1965-02-19,2012
 2025-01-01,promotion-quota,749,o57946,Kumud Sahay,JH,1966-12-12,2012
 2025-01-01,promotion-quota,750,o58668,Fazlul Haque Choudhury,AM,1966-03-01,2012
-2025-01-01,promotion-quota,751,01OR821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
+2025-01-01,promotion-quota,751,01OD821Q05-1965-06-04,Manoj Kumar Mohanty,OD,1965-06-04,2012
 2025-01-01,promotion-quota,752,o58669,Kavyashree Mahanta,AM,1966-06-02,2012
 2025-01-01,promotion-quota,753,o58058,Saroj Kumar Sethi,OD,1966-03-08,2012
 2025-01-01,promotion-quota,754,o58436,Ravi Ranjan Kumar Vikram,JH,1968-06-22,2012
 2025-01-01,promotion-quota,755,01JH821J04-1965-07-11,Sashi Bhushan Mehra,JH,1965-07-11,2012
 2025-01-01,promotion-quota,756,o58670,Smitakshi Baruah,AM,1967-02-02,2012
-2025-01-01,promotion-quota,757,01OR821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
+2025-01-01,promotion-quota,757,01OD821Q08-1965-06-30,Abanikant Pattanaik,OD,1965-06-30,2012
 2025-01-01,promotion-quota,758,o58953,Debjani Datta,WB,1969-12-05,2012
 2025-01-01,promotion-quota,759,01JH821J05-1965-01-26,Pradeep Tigga,JH,1965-01-26,2012
 2025-01-01,promotion-quota,760,o58671,Malavika Choudhury,AM,1967-05-31,2012
 2025-01-01,promotion-quota,761,o58060,Sangram Keshari Mohapatra,OD,1968-03-21,2012
 2025-01-01,promotion-quota,762,01JH821J06-1965-05-29,Punam Prabha Purti,JH,1965-05-29,2012
 2025-01-01,promotion-quota,763,o58672,Indreswar Kalita,AM,1966-01-02,2012
-2025-01-01,promotion-quota,764,01OR821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
+2025-01-01,promotion-quota,764,01OD821Q10-1965-03-26,Rajashree Mohanty,OD,1965-03-26,2012
 2025-01-01,promotion-quota,765,o58954,Asita Misra,WB,1970-08-06,2012
 2025-01-01,promotion-quota,766,o57950,Manohar Marandi,JH,1966-04-12,2012
 2025-01-01,promotion-quota,767,01AM821109-1965-01-25,Kausar Jamil Hilaly,AM,1965-01-25,2012
@@ -31654,7 +31654,7 @@ edition,list,rank,officer_key,name,cadre,date_of_birth,allotment_year
 2025-01-01,promotion-quota,835,o54429,Balachandra S N,KN,1977-03-20,2013
 2025-01-01,promotion-quota,836,o57882,Aijaz Ahmad Bhat,UT,1968-08-17,2013
 2025-01-01,promotion-quota,837,o54430,Bharathi D,KN,1974-10-02,2013
-2025-01-01,promotion-quota,838,01UT818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
+2025-01-01,promotion-quota,838,01JK818I06-1965-02-14,Hashmat Ali Yatoo,UT,1965-02-14,2013
 2025-01-01,promotion-quota,839,o54431,Yogeesh A M,KN,1973-01-20,2013
 2025-01-01,promotion-quota,840,o57884,Majid Khalil Ahmad Drabu,UT,1967-09-06,2013
 2025-01-01,promotion-quota,841,o54432,Shivaprasad P R,KN,1973-05-29,2013
