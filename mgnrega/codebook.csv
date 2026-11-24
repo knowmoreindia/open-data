@@ -72,3 +72,13 @@ release: all-copies-<financial year>.csv.gz,percent_agriculture_allied_spending,
 release: all-copies-<financial year>.csv.gz,percent_natural_resource_spending,"number,null","Share of spending on natural resource management, per cent"
 release: all-copies-<financial year>.csv.gz,percent_paid_within_15_days,"number,null","Share of wage payments made within 15 days, per cent"
 release: all-copies-<financial year>.csv.gz,remarks,"string,null","Remarks, as published"
+data/wide/person_days_by_state.csv,state_slug,string,State or UT
+data/wide/person_days_by_state.csv,2018-2019,number,Person-days in 2018-2019
+data/wide/person_days_by_state.csv,2019-2020,number,Person-days in 2019-2020
+data/wide/person_days_by_state.csv,2020-2021,number,Person-days in 2020-2021
+data/wide/person_days_by_state.csv,2021-2022,number,Person-days in 2021-2022
+data/wide/person_days_by_state.csv,2022-2023,number,Person-days in 2022-2023
+data/wide/person_days_by_state.csv,2023-2024,number,Person-days in 2023-2024
+data/wide/person_days_by_state.csv,2024-2025,number,Person-days in 2024-2025
+data/wide/person_days_by_state.csv,2025-2026,number,Person-days in 2025-2026
+data/wide/person_days_by_state.csv,2026-2027,number,Person-days in 2026-2027

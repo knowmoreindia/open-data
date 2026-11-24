@@ -507,6 +507,231 @@
           }
         ]
       }
+    },
+    {
+      "name": "cpi-headline-wide",
+      "path": "data/wide/cpi_headline.csv",
+      "format": "csv",
+      "description": "All-India consumer price inflation each month: combined, rural and urban",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month (YYYY-MM)"
+          },
+          {
+            "name": "index_combined",
+            "type": "number",
+            "description": "CPI (General), combined"
+          },
+          {
+            "name": "inflation_combined",
+            "type": "number",
+            "description": "Inflation on a year earlier, combined, per cent"
+          },
+          {
+            "name": "inflation_rural",
+            "type": "number",
+            "description": "Inflation, rural, per cent"
+          },
+          {
+            "name": "inflation_urban",
+            "type": "number",
+            "description": "Inflation, urban, per cent"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cpi-inflation-by-state-wide",
+      "path": "data/wide/cpi_inflation_by_state.csv",
+      "format": "csv",
+      "description": "Consumer price inflation each month (combined, per cent), one column per State or UT",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month (YYYY-MM)"
+          },
+          {
+            "name": "andaman-and-nicobar-islands",
+            "type": "number",
+            "description": "Inflation in andaman-and-nicobar-islands, per cent"
+          },
+          {
+            "name": "andhra-pradesh",
+            "type": "number",
+            "description": "Inflation in andhra-pradesh, per cent"
+          },
+          {
+            "name": "arunachal-pradesh",
+            "type": "number",
+            "description": "Inflation in arunachal-pradesh, per cent"
+          },
+          {
+            "name": "assam",
+            "type": "number",
+            "description": "Inflation in assam, per cent"
+          },
+          {
+            "name": "bihar",
+            "type": "number",
+            "description": "Inflation in bihar, per cent"
+          },
+          {
+            "name": "chandigarh",
+            "type": "number",
+            "description": "Inflation in chandigarh, per cent"
+          },
+          {
+            "name": "chhattisgarh",
+            "type": "number",
+            "description": "Inflation in chhattisgarh, per cent"
+          },
+          {
+            "name": "dadra-and-nagar-haveli-and-daman-and-diu",
+            "type": "number",
+            "description": "Inflation in dadra-and-nagar-haveli-and-daman-and-diu, per cent"
+          },
+          {
+            "name": "delhi",
+            "type": "number",
+            "description": "Inflation in delhi, per cent"
+          },
+          {
+            "name": "goa",
+            "type": "number",
+            "description": "Inflation in goa, per cent"
+          },
+          {
+            "name": "gujarat",
+            "type": "number",
+            "description": "Inflation in gujarat, per cent"
+          },
+          {
+            "name": "haryana",
+            "type": "number",
+            "description": "Inflation in haryana, per cent"
+          },
+          {
+            "name": "himachal-pradesh",
+            "type": "number",
+            "description": "Inflation in himachal-pradesh, per cent"
+          },
+          {
+            "name": "jammu-and-kashmir",
+            "type": "number",
+            "description": "Inflation in jammu-and-kashmir, per cent"
+          },
+          {
+            "name": "jharkhand",
+            "type": "number",
+            "description": "Inflation in jharkhand, per cent"
+          },
+          {
+            "name": "karnataka",
+            "type": "number",
+            "description": "Inflation in karnataka, per cent"
+          },
+          {
+            "name": "kerala",
+            "type": "number",
+            "description": "Inflation in kerala, per cent"
+          },
+          {
+            "name": "lakshadweep",
+            "type": "number",
+            "description": "Inflation in lakshadweep, per cent"
+          },
+          {
+            "name": "madhya-pradesh",
+            "type": "number",
+            "description": "Inflation in madhya-pradesh, per cent"
+          },
+          {
+            "name": "maharashtra",
+            "type": "number",
+            "description": "Inflation in maharashtra, per cent"
+          },
+          {
+            "name": "manipur",
+            "type": "number",
+            "description": "Inflation in manipur, per cent"
+          },
+          {
+            "name": "meghalaya",
+            "type": "number",
+            "description": "Inflation in meghalaya, per cent"
+          },
+          {
+            "name": "mizoram",
+            "type": "number",
+            "description": "Inflation in mizoram, per cent"
+          },
+          {
+            "name": "nagaland",
+            "type": "number",
+            "description": "Inflation in nagaland, per cent"
+          },
+          {
+            "name": "odisha",
+            "type": "number",
+            "description": "Inflation in odisha, per cent"
+          },
+          {
+            "name": "puducherry",
+            "type": "number",
+            "description": "Inflation in puducherry, per cent"
+          },
+          {
+            "name": "punjab",
+            "type": "number",
+            "description": "Inflation in punjab, per cent"
+          },
+          {
+            "name": "rajasthan",
+            "type": "number",
+            "description": "Inflation in rajasthan, per cent"
+          },
+          {
+            "name": "sikkim",
+            "type": "number",
+            "description": "Inflation in sikkim, per cent"
+          },
+          {
+            "name": "tamil-nadu",
+            "type": "number",
+            "description": "Inflation in tamil-nadu, per cent"
+          },
+          {
+            "name": "telangana",
+            "type": "number",
+            "description": "Inflation in telangana, per cent"
+          },
+          {
+            "name": "tripura",
+            "type": "number",
+            "description": "Inflation in tripura, per cent"
+          },
+          {
+            "name": "uttar-pradesh",
+            "type": "number",
+            "description": "Inflation in uttar-pradesh, per cent"
+          },
+          {
+            "name": "uttarakhand",
+            "type": "number",
+            "description": "Inflation in uttarakhand, per cent"
+          },
+          {
+            "name": "west-bengal",
+            "type": "number",
+            "description": "Inflation in west-bengal, per cent"
+          }
+        ]
+      }
     }
   ]
 }

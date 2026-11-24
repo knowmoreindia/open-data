@@ -605,6 +605,66 @@
           }
         ]
       }
+    },
+    {
+      "name": "person-days-by-state-wide",
+      "path": "data/wide/person_days_by_state.csv",
+      "format": "csv",
+      "description": "Person-days of work in each State or UT, one column per financial year (the latest year runs to 2026-04)",
+      "schema": {
+        "fields": [
+          {
+            "name": "state_slug",
+            "type": "string",
+            "description": "State or UT"
+          },
+          {
+            "name": "2018-2019",
+            "type": "number",
+            "description": "Person-days in 2018-2019"
+          },
+          {
+            "name": "2019-2020",
+            "type": "number",
+            "description": "Person-days in 2019-2020"
+          },
+          {
+            "name": "2020-2021",
+            "type": "number",
+            "description": "Person-days in 2020-2021"
+          },
+          {
+            "name": "2021-2022",
+            "type": "number",
+            "description": "Person-days in 2021-2022"
+          },
+          {
+            "name": "2022-2023",
+            "type": "number",
+            "description": "Person-days in 2022-2023"
+          },
+          {
+            "name": "2023-2024",
+            "type": "number",
+            "description": "Person-days in 2023-2024"
+          },
+          {
+            "name": "2024-2025",
+            "type": "number",
+            "description": "Person-days in 2024-2025"
+          },
+          {
+            "name": "2025-2026",
+            "type": "number",
+            "description": "Person-days in 2025-2026"
+          },
+          {
+            "name": "2026-2027",
+            "type": "number",
+            "description": "Person-days in 2026-2027"
+          }
+        ]
+      }
     }
   ]
 }

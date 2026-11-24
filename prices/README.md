@@ -4,6 +4,24 @@ India's official price and production indices, month by month: consumer prices (
 
 Latest month: 2026-09.
 
+## At a glance
+
+| Table | Rows | Period | Where |
+| --- | ---: | --- | --- |
+| cpi | 4,13,436 | 2011-01 to 2025-12 | `data/cpi/` (15 files) |
+| cpi-back-series | 52,863 | 2011-01 to 2013-05 | `data/cpi_back_series.csv` |
+| cpi-items | 42,159 | 2014-01 to 2025-12 | `data/cpi_items/` (12 files) |
+| wpi-2011-12 | 1,46,861 | 2012-04 to 2026-04 | `data/wpi_2011_12/` (15 files) |
+| iip-monthly | 17,196 | 1994-04 to 2026-09 | `data/iip_monthly/` (33 files) |
+| iip-annual | 1,405 | 1994-95 to 2025-26 | `data/iip_annual.csv` |
+
+## Spreadsheet-friendly files
+
+The same data, one row per item and one column per period, for spreadsheets.
+
+- `data/wide/cpi_headline.csv`: All-India consumer price inflation each month: combined, rural and urban
+- `data/wide/cpi_inflation_by_state.csv`: Consumer price inflation each month (combined, per cent), one column per State or UT
+
 ## Files
 
 Each table is in `data/` as CSV, one file per calendar year where it is large.
@@ -33,6 +51,20 @@ headline = cpi[(cpi.state == "All India") & (cpi.subgroup == "General-Overall")]
 
 - IIP has several base years over time (1993-94, 2004-05, 2011-12, 2022-23); `base_year` says which.
 - Figures are as published, including provisional ones, which are revised later.
+
+## How to cite
+
+Know More India, *Prices and production*, version 2026-11-24, https://github.com/knowmoreindia/open-data/tree/main/prices. Licensed CC BY 4.0.
+
+```bibtex
+@misc{knowmoreindia_prices,
+  author = {{Know More India}},
+  title = {Prices and production},
+  year = {2026},
+  version = {2026-11-24},
+  howpublished = {\url{https://github.com/knowmoreindia/open-data/tree/main/prices}}
+}
+```
 
 ## Licence
 

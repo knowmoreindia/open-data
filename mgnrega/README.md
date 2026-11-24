@@ -4,6 +4,19 @@ What the rural jobs scheme did in every district, every month since April 2018: 
 
 743 districts. Latest month: 2026-04.
 
+## At a glance
+
+| Table | Rows | Period | Where |
+| --- | ---: | --- | --- |
+| district-month | 69,407 | 2018-2019 to 2026-2027 | `data/district_month/` (9 files) |
+| all-copies | 4,15,833 |  | release |
+
+## Spreadsheet-friendly files
+
+The same data, one row per item and one column per period, for spreadsheets.
+
+- `data/wide/person_days_by_state.csv`: Person-days of work in each State or UT, one column per financial year (the latest year runs to 2026-04)
+
 ## Files
 
 | Path | |
@@ -28,6 +41,20 @@ year = pd.read_csv(f"{base}/district_month/2026-2027.csv")
 - Figures add up over the financial year. Each month's row is the year so far, not that month alone.
 - The portal republishes a district's row many times as the month's figures come in. `district_month` keeps the copy with the most person-days. A few copies repeat a whole row with every count doubled; those are left out of `district_month` and kept in `all-copies`.
 - The portal does not state the unit of the money columns.
+
+## How to cite
+
+Know More India, *MGNREGA*, version 2026-11-24, https://github.com/knowmoreindia/open-data/tree/main/mgnrega. Licensed CC BY 4.0.
+
+```bibtex
+@misc{knowmoreindia_mgnrega,
+  author = {{Know More India}},
+  title = {MGNREGA},
+  year = {2026},
+  version = {2026-11-24},
+  howpublished = {\url{https://github.com/knowmoreindia/open-data/tree/main/mgnrega}}
+}
+```
 
 ## Licence
 
