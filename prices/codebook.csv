@@ -1,0 +1,49 @@
+file,column,type,description
+data/cpi/<year>.csv,month,string,"Month, YYYY-MM"
+data/cpi/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi/<year>.csv,state_slug,"string,null",State or UT slug. Blank for All India
+data/cpi/<year>.csv,state,"string,null","State or UT as published, or All India"
+data/cpi/<year>.csv,sector,"string,null","Rural, Urban or Combined"
+data/cpi/<year>.csv,group,"string,null","Group, such as Food and beverages, or General"
+data/cpi/<year>.csv,subgroup,"string,null","Subgroup, such as Cereals and products, or General-Overall for the headline index"
+data/cpi/<year>.csv,index,"number,null",Index value
+data/cpi/<year>.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi/<year>.csv,status,"string,null","F for final, P for provisional"
+data/cpi_back_series.csv,month,string,"Month, YYYY-MM"
+data/cpi_back_series.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi_back_series.csv,state_slug,"string,null",State or UT slug. Blank for All India
+data/cpi_back_series.csv,state,"string,null","State or UT as published, or All India"
+data/cpi_back_series.csv,sector,"string,null","Rural, Urban or Combined"
+data/cpi_back_series.csv,group,"string,null","Group, such as Food and beverages, or General"
+data/cpi_back_series.csv,subgroup,"string,null","Subgroup, such as Cereals and products, or General-Overall for the headline index"
+data/cpi_back_series.csv,index,"number,null",Index value
+data/cpi_back_series.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi_back_series.csv,status,"string,null","F for final, P for provisional"
+data/cpi_items/<year>.csv,month,string,"Month, YYYY-MM"
+data/cpi_items/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi_items/<year>.csv,item,"string,null","Item, such as Rice or Petrol for vehicle"
+data/cpi_items/<year>.csv,index,"number,null",Index value
+data/cpi_items/<year>.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi_items/<year>.csv,status,"string,null","F for final, P for provisional"
+data/wpi_2011_12/<year>.csv,month,string,"Month, YYYY-MM"
+data/wpi_2011_12/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/wpi_2011_12/<year>.csv,major_group,"string,null","Major group: Primary articles, Fuel and power, Manufactured products, or the all-commodities index"
+data/wpi_2011_12/<year>.csv,group,"string,null",Group within the major group
+data/wpi_2011_12/<year>.csv,subgroup,"string,null",Subgroup
+data/wpi_2011_12/<year>.csv,sub_subgroup,"string,null",Sub-subgroup
+data/wpi_2011_12/<year>.csv,item,"string,null",Item
+data/wpi_2011_12/<year>.csv,index,"number,null",Index value
+data/iip_monthly/<year>.csv,month,string,"Month, YYYY-MM"
+data/iip_monthly/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/iip_monthly/<year>.csv,type,"string,null","General, Sectoral or Use-based"
+data/iip_monthly/<year>.csv,category,"string,null","Category, such as Mining, Manufacturing, Electricity, or a use-based group"
+data/iip_monthly/<year>.csv,sub_category,"string,null",Industry within manufacturing
+data/iip_monthly/<year>.csv,index,"number,null",Index value
+data/iip_monthly/<year>.csv,growth_rate,"number,null","Growth over the same month a year earlier, per cent"
+data/iip_annual.csv,financial_year,string,"Financial year, such as 2024-25"
+data/iip_annual.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/iip_annual.csv,type,"string,null","General, Sectoral or Use-based"
+data/iip_annual.csv,category,"string,null",Category
+data/iip_annual.csv,sub_category,"string,null",Industry within manufacturing
+data/iip_annual.csv,index,"number,null",Index value for the year
+data/iip_annual.csv,growth_rate,"number,null","Growth over the year before, per cent"

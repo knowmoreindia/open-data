@@ -1,0 +1,3589 @@
+month,base_year,item,index,inflation,status
+2014-01,2012,"Air Conditioner, Air Cooler",107.9,,F
+2014-01,2012,"Almirah, Dressing Table",111.7,,F
+2014-01,2012,"Arhar, Tur",106.7,,F
+2014-01,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",114.7,,F
+2014-01,2012,"Barber, Beautician, etc.",117.6,,F
+2014-01,2012,"Beans, Barbati",105.6,,F
+2014-01,2012,"Bed Sheet, Bed Cover (no.)",115.4,,F
+2014-01,2012,"Biscuits, Chocolates, etc.",107.8,,F
+2014-01,2012,"Books, Journals: First Hand",109.8,,F
+2014-01,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",113.2,,F
+2014-01,2012,"CD, DVD, Audio/video Cassette, etc",107.2,,F
+2014-01,2012,"Candy, Misri",111.2,,F
+2014-01,2012,"Carpet, Daree & Other Floor Mattings",107.5,,F
+2014-01,2012,"Cereal Substitutes: Tapioca, etc.",141.5,,F
+2014-01,2012,"Chair, Stool, Bench, Table",112.5,,F
+2014-01,2012,"Clock, Watch",112.5,,F
+2014-01,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",113.7,,F
+2014-01,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",117.3,,F
+2014-01,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",115.9,,F
+2014-01,2012,"Coat, Jacket, Sweater, Windcheater (no.)",116.2,,F
+2014-01,2012,"Coir, Rope, etc.",111.3,,F
+2014-01,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",115.6,,F
+2014-01,2012,"Electric Bulb, Tubelight",107.4,,F
+2014-01,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",101.3,,F
+2014-01,2012,"Fish, Prawn",119.7,,F
+2014-01,2012,"Frocks, Skirts, etc. (no.)",116.7,,F
+2014-01,2012,"Gamchha, Towel, Handkerchief (no.)",115.8,,F
+2014-01,2012,"Gourd, Pumpkin",125.7,,F
+2014-01,2012,"Hair Oil, Shampoo, Hair Cream",110.9,,F
+2014-01,2012,"Headwear, Belts, Ties (no.)",108.6,,F
+2014-01,2012,"House Rent, Garage Rent",111.3,,F
+2014-01,2012,"Incense (agarbatti), Room Freshener",109.5,,F
+2014-01,2012,"Leather Boots, Shoes",113.1,,F
+2014-01,2012,"Leather Sandals, Chappals, etc.",112.9,,F
+2014-01,2012,"Mosquito Repellent, Insecticide, Acid etc.",110.6,,F
+2014-01,2012,"Motor Car, Jeep",107.3,,F
+2014-01,2012,"Motor Cycle, Scooter",106.8,,F
+2014-01,2012,"Newspapers, Periodicals",115.4,,F
+2014-01,2012,"Orange, Mausami (no.)",104.1,,F
+2014-01,2012,"Other Beverages: Cocoa, Chocolate, etc.",110.6,,F
+2014-01,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",104.9,,F
+2014-01,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.3,,F
+2014-01,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",115.7,,F
+2014-01,2012,"Parwal/patal, Kundru",167.4,,F
+2014-01,2012,"Pillow, Quilt, Mattress (no.)",113.3,,F
+2014-01,2012,"Plugs, Switches & Other Electrical Fittings",111.2,,F
+2014-01,2012,"Powder, Snow, Cream, Lotion and Perfume",111.6,,F
+2014-01,2012,"Prepared Sweets, Cake, Pastry",116.4,,F
+2014-01,2012,"Radio, Tape Recorder, 2-in-1",110.7,,F
+2014-01,2012,"Raisin, Kishmish, Monacca, etc.",107.5,,F
+2014-01,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",106.2,,F
+2014-01,2012,"Rug, Blanket (no.)",115.6,,F
+2014-01,2012,"Sauce, Jam, Jelly (gm)",107.5,,F
+2014-01,2012,"School Bus, Van, etc.",115.9,,F
+2014-01,2012,"Sewai, Noodles",111.3,,F
+2014-01,2012,"Shaving Blades, Shaving Stick, Razor",106.6,,F
+2014-01,2012,"Shaving Cream, Aftershave Lotion",109.3,,F
+2014-01,2012,"Shawl, Chaddar (no.)",115.2,,F
+2014-01,2012,"Shirts, T-shirts (no.)",116.1,,F
+2014-01,2012,"Shorts, Trousers, Bermudas (no.)",114.4,,F
+2014-01,2012,"Sports Goods, Toys, etc.",113.5,,F
+2014-01,2012,"Stationery, Photocopying Charges",112,,F
+2014-01,2012,"Steamer, Boat Fare",117.9,,F
+2014-01,2012,"Stove, Gas Burner",115.9,,F
+2014-01,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",112.2,,F
+2014-01,2012,"Suji, Rawa",118.4,,F
+2014-01,2012,"Taxi, Auto-rickshaw Fare",115.2,,F
+2014-01,2012,"Toothpaste, Toothbrush, Comb, etc.",112.1,,F
+2014-01,2012,"Tuition and Other Fees (school, College, Etc.)",111.9,,F
+2014-01,2012,"Umbrella, Raincoat",112.8,,F
+2014-01,2012,"Vanaspati, Margarine",106,,F
+2014-01,2012,"Washerman, Laundry, Ironing",118.9,,F
+2014-01,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",109.7,,F
+2014-01,2012,"Zarda, Kimam, Surti (gm)",112.6,,F
+2014-01,2012,Air Fare (normal): Economy Class(adult),126.8,,F
+2014-01,2012,Any Other Personal Goods,116.2,,F
+2014-01,2012,Apple,95.5,,F
+2014-01,2012,Baby Food,110.1,,F
+2014-01,2012,Bajra & its Products,123.5,,F
+2014-01,2012,Banana (no.),118.4,,F
+2014-01,2012,Bathroom and Sanitary Equipment,107.6,,F
+2014-01,2012,Bedding: Others,115.4,,F
+2014-01,2012,Bedstead,110.7,,F
+2014-01,2012,Beef/ Buffalo Meat,120,,F
+2014-01,2012,Beer (litre),111.4,,F
+2014-01,2012,Berries,127.1,,F
+2014-01,2012,Besan,104.4,,F
+2014-01,2012,Bicycle(without Accessories),109.4,,F
+2014-01,2012,Bidi (no.),116.5,,F
+2014-01,2012,Black Pepper (gm),121.7,,F
+2014-01,2012,Bread (bakery),117.9,,F
+2014-01,2012,Brinjal,105.7,,F
+2014-01,2012,Bus/tram Fare,117.2,,F
+2014-01,2012,Butter,110.7,,F
+2014-01,2012,Cabbage,99.7,,F
+2014-01,2012,Camera & Photographic Equipment,108.3,,F
+2014-01,2012,Candle (no.),109.3,,F
+2014-01,2012,Carrot,90.3,,F
+2014-01,2012,Cashewnut,106.3,,F
+2014-01,2012,Cauliflower,86.2,,F
+2014-01,2012,Charcoal,111.5,,F
+2014-01,2012,Cheroot (no.),110.9,,F
+2014-01,2012,Chicken,116.6,,F
+2014-01,2012,Chips (gm),132.4,,F
+2014-01,2012,Chira,117.3,,F
+2014-01,2012,Cigarettes (no.),123.1,,F
+2014-01,2012,Cinema: New Release(normal Day),117.7,,F
+2014-01,2012,Clothing (first-hand): Other,113.2,,F
+2014-01,2012,Clothing: Second-hand,115.8,,F
+2014-01,2012,Club Fees,113.3,,F
+2014-01,2012,Coal,110.4,,F
+2014-01,2012,Coconut (no.),143.8,,F
+2014-01,2012,Coconut Oil,144.3,,F
+2014-01,2012,Coconut: Copra,109.3,,F
+2014-01,2012,Coffee: Cups (no.),118.3,,F
+2014-01,2012,Coffee: Powder (gm),110.8,,F
+2014-01,2012,Coke,117.9,,F
+2014-01,2012,Cold Beverages: Bottled/canned (litre),109.6,,F
+2014-01,2012,Cooked Meals Purchased (no.),121,,F
+2014-01,2012,Country Liquor (litre),114,,F
+2014-01,2012,Curd,114.8,,F
+2014-01,2012,Curry Powder (gm),112.5,,F
+2014-01,2012,Dates,124.3,,F
+2014-01,2012,Dhania (gm),123,,F
+2014-01,2012,Dhoti (no.),115.8,,F
+2014-01,2012,Diesel (litre) [excl. Conveyance],109.9,,F
+2014-01,2012,Diesel for Vehicle,121.3,,F
+2014-01,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),117,,F
+2014-01,2012,Domestic Servant/cook,114.8,,F
+2014-01,2012,Dry Chillies (gm),109.7,,F
+2014-01,2012,Dung Cake,115.6,,F
+2014-01,2012,Earthenware,115.6,,F
+2014-01,2012,Eggs (no.),124.1,,F
+2014-01,2012,Electric Batteries,110.6,,F
+2014-01,2012,Electric Fan,108.2,,F
+2014-01,2012,Electricity (std. Unit),112,,F
+2014-01,2012,Family Planning Devices,100.9,,F
+2014-01,2012,Firewood and Chips,116.4,,F
+2014-01,2012,Flower (fresh): All Purposes,119,,F
+2014-01,2012,Foreign/refined Liquor or Wine (litre),109.3,,F
+2014-01,2012,Fruit Juice and Shake (litre),111.1,,F
+2014-01,2012,Garlic (gm),129.5,,F
+2014-01,2012,Ghee,113.8,,F
+2014-01,2012,Ginger (gm),180.5,,F
+2014-01,2012,Glassware,108.7,,F
+2014-01,2012,Goat Meat/mutton,120.5,,F
+2014-01,2012,Gold,100.6,,F
+2014-01,2012,Goods for Recreation and Hobbies,124.4,,F
+2014-01,2012,Gram Products,104.4,,F
+2014-01,2012,Gram: Split,101.5,,F
+2014-01,2012,Gram: Whole,101.8,,F
+2014-01,2012,Grapes,117.2,,F
+2014-01,2012,Green Chillies,112.2,,F
+2014-01,2012,Green Coconut (no.),120.4,,F
+2014-01,2012,Grinding Charges,117.9,,F
+2014-01,2012,Groundnut Oil,96.8,,F
+2014-01,2012,Groundnut,109.8,,F
+2014-01,2012,Guava,116,,F
+2014-01,2012,Gur,108.1,,F
+2014-01,2012,Honey,113.2,,F
+2014-01,2012,Hookah Tobacco (gm),113.1,,F
+2014-01,2012,Horse Cart Fare,112.9,,F
+2014-01,2012,Hospital & Nursing Home Charges,111.8,,F
+2014-01,2012,Hotel Lodging Charges,108.7,,F
+2014-01,2012,Ice-cream,105.2,,F
+2014-01,2012,Ingredients for Pan (gm),114.3,,F
+2014-01,2012,Internet Expenses,107.7,,F
+2014-01,2012,Inverter,113.2,,F
+2014-01,2012,Jackfruit,129.5,,F
+2014-01,2012,Jeera (gm),105.7,,F
+2014-01,2012,Jowar & its Products,106,,F
+2014-01,2012,Kerosene – Other Sources (litre),110,,F
+2014-01,2012,Kerosene – PDS (litre),102.4,,F
+2014-01,2012,Kharbooza,119.7,,F
+2014-01,2012,Khesari,115.7,,F
+2014-01,2012,Knitting Wool (gm),113,,F
+2014-01,2012,Kurta-pajama Suits: Females (no.),114.3,,F
+2014-01,2012,Kurta-pajama Suits: Males (no.),113.2,,F
+2014-01,2012,LPG [excl. Conveyance],106.8,,F
+2014-01,2012,Lady's Finger,133.3,,F
+2014-01,2012,Leaf Tobacco (gm),116.1,,F
+2014-01,2012,Leechi,,,F
+2014-01,2012,Lemon (no.),98.3,,F
+2014-01,2012,Library Charges,100,,F
+2014-01,2012,Lighter (bidi/ Cigarette/ Gas Stove),108,,F
+2014-01,2012,Lock,109.2,,F
+2014-01,2012,Lubricants & Other Fuels for Vehicle,112,,F
+2014-01,2012,Lungi (no.),117.3,,F
+2014-01,2012,Maida,120.9,,F
+2014-01,2012,Maize & Products,118.8,,F
+2014-01,2012,Mango,119.2,,F
+2014-01,2012,Masur,115.9,,F
+2014-01,2012,Matches (box),106.8,,F
+2014-01,2012,Medicine (non-institutional),108.9,,F
+2014-01,2012,Milk: Condensed/ Powder,110.2,,F
+2014-01,2012,Milk: Liquid (litre),114.2,,F
+2014-01,2012,Mineral Water (litre),111.5,,F
+2014-01,2012,Mobile Handset,102.2,,F
+2014-01,2012,Monthly Charges for Cable Tv Connection,106.8,,F
+2014-01,2012,Monthly Maintainance Charges,113,,F
+2014-01,2012,Moong,113.6,,F
+2014-01,2012,Mosquito Net (no.),113,,F
+2014-01,2012,Muri,117.5,,F
+2014-01,2012,Mustard Oil,105.2,,F
+2014-01,2012,Oilseeds (gm),118.1,,F
+2014-01,2012,Onion,173.4,,F
+2014-01,2012,Other Cereals,195,,F
+2014-01,2012,Other Consumer Services Excluding Conveyance,113.1,,F
+2014-01,2012,Other Conveyance Expenses,114,,F
+2014-01,2012,Other Cooking/ Household Appliances,108.5,,F
+2014-01,2012,Other Crockery & Utensils,111.8,,F
+2014-01,2012,Other Dry Fruits,116.6,,F
+2014-01,2012,Other Durables (specify)….,113.4,,F
+2014-01,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),109.3,,F
+2014-01,2012,Other Entertainment,110,,F
+2014-01,2012,Other Footwear,111.6,,F
+2014-01,2012,Other Fresh Fruits,116.3,,F
+2014-01,2012,Other Fuel,118.8,,F
+2014-01,2012,Other Intoxicants,109.1,,F
+2014-01,2012,Other Leather Footwear,112.7,,F
+2014-01,2012,Other Medical Expenses (non-institutional),107.7,,F
+2014-01,2012,Other Metal Utensils,111.2,,F
+2014-01,2012,Other Milk Products,111.1,,F
+2014-01,2012,Other Nuts,132,,F
+2014-01,2012,Other Ornaments,110.2,,F
+2014-01,2012,Other Packaged Processed Food,108.3,,F
+2014-01,2012,Other Petty Articles,113.4,,F
+2014-01,2012,Other Pulse Products,111,,F
+2014-01,2012,Other Pulses,113.2,,F
+2014-01,2012,Other Rice Products,118.9,,F
+2014-01,2012,Other Tobacco Products,110.6,,F
+2014-01,2012,Other Vegetables,122.2,,F
+2014-01,2012,Other Washing Requisites,110.5,,F
+2014-01,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.2,,F
+2014-01,2012,Palak/other Leafy Vegetables,111.2,,F
+2014-01,2012,Pan: Finished (no.),119.9,,F
+2014-01,2012,Pan: Leaf (no.),113.4,,F
+2014-01,2012,Papaya,119.9,,F
+2014-01,2012,Pears/nashpati,108.9,,F
+2014-01,2012,Peas (pulses),120.8,,F
+2014-01,2012,Peas (vegetables),81.5,,F
+2014-01,2012,Petrol for Vehicle,107.3,,F
+2014-01,2012,Photography,109.1,,F
+2014-01,2012,Pickles (gm),110.3,,F
+2014-01,2012,Pineapple (no.),116.3,,F
+2014-01,2012,Pork,118.7,,F
+2014-01,2012,Porter Charges,115.1,,F
+2014-01,2012,Potato,122.1,,F
+2014-01,2012,Pressure Cooker/ Pressure Pan,105.7,,F
+2014-01,2012,Private Tutor/ Coaching Centre,111.7,,F
+2014-01,2012,Radish,100,,F
+2014-01,2012,Ragi & its Products,130.9,,F
+2014-01,2012,Railway Fare,127.5,,F
+2014-01,2012,Refrigerator,110.4,,F
+2014-01,2012,Residential Building & Land (cost of Repairs Only),123.4,,F
+2014-01,2012,Rice – Other Sources,123.7,,F
+2014-01,2012,Rice – PDS,90.5,,F
+2014-01,2012,Rickshaw (hand Drawn & Cycle) Fare,121.6,,F
+2014-01,2012,Rubber / Pvc Footwear,114.4,,F
+2014-01,2012,Salt,111.2,,F
+2014-01,2012,Sanitary Napkins,110.6,,F
+2014-01,2012,Saree (no.),115.2,,F
+2014-01,2012,School/college Uniform: Boys,114.3,,F
+2014-01,2012,School/college Uniform: Girls,115.6,,F
+2014-01,2012,Sewing Machine,117.8,,F
+2014-01,2012,Silver,84.5,,F
+2014-01,2012,Singara,115.6,,F
+2014-01,2012,Small Millets & their Products,122.5,,F
+2014-01,2012,Snuff (gm),107.4,,F
+2014-01,2012,Spectacles,114.4,,F
+2014-01,2012,Stainless Steel Utensils,114.4,,F
+2014-01,2012,Sugar - Other Sources,99.1,,F
+2014-01,2012,Sugar - PDS,100.4,,F
+2014-01,2012,Sweeper,114.3,,F
+2014-01,2012,Tailor,120.4,,F
+2014-01,2012,Tamarind (gm),105,,F
+2014-01,2012,Tea: Cups (no.),116.5,,F
+2014-01,2012,Tea: Leaf (gm),112.8,,F
+2014-01,2012,Telephone Charges: Landline*,102.7,,F
+2014-01,2012,Telephone Charges: Mobile,108.2,,F
+2014-01,2012,Television,107.6,,F
+2014-01,2012,Toddy (litre),116.7,,F
+2014-01,2012,Toilet Soap,109.9,,F
+2014-01,2012,Tomato,101.3,,F
+2014-01,2012,Torch,111.7,,F
+2014-01,2012,Turmeric (gm),105.3,,F
+2014-01,2012,Tyres & Tubes,110.9,,F
+2014-01,2012,Urd,107.4,,F
+2014-01,2012,VCD/ DVD Hire (incl. Instrument),113.4,,F
+2014-01,2012,VCR/VCD/DVD Player,105.2,,F
+2014-01,2012,Walnut,124.6,,F
+2014-01,2012,Washing Machine,109.7,,F
+2014-01,2012,Washing Soap/soda/powder,111.5,,F
+2014-01,2012,Watch Man Charges (other Cons Taxes),114.9,,F
+2014-01,2012,Water Charges,104.8,,F
+2014-01,2012,Water Purifier,109.3,,F
+2014-01,2012,Watermelon,130.5,,F
+2014-01,2012,Wheat/ Atta – Other Sources,122.7,,F
+2014-01,2012,Wheat/ Atta – PDS,89.8,,F
+2014-02,2012,"Air Conditioner, Air Cooler",108.2,,F
+2014-02,2012,"Almirah, Dressing Table",112.6,,F
+2014-02,2012,"Arhar, Tur",106.5,,F
+2014-02,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",115.1,,F
+2014-02,2012,"Barber, Beautician, etc.",118.2,,F
+2014-02,2012,"Beans, Barbati",106.3,,F
+2014-02,2012,"Bed Sheet, Bed Cover (no.)",116.3,,F
+2014-02,2012,"Biscuits, Chocolates, etc.",108,,F
+2014-02,2012,"Books, Journals: First Hand",109.9,,F
+2014-02,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",114.6,,F
+2014-02,2012,"CD, DVD, Audio/video Cassette, etc",107.1,,F
+2014-02,2012,"Candy, Misri",109.4,,F
+2014-02,2012,"Carpet, Daree & Other Floor Mattings",108.7,,F
+2014-02,2012,"Cereal Substitutes: Tapioca, etc.",143.5,,F
+2014-02,2012,"Chair, Stool, Bench, Table",113.1,,F
+2014-02,2012,"Clock, Watch",112.6,,F
+2014-02,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",114.2,,F
+2014-02,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",117.9,,F
+2014-02,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",116.7,,F
+2014-02,2012,"Coat, Jacket, Sweater, Windcheater (no.)",116.1,,F
+2014-02,2012,"Coir, Rope, etc.",111.6,,F
+2014-02,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",115.9,,F
+2014-02,2012,"Electric Bulb, Tubelight",107.7,,F
+2014-02,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",101.3,,F
+2014-02,2012,"Fish, Prawn",120.2,,F
+2014-02,2012,"Frocks, Skirts, etc. (no.)",117.3,,F
+2014-02,2012,"Gamchha, Towel, Handkerchief (no.)",116.3,,F
+2014-02,2012,"Gourd, Pumpkin",125,,F
+2014-02,2012,"Hair Oil, Shampoo, Hair Cream",111.2,,F
+2014-02,2012,"Headwear, Belts, Ties (no.)",108.9,,F
+2014-02,2012,"House Rent, Garage Rent",112.2,,F
+2014-02,2012,"Incense (agarbatti), Room Freshener",109.6,,F
+2014-02,2012,"Leather Boots, Shoes",113.5,,F
+2014-02,2012,"Leather Sandals, Chappals, etc.",113.4,,F
+2014-02,2012,"Mosquito Repellent, Insecticide, Acid etc.",110.8,,F
+2014-02,2012,"Motor Car, Jeep",107.6,,F
+2014-02,2012,"Motor Cycle, Scooter",107,,F
+2014-02,2012,"Newspapers, Periodicals",117.1,,F
+2014-02,2012,"Orange, Mausami (no.)",104,,F
+2014-02,2012,"Other Beverages: Cocoa, Chocolate, etc.",111.3,,F
+2014-02,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",105.4,,F
+2014-02,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",114.4,,F
+2014-02,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",116.1,,F
+2014-02,2012,"Parwal/patal, Kundru",191.7,,F
+2014-02,2012,"Pillow, Quilt, Mattress (no.)",113.8,,F
+2014-02,2012,"Plugs, Switches & Other Electrical Fittings",111.4,,F
+2014-02,2012,"Powder, Snow, Cream, Lotion and Perfume",111.9,,F
+2014-02,2012,"Prepared Sweets, Cake, Pastry",116.9,,F
+2014-02,2012,"Radio, Tape Recorder, 2-in-1",109.4,,F
+2014-02,2012,"Raisin, Kishmish, Monacca, etc.",107.5,,F
+2014-02,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.5,,F
+2014-02,2012,"Rug, Blanket (no.)",116.2,,F
+2014-02,2012,"Sauce, Jam, Jelly (gm)",108,,F
+2014-02,2012,"School Bus, Van, etc.",116,,F
+2014-02,2012,"Sewai, Noodles",111.9,,F
+2014-02,2012,"Shaving Blades, Shaving Stick, Razor",106.8,,F
+2014-02,2012,"Shaving Cream, Aftershave Lotion",109.4,,F
+2014-02,2012,"Shawl, Chaddar (no.)",115.4,,F
+2014-02,2012,"Shirts, T-shirts (no.)",116.7,,F
+2014-02,2012,"Shorts, Trousers, Bermudas (no.)",114.7,,F
+2014-02,2012,"Sports Goods, Toys, etc.",113.9,,F
+2014-02,2012,"Stationery, Photocopying Charges",112.5,,F
+2014-02,2012,"Steamer, Boat Fare",117.9,,F
+2014-02,2012,"Stove, Gas Burner",116.1,,F
+2014-02,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",112.8,,F
+2014-02,2012,"Suji, Rawa",119.2,,F
+2014-02,2012,"Taxi, Auto-rickshaw Fare",115.6,,F
+2014-02,2012,"Toothpaste, Toothbrush, Comb, etc.",112.4,,F
+2014-02,2012,"Tuition and Other Fees (school, College, Etc.)",112.1,,F
+2014-02,2012,"Umbrella, Raincoat",112.9,,F
+2014-02,2012,"Vanaspati, Margarine",106.3,,F
+2014-02,2012,"Washerman, Laundry, Ironing",120,,F
+2014-02,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",110,,F
+2014-02,2012,"Zarda, Kimam, Surti (gm)",113.7,,F
+2014-02,2012,Air Fare (normal): Economy Class(adult),124,,F
+2014-02,2012,Any Other Personal Goods,115.4,,F
+2014-02,2012,Apple,102.4,,F
+2014-02,2012,Baby Food,111,,F
+2014-02,2012,Bajra & its Products,124,,F
+2014-02,2012,Banana (no.),118.8,,F
+2014-02,2012,Bathroom and Sanitary Equipment,109.3,,F
+2014-02,2012,Bedding: Others,111.9,,F
+2014-02,2012,Bedstead,111.2,,F
+2014-02,2012,Beef/ Buffalo Meat,121.4,,F
+2014-02,2012,Beer (litre),111.3,,F
+2014-02,2012,Berries,135.2,,F
+2014-02,2012,Besan,103.7,,F
+2014-02,2012,Bicycle(without Accessories),109.7,,F
+2014-02,2012,Bidi (no.),116.8,,F
+2014-02,2012,Black Pepper (gm),123.2,,F
+2014-02,2012,Bread (bakery),118.5,,F
+2014-02,2012,Brinjal,106,,F
+2014-02,2012,Bus/tram Fare,117.4,,F
+2014-02,2012,Butter,111.8,,F
+2014-02,2012,Cabbage,90,,F
+2014-02,2012,Camera & Photographic Equipment,108.3,,F
+2014-02,2012,Candle (no.),109.6,,F
+2014-02,2012,Carrot,83.1,,F
+2014-02,2012,Cashewnut,107.2,,F
+2014-02,2012,Cauliflower,79.5,,F
+2014-02,2012,Charcoal,109.6,,F
+2014-02,2012,Cheroot (no.),109.1,,F
+2014-02,2012,Chicken,116.7,,F
+2014-02,2012,Chips (gm),132.4,,F
+2014-02,2012,Chira,117.3,,F
+2014-02,2012,Cigarettes (no.),123.6,,F
+2014-02,2012,Cinema: New Release(normal Day),118.1,,F
+2014-02,2012,Clothing (first-hand): Other,114.1,,F
+2014-02,2012,Clothing: Second-hand,114.8,,F
+2014-02,2012,Club Fees,115.3,,F
+2014-02,2012,Coal,110.2,,F
+2014-02,2012,Coconut (no.),148.6,,F
+2014-02,2012,Coconut Oil,151.3,,F
+2014-02,2012,Coconut: Copra,112,,F
+2014-02,2012,Coffee: Cups (no.),119.4,,F
+2014-02,2012,Coffee: Powder (gm),111,,F
+2014-02,2012,Coke,117.3,,F
+2014-02,2012,Cold Beverages: Bottled/canned (litre),109.2,,F
+2014-02,2012,Cooked Meals Purchased (no.),121.9,,F
+2014-02,2012,Country Liquor (litre),113.9,,F
+2014-02,2012,Curd,115.5,,F
+2014-02,2012,Curry Powder (gm),113.3,,F
+2014-02,2012,Dates,123.3,,F
+2014-02,2012,Dhania (gm),124.3,,F
+2014-02,2012,Dhoti (no.),116.4,,F
+2014-02,2012,Diesel (litre) [excl. Conveyance],110.7,,F
+2014-02,2012,Diesel for Vehicle,122.3,,F
+2014-02,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),117.6,,F
+2014-02,2012,Domestic Servant/cook,115.6,,F
+2014-02,2012,Dry Chillies (gm),110.1,,F
+2014-02,2012,Dung Cake,116.7,,F
+2014-02,2012,Earthenware,115.7,,F
+2014-02,2012,Eggs (no.),122.5,,F
+2014-02,2012,Electric Batteries,109.8,,F
+2014-02,2012,Electric Fan,108.9,,F
+2014-02,2012,Electricity (std. Unit),112.1,,F
+2014-02,2012,Family Planning Devices,100.8,,F
+2014-02,2012,Firewood and Chips,116.5,,F
+2014-02,2012,Flower (fresh): All Purposes,121.3,,F
+2014-02,2012,Foreign/refined Liquor or Wine (litre),109.9,,F
+2014-02,2012,Fruit Juice and Shake (litre),111.6,,F
+2014-02,2012,Garlic (gm),125.6,,F
+2014-02,2012,Ghee,114.9,,F
+2014-02,2012,Ginger (gm),180,,F
+2014-02,2012,Glassware,108.7,,F
+2014-02,2012,Goat Meat/mutton,121,,F
+2014-02,2012,Gold,101.7,,F
+2014-02,2012,Goods for Recreation and Hobbies,124.4,,F
+2014-02,2012,Gram Products,103.8,,F
+2014-02,2012,Gram: Split,100.8,,F
+2014-02,2012,Gram: Whole,101.1,,F
+2014-02,2012,Grapes,103.5,,F
+2014-02,2012,Green Chillies,114.1,,F
+2014-02,2012,Green Coconut (no.),121.8,,F
+2014-02,2012,Grinding Charges,118.6,,F
+2014-02,2012,Groundnut Oil,95.9,,F
+2014-02,2012,Groundnut,109,,F
+2014-02,2012,Guava,121,,F
+2014-02,2012,Gur,106.9,,F
+2014-02,2012,Honey,113.4,,F
+2014-02,2012,Hookah Tobacco (gm),114.8,,F
+2014-02,2012,Horse Cart Fare,114.1,,F
+2014-02,2012,Hospital & Nursing Home Charges,112.4,,F
+2014-02,2012,Hotel Lodging Charges,108,,F
+2014-02,2012,Ice-cream,105.1,,F
+2014-02,2012,Ingredients for Pan (gm),114.5,,F
+2014-02,2012,Internet Expenses,107.9,,F
+2014-02,2012,Inverter,113.2,,F
+2014-02,2012,Jackfruit,124.8,,F
+2014-02,2012,Jeera (gm),105.8,,F
+2014-02,2012,Jowar & its Products,106.4,,F
+2014-02,2012,Kerosene – Other Sources (litre),110.2,,F
+2014-02,2012,Kerosene – PDS (litre),102.4,,F
+2014-02,2012,Kharbooza,124.9,,F
+2014-02,2012,Khesari,115.7,,F
+2014-02,2012,Knitting Wool (gm),112.7,,F
+2014-02,2012,Kurta-pajama Suits: Females (no.),115,,F
+2014-02,2012,Kurta-pajama Suits: Males (no.),114.7,,F
+2014-02,2012,LPG [excl. Conveyance],107,,F
+2014-02,2012,Lady's Finger,137.8,,F
+2014-02,2012,Leaf Tobacco (gm),116.5,,F
+2014-02,2012,Leechi,,,F
+2014-02,2012,Lemon (no.),105.1,,F
+2014-02,2012,Library Charges,100,,F
+2014-02,2012,Lighter (bidi/ Cigarette/ Gas Stove),109,,F
+2014-02,2012,Lock,114.1,,F
+2014-02,2012,Lubricants & Other Fuels for Vehicle,112,,F
+2014-02,2012,Lungi (no.),117.9,,F
+2014-02,2012,Maida,121.2,,F
+2014-02,2012,Maize & Products,119.4,,F
+2014-02,2012,Mango,125.7,,F
+2014-02,2012,Masur,116.6,,F
+2014-02,2012,Matches (box),106.5,,F
+2014-02,2012,Medicine (non-institutional),109.3,,F
+2014-02,2012,Milk: Condensed/ Powder,110.2,,F
+2014-02,2012,Milk: Liquid (litre),115.1,,F
+2014-02,2012,Mineral Water (litre),111.7,,F
+2014-02,2012,Mobile Handset,102.1,,F
+2014-02,2012,Monthly Charges for Cable Tv Connection,107.1,,F
+2014-02,2012,Monthly Maintainance Charges,113.9,,F
+2014-02,2012,Moong,116.9,,F
+2014-02,2012,Mosquito Net (no.),113.3,,F
+2014-02,2012,Muri,118.2,,F
+2014-02,2012,Mustard Oil,104.8,,F
+2014-02,2012,Oilseeds (gm),118.9,,F
+2014-02,2012,Onion,145.3,,F
+2014-02,2012,Other Cereals,182.6,,F
+2014-02,2012,Other Consumer Services Excluding Conveyance,113.6,,F
+2014-02,2012,Other Conveyance Expenses,114,,F
+2014-02,2012,Other Cooking/ Household Appliances,108.6,,F
+2014-02,2012,Other Crockery & Utensils,112.4,,F
+2014-02,2012,Other Dry Fruits,117.5,,F
+2014-02,2012,Other Durables (specify)….,113.1,,F
+2014-02,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),109.8,,F
+2014-02,2012,Other Entertainment,110.1,,F
+2014-02,2012,Other Footwear,111.1,,F
+2014-02,2012,Other Fresh Fruits,116.5,,F
+2014-02,2012,Other Fuel,118.1,,F
+2014-02,2012,Other Intoxicants,109.6,,F
+2014-02,2012,Other Leather Footwear,112.6,,F
+2014-02,2012,Other Medical Expenses (non-institutional),108.2,,F
+2014-02,2012,Other Metal Utensils,111.5,,F
+2014-02,2012,Other Milk Products,112.5,,F
+2014-02,2012,Other Nuts,133.9,,F
+2014-02,2012,Other Ornaments,110.3,,F
+2014-02,2012,Other Packaged Processed Food,108.8,,F
+2014-02,2012,Other Petty Articles,113.7,,F
+2014-02,2012,Other Pulse Products,111.2,,F
+2014-02,2012,Other Pulses,113.6,,F
+2014-02,2012,Other Rice Products,120.2,,F
+2014-02,2012,Other Tobacco Products,110.6,,F
+2014-02,2012,Other Vegetables,121.1,,F
+2014-02,2012,Other Washing Requisites,111,,F
+2014-02,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.4,,F
+2014-02,2012,Palak/other Leafy Vegetables,109.2,,F
+2014-02,2012,Pan: Finished (no.),120.5,,F
+2014-02,2012,Pan: Leaf (no.),115.7,,F
+2014-02,2012,Papaya,120.2,,F
+2014-02,2012,Pears/nashpati,113.7,,F
+2014-02,2012,Peas (pulses),118.3,,F
+2014-02,2012,Peas (vegetables),79.2,,F
+2014-02,2012,Petrol for Vehicle,107.5,,F
+2014-02,2012,Photography,109.6,,F
+2014-02,2012,Pickles (gm),110.6,,F
+2014-02,2012,Pineapple (no.),129.5,,F
+2014-02,2012,Pork,119.1,,F
+2014-02,2012,Porter Charges,115.1,,F
+2014-02,2012,Potato,104.8,,F
+2014-02,2012,Pressure Cooker/ Pressure Pan,106.1,,F
+2014-02,2012,Private Tutor/ Coaching Centre,111.9,,F
+2014-02,2012,Radish,97.6,,F
+2014-02,2012,Ragi & its Products,131.5,,F
+2014-02,2012,Railway Fare,127.9,,F
+2014-02,2012,Refrigerator,110.9,,F
+2014-02,2012,Residential Building & Land (cost of Repairs Only),124.3,,F
+2014-02,2012,Rice – Other Sources,124.1,,F
+2014-02,2012,Rice – PDS,90.5,,F
+2014-02,2012,Rickshaw (hand Drawn & Cycle) Fare,121.9,,F
+2014-02,2012,Rubber / Pvc Footwear,114.6,,F
+2014-02,2012,Salt,111.6,,F
+2014-02,2012,Sanitary Napkins,110.9,,F
+2014-02,2012,Saree (no.),115.9,,F
+2014-02,2012,School/college Uniform: Boys,115.7,,F
+2014-02,2012,School/college Uniform: Girls,116,,F
+2014-02,2012,Sewing Machine,118.6,,F
+2014-02,2012,Silver,85.1,,F
+2014-02,2012,Singara,125,,F
+2014-02,2012,Small Millets & their Products,122.5,,F
+2014-02,2012,Snuff (gm),109.7,,F
+2014-02,2012,Spectacles,114.9,,F
+2014-02,2012,Stainless Steel Utensils,114.6,,F
+2014-02,2012,Sugar - Other Sources,98.2,,F
+2014-02,2012,Sugar - PDS,100.4,,F
+2014-02,2012,Sweeper,115.2,,F
+2014-02,2012,Tailor,121,,F
+2014-02,2012,Tamarind (gm),104.5,,F
+2014-02,2012,Tea: Cups (no.),117.3,,F
+2014-02,2012,Tea: Leaf (gm),113.1,,F
+2014-02,2012,Telephone Charges: Landline*,102.8,,F
+2014-02,2012,Telephone Charges: Mobile,109.2,,F
+2014-02,2012,Television,107.9,,F
+2014-02,2012,Toddy (litre),116.4,,F
+2014-02,2012,Toilet Soap,110.1,,F
+2014-02,2012,Tomato,86.9,,F
+2014-02,2012,Torch,111.8,,F
+2014-02,2012,Turmeric (gm),105.4,,F
+2014-02,2012,Tyres & Tubes,111,,F
+2014-02,2012,Urd,108.4,,F
+2014-02,2012,VCD/ DVD Hire (incl. Instrument),112,,F
+2014-02,2012,VCR/VCD/DVD Player,105.6,,F
+2014-02,2012,Walnut,125.7,,F
+2014-02,2012,Washing Machine,109.8,,F
+2014-02,2012,Washing Soap/soda/powder,111.6,,F
+2014-02,2012,Watch Man Charges (other Cons Taxes),116.6,,F
+2014-02,2012,Water Charges,105.1,,F
+2014-02,2012,Water Purifier,109.3,,F
+2014-02,2012,Watermelon,128.6,,F
+2014-02,2012,Wheat/ Atta – Other Sources,123.7,,F
+2014-02,2012,Wheat/ Atta – PDS,89.8,,F
+2014-03,2012,"Air Conditioner, Air Cooler",108.9,,F
+2014-03,2012,"Almirah, Dressing Table",112.9,,F
+2014-03,2012,"Arhar, Tur",106,,F
+2014-03,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",115.4,,F
+2014-03,2012,"Barber, Beautician, etc.",118.9,,F
+2014-03,2012,"Beans, Barbati",111.3,,F
+2014-03,2012,"Bed Sheet, Bed Cover (no.)",116.8,,F
+2014-03,2012,"Biscuits, Chocolates, etc.",108.1,,F
+2014-03,2012,"Books, Journals: First Hand",110,,F
+2014-03,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",115,,F
+2014-03,2012,"CD, DVD, Audio/video Cassette, etc",107.4,,F
+2014-03,2012,"Candy, Misri",108.7,,F
+2014-03,2012,"Carpet, Daree & Other Floor Mattings",108.7,,F
+2014-03,2012,"Cereal Substitutes: Tapioca, etc.",144,,F
+2014-03,2012,"Chair, Stool, Bench, Table",114,,F
+2014-03,2012,"Clock, Watch",112.6,,F
+2014-03,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",114.8,,F
+2014-03,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",118.4,,F
+2014-03,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",117.3,,F
+2014-03,2012,"Coat, Jacket, Sweater, Windcheater (no.)",115.8,,F
+2014-03,2012,"Coir, Rope, etc.",112.3,,F
+2014-03,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",116.4,,F
+2014-03,2012,"Electric Bulb, Tubelight",108,,F
+2014-03,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",101.3,,F
+2014-03,2012,"Fish, Prawn",120.8,,F
+2014-03,2012,"Frocks, Skirts, etc. (no.)",117.9,,F
+2014-03,2012,"Gamchha, Towel, Handkerchief (no.)",116.9,,F
+2014-03,2012,"Gourd, Pumpkin",126.3,,F
+2014-03,2012,"Hair Oil, Shampoo, Hair Cream",111.6,,F
+2014-03,2012,"Headwear, Belts, Ties (no.)",109.2,,F
+2014-03,2012,"House Rent, Garage Rent",112.9,,F
+2014-03,2012,"Incense (agarbatti), Room Freshener",110,,F
+2014-03,2012,"Leather Boots, Shoes",114,,F
+2014-03,2012,"Leather Sandals, Chappals, etc.",113.8,,F
+2014-03,2012,"Mosquito Repellent, Insecticide, Acid etc.",111.5,,F
+2014-03,2012,"Motor Car, Jeep",107,,F
+2014-03,2012,"Motor Cycle, Scooter",106.8,,F
+2014-03,2012,"Newspapers, Periodicals",118.4,,F
+2014-03,2012,"Orange, Mausami (no.)",106.2,,F
+2014-03,2012,"Other Beverages: Cocoa, Chocolate, etc.",111.9,,F
+2014-03,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.2,,F
+2014-03,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",114.6,,F
+2014-03,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",116.3,,F
+2014-03,2012,"Parwal/patal, Kundru",173.2,,F
+2014-03,2012,"Pillow, Quilt, Mattress (no.)",114.3,,F
+2014-03,2012,"Plugs, Switches & Other Electrical Fittings",111.8,,F
+2014-03,2012,"Powder, Snow, Cream, Lotion and Perfume",112.5,,F
+2014-03,2012,"Prepared Sweets, Cake, Pastry",117.5,,F
+2014-03,2012,"Radio, Tape Recorder, 2-in-1",108.7,,F
+2014-03,2012,"Raisin, Kishmish, Monacca, etc.",107.9,,F
+2014-03,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.4,,F
+2014-03,2012,"Rug, Blanket (no.)",116.4,,F
+2014-03,2012,"Sauce, Jam, Jelly (gm)",108.7,,F
+2014-03,2012,"School Bus, Van, etc.",116.3,,F
+2014-03,2012,"Sewai, Noodles",112.3,,F
+2014-03,2012,"Shaving Blades, Shaving Stick, Razor",107,,F
+2014-03,2012,"Shaving Cream, Aftershave Lotion",109.8,,F
+2014-03,2012,"Shawl, Chaddar (no.)",115.5,,F
+2014-03,2012,"Shirts, T-shirts (no.)",117.2,,F
+2014-03,2012,"Shorts, Trousers, Bermudas (no.)",115.3,,F
+2014-03,2012,"Sports Goods, Toys, etc.",114.3,,F
+2014-03,2012,"Stationery, Photocopying Charges",113.2,,F
+2014-03,2012,"Steamer, Boat Fare",117.9,,F
+2014-03,2012,"Stove, Gas Burner",116.1,,F
+2014-03,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",112.9,,F
+2014-03,2012,"Suji, Rawa",120.1,,F
+2014-03,2012,"Taxi, Auto-rickshaw Fare",115.9,,F
+2014-03,2012,"Toothpaste, Toothbrush, Comb, etc.",112.8,,F
+2014-03,2012,"Tuition and Other Fees (school, College, Etc.)",112.3,,F
+2014-03,2012,"Umbrella, Raincoat",113.2,,F
+2014-03,2012,"Vanaspati, Margarine",107.5,,F
+2014-03,2012,"Washerman, Laundry, Ironing",120.5,,F
+2014-03,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",111,,F
+2014-03,2012,"Zarda, Kimam, Surti (gm)",113.1,,F
+2014-03,2012,Air Fare (normal): Economy Class(adult),126.7,,F
+2014-03,2012,Any Other Personal Goods,116.6,,F
+2014-03,2012,Apple,111.6,,F
+2014-03,2012,Baby Food,111.4,,F
+2014-03,2012,Bajra & its Products,124.7,,F
+2014-03,2012,Banana (no.),121.9,,F
+2014-03,2012,Bathroom and Sanitary Equipment,109.6,,F
+2014-03,2012,Bedding: Others,113.2,,F
+2014-03,2012,Bedstead,112,,F
+2014-03,2012,Beef/ Buffalo Meat,122.1,,F
+2014-03,2012,Beer (litre),111.7,,F
+2014-03,2012,Berries,124.1,,F
+2014-03,2012,Besan,103.8,,F
+2014-03,2012,Bicycle(without Accessories),110,,F
+2014-03,2012,Bidi (no.),117.3,,F
+2014-03,2012,Black Pepper (gm),124.6,,F
+2014-03,2012,Bread (bakery),118.9,,F
+2014-03,2012,Brinjal,108.9,,F
+2014-03,2012,Bus/tram Fare,118,,F
+2014-03,2012,Butter,112.7,,F
+2014-03,2012,Cabbage,89.2,,F
+2014-03,2012,Camera & Photographic Equipment,108.3,,F
+2014-03,2012,Candle (no.),109.9,,F
+2014-03,2012,Carrot,84.1,,F
+2014-03,2012,Cashewnut,107.6,,F
+2014-03,2012,Cauliflower,81.5,,F
+2014-03,2012,Charcoal,111.7,,F
+2014-03,2012,Cheroot (no.),110.8,,F
+2014-03,2012,Chicken,115.8,,F
+2014-03,2012,Chips (gm),132.4,,F
+2014-03,2012,Chira,117.5,,F
+2014-03,2012,Cigarettes (no.),124.2,,F
+2014-03,2012,Cinema: New Release(normal Day),118.7,,F
+2014-03,2012,Clothing (first-hand): Other,114.6,,F
+2014-03,2012,Clothing: Second-hand,114.7,,F
+2014-03,2012,Club Fees,115.9,,F
+2014-03,2012,Coal,112.1,,F
+2014-03,2012,Coconut (no.),154.2,,F
+2014-03,2012,Coconut Oil,157.7,,F
+2014-03,2012,Coconut: Copra,114.8,,F
+2014-03,2012,Coffee: Cups (no.),120,,F
+2014-03,2012,Coffee: Powder (gm),111.4,,F
+2014-03,2012,Coke,119.3,,F
+2014-03,2012,Cold Beverages: Bottled/canned (litre),109.5,,F
+2014-03,2012,Cooked Meals Purchased (no.),122.5,,F
+2014-03,2012,Country Liquor (litre),114.1,,F
+2014-03,2012,Curd,116.1,,F
+2014-03,2012,Curry Powder (gm),113.8,,F
+2014-03,2012,Dates,121.7,,F
+2014-03,2012,Dhania (gm),125.8,,F
+2014-03,2012,Dhoti (no.),116.9,,F
+2014-03,2012,Diesel (litre) [excl. Conveyance],111.3,,F
+2014-03,2012,Diesel for Vehicle,123.4,,F
+2014-03,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),118.3,,F
+2014-03,2012,Domestic Servant/cook,116.2,,F
+2014-03,2012,Dry Chillies (gm),110,,F
+2014-03,2012,Dung Cake,117.1,,F
+2014-03,2012,Earthenware,115.9,,F
+2014-03,2012,Eggs (no.),121,,F
+2014-03,2012,Electric Batteries,109.5,,F
+2014-03,2012,Electric Fan,109.5,,F
+2014-03,2012,Electricity (std. Unit),112.2,,F
+2014-03,2012,Family Planning Devices,101.2,,F
+2014-03,2012,Firewood and Chips,116.6,,F
+2014-03,2012,Flower (fresh): All Purposes,121.2,,F
+2014-03,2012,Foreign/refined Liquor or Wine (litre),109.9,,F
+2014-03,2012,Fruit Juice and Shake (litre),111.9,,F
+2014-03,2012,Garlic (gm),124.9,,F
+2014-03,2012,Ghee,115.8,,F
+2014-03,2012,Ginger (gm),187.2,,F
+2014-03,2012,Glassware,108.7,,F
+2014-03,2012,Goat Meat/mutton,121.3,,F
+2014-03,2012,Gold,101.5,,F
+2014-03,2012,Goods for Recreation and Hobbies,124.4,,F
+2014-03,2012,Gram Products,103.3,,F
+2014-03,2012,Gram: Split,100.9,,F
+2014-03,2012,Gram: Whole,100.5,,F
+2014-03,2012,Grapes,96.9,,F
+2014-03,2012,Green Chillies,118.5,,F
+2014-03,2012,Green Coconut (no.),124.3,,F
+2014-03,2012,Grinding Charges,119.6,,F
+2014-03,2012,Groundnut Oil,95.1,,F
+2014-03,2012,Groundnut,107.9,,F
+2014-03,2012,Guava,128.2,,F
+2014-03,2012,Gur,106.7,,F
+2014-03,2012,Honey,113.6,,F
+2014-03,2012,Hookah Tobacco (gm),115.2,,F
+2014-03,2012,Horse Cart Fare,115.6,,F
+2014-03,2012,Hospital & Nursing Home Charges,113,,F
+2014-03,2012,Hotel Lodging Charges,108.1,,F
+2014-03,2012,Ice-cream,105,,F
+2014-03,2012,Ingredients for Pan (gm),116.1,,F
+2014-03,2012,Internet Expenses,108.2,,F
+2014-03,2012,Inverter,113.4,,F
+2014-03,2012,Jackfruit,126.8,,F
+2014-03,2012,Jeera (gm),105.6,,F
+2014-03,2012,Jowar & its Products,107,,F
+2014-03,2012,Kerosene – Other Sources (litre),110.7,,F
+2014-03,2012,Kerosene – PDS (litre),102.4,,F
+2014-03,2012,Kharbooza,134,,F
+2014-03,2012,Khesari,115.1,,F
+2014-03,2012,Knitting Wool (gm),113.3,,F
+2014-03,2012,Kurta-pajama Suits: Females (no.),115.5,,F
+2014-03,2012,Kurta-pajama Suits: Males (no.),115.2,,F
+2014-03,2012,LPG [excl. Conveyance],106.7,,F
+2014-03,2012,Lady's Finger,139.3,,F
+2014-03,2012,Leaf Tobacco (gm),116.5,,F
+2014-03,2012,Leechi,,,F
+2014-03,2012,Lemon (no.),112.6,,F
+2014-03,2012,Library Charges,100,,F
+2014-03,2012,Lighter (bidi/ Cigarette/ Gas Stove),110.1,,F
+2014-03,2012,Lock,115.2,,F
+2014-03,2012,Lubricants & Other Fuels for Vehicle,112.4,,F
+2014-03,2012,Lungi (no.),118.7,,F
+2014-03,2012,Maida,121.8,,F
+2014-03,2012,Maize & Products,119.9,,F
+2014-03,2012,Mango,130.7,,F
+2014-03,2012,Masur,117.2,,F
+2014-03,2012,Matches (box),106.4,,F
+2014-03,2012,Medicine (non-institutional),109.5,,F
+2014-03,2012,Milk: Condensed/ Powder,111.4,,F
+2014-03,2012,Milk: Liquid (litre),116.2,,F
+2014-03,2012,Mineral Water (litre),112.4,,F
+2014-03,2012,Mobile Handset,102.1,,F
+2014-03,2012,Monthly Charges for Cable Tv Connection,107.5,,F
+2014-03,2012,Monthly Maintainance Charges,114.4,,F
+2014-03,2012,Moong,120,,F
+2014-03,2012,Mosquito Net (no.),114.1,,F
+2014-03,2012,Muri,118.9,,F
+2014-03,2012,Mustard Oil,105,,F
+2014-03,2012,Oilseeds (gm),118.9,,F
+2014-03,2012,Onion,138.6,,F
+2014-03,2012,Other Cereals,195,,F
+2014-03,2012,Other Consumer Services Excluding Conveyance,114.7,,F
+2014-03,2012,Other Conveyance Expenses,112.2,,F
+2014-03,2012,Other Cooking/ Household Appliances,108.7,,F
+2014-03,2012,Other Crockery & Utensils,112.1,,F
+2014-03,2012,Other Dry Fruits,118.5,,F
+2014-03,2012,Other Durables (specify)….,105.7,,F
+2014-03,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),109.9,,F
+2014-03,2012,Other Entertainment,109.9,,F
+2014-03,2012,Other Footwear,111.5,,F
+2014-03,2012,Other Fresh Fruits,115.4,,F
+2014-03,2012,Other Fuel,118.6,,F
+2014-03,2012,Other Intoxicants,109.8,,F
+2014-03,2012,Other Leather Footwear,113.1,,F
+2014-03,2012,Other Medical Expenses (non-institutional),108.6,,F
+2014-03,2012,Other Metal Utensils,111.8,,F
+2014-03,2012,Other Milk Products,112.7,,F
+2014-03,2012,Other Nuts,135.3,,F
+2014-03,2012,Other Ornaments,111.3,,F
+2014-03,2012,Other Packaged Processed Food,109.2,,F
+2014-03,2012,Other Petty Articles,114.2,,F
+2014-03,2012,Other Pulse Products,111.8,,F
+2014-03,2012,Other Pulses,113.6,,F
+2014-03,2012,Other Rice Products,120.6,,F
+2014-03,2012,Other Tobacco Products,110.9,,F
+2014-03,2012,Other Vegetables,122.3,,F
+2014-03,2012,Other Washing Requisites,111.2,,F
+2014-03,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.8,,F
+2014-03,2012,Palak/other Leafy Vegetables,112.2,,F
+2014-03,2012,Pan: Finished (no.),121.3,,F
+2014-03,2012,Pan: Leaf (no.),117.4,,F
+2014-03,2012,Papaya,124.2,,F
+2014-03,2012,Pears/nashpati,118.9,,F
+2014-03,2012,Peas (pulses),118.9,,F
+2014-03,2012,Peas (vegetables),89,,F
+2014-03,2012,Petrol for Vehicle,108.5,,F
+2014-03,2012,Photography,110.1,,F
+2014-03,2012,Pickles (gm),111.1,,F
+2014-03,2012,Pineapple (no.),132.2,,F
+2014-03,2012,Pork,120,,F
+2014-03,2012,Porter Charges,115.1,,F
+2014-03,2012,Potato,110.6,,F
+2014-03,2012,Pressure Cooker/ Pressure Pan,106.6,,F
+2014-03,2012,Private Tutor/ Coaching Centre,112.4,,F
+2014-03,2012,Radish,102.6,,F
+2014-03,2012,Ragi & its Products,131,,F
+2014-03,2012,Railway Fare,128.6,,F
+2014-03,2012,Refrigerator,111.4,,F
+2014-03,2012,Residential Building & Land (cost of Repairs Only),125.1,,F
+2014-03,2012,Rice – Other Sources,124.6,,F
+2014-03,2012,Rice – PDS,90.5,,F
+2014-03,2012,Rickshaw (hand Drawn & Cycle) Fare,122.6,,F
+2014-03,2012,Rubber / Pvc Footwear,114.9,,F
+2014-03,2012,Salt,112.2,,F
+2014-03,2012,Sanitary Napkins,111.5,,F
+2014-03,2012,Saree (no.),116.5,,F
+2014-03,2012,School/college Uniform: Boys,115.9,,F
+2014-03,2012,School/college Uniform: Girls,116.4,,F
+2014-03,2012,Sewing Machine,119.5,,F
+2014-03,2012,Silver,85.4,,F
+2014-03,2012,Singara,,,F
+2014-03,2012,Small Millets & their Products,126.4,,F
+2014-03,2012,Snuff (gm),110.6,,F
+2014-03,2012,Spectacles,115,,F
+2014-03,2012,Stainless Steel Utensils,115.1,,F
+2014-03,2012,Sugar - Other Sources,98.5,,F
+2014-03,2012,Sugar - PDS,100.5,,F
+2014-03,2012,Sweeper,116.1,,F
+2014-03,2012,Tailor,121.5,,F
+2014-03,2012,Tamarind (gm),104.1,,F
+2014-03,2012,Tea: Cups (no.),118.1,,F
+2014-03,2012,Tea: Leaf (gm),113.2,,F
+2014-03,2012,Telephone Charges: Landline*,103,,F
+2014-03,2012,Telephone Charges: Mobile,109.2,,F
+2014-03,2012,Television,108.2,,F
+2014-03,2012,Toddy (litre),117.3,,F
+2014-03,2012,Toilet Soap,110.6,,F
+2014-03,2012,Tomato,87.4,,F
+2014-03,2012,Torch,111.8,,F
+2014-03,2012,Turmeric (gm),106,,F
+2014-03,2012,Tyres & Tubes,111.4,,F
+2014-03,2012,Urd,109.4,,F
+2014-03,2012,VCD/ DVD Hire (incl. Instrument),112.9,,F
+2014-03,2012,VCR/VCD/DVD Player,105.5,,F
+2014-03,2012,Walnut,126.3,,F
+2014-03,2012,Washing Machine,109.7,,F
+2014-03,2012,Washing Soap/soda/powder,112.3,,F
+2014-03,2012,Watch Man Charges (other Cons Taxes),118.8,,F
+2014-03,2012,Water Charges,105.1,,F
+2014-03,2012,Water Purifier,109.9,,F
+2014-03,2012,Watermelon,126.2,,F
+2014-03,2012,Wheat/ Atta – Other Sources,124.5,,F
+2014-03,2012,Wheat/ Atta – PDS,87.7,,F
+2014-04,2012,"Air Conditioner, Air Cooler",110.8,,F
+2014-04,2012,"Almirah, Dressing Table",113.6,,F
+2014-04,2012,"Arhar, Tur",106.6,,F
+2014-04,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",115.7,,F
+2014-04,2012,"Barber, Beautician, etc.",119.9,,F
+2014-04,2012,"Beans, Barbati",117.3,,F
+2014-04,2012,"Bed Sheet, Bed Cover (no.)",117.3,,F
+2014-04,2012,"Biscuits, Chocolates, etc.",108.4,,F
+2014-04,2012,"Books, Journals: First Hand",110.4,,F
+2014-04,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",115.5,,F
+2014-04,2012,"CD, DVD, Audio/video Cassette, etc",107.8,,F
+2014-04,2012,"Candy, Misri",109.7,,F
+2014-04,2012,"Carpet, Daree & Other Floor Mattings",109.8,,F
+2014-04,2012,"Cereal Substitutes: Tapioca, etc.",142.9,,F
+2014-04,2012,"Chair, Stool, Bench, Table",114.5,,F
+2014-04,2012,"Clock, Watch",114.6,,F
+2014-04,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",114.9,,F
+2014-04,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",118.9,,F
+2014-04,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",117.5,,F
+2014-04,2012,"Coat, Jacket, Sweater, Windcheater (no.)",115.5,,F
+2014-04,2012,"Coir, Rope, etc.",112.6,,F
+2014-04,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",116.6,,F
+2014-04,2012,"Electric Bulb, Tubelight",108.1,,F
+2014-04,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",102.1,,F
+2014-04,2012,"Fish, Prawn",121.8,,F
+2014-04,2012,"Frocks, Skirts, etc. (no.)",118.1,,F
+2014-04,2012,"Gamchha, Towel, Handkerchief (no.)",117.2,,F
+2014-04,2012,"Gourd, Pumpkin",118.2,,F
+2014-04,2012,"Hair Oil, Shampoo, Hair Cream",112.1,,F
+2014-04,2012,"Headwear, Belts, Ties (no.)",109.4,,F
+2014-04,2012,"House Rent, Garage Rent",113.6,,F
+2014-04,2012,"Incense (agarbatti), Room Freshener",110.2,,F
+2014-04,2012,"Leather Boots, Shoes",114.7,,F
+2014-04,2012,"Leather Sandals, Chappals, etc.",114.1,,F
+2014-04,2012,"Mosquito Repellent, Insecticide, Acid etc.",111.7,,F
+2014-04,2012,"Motor Car, Jeep",107.1,,F
+2014-04,2012,"Motor Cycle, Scooter",106.7,,F
+2014-04,2012,"Newspapers, Periodicals",119.3,,F
+2014-04,2012,"Orange, Mausami (no.)",116.9,,F
+2014-04,2012,"Other Beverages: Cocoa, Chocolate, etc.",112.8,,F
+2014-04,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.4,,F
+2014-04,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",115.3,,F
+2014-04,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",116.7,,F
+2014-04,2012,"Parwal/patal, Kundru",142.1,,F
+2014-04,2012,"Pillow, Quilt, Mattress (no.)",114.7,,F
+2014-04,2012,"Plugs, Switches & Other Electrical Fittings",112.5,,F
+2014-04,2012,"Powder, Snow, Cream, Lotion and Perfume",112.9,,F
+2014-04,2012,"Prepared Sweets, Cake, Pastry",118.2,,F
+2014-04,2012,"Radio, Tape Recorder, 2-in-1",110,,F
+2014-04,2012,"Raisin, Kishmish, Monacca, etc.",108.7,,F
+2014-04,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.7,,F
+2014-04,2012,"Rug, Blanket (no.)",116.5,,F
+2014-04,2012,"Sauce, Jam, Jelly (gm)",109.4,,F
+2014-04,2012,"School Bus, Van, etc.",117.4,,F
+2014-04,2012,"Sewai, Noodles",112.8,,F
+2014-04,2012,"Shaving Blades, Shaving Stick, Razor",107.2,,F
+2014-04,2012,"Shaving Cream, Aftershave Lotion",109.8,,F
+2014-04,2012,"Shawl, Chaddar (no.)",115.9,,F
+2014-04,2012,"Shirts, T-shirts (no.)",117.9,,F
+2014-04,2012,"Shorts, Trousers, Bermudas (no.)",115.7,,F
+2014-04,2012,"Sports Goods, Toys, etc.",114.7,,F
+2014-04,2012,"Stationery, Photocopying Charges",113.7,,F
+2014-04,2012,"Steamer, Boat Fare",117.9,,F
+2014-04,2012,"Stove, Gas Burner",116.1,,F
+2014-04,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",112.9,,F
+2014-04,2012,"Suji, Rawa",120,,F
+2014-04,2012,"Taxi, Auto-rickshaw Fare",116.2,,F
+2014-04,2012,"Toothpaste, Toothbrush, Comb, etc.",113.6,,F
+2014-04,2012,"Tuition and Other Fees (school, College, Etc.)",112.9,,F
+2014-04,2012,"Umbrella, Raincoat",113.5,,F
+2014-04,2012,"Vanaspati, Margarine",108.1,,F
+2014-04,2012,"Washerman, Laundry, Ironing",120.7,,F
+2014-04,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",111.4,,F
+2014-04,2012,"Zarda, Kimam, Surti (gm)",113.4,,F
+2014-04,2012,Air Fare (normal): Economy Class(adult),122.2,,F
+2014-04,2012,Any Other Personal Goods,122.3,,F
+2014-04,2012,Apple,124.8,,F
+2014-04,2012,Baby Food,113,,F
+2014-04,2012,Bajra & its Products,125,,F
+2014-04,2012,Banana (no.),126.8,,F
+2014-04,2012,Bathroom and Sanitary Equipment,109.6,,F
+2014-04,2012,Bedding: Others,126.3,,F
+2014-04,2012,Bedstead,113,,F
+2014-04,2012,Beef/ Buffalo Meat,122.6,,F
+2014-04,2012,Beer (litre),112.9,,F
+2014-04,2012,Berries,128.7,,F
+2014-04,2012,Besan,103.7,,F
+2014-04,2012,Bicycle(without Accessories),110.2,,F
+2014-04,2012,Bidi (no.),117.9,,F
+2014-04,2012,Black Pepper (gm),127,,F
+2014-04,2012,Bread (bakery),119.7,,F
+2014-04,2012,Brinjal,110.7,,F
+2014-04,2012,Bus/tram Fare,118.2,,F
+2014-04,2012,Butter,113.6,,F
+2014-04,2012,Cabbage,95.7,,F
+2014-04,2012,Camera & Photographic Equipment,108.3,,F
+2014-04,2012,Candle (no.),110.1,,F
+2014-04,2012,Carrot,98.2,,F
+2014-04,2012,Cashewnut,108.5,,F
+2014-04,2012,Cauliflower,94.2,,F
+2014-04,2012,Charcoal,111.6,,F
+2014-04,2012,Cheroot (no.),109.3,,F
+2014-04,2012,Chicken,115.6,,F
+2014-04,2012,Chips (gm),132.4,,F
+2014-04,2012,Chira,117.5,,F
+2014-04,2012,Cigarettes (no.),124.9,,F
+2014-04,2012,Cinema: New Release(normal Day),119.2,,F
+2014-04,2012,Clothing (first-hand): Other,115.1,,F
+2014-04,2012,Clothing: Second-hand,116,,F
+2014-04,2012,Club Fees,116.8,,F
+2014-04,2012,Coal,113.3,,F
+2014-04,2012,Coconut (no.),162.5,,F
+2014-04,2012,Coconut Oil,169.2,,F
+2014-04,2012,Coconut: Copra,124.2,,F
+2014-04,2012,Coffee: Cups (no.),120.5,,F
+2014-04,2012,Coffee: Powder (gm),111.7,,F
+2014-04,2012,Coke,120.1,,F
+2014-04,2012,Cold Beverages: Bottled/canned (litre),110,,F
+2014-04,2012,Cooked Meals Purchased (no.),123,,F
+2014-04,2012,Country Liquor (litre),115.2,,F
+2014-04,2012,Curd,117,,F
+2014-04,2012,Curry Powder (gm),114.5,,F
+2014-04,2012,Dates,120.9,,F
+2014-04,2012,Dhania (gm),127.7,,F
+2014-04,2012,Dhoti (no.),117.7,,F
+2014-04,2012,Diesel (litre) [excl. Conveyance],111.6,,F
+2014-04,2012,Diesel for Vehicle,123.4,,F
+2014-04,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),118.9,,F
+2014-04,2012,Domestic Servant/cook,116.8,,F
+2014-04,2012,Dry Chillies (gm),110.6,,F
+2014-04,2012,Dung Cake,116.4,,F
+2014-04,2012,Earthenware,117.4,,F
+2014-04,2012,Eggs (no.),116.2,,F
+2014-04,2012,Electric Batteries,110.2,,F
+2014-04,2012,Electric Fan,109.9,,F
+2014-04,2012,Electricity (std. Unit),112.2,,F
+2014-04,2012,Family Planning Devices,101.2,,F
+2014-04,2012,Firewood and Chips,116.8,,F
+2014-04,2012,Flower (fresh): All Purposes,121.7,,F
+2014-04,2012,Foreign/refined Liquor or Wine (litre),111,,F
+2014-04,2012,Fruit Juice and Shake (litre),112.5,,F
+2014-04,2012,Garlic (gm),123.3,,F
+2014-04,2012,Ghee,116.8,,F
+2014-04,2012,Ginger (gm),204.9,,F
+2014-04,2012,Glassware,108.7,,F
+2014-04,2012,Goat Meat/mutton,122.5,,F
+2014-04,2012,Gold,100.1,,F
+2014-04,2012,Goods for Recreation and Hobbies,125.1,,F
+2014-04,2012,Gram Products,104.3,,F
+2014-04,2012,Gram: Split,101.5,,F
+2014-04,2012,Gram: Whole,100.6,,F
+2014-04,2012,Grapes,102.8,,F
+2014-04,2012,Green Chillies,118.7,,F
+2014-04,2012,Green Coconut (no.),126.9,,F
+2014-04,2012,Grinding Charges,120.4,,F
+2014-04,2012,Groundnut Oil,93.8,,F
+2014-04,2012,Groundnut,107.7,,F
+2014-04,2012,Guava,134.2,,F
+2014-04,2012,Gur,107.6,,F
+2014-04,2012,Honey,114.3,,F
+2014-04,2012,Hookah Tobacco (gm),116.2,,F
+2014-04,2012,Horse Cart Fare,115.1,,F
+2014-04,2012,Hospital & Nursing Home Charges,113.4,,F
+2014-04,2012,Hotel Lodging Charges,110,,F
+2014-04,2012,Ice-cream,105.8,,F
+2014-04,2012,Ingredients for Pan (gm),117,,F
+2014-04,2012,Internet Expenses,108.6,,F
+2014-04,2012,Inverter,113.9,,F
+2014-04,2012,Jackfruit,126.9,,F
+2014-04,2012,Jeera (gm),104.8,,F
+2014-04,2012,Jowar & its Products,107,,F
+2014-04,2012,Kerosene – Other Sources (litre),111.2,,F
+2014-04,2012,Kerosene – PDS (litre),102.5,,F
+2014-04,2012,Kharbooza,167.6,,F
+2014-04,2012,Khesari,115.8,,F
+2014-04,2012,Knitting Wool (gm),113.8,,F
+2014-04,2012,Kurta-pajama Suits: Females (no.),116.2,,F
+2014-04,2012,Kurta-pajama Suits: Males (no.),117.3,,F
+2014-04,2012,LPG [excl. Conveyance],106.6,,F
+2014-04,2012,Lady's Finger,127.6,,F
+2014-04,2012,Leaf Tobacco (gm),117,,F
+2014-04,2012,Leechi,,,F
+2014-04,2012,Lemon (no.),133.6,,F
+2014-04,2012,Library Charges,100,,F
+2014-04,2012,Lighter (bidi/ Cigarette/ Gas Stove),110,,F
+2014-04,2012,Lock,115.6,,F
+2014-04,2012,Lubricants & Other Fuels for Vehicle,112.8,,F
+2014-04,2012,Lungi (no.),119.2,,F
+2014-04,2012,Maida,122.2,,F
+2014-04,2012,Maize & Products,120.1,,F
+2014-04,2012,Mango,137,,F
+2014-04,2012,Masur,118.9,,F
+2014-04,2012,Matches (box),106.4,,F
+2014-04,2012,Medicine (non-institutional),109.9,,F
+2014-04,2012,Milk: Condensed/ Powder,112.9,,F
+2014-04,2012,Milk: Liquid (litre),117.1,,F
+2014-04,2012,Mineral Water (litre),113,,F
+2014-04,2012,Mobile Handset,102.2,,F
+2014-04,2012,Monthly Charges for Cable Tv Connection,107.7,,F
+2014-04,2012,Monthly Maintainance Charges,115.2,,F
+2014-04,2012,Moong,124.1,,F
+2014-04,2012,Mosquito Net (no.),114.6,,F
+2014-04,2012,Muri,119.6,,F
+2014-04,2012,Mustard Oil,104.9,,F
+2014-04,2012,Oilseeds (gm),118.4,,F
+2014-04,2012,Onion,134.5,,F
+2014-04,2012,Other Cereals,183.9,,F
+2014-04,2012,Other Consumer Services Excluding Conveyance,115.2,,F
+2014-04,2012,Other Conveyance Expenses,112.6,,F
+2014-04,2012,Other Cooking/ Household Appliances,109.2,,F
+2014-04,2012,Other Crockery & Utensils,112.4,,F
+2014-04,2012,Other Dry Fruits,119.5,,F
+2014-04,2012,Other Durables (specify)….,106.7,,F
+2014-04,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),110.1,,F
+2014-04,2012,Other Entertainment,110.5,,F
+2014-04,2012,Other Footwear,112.8,,F
+2014-04,2012,Other Fresh Fruits,116.4,,F
+2014-04,2012,Other Fuel,119.3,,F
+2014-04,2012,Other Intoxicants,109.5,,F
+2014-04,2012,Other Leather Footwear,115.1,,F
+2014-04,2012,Other Medical Expenses (non-institutional),108.9,,F
+2014-04,2012,Other Metal Utensils,111.8,,F
+2014-04,2012,Other Milk Products,113.6,,F
+2014-04,2012,Other Nuts,136.5,,F
+2014-04,2012,Other Ornaments,109.3,,F
+2014-04,2012,Other Packaged Processed Food,109.8,,F
+2014-04,2012,Other Petty Articles,114.6,,F
+2014-04,2012,Other Pulse Products,112.3,,F
+2014-04,2012,Other Pulses,114.4,,F
+2014-04,2012,Other Rice Products,119.9,,F
+2014-04,2012,Other Tobacco Products,111.2,,F
+2014-04,2012,Other Vegetables,121.8,,F
+2014-04,2012,Other Washing Requisites,111.4,,F
+2014-04,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.9,,F
+2014-04,2012,Palak/other Leafy Vegetables,117.8,,F
+2014-04,2012,Pan: Finished (no.),122.4,,F
+2014-04,2012,Pan: Leaf (no.),119.2,,F
+2014-04,2012,Papaya,125.6,,F
+2014-04,2012,Pears/nashpati,113.6,,F
+2014-04,2012,Peas (pulses),119.5,,F
+2014-04,2012,Peas (vegetables),112.7,,F
+2014-04,2012,Petrol for Vehicle,107.2,,F
+2014-04,2012,Photography,110.2,,F
+2014-04,2012,Pickles (gm),111.6,,F
+2014-04,2012,Pineapple (no.),134.9,,F
+2014-04,2012,Pork,121.7,,F
+2014-04,2012,Porter Charges,115.4,,F
+2014-04,2012,Potato,125.8,,F
+2014-04,2012,Pressure Cooker/ Pressure Pan,107.1,,F
+2014-04,2012,Private Tutor/ Coaching Centre,113.1,,F
+2014-04,2012,Radish,113.3,,F
+2014-04,2012,Ragi & its Products,132.1,,F
+2014-04,2012,Railway Fare,128.7,,F
+2014-04,2012,Refrigerator,112.2,,F
+2014-04,2012,Residential Building & Land (cost of Repairs Only),125.9,,F
+2014-04,2012,Rice – Other Sources,125.3,,F
+2014-04,2012,Rice – PDS,90.4,,F
+2014-04,2012,Rickshaw (hand Drawn & Cycle) Fare,123.5,,F
+2014-04,2012,Rubber / Pvc Footwear,115.7,,F
+2014-04,2012,Salt,112.9,,F
+2014-04,2012,Sanitary Napkins,111.9,,F
+2014-04,2012,Saree (no.),117.3,,F
+2014-04,2012,School/college Uniform: Boys,117.1,,F
+2014-04,2012,School/college Uniform: Girls,117.2,,F
+2014-04,2012,Sewing Machine,120.1,,F
+2014-04,2012,Silver,82.8,,F
+2014-04,2012,Singara,,,F
+2014-04,2012,Small Millets & their Products,120.4,,F
+2014-04,2012,Snuff (gm),107.9,,F
+2014-04,2012,Spectacles,115.7,,F
+2014-04,2012,Stainless Steel Utensils,115.2,,F
+2014-04,2012,Sugar - Other Sources,101.2,,F
+2014-04,2012,Sugar - PDS,100.5,,F
+2014-04,2012,Sweeper,116.5,,F
+2014-04,2012,Tailor,122.3,,F
+2014-04,2012,Tamarind (gm),105.2,,F
+2014-04,2012,Tea: Cups (no.),118.5,,F
+2014-04,2012,Tea: Leaf (gm),113.6,,F
+2014-04,2012,Telephone Charges: Landline*,103.1,,F
+2014-04,2012,Telephone Charges: Mobile,109.4,,F
+2014-04,2012,Television,108.1,,F
+2014-04,2012,Toddy (litre),116.8,,F
+2014-04,2012,Toilet Soap,111.1,,F
+2014-04,2012,Tomato,94.8,,F
+2014-04,2012,Torch,112.1,,F
+2014-04,2012,Turmeric (gm),106.6,,F
+2014-04,2012,Tyres & Tubes,112.1,,F
+2014-04,2012,Urd,110.5,,F
+2014-04,2012,VCD/ DVD Hire (incl. Instrument),114.4,,F
+2014-04,2012,VCR/VCD/DVD Player,105,,F
+2014-04,2012,Walnut,129.3,,F
+2014-04,2012,Washing Machine,111.3,,F
+2014-04,2012,Washing Soap/soda/powder,112.6,,F
+2014-04,2012,Watch Man Charges (other Cons Taxes),119,,F
+2014-04,2012,Water Charges,106.3,,F
+2014-04,2012,Water Purifier,110.9,,F
+2014-04,2012,Watermelon,128.2,,F
+2014-04,2012,Wheat/ Atta – Other Sources,123.9,,F
+2014-04,2012,Wheat/ Atta – PDS,87.3,,F
+2014-05,2012,"Air Conditioner, Air Cooler",111.6,,F
+2014-05,2012,"Almirah, Dressing Table",113.7,,F
+2014-05,2012,"Arhar, Tur",106.8,,F
+2014-05,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",116.4,,F
+2014-05,2012,"Barber, Beautician, etc.",120.3,,F
+2014-05,2012,"Beans, Barbati",122.2,,F
+2014-05,2012,"Bed Sheet, Bed Cover (no.)",118.1,,F
+2014-05,2012,"Biscuits, Chocolates, etc.",108.7,,F
+2014-05,2012,"Books, Journals: First Hand",110.8,,F
+2014-05,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",115.9,,F
+2014-05,2012,"CD, DVD, Audio/video Cassette, etc",109.4,,F
+2014-05,2012,"Candy, Misri",110,,F
+2014-05,2012,"Carpet, Daree & Other Floor Mattings",109.8,,F
+2014-05,2012,"Cereal Substitutes: Tapioca, etc.",142.3,,F
+2014-05,2012,"Chair, Stool, Bench, Table",116.5,,F
+2014-05,2012,"Clock, Watch",113.3,,F
+2014-05,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",115.3,,F
+2014-05,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",119.7,,F
+2014-05,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",117.4,,F
+2014-05,2012,"Coat, Jacket, Sweater, Windcheater (no.)",114.7,,F
+2014-05,2012,"Coir, Rope, etc.",112.8,,F
+2014-05,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",116.9,,F
+2014-05,2012,"Electric Bulb, Tubelight",108.6,,F
+2014-05,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",100.6,,F
+2014-05,2012,"Fish, Prawn",123.8,,F
+2014-05,2012,"Frocks, Skirts, etc. (no.)",118.6,,F
+2014-05,2012,"Gamchha, Towel, Handkerchief (no.)",118.1,,F
+2014-05,2012,"Gourd, Pumpkin",113.5,,F
+2014-05,2012,"Hair Oil, Shampoo, Hair Cream",112.6,,F
+2014-05,2012,"Headwear, Belts, Ties (no.)",109.9,,F
+2014-05,2012,"House Rent, Garage Rent",114,,F
+2014-05,2012,"Incense (agarbatti), Room Freshener",110.8,,F
+2014-05,2012,"Leather Boots, Shoes",115.1,,F
+2014-05,2012,"Leather Sandals, Chappals, etc.",114.8,,F
+2014-05,2012,"Mosquito Repellent, Insecticide, Acid etc.",112,,F
+2014-05,2012,"Motor Car, Jeep",107.4,,F
+2014-05,2012,"Motor Cycle, Scooter",106.9,,F
+2014-05,2012,"Newspapers, Periodicals",119.7,,F
+2014-05,2012,"Orange, Mausami (no.)",124.9,,F
+2014-05,2012,"Other Beverages: Cocoa, Chocolate, etc.",113.8,,F
+2014-05,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.9,,F
+2014-05,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",115.9,,F
+2014-05,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",117.4,,F
+2014-05,2012,"Parwal/patal, Kundru",116.2,,F
+2014-05,2012,"Pillow, Quilt, Mattress (no.)",115.3,,F
+2014-05,2012,"Plugs, Switches & Other Electrical Fittings",112.6,,F
+2014-05,2012,"Powder, Snow, Cream, Lotion and Perfume",113.3,,F
+2014-05,2012,"Prepared Sweets, Cake, Pastry",119,,F
+2014-05,2012,"Radio, Tape Recorder, 2-in-1",110.6,,F
+2014-05,2012,"Raisin, Kishmish, Monacca, etc.",111.2,,F
+2014-05,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.9,,F
+2014-05,2012,"Rug, Blanket (no.)",122,,F
+2014-05,2012,"Sauce, Jam, Jelly (gm)",109.6,,F
+2014-05,2012,"School Bus, Van, etc.",117.6,,F
+2014-05,2012,"Sewai, Noodles",113.2,,F
+2014-05,2012,"Shaving Blades, Shaving Stick, Razor",107.4,,F
+2014-05,2012,"Shaving Cream, Aftershave Lotion",110,,F
+2014-05,2012,"Shawl, Chaddar (no.)",115.7,,F
+2014-05,2012,"Shirts, T-shirts (no.)",118.4,,F
+2014-05,2012,"Shorts, Trousers, Bermudas (no.)",116.2,,F
+2014-05,2012,"Sports Goods, Toys, etc.",115.2,,F
+2014-05,2012,"Stationery, Photocopying Charges",114.1,,F
+2014-05,2012,"Steamer, Boat Fare",117.3,,F
+2014-05,2012,"Stove, Gas Burner",116.6,,F
+2014-05,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",113.8,,F
+2014-05,2012,"Suji, Rawa",120.1,,F
+2014-05,2012,"Taxi, Auto-rickshaw Fare",116.5,,F
+2014-05,2012,"Toothpaste, Toothbrush, Comb, etc.",113.9,,F
+2014-05,2012,"Tuition and Other Fees (school, College, Etc.)",113.2,,F
+2014-05,2012,"Umbrella, Raincoat",114,,F
+2014-05,2012,"Vanaspati, Margarine",108.4,,F
+2014-05,2012,"Washerman, Laundry, Ironing",120.9,,F
+2014-05,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",111.7,,F
+2014-05,2012,"Zarda, Kimam, Surti (gm)",114.5,,F
+2014-05,2012,Air Fare (normal): Economy Class(adult),126.8,,F
+2014-05,2012,Any Other Personal Goods,119.2,,F
+2014-05,2012,Apple,137.3,,F
+2014-05,2012,Baby Food,114.1,,F
+2014-05,2012,Bajra & its Products,125.7,,F
+2014-05,2012,Banana (no.),129.4,,F
+2014-05,2012,Bathroom and Sanitary Equipment,110.6,,F
+2014-05,2012,Bedding: Others,127.1,,F
+2014-05,2012,Bedstead,113.6,,F
+2014-05,2012,Beef/ Buffalo Meat,124.4,,F
+2014-05,2012,Beer (litre),113.9,,F
+2014-05,2012,Berries,118.7,,F
+2014-05,2012,Besan,103.5,,F
+2014-05,2012,Bicycle(without Accessories),110.5,,F
+2014-05,2012,Bidi (no.),118.8,,F
+2014-05,2012,Black Pepper (gm),132.7,,F
+2014-05,2012,Bread (bakery),120,,F
+2014-05,2012,Brinjal,115.5,,F
+2014-05,2012,Bus/tram Fare,118.8,,F
+2014-05,2012,Butter,116,,F
+2014-05,2012,Cabbage,107.3,,F
+2014-05,2012,Camera & Photographic Equipment,108.3,,F
+2014-05,2012,Candle (no.),110.1,,F
+2014-05,2012,Carrot,111.8,,F
+2014-05,2012,Cashewnut,108.8,,F
+2014-05,2012,Cauliflower,113.8,,F
+2014-05,2012,Charcoal,111.3,,F
+2014-05,2012,Cheroot (no.),110.5,,F
+2014-05,2012,Chicken,117.7,,F
+2014-05,2012,Chips (gm),132.4,,F
+2014-05,2012,Chira,117.9,,F
+2014-05,2012,Cigarettes (no.),125.7,,F
+2014-05,2012,Cinema: New Release(normal Day),119.5,,F
+2014-05,2012,Clothing (first-hand): Other,115.7,,F
+2014-05,2012,Clothing: Second-hand,117,,F
+2014-05,2012,Club Fees,116.8,,F
+2014-05,2012,Coal,113.2,,F
+2014-05,2012,Coconut (no.),169.2,,F
+2014-05,2012,Coconut Oil,179.8,,F
+2014-05,2012,Coconut: Copra,132.1,,F
+2014-05,2012,Coffee: Cups (no.),120.9,,F
+2014-05,2012,Coffee: Powder (gm),112.4,,F
+2014-05,2012,Coke,121.4,,F
+2014-05,2012,Cold Beverages: Bottled/canned (litre),110.9,,F
+2014-05,2012,Cooked Meals Purchased (no.),123.8,,F
+2014-05,2012,Country Liquor (litre),116.3,,F
+2014-05,2012,Curd,118.6,,F
+2014-05,2012,Curry Powder (gm),114.9,,F
+2014-05,2012,Dates,120.9,,F
+2014-05,2012,Dhania (gm),130,,F
+2014-05,2012,Dhoti (no.),118.1,,F
+2014-05,2012,Diesel (litre) [excl. Conveyance],112.5,,F
+2014-05,2012,Diesel for Vehicle,124.7,,F
+2014-05,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),119.3,,F
+2014-05,2012,Domestic Servant/cook,117.2,,F
+2014-05,2012,Dry Chillies (gm),110.7,,F
+2014-05,2012,Dung Cake,115.3,,F
+2014-05,2012,Earthenware,119.1,,F
+2014-05,2012,Eggs (no.),115.9,,F
+2014-05,2012,Electric Batteries,110.2,,F
+2014-05,2012,Electric Fan,110.6,,F
+2014-05,2012,Electricity (std. Unit),112.5,,F
+2014-05,2012,Family Planning Devices,101.6,,F
+2014-05,2012,Firewood and Chips,117.1,,F
+2014-05,2012,Flower (fresh): All Purposes,121.9,,F
+2014-05,2012,Foreign/refined Liquor or Wine (litre),111.9,,F
+2014-05,2012,Fruit Juice and Shake (litre),112.7,,F
+2014-05,2012,Garlic (gm),123.5,,F
+2014-05,2012,Ghee,117.9,,F
+2014-05,2012,Ginger (gm),216.6,,F
+2014-05,2012,Glassware,110.1,,F
+2014-05,2012,Goat Meat/mutton,123.2,,F
+2014-05,2012,Gold,99.3,,F
+2014-05,2012,Goods for Recreation and Hobbies,124.9,,F
+2014-05,2012,Gram Products,105,,F
+2014-05,2012,Gram: Split,101.2,,F
+2014-05,2012,Gram: Whole,100.4,,F
+2014-05,2012,Grapes,117.3,,F
+2014-05,2012,Green Chillies,118.4,,F
+2014-05,2012,Green Coconut (no.),130.9,,F
+2014-05,2012,Grinding Charges,120.4,,F
+2014-05,2012,Groundnut Oil,93.8,,F
+2014-05,2012,Groundnut,108.1,,F
+2014-05,2012,Guava,138.5,,F
+2014-05,2012,Gur,108.6,,F
+2014-05,2012,Honey,115.5,,F
+2014-05,2012,Hookah Tobacco (gm),115.3,,F
+2014-05,2012,Horse Cart Fare,116.1,,F
+2014-05,2012,Hospital & Nursing Home Charges,114,,F
+2014-05,2012,Hotel Lodging Charges,110.2,,F
+2014-05,2012,Ice-cream,106.3,,F
+2014-05,2012,Ingredients for Pan (gm),118.9,,F
+2014-05,2012,Internet Expenses,109,,F
+2014-05,2012,Inverter,114.2,,F
+2014-05,2012,Jackfruit,122.5,,F
+2014-05,2012,Jeera (gm),104.7,,F
+2014-05,2012,Jowar & its Products,108.9,,F
+2014-05,2012,Kerosene – Other Sources (litre),111.5,,F
+2014-05,2012,Kerosene – PDS (litre),102.5,,F
+2014-05,2012,Kharbooza,126.3,,F
+2014-05,2012,Khesari,116.4,,F
+2014-05,2012,Knitting Wool (gm),113.5,,F
+2014-05,2012,Kurta-pajama Suits: Females (no.),116.7,,F
+2014-05,2012,Kurta-pajama Suits: Males (no.),118.9,,F
+2014-05,2012,LPG [excl. Conveyance],106.5,,F
+2014-05,2012,Lady's Finger,107.6,,F
+2014-05,2012,Leaf Tobacco (gm),118,,F
+2014-05,2012,Leechi,118.2,,F
+2014-05,2012,Lemon (no.),139.7,,F
+2014-05,2012,Library Charges,100,,F
+2014-05,2012,Lighter (bidi/ Cigarette/ Gas Stove),110.3,,F
+2014-05,2012,Lock,117.9,,F
+2014-05,2012,Lubricants & Other Fuels for Vehicle,113.1,,F
+2014-05,2012,Lungi (no.),119.6,,F
+2014-05,2012,Maida,122.4,,F
+2014-05,2012,Maize & Products,120.6,,F
+2014-05,2012,Mango,111.4,,F
+2014-05,2012,Masur,120,,F
+2014-05,2012,Matches (box),106.8,,F
+2014-05,2012,Medicine (non-institutional),110,,F
+2014-05,2012,Milk: Condensed/ Powder,113.9,,F
+2014-05,2012,Milk: Liquid (litre),118.4,,F
+2014-05,2012,Mineral Water (litre),113.3,,F
+2014-05,2012,Mobile Handset,102,,F
+2014-05,2012,Monthly Charges for Cable Tv Connection,107.9,,F
+2014-05,2012,Monthly Maintainance Charges,115.2,,F
+2014-05,2012,Moong,126.6,,F
+2014-05,2012,Mosquito Net (no.),115.5,,F
+2014-05,2012,Muri,120.2,,F
+2014-05,2012,Mustard Oil,104.9,,F
+2014-05,2012,Oilseeds (gm),118.8,,F
+2014-05,2012,Onion,138.4,,F
+2014-05,2012,Other Cereals,182.9,,F
+2014-05,2012,Other Consumer Services Excluding Conveyance,114.9,,F
+2014-05,2012,Other Conveyance Expenses,112.8,,F
+2014-05,2012,Other Cooking/ Household Appliances,109.3,,F
+2014-05,2012,Other Crockery & Utensils,113.2,,F
+2014-05,2012,Other Dry Fruits,120.1,,F
+2014-05,2012,Other Durables (specify)….,106.4,,F
+2014-05,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),110.2,,F
+2014-05,2012,Other Entertainment,111.2,,F
+2014-05,2012,Other Footwear,113.1,,F
+2014-05,2012,Other Fresh Fruits,117.3,,F
+2014-05,2012,Other Fuel,116.7,,F
+2014-05,2012,Other Intoxicants,110.1,,F
+2014-05,2012,Other Leather Footwear,115.2,,F
+2014-05,2012,Other Medical Expenses (non-institutional),108.6,,F
+2014-05,2012,Other Metal Utensils,111.1,,F
+2014-05,2012,Other Milk Products,116.8,,F
+2014-05,2012,Other Nuts,137.4,,F
+2014-05,2012,Other Ornaments,108.9,,F
+2014-05,2012,Other Packaged Processed Food,110.1,,F
+2014-05,2012,Other Petty Articles,114.9,,F
+2014-05,2012,Other Pulse Products,113.3,,F
+2014-05,2012,Other Pulses,115,,F
+2014-05,2012,Other Rice Products,120.2,,F
+2014-05,2012,Other Tobacco Products,111.5,,F
+2014-05,2012,Other Vegetables,116.5,,F
+2014-05,2012,Other Washing Requisites,111.6,,F
+2014-05,2012,PC/ Laptop/ Other Peripherals Incl. Software,113,,F
+2014-05,2012,Palak/other Leafy Vegetables,123.1,,F
+2014-05,2012,Pan: Finished (no.),122.8,,F
+2014-05,2012,Pan: Leaf (no.),118.8,,F
+2014-05,2012,Papaya,125.5,,F
+2014-05,2012,Pears/nashpati,116.5,,F
+2014-05,2012,Peas (pulses),119.8,,F
+2014-05,2012,Peas (vegetables),120.7,,F
+2014-05,2012,Petrol for Vehicle,106.7,,F
+2014-05,2012,Photography,110.3,,F
+2014-05,2012,Pickles (gm),111.6,,F
+2014-05,2012,Pineapple (no.),135.6,,F
+2014-05,2012,Pork,122.8,,F
+2014-05,2012,Porter Charges,115.7,,F
+2014-05,2012,Potato,141.7,,F
+2014-05,2012,Pressure Cooker/ Pressure Pan,108.3,,F
+2014-05,2012,Private Tutor/ Coaching Centre,113.6,,F
+2014-05,2012,Radish,119.5,,F
+2014-05,2012,Ragi & its Products,133.1,,F
+2014-05,2012,Railway Fare,128.9,,F
+2014-05,2012,Refrigerator,112.6,,F
+2014-05,2012,Residential Building & Land (cost of Repairs Only),126.8,,F
+2014-05,2012,Rice – Other Sources,126,,F
+2014-05,2012,Rice – PDS,90.4,,F
+2014-05,2012,Rickshaw (hand Drawn & Cycle) Fare,123.5,,F
+2014-05,2012,Rubber / Pvc Footwear,116.5,,F
+2014-05,2012,Salt,113.1,,F
+2014-05,2012,Sanitary Napkins,112.7,,F
+2014-05,2012,Saree (no.),118.3,,F
+2014-05,2012,School/college Uniform: Boys,117.8,,F
+2014-05,2012,School/college Uniform: Girls,118,,F
+2014-05,2012,Sewing Machine,121.5,,F
+2014-05,2012,Silver,81.2,,F
+2014-05,2012,Singara,,,F
+2014-05,2012,Small Millets & their Products,123.8,,F
+2014-05,2012,Snuff (gm),111.3,,F
+2014-05,2012,Spectacles,116.3,,F
+2014-05,2012,Stainless Steel Utensils,115.9,,F
+2014-05,2012,Sugar - Other Sources,102.3,,F
+2014-05,2012,Sugar - PDS,100.5,,F
+2014-05,2012,Sweeper,115.9,,F
+2014-05,2012,Tailor,123.2,,F
+2014-05,2012,Tamarind (gm),106.3,,F
+2014-05,2012,Tea: Cups (no.),119,,F
+2014-05,2012,Tea: Leaf (gm),114,,F
+2014-05,2012,Telephone Charges: Landline*,103.2,,F
+2014-05,2012,Telephone Charges: Mobile,109.7,,F
+2014-05,2012,Television,108.5,,F
+2014-05,2012,Toddy (litre),117.9,,F
+2014-05,2012,Toilet Soap,111.9,,F
+2014-05,2012,Tomato,98.7,,F
+2014-05,2012,Torch,112.6,,F
+2014-05,2012,Turmeric (gm),107.1,,F
+2014-05,2012,Tyres & Tubes,112.6,,F
+2014-05,2012,Urd,113.3,,F
+2014-05,2012,VCD/ DVD Hire (incl. Instrument),112.7,,F
+2014-05,2012,VCR/VCD/DVD Player,105.5,,F
+2014-05,2012,Walnut,132.6,,F
+2014-05,2012,Washing Machine,111.4,,F
+2014-05,2012,Washing Soap/soda/powder,112.8,,F
+2014-05,2012,Watch Man Charges (other Cons Taxes),119.1,,F
+2014-05,2012,Water Charges,106.3,,F
+2014-05,2012,Water Purifier,111.3,,F
+2014-05,2012,Watermelon,115.8,,F
+2014-05,2012,Wheat/ Atta – Other Sources,122.8,,F
+2014-05,2012,Wheat/ Atta – PDS,88.4,,F
+2014-06,2012,"Air Conditioner, Air Cooler",111.9,,F
+2014-06,2012,"Almirah, Dressing Table",114.6,,F
+2014-06,2012,"Arhar, Tur",107.2,,F
+2014-06,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",117,,F
+2014-06,2012,"Barber, Beautician, etc.",121.1,,F
+2014-06,2012,"Beans, Barbati",132.8,,F
+2014-06,2012,"Bed Sheet, Bed Cover (no.)",118.8,,F
+2014-06,2012,"Biscuits, Chocolates, etc.",109.1,,F
+2014-06,2012,"Books, Journals: First Hand",112,,F
+2014-06,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",117,,F
+2014-06,2012,"CD, DVD, Audio/video Cassette, etc",109.6,,F
+2014-06,2012,"Candy, Misri",111.2,,F
+2014-06,2012,"Carpet, Daree & Other Floor Mattings",109.2,,F
+2014-06,2012,"Cereal Substitutes: Tapioca, etc.",141.2,,F
+2014-06,2012,"Chair, Stool, Bench, Table",117.4,,F
+2014-06,2012,"Clock, Watch",113.9,,F
+2014-06,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",115.8,,F
+2014-06,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",120.4,,F
+2014-06,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",118.3,,F
+2014-06,2012,"Coat, Jacket, Sweater, Windcheater (no.)",114.9,,F
+2014-06,2012,"Coir, Rope, etc.",113.4,,F
+2014-06,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",117.7,,F
+2014-06,2012,"Electric Bulb, Tubelight",108.9,,F
+2014-06,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",102,,F
+2014-06,2012,"Fish, Prawn",125.5,,F
+2014-06,2012,"Frocks, Skirts, etc. (no.)",119.7,,F
+2014-06,2012,"Gamchha, Towel, Handkerchief (no.)",118.9,,F
+2014-06,2012,"Gourd, Pumpkin",114.4,,F
+2014-06,2012,"Hair Oil, Shampoo, Hair Cream",113.2,,F
+2014-06,2012,"Headwear, Belts, Ties (no.)",113.3,,F
+2014-06,2012,"House Rent, Garage Rent",113.5,,F
+2014-06,2012,"Incense (agarbatti), Room Freshener",111.3,,F
+2014-06,2012,"Leather Boots, Shoes",115.5,,F
+2014-06,2012,"Leather Sandals, Chappals, etc.",115.2,,F
+2014-06,2012,"Mosquito Repellent, Insecticide, Acid etc.",112.5,,F
+2014-06,2012,"Motor Car, Jeep",107.9,,F
+2014-06,2012,"Motor Cycle, Scooter",107,,F
+2014-06,2012,"Newspapers, Periodicals",120.3,,F
+2014-06,2012,"Orange, Mausami (no.)",132.5,,F
+2014-06,2012,"Other Beverages: Cocoa, Chocolate, etc.",114.5,,F
+2014-06,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",107.4,,F
+2014-06,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",116.7,,F
+2014-06,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",117.9,,F
+2014-06,2012,"Parwal/patal, Kundru",107.3,,F
+2014-06,2012,"Pillow, Quilt, Mattress (no.)",115.6,,F
+2014-06,2012,"Plugs, Switches & Other Electrical Fittings",113.4,,F
+2014-06,2012,"Powder, Snow, Cream, Lotion and Perfume",114,,F
+2014-06,2012,"Prepared Sweets, Cake, Pastry",120.1,,F
+2014-06,2012,"Radio, Tape Recorder, 2-in-1",110.6,,F
+2014-06,2012,"Raisin, Kishmish, Monacca, etc.",113.6,,F
+2014-06,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.8,,F
+2014-06,2012,"Rug, Blanket (no.)",115,,F
+2014-06,2012,"Sauce, Jam, Jelly (gm)",110.1,,F
+2014-06,2012,"School Bus, Van, etc.",119.2,,F
+2014-06,2012,"Sewai, Noodles",113.6,,F
+2014-06,2012,"Shaving Blades, Shaving Stick, Razor",108,,F
+2014-06,2012,"Shaving Cream, Aftershave Lotion",110.5,,F
+2014-06,2012,"Shawl, Chaddar (no.)",116.3,,F
+2014-06,2012,"Shirts, T-shirts (no.)",119.2,,F
+2014-06,2012,"Shorts, Trousers, Bermudas (no.)",116.8,,F
+2014-06,2012,"Sports Goods, Toys, etc.",115.9,,F
+2014-06,2012,"Stationery, Photocopying Charges",115,,F
+2014-06,2012,"Steamer, Boat Fare",118.2,,F
+2014-06,2012,"Stove, Gas Burner",116.6,,F
+2014-06,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",114.1,,F
+2014-06,2012,"Suji, Rawa",120.6,,F
+2014-06,2012,"Taxi, Auto-rickshaw Fare",117.1,,F
+2014-06,2012,"Toothpaste, Toothbrush, Comb, etc.",114.4,,F
+2014-06,2012,"Tuition and Other Fees (school, College, Etc.)",115.4,,F
+2014-06,2012,"Umbrella, Raincoat",115.4,,F
+2014-06,2012,"Vanaspati, Margarine",108.6,,F
+2014-06,2012,"Washerman, Laundry, Ironing",122.4,,F
+2014-06,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",112.3,,F
+2014-06,2012,"Zarda, Kimam, Surti (gm)",116.6,,F
+2014-06,2012,Air Fare (normal): Economy Class(adult),119.9,,F
+2014-06,2012,Any Other Personal Goods,121.5,,F
+2014-06,2012,Apple,145.9,,F
+2014-06,2012,Baby Food,114.5,,F
+2014-06,2012,Bajra & its Products,125.6,,F
+2014-06,2012,Banana (no.),129.3,,F
+2014-06,2012,Bathroom and Sanitary Equipment,112,,F
+2014-06,2012,Bedding: Others,127.6,,F
+2014-06,2012,Bedstead,114.1,,F
+2014-06,2012,Beef/ Buffalo Meat,125.5,,F
+2014-06,2012,Beer (litre),114.3,,F
+2014-06,2012,Berries,124,,F
+2014-06,2012,Besan,103.8,,F
+2014-06,2012,Bicycle(without Accessories),110.9,,F
+2014-06,2012,Bidi (no.),119.8,,F
+2014-06,2012,Black Pepper (gm),136.6,,F
+2014-06,2012,Bread (bakery),120.1,,F
+2014-06,2012,Brinjal,122.1,,F
+2014-06,2012,Bus/tram Fare,120.6,,F
+2014-06,2012,Butter,117.5,,F
+2014-06,2012,Cabbage,125,,F
+2014-06,2012,Camera & Photographic Equipment,108.3,,F
+2014-06,2012,Candle (no.),110.2,,F
+2014-06,2012,Carrot,122.8,,F
+2014-06,2012,Cashewnut,108.8,,F
+2014-06,2012,Cauliflower,137.4,,F
+2014-06,2012,Charcoal,111.9,,F
+2014-06,2012,Cheroot (no.),111.6,,F
+2014-06,2012,Chicken,119.7,,F
+2014-06,2012,Chips (gm),132.4,,F
+2014-06,2012,Chira,118.8,,F
+2014-06,2012,Cigarettes (no.),127,,F
+2014-06,2012,Cinema: New Release(normal Day),120.4,,F
+2014-06,2012,Clothing (first-hand): Other,116.6,,F
+2014-06,2012,Clothing: Second-hand,115.6,,F
+2014-06,2012,Club Fees,117,,F
+2014-06,2012,Coal,113.4,,F
+2014-06,2012,Coconut (no.),169.3,,F
+2014-06,2012,Coconut Oil,180.4,,F
+2014-06,2012,Coconut: Copra,137.4,,F
+2014-06,2012,Coffee: Cups (no.),121.5,,F
+2014-06,2012,Coffee: Powder (gm),112.9,,F
+2014-06,2012,Coke,121.8,,F
+2014-06,2012,Cold Beverages: Bottled/canned (litre),111.9,,F
+2014-06,2012,Cooked Meals Purchased (no.),124.6,,F
+2014-06,2012,Country Liquor (litre),117.3,,F
+2014-06,2012,Curd,120.3,,F
+2014-06,2012,Curry Powder (gm),115.5,,F
+2014-06,2012,Dates,122,,F
+2014-06,2012,Dhania (gm),132.6,,F
+2014-06,2012,Dhoti (no.),118.9,,F
+2014-06,2012,Diesel (litre) [excl. Conveyance],113.3,,F
+2014-06,2012,Diesel for Vehicle,126.2,,F
+2014-06,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),120.6,,F
+2014-06,2012,Domestic Servant/cook,118.1,,F
+2014-06,2012,Dry Chillies (gm),111.2,,F
+2014-06,2012,Dung Cake,117.2,,F
+2014-06,2012,Earthenware,121.4,,F
+2014-06,2012,Eggs (no.),115.8,,F
+2014-06,2012,Electric Batteries,110.1,,F
+2014-06,2012,Electric Fan,109.5,,F
+2014-06,2012,Electricity (std. Unit),113,,F
+2014-06,2012,Family Planning Devices,100.6,,F
+2014-06,2012,Firewood and Chips,118.3,,F
+2014-06,2012,Flower (fresh): All Purposes,122.8,,F
+2014-06,2012,Foreign/refined Liquor or Wine (litre),112.6,,F
+2014-06,2012,Fruit Juice and Shake (litre),113.3,,F
+2014-06,2012,Garlic (gm),126.3,,F
+2014-06,2012,Ghee,118.8,,F
+2014-06,2012,Ginger (gm),222.3,,F
+2014-06,2012,Glassware,111.1,,F
+2014-06,2012,Goat Meat/mutton,123.9,,F
+2014-06,2012,Gold,94.7,,F
+2014-06,2012,Goods for Recreation and Hobbies,125.1,,F
+2014-06,2012,Gram Products,105.8,,F
+2014-06,2012,Gram: Split,100.8,,F
+2014-06,2012,Gram: Whole,100.5,,F
+2014-06,2012,Grapes,124.4,,F
+2014-06,2012,Green Chillies,118.8,,F
+2014-06,2012,Green Coconut (no.),133.6,,F
+2014-06,2012,Grinding Charges,121,,F
+2014-06,2012,Groundnut Oil,93.8,,F
+2014-06,2012,Groundnut,108.5,,F
+2014-06,2012,Guava,135.8,,F
+2014-06,2012,Gur,109.5,,F
+2014-06,2012,Honey,115.8,,F
+2014-06,2012,Hookah Tobacco (gm),115.2,,F
+2014-06,2012,Horse Cart Fare,115.2,,F
+2014-06,2012,Hospital & Nursing Home Charges,114.5,,F
+2014-06,2012,Hotel Lodging Charges,111.1,,F
+2014-06,2012,Ice-cream,106.5,,F
+2014-06,2012,Ingredients for Pan (gm),120,,F
+2014-06,2012,Internet Expenses,109.4,,F
+2014-06,2012,Inverter,114.5,,F
+2014-06,2012,Jackfruit,119.8,,F
+2014-06,2012,Jeera (gm),104.9,,F
+2014-06,2012,Jowar & its Products,110.5,,F
+2014-06,2012,Kerosene – Other Sources (litre),111.6,,F
+2014-06,2012,Kerosene – PDS (litre),102.5,,F
+2014-06,2012,Kharbooza,99.1,,F
+2014-06,2012,Khesari,118.4,,F
+2014-06,2012,Knitting Wool (gm),112.8,,F
+2014-06,2012,Kurta-pajama Suits: Females (no.),117.4,,F
+2014-06,2012,Kurta-pajama Suits: Males (no.),118.6,,F
+2014-06,2012,LPG [excl. Conveyance],106.6,,F
+2014-06,2012,Lady's Finger,103.7,,F
+2014-06,2012,Leaf Tobacco (gm),117.8,,F
+2014-06,2012,Leechi,113.6,,F
+2014-06,2012,Lemon (no.),127.3,,F
+2014-06,2012,Library Charges,100,,F
+2014-06,2012,Lighter (bidi/ Cigarette/ Gas Stove),109.2,,F
+2014-06,2012,Lock,119.1,,F
+2014-06,2012,Lubricants & Other Fuels for Vehicle,113.2,,F
+2014-06,2012,Lungi (no.),120.8,,F
+2014-06,2012,Maida,122.1,,F
+2014-06,2012,Maize & Products,120.6,,F
+2014-06,2012,Mango,96.2,,F
+2014-06,2012,Masur,120.8,,F
+2014-06,2012,Matches (box),107.1,,F
+2014-06,2012,Medicine (non-institutional),110.4,,F
+2014-06,2012,Milk: Condensed/ Powder,115.1,,F
+2014-06,2012,Milk: Liquid (litre),119.7,,F
+2014-06,2012,Mineral Water (litre),113.6,,F
+2014-06,2012,Mobile Handset,102.2,,F
+2014-06,2012,Monthly Charges for Cable Tv Connection,108.1,,F
+2014-06,2012,Monthly Maintainance Charges,114.8,,F
+2014-06,2012,Moong,126.2,,F
+2014-06,2012,Mosquito Net (no.),116.8,,F
+2014-06,2012,Muri,120,,F
+2014-06,2012,Mustard Oil,104.7,,F
+2014-06,2012,Oilseeds (gm),119.3,,F
+2014-06,2012,Onion,155,,F
+2014-06,2012,Other Cereals,182.9,,F
+2014-06,2012,Other Consumer Services Excluding Conveyance,116,,F
+2014-06,2012,Other Conveyance Expenses,113,,F
+2014-06,2012,Other Cooking/ Household Appliances,109.6,,F
+2014-06,2012,Other Crockery & Utensils,113.5,,F
+2014-06,2012,Other Dry Fruits,121.4,,F
+2014-06,2012,Other Durables (specify)….,107.5,,F
+2014-06,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),115,,F
+2014-06,2012,Other Entertainment,111.2,,F
+2014-06,2012,Other Footwear,113.8,,F
+2014-06,2012,Other Fresh Fruits,120.2,,F
+2014-06,2012,Other Fuel,117,,F
+2014-06,2012,Other Intoxicants,110.7,,F
+2014-06,2012,Other Leather Footwear,115.3,,F
+2014-06,2012,Other Medical Expenses (non-institutional),109,,F
+2014-06,2012,Other Metal Utensils,110.5,,F
+2014-06,2012,Other Milk Products,118.2,,F
+2014-06,2012,Other Nuts,137.1,,F
+2014-06,2012,Other Ornaments,107.4,,F
+2014-06,2012,Other Packaged Processed Food,110.2,,F
+2014-06,2012,Other Petty Articles,115.4,,F
+2014-06,2012,Other Pulse Products,113.6,,F
+2014-06,2012,Other Pulses,115.7,,F
+2014-06,2012,Other Rice Products,121.5,,F
+2014-06,2012,Other Tobacco Products,112.7,,F
+2014-06,2012,Other Vegetables,118.2,,F
+2014-06,2012,Other Washing Requisites,112.5,,F
+2014-06,2012,PC/ Laptop/ Other Peripherals Incl. Software,113.1,,F
+2014-06,2012,Palak/other Leafy Vegetables,132.3,,F
+2014-06,2012,Pan: Finished (no.),123.3,,F
+2014-06,2012,Pan: Leaf (no.),118.6,,F
+2014-06,2012,Papaya,127.3,,F
+2014-06,2012,Pears/nashpati,114.4,,F
+2014-06,2012,Peas (pulses),120,,F
+2014-06,2012,Peas (vegetables),131.4,,F
+2014-06,2012,Petrol for Vehicle,106.7,,F
+2014-06,2012,Photography,111,,F
+2014-06,2012,Pickles (gm),112.3,,F
+2014-06,2012,Pineapple (no.),131.7,,F
+2014-06,2012,Pork,122.9,,F
+2014-06,2012,Porter Charges,115.7,,F
+2014-06,2012,Potato,149.8,,F
+2014-06,2012,Pressure Cooker/ Pressure Pan,106.3,,F
+2014-06,2012,Private Tutor/ Coaching Centre,114.3,,F
+2014-06,2012,Radish,130.3,,F
+2014-06,2012,Ragi & its Products,134,,F
+2014-06,2012,Railway Fare,130,,F
+2014-06,2012,Refrigerator,113,,F
+2014-06,2012,Residential Building & Land (cost of Repairs Only),127.5,,F
+2014-06,2012,Rice – Other Sources,126.8,,F
+2014-06,2012,Rice – PDS,90.4,,F
+2014-06,2012,Rickshaw (hand Drawn & Cycle) Fare,123.8,,F
+2014-06,2012,Rubber / Pvc Footwear,117,,F
+2014-06,2012,Salt,113.8,,F
+2014-06,2012,Sanitary Napkins,113.2,,F
+2014-06,2012,Saree (no.),119.1,,F
+2014-06,2012,School/college Uniform: Boys,119,,F
+2014-06,2012,School/college Uniform: Girls,119.1,,F
+2014-06,2012,Sewing Machine,122.7,,F
+2014-06,2012,Silver,80.5,,F
+2014-06,2012,Singara,,,F
+2014-06,2012,Small Millets & their Products,127.4,,F
+2014-06,2012,Snuff (gm),112.3,,F
+2014-06,2012,Spectacles,117.3,,F
+2014-06,2012,Stainless Steel Utensils,116.8,,F
+2014-06,2012,Sugar - Other Sources,102.2,,F
+2014-06,2012,Sugar - PDS,100.5,,F
+2014-06,2012,Sweeper,116.9,,F
+2014-06,2012,Tailor,124.1,,F
+2014-06,2012,Tamarind (gm),107.3,,F
+2014-06,2012,Tea: Cups (no.),119.6,,F
+2014-06,2012,Tea: Leaf (gm),114.5,,F
+2014-06,2012,Telephone Charges: Landline*,103.2,,F
+2014-06,2012,Telephone Charges: Mobile,109.9,,F
+2014-06,2012,Television,109.3,,F
+2014-06,2012,Toddy (litre),119.9,,F
+2014-06,2012,Toilet Soap,112.7,,F
+2014-06,2012,Tomato,106.8,,F
+2014-06,2012,Torch,113.4,,F
+2014-06,2012,Turmeric (gm),107.4,,F
+2014-06,2012,Tyres & Tubes,113.5,,F
+2014-06,2012,Urd,115.9,,F
+2014-06,2012,VCD/ DVD Hire (incl. Instrument),112.7,,F
+2014-06,2012,VCR/VCD/DVD Player,105.4,,F
+2014-06,2012,Walnut,134.9,,F
+2014-06,2012,Washing Machine,111.6,,F
+2014-06,2012,Washing Soap/soda/powder,113.5,,F
+2014-06,2012,Watch Man Charges (other Cons Taxes),119.8,,F
+2014-06,2012,Water Charges,106.4,,F
+2014-06,2012,Water Purifier,111.6,,F
+2014-06,2012,Watermelon,108.9,,F
+2014-06,2012,Wheat/ Atta – Other Sources,122.5,,F
+2014-06,2012,Wheat/ Atta – PDS,88.1,,F
+2014-07,2012,"Air Conditioner, Air Cooler",111.9,,F
+2014-07,2012,"Almirah, Dressing Table",115.1,,F
+2014-07,2012,"Arhar, Tur",107.7,,F
+2014-07,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",117.8,,F
+2014-07,2012,"Barber, Beautician, etc.",122.1,,F
+2014-07,2012,"Beans, Barbati",142.6,,F
+2014-07,2012,"Bed Sheet, Bed Cover (no.)",119.4,,F
+2014-07,2012,"Biscuits, Chocolates, etc.",109.5,,F
+2014-07,2012,"Books, Journals: First Hand",112.9,,F
+2014-07,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",117.8,,F
+2014-07,2012,"CD, DVD, Audio/video Cassette, etc",109.3,,F
+2014-07,2012,"Candy, Misri",111.7,,F
+2014-07,2012,"Carpet, Daree & Other Floor Mattings",112.3,,F
+2014-07,2012,"Cereal Substitutes: Tapioca, etc.",141.9,,F
+2014-07,2012,"Chair, Stool, Bench, Table",117.4,,F
+2014-07,2012,"Clock, Watch",114.1,,F
+2014-07,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",116.4,,F
+2014-07,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",121.5,,F
+2014-07,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",118.6,,F
+2014-07,2012,"Coat, Jacket, Sweater, Windcheater (no.)",115.2,,F
+2014-07,2012,"Coir, Rope, etc.",113.9,,F
+2014-07,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",118.3,,F
+2014-07,2012,"Electric Bulb, Tubelight",109.3,,F
+2014-07,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",103.7,,F
+2014-07,2012,"Fish, Prawn",126.3,,F
+2014-07,2012,"Frocks, Skirts, etc. (no.)",121,,F
+2014-07,2012,"Gamchha, Towel, Handkerchief (no.)",119.9,,F
+2014-07,2012,"Gourd, Pumpkin",126.7,,F
+2014-07,2012,"Hair Oil, Shampoo, Hair Cream",114.1,,F
+2014-07,2012,"Headwear, Belts, Ties (no.)",113.6,,F
+2014-07,2012,"House Rent, Garage Rent",114.5,,F
+2014-07,2012,"Incense (agarbatti), Room Freshener",111.6,,F
+2014-07,2012,"Leather Boots, Shoes",116.3,,F
+2014-07,2012,"Leather Sandals, Chappals, etc.",116.1,,F
+2014-07,2012,"Mosquito Repellent, Insecticide, Acid etc.",113.1,,F
+2014-07,2012,"Motor Car, Jeep",107.6,,F
+2014-07,2012,"Motor Cycle, Scooter",107.3,,F
+2014-07,2012,"Newspapers, Periodicals",121,,F
+2014-07,2012,"Orange, Mausami (no.)",136.5,,F
+2014-07,2012,"Other Beverages: Cocoa, Chocolate, etc.",115.1,,F
+2014-07,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.5,,F
+2014-07,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.5,,F
+2014-07,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",118.3,,F
+2014-07,2012,"Parwal/patal, Kundru",112.6,,F
+2014-07,2012,"Pillow, Quilt, Mattress (no.)",116.2,,F
+2014-07,2012,"Plugs, Switches & Other Electrical Fittings",113.6,,F
+2014-07,2012,"Powder, Snow, Cream, Lotion and Perfume",114.5,,F
+2014-07,2012,"Prepared Sweets, Cake, Pastry",120.9,,F
+2014-07,2012,"Radio, Tape Recorder, 2-in-1",110.6,,F
+2014-07,2012,"Raisin, Kishmish, Monacca, etc.",115.8,,F
+2014-07,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.5,,F
+2014-07,2012,"Rug, Blanket (no.)",115.3,,F
+2014-07,2012,"Sauce, Jam, Jelly (gm)",110.8,,F
+2014-07,2012,"School Bus, Van, etc.",121.5,,F
+2014-07,2012,"Sewai, Noodles",114.5,,F
+2014-07,2012,"Shaving Blades, Shaving Stick, Razor",108.6,,F
+2014-07,2012,"Shaving Cream, Aftershave Lotion",111,,F
+2014-07,2012,"Shawl, Chaddar (no.)",117.2,,F
+2014-07,2012,"Shirts, T-shirts (no.)",119.9,,F
+2014-07,2012,"Shorts, Trousers, Bermudas (no.)",117.7,,F
+2014-07,2012,"Sports Goods, Toys, etc.",116.4,,F
+2014-07,2012,"Stationery, Photocopying Charges",115.8,,F
+2014-07,2012,"Steamer, Boat Fare",117.9,,F
+2014-07,2012,"Stove, Gas Burner",117.2,,F
+2014-07,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",114,,F
+2014-07,2012,"Suji, Rawa",121,,F
+2014-07,2012,"Taxi, Auto-rickshaw Fare",117.8,,F
+2014-07,2012,"Toothpaste, Toothbrush, Comb, etc.",115,,F
+2014-07,2012,"Tuition and Other Fees (school, College, Etc.)",118,,F
+2014-07,2012,"Umbrella, Raincoat",117.4,,F
+2014-07,2012,"Vanaspati, Margarine",108.7,,F
+2014-07,2012,"Washerman, Laundry, Ironing",123.7,,F
+2014-07,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",112.7,,F
+2014-07,2012,"Zarda, Kimam, Surti (gm)",118.5,,F
+2014-07,2012,Air Fare (normal): Economy Class(adult),116.2,,F
+2014-07,2012,Any Other Personal Goods,121.5,,F
+2014-07,2012,Apple,149.5,,F
+2014-07,2012,Baby Food,115.4,,F
+2014-07,2012,Bajra & its Products,126.9,,F
+2014-07,2012,Banana (no.),132.2,,F
+2014-07,2012,Bathroom and Sanitary Equipment,112.8,,F
+2014-07,2012,Bedding: Others,128,,F
+2014-07,2012,Bedstead,115.1,,F
+2014-07,2012,Beef/ Buffalo Meat,126.3,,F
+2014-07,2012,Beer (litre),114.5,,F
+2014-07,2012,Berries,130,,F
+2014-07,2012,Besan,103.9,,F
+2014-07,2012,Bicycle(without Accessories),111.4,,F
+2014-07,2012,Bidi (no.),121.5,,F
+2014-07,2012,Black Pepper (gm),139.4,,F
+2014-07,2012,Bread (bakery),120.7,,F
+2014-07,2012,Brinjal,140.9,,F
+2014-07,2012,Bus/tram Fare,122.2,,F
+2014-07,2012,Butter,118.5,,F
+2014-07,2012,Cabbage,151.8,,F
+2014-07,2012,Camera & Photographic Equipment,108.3,,F
+2014-07,2012,Candle (no.),110.9,,F
+2014-07,2012,Carrot,145.6,,F
+2014-07,2012,Cashewnut,109,,F
+2014-07,2012,Cauliflower,168.3,,F
+2014-07,2012,Charcoal,113.2,,F
+2014-07,2012,Cheroot (no.),112.2,,F
+2014-07,2012,Chicken,120.3,,F
+2014-07,2012,Chips (gm),132.4,,F
+2014-07,2012,Chira,120.1,,F
+2014-07,2012,Cigarettes (no.),130.6,,F
+2014-07,2012,Cinema: New Release(normal Day),122,,F
+2014-07,2012,Clothing (first-hand): Other,116.6,,F
+2014-07,2012,Clothing: Second-hand,117.4,,F
+2014-07,2012,Club Fees,117.5,,F
+2014-07,2012,Coal,112.9,,F
+2014-07,2012,Coconut (no.),172.9,,F
+2014-07,2012,Coconut Oil,185.7,,F
+2014-07,2012,Coconut: Copra,146.3,,F
+2014-07,2012,Coffee: Cups (no.),122,,F
+2014-07,2012,Coffee: Powder (gm),114.3,,F
+2014-07,2012,Coke,122.3,,F
+2014-07,2012,Cold Beverages: Bottled/canned (litre),112.5,,F
+2014-07,2012,Cooked Meals Purchased (no.),125.9,,F
+2014-07,2012,Country Liquor (litre),117.9,,F
+2014-07,2012,Curd,121.2,,F
+2014-07,2012,Curry Powder (gm),116.3,,F
+2014-07,2012,Dates,123.3,,F
+2014-07,2012,Dhania (gm),135.8,,F
+2014-07,2012,Dhoti (no.),119.8,,F
+2014-07,2012,Diesel (litre) [excl. Conveyance],114.4,,F
+2014-07,2012,Diesel for Vehicle,127.6,,F
+2014-07,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),121.2,,F
+2014-07,2012,Domestic Servant/cook,118.8,,F
+2014-07,2012,Dry Chillies (gm),112.3,,F
+2014-07,2012,Dung Cake,118.5,,F
+2014-07,2012,Earthenware,122.9,,F
+2014-07,2012,Eggs (no.),117.8,,F
+2014-07,2012,Electric Batteries,110.1,,F
+2014-07,2012,Electric Fan,109.2,,F
+2014-07,2012,Electricity (std. Unit),113.4,,F
+2014-07,2012,Family Planning Devices,101.8,,F
+2014-07,2012,Firewood and Chips,119.3,,F
+2014-07,2012,Flower (fresh): All Purposes,124.4,,F
+2014-07,2012,Foreign/refined Liquor or Wine (litre),112.8,,F
+2014-07,2012,Fruit Juice and Shake (litre),113.8,,F
+2014-07,2012,Garlic (gm),130.9,,F
+2014-07,2012,Ghee,119.9,,F
+2014-07,2012,Ginger (gm),228.7,,F
+2014-07,2012,Glassware,111.1,,F
+2014-07,2012,Goat Meat/mutton,124.5,,F
+2014-07,2012,Gold,95.8,,F
+2014-07,2012,Goods for Recreation and Hobbies,125.1,,F
+2014-07,2012,Gram Products,105.9,,F
+2014-07,2012,Gram: Split,100.9,,F
+2014-07,2012,Gram: Whole,100.9,,F
+2014-07,2012,Grapes,128,,F
+2014-07,2012,Green Chillies,139.6,,F
+2014-07,2012,Green Coconut (no.),134.1,,F
+2014-07,2012,Grinding Charges,121.5,,F
+2014-07,2012,Groundnut Oil,94.5,,F
+2014-07,2012,Groundnut,110.6,,F
+2014-07,2012,Guava,131.8,,F
+2014-07,2012,Gur,111,,F
+2014-07,2012,Honey,117.8,,F
+2014-07,2012,Hookah Tobacco (gm),118,,F
+2014-07,2012,Horse Cart Fare,115.9,,F
+2014-07,2012,Hospital & Nursing Home Charges,115.3,,F
+2014-07,2012,Hotel Lodging Charges,111.1,,F
+2014-07,2012,Ice-cream,106.8,,F
+2014-07,2012,Ingredients for Pan (gm),121.9,,F
+2014-07,2012,Internet Expenses,109.5,,F
+2014-07,2012,Inverter,114.9,,F
+2014-07,2012,Jackfruit,124.3,,F
+2014-07,2012,Jeera (gm),105.1,,F
+2014-07,2012,Jowar & its Products,111.3,,F
+2014-07,2012,Kerosene – Other Sources (litre),111.8,,F
+2014-07,2012,Kerosene – PDS (litre),103,,F
+2014-07,2012,Kharbooza,108.4,,F
+2014-07,2012,Khesari,119.7,,F
+2014-07,2012,Knitting Wool (gm),114.3,,F
+2014-07,2012,Kurta-pajama Suits: Females (no.),118.1,,F
+2014-07,2012,Kurta-pajama Suits: Males (no.),120.9,,F
+2014-07,2012,LPG [excl. Conveyance],106.7,,F
+2014-07,2012,Lady's Finger,116.1,,F
+2014-07,2012,Leaf Tobacco (gm),118.8,,F
+2014-07,2012,Leechi,107.8,,F
+2014-07,2012,Lemon (no.),116.7,,F
+2014-07,2012,Library Charges,100,,F
+2014-07,2012,Lighter (bidi/ Cigarette/ Gas Stove),110.2,,F
+2014-07,2012,Lock,120.2,,F
+2014-07,2012,Lubricants & Other Fuels for Vehicle,113.9,,F
+2014-07,2012,Lungi (no.),121.7,,F
+2014-07,2012,Maida,122.4,,F
+2014-07,2012,Maize & Products,121.5,,F
+2014-07,2012,Mango,95.7,,F
+2014-07,2012,Masur,121.8,,F
+2014-07,2012,Matches (box),107.4,,F
+2014-07,2012,Medicine (non-institutional),110.7,,F
+2014-07,2012,Milk: Condensed/ Powder,116.3,,F
+2014-07,2012,Milk: Liquid (litre),121.1,,F
+2014-07,2012,Mineral Water (litre),113.9,,F
+2014-07,2012,Mobile Handset,102.3,,F
+2014-07,2012,Monthly Charges for Cable Tv Connection,108.7,,F
+2014-07,2012,Monthly Maintainance Charges,114.8,,F
+2014-07,2012,Moong,126.2,,F
+2014-07,2012,Mosquito Net (no.),117.6,,F
+2014-07,2012,Muri,120.4,,F
+2014-07,2012,Mustard Oil,104.5,,F
+2014-07,2012,Oilseeds (gm),120.4,,F
+2014-07,2012,Onion,206.5,,F
+2014-07,2012,Other Cereals,157.9,,F
+2014-07,2012,Other Consumer Services Excluding Conveyance,116,,F
+2014-07,2012,Other Conveyance Expenses,113.1,,F
+2014-07,2012,Other Cooking/ Household Appliances,110,,F
+2014-07,2012,Other Crockery & Utensils,114.7,,F
+2014-07,2012,Other Dry Fruits,122.9,,F
+2014-07,2012,Other Durables (specify)….,107.5,,F
+2014-07,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),114.7,,F
+2014-07,2012,Other Entertainment,110.7,,F
+2014-07,2012,Other Footwear,114.3,,F
+2014-07,2012,Other Fresh Fruits,124.2,,F
+2014-07,2012,Other Fuel,118.8,,F
+2014-07,2012,Other Intoxicants,112,,F
+2014-07,2012,Other Leather Footwear,115.8,,F
+2014-07,2012,Other Medical Expenses (non-institutional),109.8,,F
+2014-07,2012,Other Metal Utensils,110.9,,F
+2014-07,2012,Other Milk Products,118.5,,F
+2014-07,2012,Other Nuts,138.1,,F
+2014-07,2012,Other Ornaments,107,,F
+2014-07,2012,Other Packaged Processed Food,110.7,,F
+2014-07,2012,Other Petty Articles,116.6,,F
+2014-07,2012,Other Pulse Products,114.5,,F
+2014-07,2012,Other Pulses,116.6,,F
+2014-07,2012,Other Rice Products,122,,F
+2014-07,2012,Other Tobacco Products,113.3,,F
+2014-07,2012,Other Vegetables,130,,F
+2014-07,2012,Other Washing Requisites,113,,F
+2014-07,2012,PC/ Laptop/ Other Peripherals Incl. Software,113.1,,F
+2014-07,2012,Palak/other Leafy Vegetables,143.3,,F
+2014-07,2012,Pan: Finished (no.),125.2,,F
+2014-07,2012,Pan: Leaf (no.),116.3,,F
+2014-07,2012,Papaya,137.1,,F
+2014-07,2012,Pears/nashpati,112.4,,F
+2014-07,2012,Peas (pulses),120.4,,F
+2014-07,2012,Peas (vegetables),155.8,,F
+2014-07,2012,Petrol for Vehicle,108.9,,F
+2014-07,2012,Photography,111.5,,F
+2014-07,2012,Pickles (gm),112.9,,F
+2014-07,2012,Pineapple (no.),132.6,,F
+2014-07,2012,Pork,124.5,,F
+2014-07,2012,Porter Charges,115.7,,F
+2014-07,2012,Potato,167.4,,F
+2014-07,2012,Pressure Cooker/ Pressure Pan,106.5,,F
+2014-07,2012,Private Tutor/ Coaching Centre,115.8,,F
+2014-07,2012,Radish,150.8,,F
+2014-07,2012,Ragi & its Products,135.9,,F
+2014-07,2012,Railway Fare,135.2,,F
+2014-07,2012,Refrigerator,113.5,,F
+2014-07,2012,Residential Building & Land (cost of Repairs Only),128.3,,F
+2014-07,2012,Rice – Other Sources,128.2,,F
+2014-07,2012,Rice – PDS,90.4,,F
+2014-07,2012,Rickshaw (hand Drawn & Cycle) Fare,124.5,,F
+2014-07,2012,Rubber / Pvc Footwear,117.8,,F
+2014-07,2012,Salt,114.3,,F
+2014-07,2012,Sanitary Napkins,113.8,,F
+2014-07,2012,Saree (no.),119.9,,F
+2014-07,2012,School/college Uniform: Boys,119.5,,F
+2014-07,2012,School/college Uniform: Girls,119.4,,F
+2014-07,2012,Sewing Machine,123.1,,F
+2014-07,2012,Silver,82.7,,F
+2014-07,2012,Singara,,,F
+2014-07,2012,Small Millets & their Products,128.1,,F
+2014-07,2012,Snuff (gm),112.3,,F
+2014-07,2012,Spectacles,117.4,,F
+2014-07,2012,Stainless Steel Utensils,117.6,,F
+2014-07,2012,Sugar - Other Sources,103.5,,F
+2014-07,2012,Sugar - PDS,100.4,,F
+2014-07,2012,Sweeper,117.9,,F
+2014-07,2012,Tailor,125.4,,F
+2014-07,2012,Tamarind (gm),108.1,,F
+2014-07,2012,Tea: Cups (no.),120.1,,F
+2014-07,2012,Tea: Leaf (gm),115.2,,F
+2014-07,2012,Telephone Charges: Landline*,103.1,,F
+2014-07,2012,Telephone Charges: Mobile,110.6,,F
+2014-07,2012,Television,109.9,,F
+2014-07,2012,Toddy (litre),119.2,,F
+2014-07,2012,Toilet Soap,113.8,,F
+2014-07,2012,Tomato,195.9,,F
+2014-07,2012,Torch,113.8,,F
+2014-07,2012,Turmeric (gm),108.2,,F
+2014-07,2012,Tyres & Tubes,114.2,,F
+2014-07,2012,Urd,118.9,,F
+2014-07,2012,VCD/ DVD Hire (incl. Instrument),114.3,,F
+2014-07,2012,VCR/VCD/DVD Player,106.1,,F
+2014-07,2012,Walnut,135.2,,F
+2014-07,2012,Washing Machine,111.8,,F
+2014-07,2012,Washing Soap/soda/powder,114,,F
+2014-07,2012,Watch Man Charges (other Cons Taxes),119.6,,F
+2014-07,2012,Water Charges,106.6,,F
+2014-07,2012,Water Purifier,111.1,,F
+2014-07,2012,Watermelon,120,,F
+2014-07,2012,Wheat/ Atta – Other Sources,123,,F
+2014-07,2012,Wheat/ Atta – PDS,87.8,,F
+2014-08,2012,"Air Conditioner, Air Cooler",111.7,,F
+2014-08,2012,"Almirah, Dressing Table",115.3,,F
+2014-08,2012,"Arhar, Tur",109.5,,F
+2014-08,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",118.2,,F
+2014-08,2012,"Barber, Beautician, etc.",123,,F
+2014-08,2012,"Beans, Barbati",138.7,,F
+2014-08,2012,"Bed Sheet, Bed Cover (no.)",119.7,,F
+2014-08,2012,"Biscuits, Chocolates, etc.",109.8,,F
+2014-08,2012,"Books, Journals: First Hand",113.9,,F
+2014-08,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",118,,F
+2014-08,2012,"CD, DVD, Audio/video Cassette, etc",109.7,,F
+2014-08,2012,"Candy, Misri",111.3,,F
+2014-08,2012,"Carpet, Daree & Other Floor Mattings",116.6,,F
+2014-08,2012,"Cereal Substitutes: Tapioca, etc.",142.8,,F
+2014-08,2012,"Chair, Stool, Bench, Table",117.4,,F
+2014-08,2012,"Clock, Watch",115.2,,F
+2014-08,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",117,,F
+2014-08,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",122,,F
+2014-08,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",119.7,,F
+2014-08,2012,"Coat, Jacket, Sweater, Windcheater (no.)",115.5,,F
+2014-08,2012,"Coir, Rope, etc.",114.5,,F
+2014-08,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",119,,F
+2014-08,2012,"Electric Bulb, Tubelight",109.8,,F
+2014-08,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",111.3,,F
+2014-08,2012,"Fish, Prawn",127.2,,F
+2014-08,2012,"Frocks, Skirts, etc. (no.)",121.4,,F
+2014-08,2012,"Gamchha, Towel, Handkerchief (no.)",120.3,,F
+2014-08,2012,"Gourd, Pumpkin",133.8,,F
+2014-08,2012,"Hair Oil, Shampoo, Hair Cream",114.9,,F
+2014-08,2012,"Headwear, Belts, Ties (no.)",115.4,,F
+2014-08,2012,"House Rent, Garage Rent",115.2,,F
+2014-08,2012,"Incense (agarbatti), Room Freshener",112.3,,F
+2014-08,2012,"Leather Boots, Shoes",116.9,,F
+2014-08,2012,"Leather Sandals, Chappals, etc.",116.3,,F
+2014-08,2012,"Mosquito Repellent, Insecticide, Acid etc.",114.2,,F
+2014-08,2012,"Motor Car, Jeep",107.6,,F
+2014-08,2012,"Motor Cycle, Scooter",107.3,,F
+2014-08,2012,"Newspapers, Periodicals",121.9,,F
+2014-08,2012,"Orange, Mausami (no.)",134.1,,F
+2014-08,2012,"Other Beverages: Cocoa, Chocolate, etc.",115.8,,F
+2014-08,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.8,,F
+2014-08,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.5,,F
+2014-08,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",119,,F
+2014-08,2012,"Parwal/patal, Kundru",108.4,,F
+2014-08,2012,"Pillow, Quilt, Mattress (no.)",116.9,,F
+2014-08,2012,"Plugs, Switches & Other Electrical Fittings",113.7,,F
+2014-08,2012,"Powder, Snow, Cream, Lotion and Perfume",115.1,,F
+2014-08,2012,"Prepared Sweets, Cake, Pastry",121.9,,F
+2014-08,2012,"Radio, Tape Recorder, 2-in-1",111.3,,F
+2014-08,2012,"Raisin, Kishmish, Monacca, etc.",119.5,,F
+2014-08,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",105.3,,F
+2014-08,2012,"Rug, Blanket (no.)",115.6,,F
+2014-08,2012,"Sauce, Jam, Jelly (gm)",111.2,,F
+2014-08,2012,"School Bus, Van, etc.",122.1,,F
+2014-08,2012,"Sewai, Noodles",115.6,,F
+2014-08,2012,"Shaving Blades, Shaving Stick, Razor",109.1,,F
+2014-08,2012,"Shaving Cream, Aftershave Lotion",111.6,,F
+2014-08,2012,"Shawl, Chaddar (no.)",117.5,,F
+2014-08,2012,"Shirts, T-shirts (no.)",120.8,,F
+2014-08,2012,"Shorts, Trousers, Bermudas (no.)",118.1,,F
+2014-08,2012,"Sports Goods, Toys, etc.",117,,F
+2014-08,2012,"Stationery, Photocopying Charges",116.5,,F
+2014-08,2012,"Steamer, Boat Fare",117.9,,F
+2014-08,2012,"Stove, Gas Burner",117.2,,F
+2014-08,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",113.8,,F
+2014-08,2012,"Suji, Rawa",122,,F
+2014-08,2012,"Taxi, Auto-rickshaw Fare",118.2,,F
+2014-08,2012,"Toothpaste, Toothbrush, Comb, etc.",115.9,,F
+2014-08,2012,"Tuition and Other Fees (school, College, Etc.)",119.2,,F
+2014-08,2012,"Umbrella, Raincoat",118.3,,F
+2014-08,2012,"Vanaspati, Margarine",108.8,,F
+2014-08,2012,"Washerman, Laundry, Ironing",124.4,,F
+2014-08,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",113.4,,F
+2014-08,2012,"Zarda, Kimam, Surti (gm)",119.6,,F
+2014-08,2012,Air Fare (normal): Economy Class(adult),116.6,,F
+2014-08,2012,Any Other Personal Goods,121.5,,F
+2014-08,2012,Apple,131,,F
+2014-08,2012,Baby Food,116.7,,F
+2014-08,2012,Bajra & its Products,127.6,,F
+2014-08,2012,Banana (no.),132.9,,F
+2014-08,2012,Bathroom and Sanitary Equipment,113.6,,F
+2014-08,2012,Bedding: Others,128.4,,F
+2014-08,2012,Bedstead,115.8,,F
+2014-08,2012,Beef/ Buffalo Meat,127.4,,F
+2014-08,2012,Beer (litre),115.2,,F
+2014-08,2012,Berries,136.3,,F
+2014-08,2012,Besan,104,,F
+2014-08,2012,Bicycle(without Accessories),111.8,,F
+2014-08,2012,Bidi (no.),122.2,,F
+2014-08,2012,Black Pepper (gm),141.4,,F
+2014-08,2012,Bread (bakery),122,,F
+2014-08,2012,Brinjal,144.6,,F
+2014-08,2012,Bus/tram Fare,122.8,,F
+2014-08,2012,Butter,119.2,,F
+2014-08,2012,Cabbage,160.2,,F
+2014-08,2012,Camera & Photographic Equipment,108.3,,F
+2014-08,2012,Candle (no.),111.8,,F
+2014-08,2012,Carrot,151.5,,F
+2014-08,2012,Cashewnut,109.5,,F
+2014-08,2012,Cauliflower,181.4,,F
+2014-08,2012,Charcoal,115.8,,F
+2014-08,2012,Cheroot (no.),113.1,,F
+2014-08,2012,Chicken,120.2,,F
+2014-08,2012,Chips (gm),132.4,,F
+2014-08,2012,Chira,121.7,,F
+2014-08,2012,Cigarettes (no.),133,,F
+2014-08,2012,Cinema: New Release(normal Day),122.7,,F
+2014-08,2012,Clothing (first-hand): Other,117.6,,F
+2014-08,2012,Clothing: Second-hand,118.2,,F
+2014-08,2012,Club Fees,117.7,,F
+2014-08,2012,Coal,112.1,,F
+2014-08,2012,Coconut (no.),176.3,,F
+2014-08,2012,Coconut Oil,193.3,,F
+2014-08,2012,Coconut: Copra,161.4,,F
+2014-08,2012,Coffee: Cups (no.),123.2,,F
+2014-08,2012,Coffee: Powder (gm),115.3,,F
+2014-08,2012,Coke,124.1,,F
+2014-08,2012,Cold Beverages: Bottled/canned (litre),113.5,,F
+2014-08,2012,Cooked Meals Purchased (no.),127.2,,F
+2014-08,2012,Country Liquor (litre),118.5,,F
+2014-08,2012,Curd,122.1,,F
+2014-08,2012,Curry Powder (gm),117.8,,F
+2014-08,2012,Dates,125.1,,F
+2014-08,2012,Dhania (gm),139.5,,F
+2014-08,2012,Dhoti (no.),120.3,,F
+2014-08,2012,Diesel (litre) [excl. Conveyance],115.4,,F
+2014-08,2012,Diesel for Vehicle,128.6,,F
+2014-08,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),122,,F
+2014-08,2012,Domestic Servant/cook,118.9,,F
+2014-08,2012,Dry Chillies (gm),113.9,,F
+2014-08,2012,Dung Cake,117.5,,F
+2014-08,2012,Earthenware,122.4,,F
+2014-08,2012,Eggs (no.),117.3,,F
+2014-08,2012,Electric Batteries,110.7,,F
+2014-08,2012,Electric Fan,110.1,,F
+2014-08,2012,Electricity (std. Unit),113.8,,F
+2014-08,2012,Family Planning Devices,101.8,,F
+2014-08,2012,Firewood and Chips,119.5,,F
+2014-08,2012,Flower (fresh): All Purposes,126.5,,F
+2014-08,2012,Foreign/refined Liquor or Wine (litre),113.3,,F
+2014-08,2012,Fruit Juice and Shake (litre),114.4,,F
+2014-08,2012,Garlic (gm),143.3,,F
+2014-08,2012,Ghee,120.4,,F
+2014-08,2012,Ginger (gm),223.4,,F
+2014-08,2012,Glassware,112.3,,F
+2014-08,2012,Goat Meat/mutton,125.1,,F
+2014-08,2012,Gold,96.3,,F
+2014-08,2012,Goods for Recreation and Hobbies,124.9,,F
+2014-08,2012,Gram Products,105.8,,F
+2014-08,2012,Gram: Split,101,,F
+2014-08,2012,Gram: Whole,101.3,,F
+2014-08,2012,Grapes,128.8,,F
+2014-08,2012,Green Chillies,146.1,,F
+2014-08,2012,Green Coconut (no.),135.3,,F
+2014-08,2012,Grinding Charges,121.8,,F
+2014-08,2012,Groundnut Oil,93.9,,F
+2014-08,2012,Groundnut,111.1,,F
+2014-08,2012,Guava,119.2,,F
+2014-08,2012,Gur,112.7,,F
+2014-08,2012,Honey,118.5,,F
+2014-08,2012,Hookah Tobacco (gm),116.8,,F
+2014-08,2012,Horse Cart Fare,117.4,,F
+2014-08,2012,Hospital & Nursing Home Charges,116.4,,F
+2014-08,2012,Hotel Lodging Charges,111.5,,F
+2014-08,2012,Ice-cream,106.9,,F
+2014-08,2012,Ingredients for Pan (gm),123.6,,F
+2014-08,2012,Internet Expenses,109.7,,F
+2014-08,2012,Inverter,114.8,,F
+2014-08,2012,Jackfruit,130.3,,F
+2014-08,2012,Jeera (gm),105.7,,F
+2014-08,2012,Jowar & its Products,111.4,,F
+2014-08,2012,Kerosene – Other Sources (litre),111.9,,F
+2014-08,2012,Kerosene – PDS (litre),103.1,,F
+2014-08,2012,Kharbooza,127.1,,F
+2014-08,2012,Khesari,119.6,,F
+2014-08,2012,Knitting Wool (gm),113.2,,F
+2014-08,2012,Kurta-pajama Suits: Females (no.),118.8,,F
+2014-08,2012,Kurta-pajama Suits: Males (no.),119.7,,F
+2014-08,2012,LPG [excl. Conveyance],106.7,,F
+2014-08,2012,Lady's Finger,116.4,,F
+2014-08,2012,Leaf Tobacco (gm),119.5,,F
+2014-08,2012,Leechi,,,F
+2014-08,2012,Lemon (no.),114.6,,F
+2014-08,2012,Library Charges,100,,F
+2014-08,2012,Lighter (bidi/ Cigarette/ Gas Stove),113.1,,F
+2014-08,2012,Lock,121.2,,F
+2014-08,2012,Lubricants & Other Fuels for Vehicle,114.6,,F
+2014-08,2012,Lungi (no.),121.9,,F
+2014-08,2012,Maida,123.1,,F
+2014-08,2012,Maize & Products,123.5,,F
+2014-08,2012,Mango,109.5,,F
+2014-08,2012,Masur,122.3,,F
+2014-08,2012,Matches (box),107.5,,F
+2014-08,2012,Medicine (non-institutional),111.3,,F
+2014-08,2012,Milk: Condensed/ Powder,118.4,,F
+2014-08,2012,Milk: Liquid (litre),122.1,,F
+2014-08,2012,Mineral Water (litre),113.9,,F
+2014-08,2012,Mobile Handset,102.5,,F
+2014-08,2012,Monthly Charges for Cable Tv Connection,109.2,,F
+2014-08,2012,Monthly Maintainance Charges,114.8,,F
+2014-08,2012,Moong,126.9,,F
+2014-08,2012,Mosquito Net (no.),117.6,,F
+2014-08,2012,Muri,120.8,,F
+2014-08,2012,Mustard Oil,104.6,,F
+2014-08,2012,Oilseeds (gm),121.3,,F
+2014-08,2012,Onion,209.9,,F
+2014-08,2012,Other Cereals,157.9,,F
+2014-08,2012,Other Consumer Services Excluding Conveyance,116.2,,F
+2014-08,2012,Other Conveyance Expenses,116,,F
+2014-08,2012,Other Cooking/ Household Appliances,110.3,,F
+2014-08,2012,Other Crockery & Utensils,115.5,,F
+2014-08,2012,Other Dry Fruits,124.1,,F
+2014-08,2012,Other Durables (specify)….,110.1,,F
+2014-08,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),115.2,,F
+2014-08,2012,Other Entertainment,111.3,,F
+2014-08,2012,Other Footwear,114.6,,F
+2014-08,2012,Other Fresh Fruits,123.6,,F
+2014-08,2012,Other Fuel,119.8,,F
+2014-08,2012,Other Intoxicants,113.1,,F
+2014-08,2012,Other Leather Footwear,116.1,,F
+2014-08,2012,Other Medical Expenses (non-institutional),110.9,,F
+2014-08,2012,Other Metal Utensils,111.1,,F
+2014-08,2012,Other Milk Products,118.7,,F
+2014-08,2012,Other Nuts,137.5,,F
+2014-08,2012,Other Ornaments,108.3,,F
+2014-08,2012,Other Packaged Processed Food,111.2,,F
+2014-08,2012,Other Petty Articles,117.4,,F
+2014-08,2012,Other Pulse Products,115.8,,F
+2014-08,2012,Other Pulses,117.6,,F
+2014-08,2012,Other Rice Products,121.5,,F
+2014-08,2012,Other Tobacco Products,115.1,,F
+2014-08,2012,Other Vegetables,133.1,,F
+2014-08,2012,Other Washing Requisites,113.2,,F
+2014-08,2012,PC/ Laptop/ Other Peripherals Incl. Software,113,,F
+2014-08,2012,Palak/other Leafy Vegetables,145.2,,F
+2014-08,2012,Pan: Finished (no.),127.1,,F
+2014-08,2012,Pan: Leaf (no.),116.1,,F
+2014-08,2012,Papaya,138.6,,F
+2014-08,2012,Pears/nashpati,113.8,,F
+2014-08,2012,Peas (pulses),122,,F
+2014-08,2012,Peas (vegetables),171.8,,F
+2014-08,2012,Petrol for Vehicle,106.5,,F
+2014-08,2012,Photography,111.6,,F
+2014-08,2012,Pickles (gm),114,,F
+2014-08,2012,Pineapple (no.),134.4,,F
+2014-08,2012,Pork,125.3,,F
+2014-08,2012,Porter Charges,115.7,,F
+2014-08,2012,Potato,185.6,,F
+2014-08,2012,Pressure Cooker/ Pressure Pan,105.8,,F
+2014-08,2012,Private Tutor/ Coaching Centre,117,,F
+2014-08,2012,Radish,161.5,,F
+2014-08,2012,Ragi & its Products,136.7,,F
+2014-08,2012,Railway Fare,137,,F
+2014-08,2012,Refrigerator,113.8,,F
+2014-08,2012,Residential Building & Land (cost of Repairs Only),129.1,,F
+2014-08,2012,Rice – Other Sources,129.3,,F
+2014-08,2012,Rice – PDS,81.7,,F
+2014-08,2012,Rickshaw (hand Drawn & Cycle) Fare,125.5,,F
+2014-08,2012,Rubber / Pvc Footwear,118.4,,F
+2014-08,2012,Salt,114.5,,F
+2014-08,2012,Sanitary Napkins,114.1,,F
+2014-08,2012,Saree (no.),120.1,,F
+2014-08,2012,School/college Uniform: Boys,119.1,,F
+2014-08,2012,School/college Uniform: Girls,119,,F
+2014-08,2012,Sewing Machine,123.8,,F
+2014-08,2012,Silver,81.9,,F
+2014-08,2012,Singara,,,F
+2014-08,2012,Small Millets & their Products,125.6,,F
+2014-08,2012,Snuff (gm),116.4,,F
+2014-08,2012,Spectacles,118.5,,F
+2014-08,2012,Stainless Steel Utensils,118.4,,F
+2014-08,2012,Sugar - Other Sources,103.6,,F
+2014-08,2012,Sugar - PDS,100.4,,F
+2014-08,2012,Sweeper,118.2,,F
+2014-08,2012,Tailor,126.1,,F
+2014-08,2012,Tamarind (gm),110,,F
+2014-08,2012,Tea: Cups (no.),121.1,,F
+2014-08,2012,Tea: Leaf (gm),115.3,,F
+2014-08,2012,Telephone Charges: Landline*,103.5,,F
+2014-08,2012,Telephone Charges: Mobile,111.2,,F
+2014-08,2012,Television,109.8,,F
+2014-08,2012,Toddy (litre),120.7,,F
+2014-08,2012,Toilet Soap,114.4,,F
+2014-08,2012,Tomato,241.6,,F
+2014-08,2012,Torch,114.5,,F
+2014-08,2012,Turmeric (gm),109.3,,F
+2014-08,2012,Tyres & Tubes,114.5,,F
+2014-08,2012,Urd,122.8,,F
+2014-08,2012,VCD/ DVD Hire (incl. Instrument),114.8,,F
+2014-08,2012,VCR/VCD/DVD Player,106.2,,F
+2014-08,2012,Walnut,134,,F
+2014-08,2012,Washing Machine,112.5,,F
+2014-08,2012,Washing Soap/soda/powder,114.5,,F
+2014-08,2012,Watch Man Charges (other Cons Taxes),119.9,,F
+2014-08,2012,Water Charges,106.7,,F
+2014-08,2012,Water Purifier,110.9,,F
+2014-08,2012,Watermelon,130.8,,F
+2014-08,2012,Wheat/ Atta – Other Sources,123.6,,F
+2014-08,2012,Wheat/ Atta – PDS,79.3,,F
+2014-09,2012,"Air Conditioner, Air Cooler",111.2,,F
+2014-09,2012,"Almirah, Dressing Table",115.8,,F
+2014-09,2012,"Arhar, Tur",111.6,,F
+2014-09,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",118.6,,F
+2014-09,2012,"Barber, Beautician, etc.",123.8,,F
+2014-09,2012,"Beans, Barbati",129,,F
+2014-09,2012,"Bed Sheet, Bed Cover (no.)",120.5,,F
+2014-09,2012,"Biscuits, Chocolates, etc.",110,,F
+2014-09,2012,"Books, Journals: First Hand",114,,F
+2014-09,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",117.9,,F
+2014-09,2012,"CD, DVD, Audio/video Cassette, etc",109.9,,F
+2014-09,2012,"Candy, Misri",111.3,,F
+2014-09,2012,"Carpet, Daree & Other Floor Mattings",115.7,,F
+2014-09,2012,"Cereal Substitutes: Tapioca, etc.",145.4,,F
+2014-09,2012,"Chair, Stool, Bench, Table",118.2,,F
+2014-09,2012,"Clock, Watch",113.4,,F
+2014-09,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",117.6,,F
+2014-09,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",122.7,,F
+2014-09,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",121.4,,F
+2014-09,2012,"Coat, Jacket, Sweater, Windcheater (no.)",115.5,,F
+2014-09,2012,"Coir, Rope, etc.",115.8,,F
+2014-09,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",119.6,,F
+2014-09,2012,"Electric Bulb, Tubelight",110.2,,F
+2014-09,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",111.3,,F
+2014-09,2012,"Fish, Prawn",126.2,,F
+2014-09,2012,"Frocks, Skirts, etc. (no.)",121.9,,F
+2014-09,2012,"Gamchha, Towel, Handkerchief (no.)",121.1,,F
+2014-09,2012,"Gourd, Pumpkin",134.3,,F
+2014-09,2012,"Hair Oil, Shampoo, Hair Cream",115.5,,F
+2014-09,2012,"Headwear, Belts, Ties (no.)",115.9,,F
+2014-09,2012,"House Rent, Garage Rent",115.8,,F
+2014-09,2012,"Incense (agarbatti), Room Freshener",112.7,,F
+2014-09,2012,"Leather Boots, Shoes",117.2,,F
+2014-09,2012,"Leather Sandals, Chappals, etc.",116.9,,F
+2014-09,2012,"Mosquito Repellent, Insecticide, Acid etc.",114.4,,F
+2014-09,2012,"Motor Car, Jeep",107.7,,F
+2014-09,2012,"Motor Cycle, Scooter",107.4,,F
+2014-09,2012,"Newspapers, Periodicals",122.5,,F
+2014-09,2012,"Orange, Mausami (no.)",127.2,,F
+2014-09,2012,"Other Beverages: Cocoa, Chocolate, etc.",116.6,,F
+2014-09,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.6,,F
+2014-09,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.4,,F
+2014-09,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",119.7,,F
+2014-09,2012,"Parwal/patal, Kundru",110.3,,F
+2014-09,2012,"Pillow, Quilt, Mattress (no.)",117.5,,F
+2014-09,2012,"Plugs, Switches & Other Electrical Fittings",113.9,,F
+2014-09,2012,"Powder, Snow, Cream, Lotion and Perfume",115.5,,F
+2014-09,2012,"Prepared Sweets, Cake, Pastry",122.3,,F
+2014-09,2012,"Radio, Tape Recorder, 2-in-1",111.8,,F
+2014-09,2012,"Raisin, Kishmish, Monacca, etc.",121.3,,F
+2014-09,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",104.6,,F
+2014-09,2012,"Rug, Blanket (no.)",116.2,,F
+2014-09,2012,"Sauce, Jam, Jelly (gm)",111.4,,F
+2014-09,2012,"School Bus, Van, etc.",122.5,,F
+2014-09,2012,"Sewai, Noodles",115.5,,F
+2014-09,2012,"Shaving Blades, Shaving Stick, Razor",109.6,,F
+2014-09,2012,"Shaving Cream, Aftershave Lotion",112.2,,F
+2014-09,2012,"Shawl, Chaddar (no.)",118.3,,F
+2014-09,2012,"Shirts, T-shirts (no.)",121.6,,F
+2014-09,2012,"Shorts, Trousers, Bermudas (no.)",118.5,,F
+2014-09,2012,"Sports Goods, Toys, etc.",117.8,,F
+2014-09,2012,"Stationery, Photocopying Charges",117.1,,F
+2014-09,2012,"Steamer, Boat Fare",117.9,,F
+2014-09,2012,"Stove, Gas Burner",116.5,,F
+2014-09,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",114.8,,F
+2014-09,2012,"Suji, Rawa",121.9,,F
+2014-09,2012,"Taxi, Auto-rickshaw Fare",118.7,,F
+2014-09,2012,"Toothpaste, Toothbrush, Comb, etc.",116.5,,F
+2014-09,2012,"Tuition and Other Fees (school, College, Etc.)",119.9,,F
+2014-09,2012,"Umbrella, Raincoat",118.9,,F
+2014-09,2012,"Vanaspati, Margarine",108.7,,F
+2014-09,2012,"Washerman, Laundry, Ironing",125.1,,F
+2014-09,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",113.7,,F
+2014-09,2012,"Zarda, Kimam, Surti (gm)",120.5,,F
+2014-09,2012,Air Fare (normal): Economy Class(adult),94.5,,F
+2014-09,2012,Any Other Personal Goods,122,,F
+2014-09,2012,Apple,104.8,,F
+2014-09,2012,Baby Food,117.4,,F
+2014-09,2012,Bajra & its Products,127.8,,F
+2014-09,2012,Banana (no.),132,,F
+2014-09,2012,Bathroom and Sanitary Equipment,114.2,,F
+2014-09,2012,Bedding: Others,128.4,,F
+2014-09,2012,Bedstead,116.5,,F
+2014-09,2012,Beef/ Buffalo Meat,127.3,,F
+2014-09,2012,Beer (litre),116.4,,F
+2014-09,2012,Berries,144.2,,F
+2014-09,2012,Besan,103.7,,F
+2014-09,2012,Bicycle(without Accessories),112.3,,F
+2014-09,2012,Bidi (no.),122.8,,F
+2014-09,2012,Black Pepper (gm),142.5,,F
+2014-09,2012,Bread (bakery),122.1,,F
+2014-09,2012,Brinjal,142.5,,F
+2014-09,2012,Bus/tram Fare,123.7,,F
+2014-09,2012,Butter,119.4,,F
+2014-09,2012,Cabbage,156.7,,F
+2014-09,2012,Camera & Photographic Equipment,108.3,,F
+2014-09,2012,Candle (no.),112.1,,F
+2014-09,2012,Carrot,151.1,,F
+2014-09,2012,Cashewnut,110,,F
+2014-09,2012,Cauliflower,181.9,,F
+2014-09,2012,Charcoal,116.3,,F
+2014-09,2012,Cheroot (no.),114.7,,F
+2014-09,2012,Chicken,118.6,,F
+2014-09,2012,Chips (gm),132.4,,F
+2014-09,2012,Chira,122.6,,F
+2014-09,2012,Cigarettes (no.),134.3,,F
+2014-09,2012,Cinema: New Release(normal Day),123.5,,F
+2014-09,2012,Clothing (first-hand): Other,118.7,,F
+2014-09,2012,Clothing: Second-hand,118.7,,F
+2014-09,2012,Club Fees,117.7,,F
+2014-09,2012,Coal,111.7,,F
+2014-09,2012,Coconut (no.),178.6,,F
+2014-09,2012,Coconut Oil,198.7,,F
+2014-09,2012,Coconut: Copra,169.2,,F
+2014-09,2012,Coffee: Cups (no.),123.9,,F
+2014-09,2012,Coffee: Powder (gm),115.1,,F
+2014-09,2012,Coke,126.1,,F
+2014-09,2012,Cold Beverages: Bottled/canned (litre),113.9,,F
+2014-09,2012,Cooked Meals Purchased (no.),128.1,,F
+2014-09,2012,Country Liquor (litre),119,,F
+2014-09,2012,Curd,122.6,,F
+2014-09,2012,Curry Powder (gm),118.7,,F
+2014-09,2012,Dates,126,,F
+2014-09,2012,Dhania (gm),141.7,,F
+2014-09,2012,Dhoti (no.),120.9,,F
+2014-09,2012,Diesel (litre) [excl. Conveyance],116.2,,F
+2014-09,2012,Diesel for Vehicle,129.9,,F
+2014-09,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),123.3,,F
+2014-09,2012,Domestic Servant/cook,119.5,,F
+2014-09,2012,Dry Chillies (gm),113.8,,F
+2014-09,2012,Dung Cake,117.3,,F
+2014-09,2012,Earthenware,122.9,,F
+2014-09,2012,Eggs (no.),117.3,,F
+2014-09,2012,Electric Batteries,111.5,,F
+2014-09,2012,Electric Fan,111.8,,F
+2014-09,2012,Electricity (std. Unit),114.1,,F
+2014-09,2012,Family Planning Devices,108.8,,F
+2014-09,2012,Firewood and Chips,120,,F
+2014-09,2012,Flower (fresh): All Purposes,126.9,,F
+2014-09,2012,Foreign/refined Liquor or Wine (litre),114.3,,F
+2014-09,2012,Fruit Juice and Shake (litre),114.6,,F
+2014-09,2012,Garlic (gm),140.4,,F
+2014-09,2012,Ghee,120.6,,F
+2014-09,2012,Ginger (gm),208.2,,F
+2014-09,2012,Glassware,112.4,,F
+2014-09,2012,Goat Meat/mutton,125.2,,F
+2014-09,2012,Gold,93.6,,F
+2014-09,2012,Goods for Recreation and Hobbies,125.1,,F
+2014-09,2012,Gram Products,104.9,,F
+2014-09,2012,Gram: Split,101,,F
+2014-09,2012,Gram: Whole,101.8,,F
+2014-09,2012,Grapes,125.3,,F
+2014-09,2012,Green Chillies,143.6,,F
+2014-09,2012,Green Coconut (no.),135.7,,F
+2014-09,2012,Grinding Charges,121.9,,F
+2014-09,2012,Groundnut Oil,93.7,,F
+2014-09,2012,Groundnut,113,,F
+2014-09,2012,Guava,122.2,,F
+2014-09,2012,Gur,112.8,,F
+2014-09,2012,Honey,119.2,,F
+2014-09,2012,Hookah Tobacco (gm),118.6,,F
+2014-09,2012,Horse Cart Fare,117.4,,F
+2014-09,2012,Hospital & Nursing Home Charges,117,,F
+2014-09,2012,Hotel Lodging Charges,111.2,,F
+2014-09,2012,Ice-cream,107.1,,F
+2014-09,2012,Ingredients for Pan (gm),124.6,,F
+2014-09,2012,Internet Expenses,109.8,,F
+2014-09,2012,Inverter,115.1,,F
+2014-09,2012,Jackfruit,130.4,,F
+2014-09,2012,Jeera (gm),105.9,,F
+2014-09,2012,Jowar & its Products,112.6,,F
+2014-09,2012,Kerosene – Other Sources (litre),112.3,,F
+2014-09,2012,Kerosene – PDS (litre),103.2,,F
+2014-09,2012,Kharbooza,134.6,,F
+2014-09,2012,Khesari,120.6,,F
+2014-09,2012,Knitting Wool (gm),117.9,,F
+2014-09,2012,Kurta-pajama Suits: Females (no.),119.6,,F
+2014-09,2012,Kurta-pajama Suits: Males (no.),121,,F
+2014-09,2012,LPG [excl. Conveyance],106.6,,F
+2014-09,2012,Lady's Finger,110.5,,F
+2014-09,2012,Leaf Tobacco (gm),120.6,,F
+2014-09,2012,Leechi,,,F
+2014-09,2012,Lemon (no.),119,,F
+2014-09,2012,Library Charges,100,,F
+2014-09,2012,Lighter (bidi/ Cigarette/ Gas Stove),113,,F
+2014-09,2012,Lock,122.9,,F
+2014-09,2012,Lubricants & Other Fuels for Vehicle,114.8,,F
+2014-09,2012,Lungi (no.),123.2,,F
+2014-09,2012,Maida,123,,F
+2014-09,2012,Maize & Products,124.2,,F
+2014-09,2012,Mango,118.5,,F
+2014-09,2012,Masur,123.7,,F
+2014-09,2012,Matches (box),107.8,,F
+2014-09,2012,Medicine (non-institutional),111.4,,F
+2014-09,2012,Milk: Condensed/ Powder,118.8,,F
+2014-09,2012,Milk: Liquid (litre),122.7,,F
+2014-09,2012,Mineral Water (litre),114.3,,F
+2014-09,2012,Mobile Handset,102.4,,F
+2014-09,2012,Monthly Charges for Cable Tv Connection,109.6,,F
+2014-09,2012,Monthly Maintainance Charges,114.8,,F
+2014-09,2012,Moong,126.8,,F
+2014-09,2012,Mosquito Net (no.),118.7,,F
+2014-09,2012,Muri,120.7,,F
+2014-09,2012,Mustard Oil,104.5,,F
+2014-09,2012,Oilseeds (gm),120.9,,F
+2014-09,2012,Onion,200.9,,F
+2014-09,2012,Other Cereals,157.9,,F
+2014-09,2012,Other Consumer Services Excluding Conveyance,117.3,,F
+2014-09,2012,Other Conveyance Expenses,115.8,,F
+2014-09,2012,Other Cooking/ Household Appliances,110.8,,F
+2014-09,2012,Other Crockery & Utensils,116,,F
+2014-09,2012,Other Dry Fruits,124.7,,F
+2014-09,2012,Other Durables (specify)….,108.9,,F
+2014-09,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),115.9,,F
+2014-09,2012,Other Entertainment,111.5,,F
+2014-09,2012,Other Footwear,115.2,,F
+2014-09,2012,Other Fresh Fruits,116.6,,F
+2014-09,2012,Other Fuel,122.1,,F
+2014-09,2012,Other Intoxicants,113.6,,F
+2014-09,2012,Other Leather Footwear,116.4,,F
+2014-09,2012,Other Medical Expenses (non-institutional),110.9,,F
+2014-09,2012,Other Metal Utensils,112.8,,F
+2014-09,2012,Other Milk Products,118.4,,F
+2014-09,2012,Other Nuts,140.1,,F
+2014-09,2012,Other Ornaments,108.6,,F
+2014-09,2012,Other Packaged Processed Food,111.6,,F
+2014-09,2012,Other Petty Articles,118,,F
+2014-09,2012,Other Pulse Products,116.7,,F
+2014-09,2012,Other Pulses,117.4,,F
+2014-09,2012,Other Rice Products,122,,F
+2014-09,2012,Other Tobacco Products,116.8,,F
+2014-09,2012,Other Vegetables,128.8,,F
+2014-09,2012,Other Washing Requisites,113.7,,F
+2014-09,2012,PC/ Laptop/ Other Peripherals Incl. Software,113.1,,F
+2014-09,2012,Palak/other Leafy Vegetables,147.6,,F
+2014-09,2012,Pan: Finished (no.),127.8,,F
+2014-09,2012,Pan: Leaf (no.),116,,F
+2014-09,2012,Papaya,138,,F
+2014-09,2012,Pears/nashpati,124.6,,F
+2014-09,2012,Peas (pulses),122.4,,F
+2014-09,2012,Peas (vegetables),176.4,,F
+2014-09,2012,Petrol for Vehicle,103.1,,F
+2014-09,2012,Photography,111.5,,F
+2014-09,2012,Pickles (gm),114.4,,F
+2014-09,2012,Pineapple (no.),135,,F
+2014-09,2012,Pork,124.8,,F
+2014-09,2012,Porter Charges,115.7,,F
+2014-09,2012,Potato,194.1,,F
+2014-09,2012,Pressure Cooker/ Pressure Pan,105.8,,F
+2014-09,2012,Private Tutor/ Coaching Centre,117.5,,F
+2014-09,2012,Radish,158.3,,F
+2014-09,2012,Ragi & its Products,134.8,,F
+2014-09,2012,Railway Fare,136.4,,F
+2014-09,2012,Refrigerator,114.2,,F
+2014-09,2012,Residential Building & Land (cost of Repairs Only),129.7,,F
+2014-09,2012,Rice – Other Sources,129.3,,F
+2014-09,2012,Rice – PDS,81.8,,F
+2014-09,2012,Rickshaw (hand Drawn & Cycle) Fare,126.4,,F
+2014-09,2012,Rubber / Pvc Footwear,118.9,,F
+2014-09,2012,Salt,114.9,,F
+2014-09,2012,Sanitary Napkins,114.6,,F
+2014-09,2012,Saree (no.),120.6,,F
+2014-09,2012,School/college Uniform: Boys,119.9,,F
+2014-09,2012,School/college Uniform: Girls,120.2,,F
+2014-09,2012,Sewing Machine,123.8,,F
+2014-09,2012,Silver,79.3,,F
+2014-09,2012,Singara,,,F
+2014-09,2012,Small Millets & their Products,127,,F
+2014-09,2012,Snuff (gm),116.3,,F
+2014-09,2012,Spectacles,119.2,,F
+2014-09,2012,Stainless Steel Utensils,118.8,,F
+2014-09,2012,Sugar - Other Sources,103,,F
+2014-09,2012,Sugar - PDS,100.4,,F
+2014-09,2012,Sweeper,118.4,,F
+2014-09,2012,Tailor,126.9,,F
+2014-09,2012,Tamarind (gm),109.1,,F
+2014-09,2012,Tea: Cups (no.),121.8,,F
+2014-09,2012,Tea: Leaf (gm),116,,F
+2014-09,2012,Telephone Charges: Landline*,102.8,,F
+2014-09,2012,Telephone Charges: Mobile,111.1,,F
+2014-09,2012,Television,110.4,,F
+2014-09,2012,Toddy (litre),120.3,,F
+2014-09,2012,Toilet Soap,115,,F
+2014-09,2012,Tomato,189.9,,F
+2014-09,2012,Torch,115.1,,F
+2014-09,2012,Turmeric (gm),109.6,,F
+2014-09,2012,Tyres & Tubes,115,,F
+2014-09,2012,Urd,125.2,,F
+2014-09,2012,VCD/ DVD Hire (incl. Instrument),115.7,,F
+2014-09,2012,VCR/VCD/DVD Player,106.5,,F
+2014-09,2012,Walnut,136.9,,F
+2014-09,2012,Washing Machine,112.2,,F
+2014-09,2012,Washing Soap/soda/powder,115.1,,F
+2014-09,2012,Watch Man Charges (other Cons Taxes),119.9,,F
+2014-09,2012,Water Charges,107.1,,F
+2014-09,2012,Water Purifier,111.7,,F
+2014-09,2012,Watermelon,128.4,,F
+2014-09,2012,Wheat/ Atta – Other Sources,123.7,,F
+2014-09,2012,Wheat/ Atta – PDS,79.3,,F
+2014-10,2012,"Air Conditioner, Air Cooler",110.8,,F
+2014-10,2012,"Almirah, Dressing Table",116.6,,F
+2014-10,2012,"Arhar, Tur",112.1,,F
+2014-10,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",119.4,,F
+2014-10,2012,"Barber, Beautician, etc.",124.7,,F
+2014-10,2012,"Beans, Barbati",129.8,,F
+2014-10,2012,"Bed Sheet, Bed Cover (no.)",121.6,,F
+2014-10,2012,"Biscuits, Chocolates, etc.",110.3,,F
+2014-10,2012,"Books, Journals: First Hand",114,,F
+2014-10,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",118.6,,F
+2014-10,2012,"CD, DVD, Audio/video Cassette, etc",110.1,,F
+2014-10,2012,"Candy, Misri",112.6,,F
+2014-10,2012,"Carpet, Daree & Other Floor Mattings",111.1,,F
+2014-10,2012,"Cereal Substitutes: Tapioca, etc.",143.2,,F
+2014-10,2012,"Chair, Stool, Bench, Table",118.7,,F
+2014-10,2012,"Clock, Watch",113.8,,F
+2014-10,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",118.1,,F
+2014-10,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",123.8,,F
+2014-10,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",122.1,,F
+2014-10,2012,"Coat, Jacket, Sweater, Windcheater (no.)",116.2,,F
+2014-10,2012,"Coir, Rope, etc.",116,,F
+2014-10,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",120.4,,F
+2014-10,2012,"Electric Bulb, Tubelight",110.5,,F
+2014-10,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",111.3,,F
+2014-10,2012,"Fish, Prawn",125.9,,F
+2014-10,2012,"Frocks, Skirts, etc. (no.)",122.8,,F
+2014-10,2012,"Gamchha, Towel, Handkerchief (no.)",122.1,,F
+2014-10,2012,"Gourd, Pumpkin",130.8,,F
+2014-10,2012,"Hair Oil, Shampoo, Hair Cream",116,,F
+2014-10,2012,"Headwear, Belts, Ties (no.)",116.1,,F
+2014-10,2012,"House Rent, Garage Rent",116.4,,F
+2014-10,2012,"Incense (agarbatti), Room Freshener",113.2,,F
+2014-10,2012,"Leather Boots, Shoes",117.7,,F
+2014-10,2012,"Leather Sandals, Chappals, etc.",117.6,,F
+2014-10,2012,"Mosquito Repellent, Insecticide, Acid etc.",115.1,,F
+2014-10,2012,"Motor Car, Jeep",108.2,,F
+2014-10,2012,"Motor Cycle, Scooter",107.7,,F
+2014-10,2012,"Newspapers, Periodicals",123,,F
+2014-10,2012,"Orange, Mausami (no.)",120.6,,F
+2014-10,2012,"Other Beverages: Cocoa, Chocolate, etc.",117,,F
+2014-10,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",106.7,,F
+2014-10,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",118,,F
+2014-10,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",120.5,,F
+2014-10,2012,"Parwal/patal, Kundru",111.5,,F
+2014-10,2012,"Pillow, Quilt, Mattress (no.)",117.7,,F
+2014-10,2012,"Plugs, Switches & Other Electrical Fittings",114.6,,F
+2014-10,2012,"Powder, Snow, Cream, Lotion and Perfume",116,,F
+2014-10,2012,"Prepared Sweets, Cake, Pastry",123.2,,F
+2014-10,2012,"Radio, Tape Recorder, 2-in-1",112.3,,F
+2014-10,2012,"Raisin, Kishmish, Monacca, etc.",124.3,,F
+2014-10,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",104.4,,F
+2014-10,2012,"Rug, Blanket (no.)",116.7,,F
+2014-10,2012,"Sauce, Jam, Jelly (gm)",111.9,,F
+2014-10,2012,"School Bus, Van, etc.",123,,F
+2014-10,2012,"Sewai, Noodles",116.1,,F
+2014-10,2012,"Shaving Blades, Shaving Stick, Razor",110,,F
+2014-10,2012,"Shaving Cream, Aftershave Lotion",112.5,,F
+2014-10,2012,"Shawl, Chaddar (no.)",119.3,,F
+2014-10,2012,"Shirts, T-shirts (no.)",122.8,,F
+2014-10,2012,"Shorts, Trousers, Bermudas (no.)",119.3,,F
+2014-10,2012,"Sports Goods, Toys, etc.",118.3,,F
+2014-10,2012,"Stationery, Photocopying Charges",117.6,,F
+2014-10,2012,"Steamer, Boat Fare",117.9,,F
+2014-10,2012,"Stove, Gas Burner",116.5,,F
+2014-10,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",115.2,,F
+2014-10,2012,"Suji, Rawa",122.6,,F
+2014-10,2012,"Taxi, Auto-rickshaw Fare",120.2,,F
+2014-10,2012,"Toothpaste, Toothbrush, Comb, etc.",117.1,,F
+2014-10,2012,"Tuition and Other Fees (school, College, Etc.)",120,,F
+2014-10,2012,"Umbrella, Raincoat",118.9,,F
+2014-10,2012,"Vanaspati, Margarine",108.9,,F
+2014-10,2012,"Washerman, Laundry, Ironing",125.3,,F
+2014-10,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",114.2,,F
+2014-10,2012,"Zarda, Kimam, Surti (gm)",121,,F
+2014-10,2012,Air Fare (normal): Economy Class(adult),103.7,,F
+2014-10,2012,Any Other Personal Goods,122,,F
+2014-10,2012,Apple,97.7,,F
+2014-10,2012,Baby Food,118.1,,F
+2014-10,2012,Bajra & its Products,127.9,,F
+2014-10,2012,Banana (no.),131.9,,F
+2014-10,2012,Bathroom and Sanitary Equipment,112.9,,F
+2014-10,2012,Bedding: Others,130.7,,F
+2014-10,2012,Bedstead,117.3,,F
+2014-10,2012,Beef/ Buffalo Meat,128.4,,F
+2014-10,2012,Beer (litre),116.6,,F
+2014-10,2012,Berries,142.1,,F
+2014-10,2012,Besan,104,,F
+2014-10,2012,Bicycle(without Accessories),112.2,,F
+2014-10,2012,Bidi (no.),123.3,,F
+2014-10,2012,Black Pepper (gm),143.9,,F
+2014-10,2012,Bread (bakery),122.5,,F
+2014-10,2012,Brinjal,137.2,,F
+2014-10,2012,Bus/tram Fare,124,,F
+2014-10,2012,Butter,120,,F
+2014-10,2012,Cabbage,147.6,,F
+2014-10,2012,Camera & Photographic Equipment,108.3,,F
+2014-10,2012,Candle (no.),112,,F
+2014-10,2012,Carrot,154.3,,F
+2014-10,2012,Cashewnut,110.7,,F
+2014-10,2012,Cauliflower,155.3,,F
+2014-10,2012,Charcoal,116.6,,F
+2014-10,2012,Cheroot (no.),115.6,,F
+2014-10,2012,Chicken,119.1,,F
+2014-10,2012,Chips (gm),132.4,,F
+2014-10,2012,Chira,123.5,,F
+2014-10,2012,Cigarettes (no.),132.7,,F
+2014-10,2012,Cinema: New Release(normal Day),123.9,,F
+2014-10,2012,Clothing (first-hand): Other,119.8,,F
+2014-10,2012,Clothing: Second-hand,118,,F
+2014-10,2012,Club Fees,117.7,,F
+2014-10,2012,Coal,112.1,,F
+2014-10,2012,Coconut (no.),177.3,,F
+2014-10,2012,Coconut Oil,198.5,,F
+2014-10,2012,Coconut: Copra,173.4,,F
+2014-10,2012,Coffee: Cups (no.),124,,F
+2014-10,2012,Coffee: Powder (gm),115.6,,F
+2014-10,2012,Coke,122.2,,F
+2014-10,2012,Cold Beverages: Bottled/canned (litre),113.8,,F
+2014-10,2012,Cooked Meals Purchased (no.),128.6,,F
+2014-10,2012,Country Liquor (litre),119.1,,F
+2014-10,2012,Curd,123.4,,F
+2014-10,2012,Curry Powder (gm),119.3,,F
+2014-10,2012,Dates,125.2,,F
+2014-10,2012,Dhania (gm),143.4,,F
+2014-10,2012,Dhoti (no.),122,,F
+2014-10,2012,Diesel (litre) [excl. Conveyance],113.7,,F
+2014-10,2012,Diesel for Vehicle,127.4,,F
+2014-10,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),124.3,,F
+2014-10,2012,Domestic Servant/cook,120.2,,F
+2014-10,2012,Dry Chillies (gm),114.5,,F
+2014-10,2012,Dung Cake,118.3,,F
+2014-10,2012,Earthenware,122.8,,F
+2014-10,2012,Eggs (no.),118.1,,F
+2014-10,2012,Electric Batteries,111.4,,F
+2014-10,2012,Electric Fan,111.8,,F
+2014-10,2012,Electricity (std. Unit),114.6,,F
+2014-10,2012,Family Planning Devices,116.3,,F
+2014-10,2012,Firewood and Chips,120.5,,F
+2014-10,2012,Flower (fresh): All Purposes,126.2,,F
+2014-10,2012,Foreign/refined Liquor or Wine (litre),114.9,,F
+2014-10,2012,Fruit Juice and Shake (litre),114.9,,F
+2014-10,2012,Garlic (gm),139.7,,F
+2014-10,2012,Ghee,121.2,,F
+2014-10,2012,Ginger (gm),190.8,,F
+2014-10,2012,Glassware,111.5,,F
+2014-10,2012,Goat Meat/mutton,126.2,,F
+2014-10,2012,Gold,92.9,,F
+2014-10,2012,Goods for Recreation and Hobbies,125.2,,F
+2014-10,2012,Gram Products,105.6,,F
+2014-10,2012,Gram: Split,101.2,,F
+2014-10,2012,Gram: Whole,102,,F
+2014-10,2012,Grapes,124.9,,F
+2014-10,2012,Green Chillies,142.4,,F
+2014-10,2012,Green Coconut (no.),137.4,,F
+2014-10,2012,Grinding Charges,123.1,,F
+2014-10,2012,Groundnut Oil,94,,F
+2014-10,2012,Groundnut,113.4,,F
+2014-10,2012,Guava,131.6,,F
+2014-10,2012,Gur,112.8,,F
+2014-10,2012,Honey,124.6,,F
+2014-10,2012,Hookah Tobacco (gm),118.4,,F
+2014-10,2012,Horse Cart Fare,118.6,,F
+2014-10,2012,Hospital & Nursing Home Charges,117.3,,F
+2014-10,2012,Hotel Lodging Charges,112.2,,F
+2014-10,2012,Ice-cream,107,,F
+2014-10,2012,Ingredients for Pan (gm),125.5,,F
+2014-10,2012,Internet Expenses,109.5,,F
+2014-10,2012,Inverter,114.8,,F
+2014-10,2012,Jackfruit,131.8,,F
+2014-10,2012,Jeera (gm),105.7,,F
+2014-10,2012,Jowar & its Products,114.4,,F
+2014-10,2012,Kerosene – Other Sources (litre),112.5,,F
+2014-10,2012,Kerosene – PDS (litre),103.2,,F
+2014-10,2012,Kharbooza,138.1,,F
+2014-10,2012,Khesari,121,,F
+2014-10,2012,Knitting Wool (gm),118.1,,F
+2014-10,2012,Kurta-pajama Suits: Females (no.),120.4,,F
+2014-10,2012,Kurta-pajama Suits: Males (no.),117.4,,F
+2014-10,2012,LPG [excl. Conveyance],106.7,,F
+2014-10,2012,Lady's Finger,110.7,,F
+2014-10,2012,Leaf Tobacco (gm),121.8,,F
+2014-10,2012,Leechi,,,F
+2014-10,2012,Lemon (no.),130,,F
+2014-10,2012,Library Charges,100,,F
+2014-10,2012,Lighter (bidi/ Cigarette/ Gas Stove),113,,F
+2014-10,2012,Lock,123,,F
+2014-10,2012,Lubricants & Other Fuels for Vehicle,115,,F
+2014-10,2012,Lungi (no.),123.7,,F
+2014-10,2012,Maida,123.1,,F
+2014-10,2012,Maize & Products,124.3,,F
+2014-10,2012,Mango,119.2,,F
+2014-10,2012,Masur,125.4,,F
+2014-10,2012,Matches (box),108.3,,F
+2014-10,2012,Medicine (non-institutional),111.9,,F
+2014-10,2012,Milk: Condensed/ Powder,119.5,,F
+2014-10,2012,Milk: Liquid (litre),123.2,,F
+2014-10,2012,Mineral Water (litre),114.4,,F
+2014-10,2012,Mobile Handset,102.5,,F
+2014-10,2012,Monthly Charges for Cable Tv Connection,109.8,,F
+2014-10,2012,Monthly Maintainance Charges,114.8,,F
+2014-10,2012,Moong,127.1,,F
+2014-10,2012,Mosquito Net (no.),119.1,,F
+2014-10,2012,Muri,121.6,,F
+2014-10,2012,Mustard Oil,104.5,,F
+2014-10,2012,Oilseeds (gm),121.3,,F
+2014-10,2012,Onion,192.1,,F
+2014-10,2012,Other Cereals,164.2,,F
+2014-10,2012,Other Consumer Services Excluding Conveyance,117.4,,F
+2014-10,2012,Other Conveyance Expenses,117,,F
+2014-10,2012,Other Cooking/ Household Appliances,111.1,,F
+2014-10,2012,Other Crockery & Utensils,116.3,,F
+2014-10,2012,Other Dry Fruits,125.9,,F
+2014-10,2012,Other Durables (specify)….,109,,F
+2014-10,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),116.2,,F
+2014-10,2012,Other Entertainment,112.3,,F
+2014-10,2012,Other Footwear,116.3,,F
+2014-10,2012,Other Fresh Fruits,118.8,,F
+2014-10,2012,Other Fuel,124.4,,F
+2014-10,2012,Other Intoxicants,113.5,,F
+2014-10,2012,Other Leather Footwear,117.6,,F
+2014-10,2012,Other Medical Expenses (non-institutional),111.5,,F
+2014-10,2012,Other Metal Utensils,113.5,,F
+2014-10,2012,Other Milk Products,118.9,,F
+2014-10,2012,Other Nuts,142.5,,F
+2014-10,2012,Other Ornaments,109.1,,F
+2014-10,2012,Other Packaged Processed Food,112.3,,F
+2014-10,2012,Other Petty Articles,118.8,,F
+2014-10,2012,Other Pulse Products,117.1,,F
+2014-10,2012,Other Pulses,117.8,,F
+2014-10,2012,Other Rice Products,122.3,,F
+2014-10,2012,Other Tobacco Products,117.9,,F
+2014-10,2012,Other Vegetables,127.7,,F
+2014-10,2012,Other Washing Requisites,114.3,,F
+2014-10,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.9,,F
+2014-10,2012,Palak/other Leafy Vegetables,147.3,,F
+2014-10,2012,Pan: Finished (no.),128.7,,F
+2014-10,2012,Pan: Leaf (no.),113.7,,F
+2014-10,2012,Papaya,138.2,,F
+2014-10,2012,Pears/nashpati,120.2,,F
+2014-10,2012,Peas (pulses),122.8,,F
+2014-10,2012,Peas (vegetables),188.7,,F
+2014-10,2012,Petrol for Vehicle,101,,F
+2014-10,2012,Photography,111.7,,F
+2014-10,2012,Pickles (gm),115.1,,F
+2014-10,2012,Pineapple (no.),129.1,,F
+2014-10,2012,Pork,125.1,,F
+2014-10,2012,Porter Charges,115.7,,F
+2014-10,2012,Potato,200,,F
+2014-10,2012,Pressure Cooker/ Pressure Pan,105.9,,F
+2014-10,2012,Private Tutor/ Coaching Centre,118.6,,F
+2014-10,2012,Radish,149.2,,F
+2014-10,2012,Ragi & its Products,135,,F
+2014-10,2012,Railway Fare,137,,F
+2014-10,2012,Refrigerator,114.3,,F
+2014-10,2012,Residential Building & Land (cost of Repairs Only),130.3,,F
+2014-10,2012,Rice – Other Sources,129.5,,F
+2014-10,2012,Rice – PDS,81.8,,F
+2014-10,2012,Rickshaw (hand Drawn & Cycle) Fare,127.3,,F
+2014-10,2012,Rubber / Pvc Footwear,119.6,,F
+2014-10,2012,Salt,115.5,,F
+2014-10,2012,Sanitary Napkins,115.1,,F
+2014-10,2012,Saree (no.),121.7,,F
+2014-10,2012,School/college Uniform: Boys,120,,F
+2014-10,2012,School/college Uniform: Girls,119.8,,F
+2014-10,2012,Sewing Machine,123.7,,F
+2014-10,2012,Silver,76.3,,F
+2014-10,2012,Singara,153.7,,F
+2014-10,2012,Small Millets & their Products,127.3,,F
+2014-10,2012,Snuff (gm),115.2,,F
+2014-10,2012,Spectacles,120.3,,F
+2014-10,2012,Stainless Steel Utensils,119,,F
+2014-10,2012,Sugar - Other Sources,102.1,,F
+2014-10,2012,Sugar - PDS,100.4,,F
+2014-10,2012,Sweeper,118.7,,F
+2014-10,2012,Tailor,127.7,,F
+2014-10,2012,Tamarind (gm),109.9,,F
+2014-10,2012,Tea: Cups (no.),122.2,,F
+2014-10,2012,Tea: Leaf (gm),116.4,,F
+2014-10,2012,Telephone Charges: Landline*,102.9,,F
+2014-10,2012,Telephone Charges: Mobile,111.3,,F
+2014-10,2012,Television,110.5,,F
+2014-10,2012,Toddy (litre),123.6,,F
+2014-10,2012,Toilet Soap,115.7,,F
+2014-10,2012,Tomato,156.4,,F
+2014-10,2012,Torch,115.7,,F
+2014-10,2012,Turmeric (gm),109.8,,F
+2014-10,2012,Tyres & Tubes,115.4,,F
+2014-10,2012,Urd,125,,F
+2014-10,2012,VCD/ DVD Hire (incl. Instrument),115.3,,F
+2014-10,2012,VCR/VCD/DVD Player,106.6,,F
+2014-10,2012,Walnut,138.2,,F
+2014-10,2012,Washing Machine,112.4,,F
+2014-10,2012,Washing Soap/soda/powder,116.1,,F
+2014-10,2012,Watch Man Charges (other Cons Taxes),120.4,,F
+2014-10,2012,Water Charges,107.4,,F
+2014-10,2012,Water Purifier,111.4,,F
+2014-10,2012,Watermelon,132.9,,F
+2014-10,2012,Wheat/ Atta – Other Sources,124.1,,F
+2014-10,2012,Wheat/ Atta – PDS,79.3,,F
+2014-11,2012,"Air Conditioner, Air Cooler",110.5,,F
+2014-11,2012,"Almirah, Dressing Table",117.1,,F
+2014-11,2012,"Arhar, Tur",113.5,,F
+2014-11,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",119.8,,F
+2014-11,2012,"Barber, Beautician, etc.",125.6,,F
+2014-11,2012,"Beans, Barbati",131.5,,F
+2014-11,2012,"Bed Sheet, Bed Cover (no.)",121.8,,F
+2014-11,2012,"Biscuits, Chocolates, etc.",110.9,,F
+2014-11,2012,"Books, Journals: First Hand",114.3,,F
+2014-11,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",119.6,,F
+2014-11,2012,"CD, DVD, Audio/video Cassette, etc",110.3,,F
+2014-11,2012,"Candy, Misri",113.2,,F
+2014-11,2012,"Carpet, Daree & Other Floor Mattings",104.7,,F
+2014-11,2012,"Cereal Substitutes: Tapioca, etc.",141.6,,F
+2014-11,2012,"Chair, Stool, Bench, Table",119.1,,F
+2014-11,2012,"Clock, Watch",113.8,,F
+2014-11,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",118.6,,F
+2014-11,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",124.3,,F
+2014-11,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",123.1,,F
+2014-11,2012,"Coat, Jacket, Sweater, Windcheater (no.)",119,,F
+2014-11,2012,"Coir, Rope, etc.",118.3,,F
+2014-11,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",121.5,,F
+2014-11,2012,"Electric Bulb, Tubelight",111.1,,F
+2014-11,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",111.4,,F
+2014-11,2012,"Fish, Prawn",125.4,,F
+2014-11,2012,"Frocks, Skirts, etc. (no.)",123.4,,F
+2014-11,2012,"Gamchha, Towel, Handkerchief (no.)",122.6,,F
+2014-11,2012,"Gourd, Pumpkin",132.4,,F
+2014-11,2012,"Hair Oil, Shampoo, Hair Cream",116.6,,F
+2014-11,2012,"Headwear, Belts, Ties (no.)",120.1,,F
+2014-11,2012,"House Rent, Garage Rent",116.7,,F
+2014-11,2012,"Incense (agarbatti), Room Freshener",113.5,,F
+2014-11,2012,"Leather Boots, Shoes",118.1,,F
+2014-11,2012,"Leather Sandals, Chappals, etc.",118,,F
+2014-11,2012,"Mosquito Repellent, Insecticide, Acid etc.",115.7,,F
+2014-11,2012,"Motor Car, Jeep",108.3,,F
+2014-11,2012,"Motor Cycle, Scooter",107.8,,F
+2014-11,2012,"Newspapers, Periodicals",123.6,,F
+2014-11,2012,"Orange, Mausami (no.)",111.6,,F
+2014-11,2012,"Other Beverages: Cocoa, Chocolate, etc.",117.6,,F
+2014-11,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",108.8,,F
+2014-11,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.6,,F
+2014-11,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",121.3,,F
+2014-11,2012,"Parwal/patal, Kundru",114.2,,F
+2014-11,2012,"Pillow, Quilt, Mattress (no.)",118.5,,F
+2014-11,2012,"Plugs, Switches & Other Electrical Fittings",115.9,,F
+2014-11,2012,"Powder, Snow, Cream, Lotion and Perfume",116.8,,F
+2014-11,2012,"Prepared Sweets, Cake, Pastry",123.8,,F
+2014-11,2012,"Radio, Tape Recorder, 2-in-1",112.5,,F
+2014-11,2012,"Raisin, Kishmish, Monacca, etc.",126,,F
+2014-11,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",104,,F
+2014-11,2012,"Rug, Blanket (no.)",119,,F
+2014-11,2012,"Sauce, Jam, Jelly (gm)",112.5,,F
+2014-11,2012,"School Bus, Van, etc.",123.2,,F
+2014-11,2012,"Sewai, Noodles",116.6,,F
+2014-11,2012,"Shaving Blades, Shaving Stick, Razor",110.6,,F
+2014-11,2012,"Shaving Cream, Aftershave Lotion",113.2,,F
+2014-11,2012,"Shawl, Chaddar (no.)",119.8,,F
+2014-11,2012,"Shirts, T-shirts (no.)",123.3,,F
+2014-11,2012,"Shorts, Trousers, Bermudas (no.)",119.7,,F
+2014-11,2012,"Sports Goods, Toys, etc.",118.9,,F
+2014-11,2012,"Stationery, Photocopying Charges",118.1,,F
+2014-11,2012,"Steamer, Boat Fare",117.9,,F
+2014-11,2012,"Stove, Gas Burner",116.5,,F
+2014-11,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",116.2,,F
+2014-11,2012,"Suji, Rawa",122.8,,F
+2014-11,2012,"Taxi, Auto-rickshaw Fare",121.5,,F
+2014-11,2012,"Toothpaste, Toothbrush, Comb, etc.",117.4,,F
+2014-11,2012,"Tuition and Other Fees (school, College, Etc.)",120.2,,F
+2014-11,2012,"Umbrella, Raincoat",119,,F
+2014-11,2012,"Vanaspati, Margarine",108.8,,F
+2014-11,2012,"Washerman, Laundry, Ironing",126.3,,F
+2014-11,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",114.9,,F
+2014-11,2012,"Zarda, Kimam, Surti (gm)",123.8,,F
+2014-11,2012,Air Fare (normal): Economy Class(adult),103.4,,F
+2014-11,2012,Any Other Personal Goods,122.2,,F
+2014-11,2012,Apple,95.1,,F
+2014-11,2012,Baby Food,118.7,,F
+2014-11,2012,Bajra & its Products,127.1,,F
+2014-11,2012,Banana (no.),128.5,,F
+2014-11,2012,Bathroom and Sanitary Equipment,113.9,,F
+2014-11,2012,Bedding: Others,131.3,,F
+2014-11,2012,Bedstead,117.6,,F
+2014-11,2012,Beef/ Buffalo Meat,128.8,,F
+2014-11,2012,Beer (litre),117,,F
+2014-11,2012,Berries,133.7,,F
+2014-11,2012,Besan,104.1,,F
+2014-11,2012,Bicycle(without Accessories),112.5,,F
+2014-11,2012,Bidi (no.),123.5,,F
+2014-11,2012,Black Pepper (gm),144.8,,F
+2014-11,2012,Bread (bakery),122.9,,F
+2014-11,2012,Brinjal,136,,F
+2014-11,2012,Bus/tram Fare,124.1,,F
+2014-11,2012,Butter,121,,F
+2014-11,2012,Cabbage,132.3,,F
+2014-11,2012,Camera & Photographic Equipment,108.3,,F
+2014-11,2012,Candle (no.),112,,F
+2014-11,2012,Carrot,148.4,,F
+2014-11,2012,Cashewnut,111.5,,F
+2014-11,2012,Cauliflower,122.2,,F
+2014-11,2012,Charcoal,117.1,,F
+2014-11,2012,Cheroot (no.),119.4,,F
+2014-11,2012,Chicken,118.1,,F
+2014-11,2012,Chips (gm),132.4,,F
+2014-11,2012,Chira,123.7,,F
+2014-11,2012,Cigarettes (no.),134.8,,F
+2014-11,2012,Cinema: New Release(normal Day),125.2,,F
+2014-11,2012,Clothing (first-hand): Other,120,,F
+2014-11,2012,Clothing: Second-hand,119.8,,F
+2014-11,2012,Club Fees,117.7,,F
+2014-11,2012,Coal,115.2,,F
+2014-11,2012,Coconut (no.),178.6,,F
+2014-11,2012,Coconut Oil,195.6,,F
+2014-11,2012,Coconut: Copra,175.9,,F
+2014-11,2012,Coffee: Cups (no.),128.4,,F
+2014-11,2012,Coffee: Powder (gm),116.9,,F
+2014-11,2012,Coke,118.6,,F
+2014-11,2012,Cold Beverages: Bottled/canned (litre),114.3,,F
+2014-11,2012,Cooked Meals Purchased (no.),130,,F
+2014-11,2012,Country Liquor (litre),119.9,,F
+2014-11,2012,Curd,124.1,,F
+2014-11,2012,Curry Powder (gm),120.2,,F
+2014-11,2012,Dates,125.4,,F
+2014-11,2012,Dhania (gm),145.1,,F
+2014-11,2012,Dhoti (no.),122.2,,F
+2014-11,2012,Diesel (litre) [excl. Conveyance],106.7,,F
+2014-11,2012,Diesel for Vehicle,120.5,,F
+2014-11,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),125,,F
+2014-11,2012,Domestic Servant/cook,121,,F
+2014-11,2012,Dry Chillies (gm),114.9,,F
+2014-11,2012,Dung Cake,119.8,,F
+2014-11,2012,Earthenware,123.8,,F
+2014-11,2012,Eggs (no.),121,,F
+2014-11,2012,Electric Batteries,112.6,,F
+2014-11,2012,Electric Fan,111.8,,F
+2014-11,2012,Electricity (std. Unit),115.1,,F
+2014-11,2012,Family Planning Devices,114.8,,F
+2014-11,2012,Firewood and Chips,122,,F
+2014-11,2012,Flower (fresh): All Purposes,126.4,,F
+2014-11,2012,Foreign/refined Liquor or Wine (litre),116.7,,F
+2014-11,2012,Fruit Juice and Shake (litre),115.2,,F
+2014-11,2012,Garlic (gm),139.7,,F
+2014-11,2012,Ghee,121.6,,F
+2014-11,2012,Ginger (gm),179.3,,F
+2014-11,2012,Glassware,112.9,,F
+2014-11,2012,Goat Meat/mutton,127.4,,F
+2014-11,2012,Gold,90.1,,F
+2014-11,2012,Goods for Recreation and Hobbies,125.6,,F
+2014-11,2012,Gram Products,105.3,,F
+2014-11,2012,Gram: Split,101.6,,F
+2014-11,2012,Gram: Whole,102.1,,F
+2014-11,2012,Grapes,128.5,,F
+2014-11,2012,Green Chillies,133.2,,F
+2014-11,2012,Green Coconut (no.),139.6,,F
+2014-11,2012,Grinding Charges,123.7,,F
+2014-11,2012,Groundnut Oil,94.1,,F
+2014-11,2012,Groundnut,112.5,,F
+2014-11,2012,Guava,134.4,,F
+2014-11,2012,Gur,112.5,,F
+2014-11,2012,Honey,125.2,,F
+2014-11,2012,Hookah Tobacco (gm),117.4,,F
+2014-11,2012,Horse Cart Fare,120.7,,F
+2014-11,2012,Hospital & Nursing Home Charges,117.9,,F
+2014-11,2012,Hotel Lodging Charges,112,,F
+2014-11,2012,Ice-cream,107.2,,F
+2014-11,2012,Ingredients for Pan (gm),126.3,,F
+2014-11,2012,Internet Expenses,109.8,,F
+2014-11,2012,Inverter,114.8,,F
+2014-11,2012,Jackfruit,132.7,,F
+2014-11,2012,Jeera (gm),106.1,,F
+2014-11,2012,Jowar & its Products,112.5,,F
+2014-11,2012,Kerosene – Other Sources (litre),112.5,,F
+2014-11,2012,Kerosene – PDS (litre),103.2,,F
+2014-11,2012,Kharbooza,142.4,,F
+2014-11,2012,Khesari,120.9,,F
+2014-11,2012,Knitting Wool (gm),118.1,,F
+2014-11,2012,Kurta-pajama Suits: Females (no.),120.8,,F
+2014-11,2012,Kurta-pajama Suits: Males (no.),119.2,,F
+2014-11,2012,LPG [excl. Conveyance],107.3,,F
+2014-11,2012,Lady's Finger,123.9,,F
+2014-11,2012,Leaf Tobacco (gm),122.3,,F
+2014-11,2012,Leechi,,,F
+2014-11,2012,Lemon (no.),122.9,,F
+2014-11,2012,Library Charges,100,,F
+2014-11,2012,Lighter (bidi/ Cigarette/ Gas Stove),112.4,,F
+2014-11,2012,Lock,123.2,,F
+2014-11,2012,Lubricants & Other Fuels for Vehicle,115.4,,F
+2014-11,2012,Lungi (no.),124.2,,F
+2014-11,2012,Maida,123.6,,F
+2014-11,2012,Maize & Products,124.7,,F
+2014-11,2012,Mango,127.3,,F
+2014-11,2012,Masur,126.9,,F
+2014-11,2012,Matches (box),108.7,,F
+2014-11,2012,Medicine (non-institutional),112.5,,F
+2014-11,2012,Milk: Condensed/ Powder,120.7,,F
+2014-11,2012,Milk: Liquid (litre),124.3,,F
+2014-11,2012,Mineral Water (litre),114.6,,F
+2014-11,2012,Mobile Handset,102.6,,F
+2014-11,2012,Monthly Charges for Cable Tv Connection,109.9,,F
+2014-11,2012,Monthly Maintainance Charges,115,,F
+2014-11,2012,Moong,130.3,,F
+2014-11,2012,Mosquito Net (no.),119.2,,F
+2014-11,2012,Muri,121.7,,F
+2014-11,2012,Mustard Oil,104.6,,F
+2014-11,2012,Oilseeds (gm),121.8,,F
+2014-11,2012,Onion,191,,F
+2014-11,2012,Other Cereals,139.2,,F
+2014-11,2012,Other Consumer Services Excluding Conveyance,118.9,,F
+2014-11,2012,Other Conveyance Expenses,117.1,,F
+2014-11,2012,Other Cooking/ Household Appliances,111.1,,F
+2014-11,2012,Other Crockery & Utensils,117.1,,F
+2014-11,2012,Other Dry Fruits,125.8,,F
+2014-11,2012,Other Durables (specify)….,109,,F
+2014-11,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),115.3,,F
+2014-11,2012,Other Entertainment,112.4,,F
+2014-11,2012,Other Footwear,116.7,,F
+2014-11,2012,Other Fresh Fruits,120.3,,F
+2014-11,2012,Other Fuel,123.8,,F
+2014-11,2012,Other Intoxicants,114.6,,F
+2014-11,2012,Other Leather Footwear,117.5,,F
+2014-11,2012,Other Medical Expenses (non-institutional),111.7,,F
+2014-11,2012,Other Metal Utensils,113.6,,F
+2014-11,2012,Other Milk Products,119.6,,F
+2014-11,2012,Other Nuts,143.8,,F
+2014-11,2012,Other Ornaments,109.5,,F
+2014-11,2012,Other Packaged Processed Food,113.1,,F
+2014-11,2012,Other Petty Articles,119.5,,F
+2014-11,2012,Other Pulse Products,117.6,,F
+2014-11,2012,Other Pulses,117.6,,F
+2014-11,2012,Other Rice Products,122.1,,F
+2014-11,2012,Other Tobacco Products,118.8,,F
+2014-11,2012,Other Vegetables,133,,F
+2014-11,2012,Other Washing Requisites,114.8,,F
+2014-11,2012,PC/ Laptop/ Other Peripherals Incl. Software,112.9,,F
+2014-11,2012,Palak/other Leafy Vegetables,140,,F
+2014-11,2012,Pan: Finished (no.),128.8,,F
+2014-11,2012,Pan: Leaf (no.),113.8,,F
+2014-11,2012,Papaya,139.5,,F
+2014-11,2012,Pears/nashpati,120.5,,F
+2014-11,2012,Peas (pulses),121.6,,F
+2014-11,2012,Peas (vegetables),186,,F
+2014-11,2012,Petrol for Vehicle,97.1,,F
+2014-11,2012,Photography,112.3,,F
+2014-11,2012,Pickles (gm),115.5,,F
+2014-11,2012,Pineapple (no.),127.4,,F
+2014-11,2012,Pork,125.1,,F
+2014-11,2012,Porter Charges,115.7,,F
+2014-11,2012,Potato,203.9,,F
+2014-11,2012,Pressure Cooker/ Pressure Pan,106,,F
+2014-11,2012,Private Tutor/ Coaching Centre,118.7,,F
+2014-11,2012,Radish,134.8,,F
+2014-11,2012,Ragi & its Products,136.3,,F
+2014-11,2012,Railway Fare,137.1,,F
+2014-11,2012,Refrigerator,114.5,,F
+2014-11,2012,Residential Building & Land (cost of Repairs Only),131,,F
+2014-11,2012,Rice – Other Sources,129.4,,F
+2014-11,2012,Rice – PDS,81.8,,F
+2014-11,2012,Rickshaw (hand Drawn & Cycle) Fare,128.1,,F
+2014-11,2012,Rubber / Pvc Footwear,120,,F
+2014-11,2012,Salt,115.9,,F
+2014-11,2012,Sanitary Napkins,115.8,,F
+2014-11,2012,Saree (no.),122.4,,F
+2014-11,2012,School/college Uniform: Boys,120.4,,F
+2014-11,2012,School/college Uniform: Girls,119.8,,F
+2014-11,2012,Sewing Machine,123.5,,F
+2014-11,2012,Silver,71.5,,F
+2014-11,2012,Singara,133.3,,F
+2014-11,2012,Small Millets & their Products,129.8,,F
+2014-11,2012,Snuff (gm),120.7,,F
+2014-11,2012,Spectacles,120.4,,F
+2014-11,2012,Stainless Steel Utensils,119.6,,F
+2014-11,2012,Sugar - Other Sources,101,,F
+2014-11,2012,Sugar - PDS,100.4,,F
+2014-11,2012,Sweeper,118.9,,F
+2014-11,2012,Tailor,128.6,,F
+2014-11,2012,Tamarind (gm),110.7,,F
+2014-11,2012,Tea: Cups (no.),123.4,,F
+2014-11,2012,Tea: Leaf (gm),116.5,,F
+2014-11,2012,Telephone Charges: Landline*,103.3,,F
+2014-11,2012,Telephone Charges: Mobile,111.5,,F
+2014-11,2012,Television,111,,F
+2014-11,2012,Toddy (litre),123.1,,F
+2014-11,2012,Toilet Soap,116.3,,F
+2014-11,2012,Tomato,129.8,,F
+2014-11,2012,Torch,117,,F
+2014-11,2012,Turmeric (gm),109.7,,F
+2014-11,2012,Tyres & Tubes,115.5,,F
+2014-11,2012,Urd,124.8,,F
+2014-11,2012,VCD/ DVD Hire (incl. Instrument),118.5,,F
+2014-11,2012,VCR/VCD/DVD Player,105.9,,F
+2014-11,2012,Walnut,147.1,,F
+2014-11,2012,Washing Machine,112.4,,F
+2014-11,2012,Washing Soap/soda/powder,116.5,,F
+2014-11,2012,Watch Man Charges (other Cons Taxes),121.2,,F
+2014-11,2012,Water Charges,107.4,,F
+2014-11,2012,Water Purifier,111.2,,F
+2014-11,2012,Watermelon,135.6,,F
+2014-11,2012,Wheat/ Atta – Other Sources,124.5,,F
+2014-11,2012,Wheat/ Atta – PDS,79.3,,F
+2014-12,2012,"Air Conditioner, Air Cooler",110.6,,F
+2014-12,2012,"Almirah, Dressing Table",117.1,,F
+2014-12,2012,"Arhar, Tur",113.7,,F
+2014-12,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",120.3,,F
+2014-12,2012,"Barber, Beautician, etc.",126.4,,F
+2014-12,2012,"Beans, Barbati",125.5,,F
+2014-12,2012,"Bed Sheet, Bed Cover (no.)",122,,F
+2014-12,2012,"Biscuits, Chocolates, etc.",111,,F
+2014-12,2012,"Books, Journals: First Hand",114.4,,F
+2014-12,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",120.3,,F
+2014-12,2012,"CD, DVD, Audio/video Cassette, etc",111.3,,F
+2014-12,2012,"Candy, Misri",113.2,,F
+2014-12,2012,"Carpet, Daree & Other Floor Mattings",116.7,,F
+2014-12,2012,"Cereal Substitutes: Tapioca, etc.",139.2,,F
+2014-12,2012,"Chair, Stool, Bench, Table",118.8,,F
+2014-12,2012,"Clock, Watch",113.8,,F
+2014-12,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",119.1,,F
+2014-12,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",124.8,,F
+2014-12,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",122.2,,F
+2014-12,2012,"Coat, Jacket, Sweater, Windcheater (no.)",120.2,,F
+2014-12,2012,"Coir, Rope, etc.",118.3,,F
+2014-12,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",121.5,,F
+2014-12,2012,"Electric Bulb, Tubelight",111.4,,F
+2014-12,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",110.6,,F
+2014-12,2012,"Fish, Prawn",125.3,,F
+2014-12,2012,"Frocks, Skirts, etc. (no.)",123.9,,F
+2014-12,2012,"Gamchha, Towel, Handkerchief (no.)",123.2,,F
+2014-12,2012,"Gourd, Pumpkin",131.5,,F
+2014-12,2012,"Hair Oil, Shampoo, Hair Cream",117,,F
+2014-12,2012,"Headwear, Belts, Ties (no.)",120.3,,F
+2014-12,2012,"House Rent, Garage Rent",116.2,,F
+2014-12,2012,"Incense (agarbatti), Room Freshener",113.5,,F
+2014-12,2012,"Leather Boots, Shoes",118.3,,F
+2014-12,2012,"Leather Sandals, Chappals, etc.",118.2,,F
+2014-12,2012,"Mosquito Repellent, Insecticide, Acid etc.",116.4,,F
+2014-12,2012,"Motor Car, Jeep",108.5,,F
+2014-12,2012,"Motor Cycle, Scooter",107.9,,F
+2014-12,2012,"Newspapers, Periodicals",124,,F
+2014-12,2012,"Orange, Mausami (no.)",104.9,,F
+2014-12,2012,"Other Beverages: Cocoa, Chocolate, etc.",117.9,,F
+2014-12,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",111,,F
+2014-12,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",119.5,,F
+2014-12,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",121.9,,F
+2014-12,2012,"Parwal/patal, Kundru",126,,F
+2014-12,2012,"Pillow, Quilt, Mattress (no.)",119.2,,F
+2014-12,2012,"Plugs, Switches & Other Electrical Fittings",116.1,,F
+2014-12,2012,"Powder, Snow, Cream, Lotion and Perfume",117.3,,F
+2014-12,2012,"Prepared Sweets, Cake, Pastry",124.1,,F
+2014-12,2012,"Radio, Tape Recorder, 2-in-1",112.8,,F
+2014-12,2012,"Raisin, Kishmish, Monacca, etc.",127,,F
+2014-12,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",103.9,,F
+2014-12,2012,"Rug, Blanket (no.)",120,,F
+2014-12,2012,"Sauce, Jam, Jelly (gm)",113,,F
+2014-12,2012,"School Bus, Van, etc.",123,,F
+2014-12,2012,"Sewai, Noodles",116.8,,F
+2014-12,2012,"Shaving Blades, Shaving Stick, Razor",110.7,,F
+2014-12,2012,"Shaving Cream, Aftershave Lotion",113.5,,F
+2014-12,2012,"Shawl, Chaddar (no.)",120.3,,F
+2014-12,2012,"Shirts, T-shirts (no.)",123.7,,F
+2014-12,2012,"Shorts, Trousers, Bermudas (no.)",119.9,,F
+2014-12,2012,"Sports Goods, Toys, etc.",119.2,,F
+2014-12,2012,"Stationery, Photocopying Charges",118.4,,F
+2014-12,2012,"Steamer, Boat Fare",117.9,,F
+2014-12,2012,"Stove, Gas Burner",117.1,,F
+2014-12,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",117,,F
+2014-12,2012,"Suji, Rawa",122.8,,F
+2014-12,2012,"Taxi, Auto-rickshaw Fare",121.6,,F
+2014-12,2012,"Toothpaste, Toothbrush, Comb, etc.",118.4,,F
+2014-12,2012,"Tuition and Other Fees (school, College, Etc.)",120.6,,F
+2014-12,2012,"Umbrella, Raincoat",119.1,,F
+2014-12,2012,"Vanaspati, Margarine",108.1,,F
+2014-12,2012,"Washerman, Laundry, Ironing",127.7,,F
+2014-12,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",115.2,,F
+2014-12,2012,"Zarda, Kimam, Surti (gm)",125.6,,F
+2014-12,2012,Air Fare (normal): Economy Class(adult),103,,F
+2014-12,2012,Any Other Personal Goods,122.2,,F
+2014-12,2012,Apple,97,,F
+2014-12,2012,Baby Food,119.3,,F
+2014-12,2012,Bajra & its Products,126.9,,F
+2014-12,2012,Banana (no.),127.7,,F
+2014-12,2012,Bathroom and Sanitary Equipment,114.7,,F
+2014-12,2012,Bedding: Others,132.2,,F
+2014-12,2012,Bedstead,117.8,,F
+2014-12,2012,Beef/ Buffalo Meat,129.8,,F
+2014-12,2012,Beer (litre),117.4,,F
+2014-12,2012,Berries,137.4,,F
+2014-12,2012,Besan,104.2,,F
+2014-12,2012,Bicycle(without Accessories),112.4,,F
+2014-12,2012,Bidi (no.),124.7,,F
+2014-12,2012,Black Pepper (gm),145.2,,F
+2014-12,2012,Bread (bakery),122.8,,F
+2014-12,2012,Brinjal,126.6,,F
+2014-12,2012,Bus/tram Fare,124.1,,F
+2014-12,2012,Butter,121.3,,F
+2014-12,2012,Cabbage,125.7,,F
+2014-12,2012,Camera & Photographic Equipment,108.3,,F
+2014-12,2012,Candle (no.),112,,F
+2014-12,2012,Carrot,129.3,,F
+2014-12,2012,Cashewnut,111.4,,F
+2014-12,2012,Cauliflower,115.8,,F
+2014-12,2012,Charcoal,118.5,,F
+2014-12,2012,Cheroot (no.),117.9,,F
+2014-12,2012,Chicken,116.5,,F
+2014-12,2012,Chips (gm),132.4,,F
+2014-12,2012,Chira,122.9,,F
+2014-12,2012,Cigarettes (no.),135.8,,F
+2014-12,2012,Cinema: New Release(normal Day),125.9,,F
+2014-12,2012,Clothing (first-hand): Other,119.8,,F
+2014-12,2012,Clothing: Second-hand,119.5,,F
+2014-12,2012,Club Fees,117.7,,F
+2014-12,2012,Coal,116,,F
+2014-12,2012,Coconut (no.),177,,F
+2014-12,2012,Coconut Oil,185.3,,F
+2014-12,2012,Coconut: Copra,174.5,,F
+2014-12,2012,Coffee: Cups (no.),130.9,,F
+2014-12,2012,Coffee: Powder (gm),117.4,,F
+2014-12,2012,Coke,116.9,,F
+2014-12,2012,Cold Beverages: Bottled/canned (litre),114.2,,F
+2014-12,2012,Cooked Meals Purchased (no.),130.5,,F
+2014-12,2012,Country Liquor (litre),120.2,,F
+2014-12,2012,Curd,125.4,,F
+2014-12,2012,Curry Powder (gm),121.3,,F
+2014-12,2012,Dates,125.5,,F
+2014-12,2012,Dhania (gm),146.6,,F
+2014-12,2012,Dhoti (no.),122.4,,F
+2014-12,2012,Diesel (litre) [excl. Conveyance],102.4,,F
+2014-12,2012,Diesel for Vehicle,116.8,,F
+2014-12,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),125.6,,F
+2014-12,2012,Domestic Servant/cook,121,,F
+2014-12,2012,Dry Chillies (gm),115.2,,F
+2014-12,2012,Dung Cake,120.1,,F
+2014-12,2012,Earthenware,124,,F
+2014-12,2012,Eggs (no.),123.5,,F
+2014-12,2012,Electric Batteries,113.2,,F
+2014-12,2012,Electric Fan,112.4,,F
+2014-12,2012,Electricity (std. Unit),115.6,,F
+2014-12,2012,Family Planning Devices,118,,F
+2014-12,2012,Firewood and Chips,121.9,,F
+2014-12,2012,Flower (fresh): All Purposes,129.2,,F
+2014-12,2012,Foreign/refined Liquor or Wine (litre),117.3,,F
+2014-12,2012,Fruit Juice and Shake (litre),115.3,,F
+2014-12,2012,Garlic (gm),133.4,,F
+2014-12,2012,Ghee,121.6,,F
+2014-12,2012,Ginger (gm),168.1,,F
+2014-12,2012,Glassware,113.1,,F
+2014-12,2012,Goat Meat/mutton,127.9,,F
+2014-12,2012,Gold,91.2,,F
+2014-12,2012,Goods for Recreation and Hobbies,126.1,,F
+2014-12,2012,Gram Products,105.2,,F
+2014-12,2012,Gram: Split,101.6,,F
+2014-12,2012,Gram: Whole,102.1,,F
+2014-12,2012,Grapes,132.5,,F
+2014-12,2012,Green Chillies,124.8,,F
+2014-12,2012,Green Coconut (no.),139.2,,F
+2014-12,2012,Grinding Charges,123.6,,F
+2014-12,2012,Groundnut Oil,94.1,,F
+2014-12,2012,Groundnut,113.2,,F
+2014-12,2012,Guava,128.8,,F
+2014-12,2012,Gur,111,,F
+2014-12,2012,Honey,126.6,,F
+2014-12,2012,Hookah Tobacco (gm),116.9,,F
+2014-12,2012,Horse Cart Fare,121.6,,F
+2014-12,2012,Hospital & Nursing Home Charges,118.2,,F
+2014-12,2012,Hotel Lodging Charges,112.6,,F
+2014-12,2012,Ice-cream,107.1,,F
+2014-12,2012,Ingredients for Pan (gm),127.9,,F
+2014-12,2012,Internet Expenses,109.8,,F
+2014-12,2012,Inverter,114.6,,F
+2014-12,2012,Jackfruit,139.8,,F
+2014-12,2012,Jeera (gm),106.2,,F
+2014-12,2012,Jowar & its Products,113.2,,F
+2014-12,2012,Kerosene – Other Sources (litre),112.6,,F
+2014-12,2012,Kerosene – PDS (litre),103.3,,F
+2014-12,2012,Kharbooza,151.4,,F
+2014-12,2012,Khesari,121.7,,F
+2014-12,2012,Knitting Wool (gm),118.6,,F
+2014-12,2012,Kurta-pajama Suits: Females (no.),121.5,,F
+2014-12,2012,Kurta-pajama Suits: Males (no.),119.4,,F
+2014-12,2012,LPG [excl. Conveyance],107.7,,F
+2014-12,2012,Lady's Finger,132.9,,F
+2014-12,2012,Leaf Tobacco (gm),122.8,,F
+2014-12,2012,Leechi,,,F
+2014-12,2012,Lemon (no.),114.4,,F
+2014-12,2012,Library Charges,100,,F
+2014-12,2012,Lighter (bidi/ Cigarette/ Gas Stove),113.2,,F
+2014-12,2012,Lock,124.7,,F
+2014-12,2012,Lubricants & Other Fuels for Vehicle,115.8,,F
+2014-12,2012,Lungi (no.),124,,F
+2014-12,2012,Maida,123.6,,F
+2014-12,2012,Maize & Products,125,,F
+2014-12,2012,Mango,132.6,,F
+2014-12,2012,Masur,127.7,,F
+2014-12,2012,Matches (box),108.6,,F
+2014-12,2012,Medicine (non-institutional),112.7,,F
+2014-12,2012,Milk: Condensed/ Powder,121.4,,F
+2014-12,2012,Milk: Liquid (litre),124.5,,F
+2014-12,2012,Mineral Water (litre),114.4,,F
+2014-12,2012,Mobile Handset,102.5,,F
+2014-12,2012,Monthly Charges for Cable Tv Connection,110,,F
+2014-12,2012,Monthly Maintainance Charges,115.6,,F
+2014-12,2012,Moong,131.5,,F
+2014-12,2012,Mosquito Net (no.),120.2,,F
+2014-12,2012,Muri,122,,F
+2014-12,2012,Mustard Oil,104.7,,F
+2014-12,2012,Oilseeds (gm),122,,F
+2014-12,2012,Onion,186.3,,F
+2014-12,2012,Other Cereals,139,,F
+2014-12,2012,Other Consumer Services Excluding Conveyance,119.1,,F
+2014-12,2012,Other Conveyance Expenses,117.6,,F
+2014-12,2012,Other Cooking/ Household Appliances,110.9,,F
+2014-12,2012,Other Crockery & Utensils,116.7,,F
+2014-12,2012,Other Dry Fruits,126,,F
+2014-12,2012,Other Durables (specify)….,113.4,,F
+2014-12,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),115.8,,F
+2014-12,2012,Other Entertainment,112,,F
+2014-12,2012,Other Footwear,116.9,,F
+2014-12,2012,Other Fresh Fruits,117.8,,F
+2014-12,2012,Other Fuel,120.7,,F
+2014-12,2012,Other Intoxicants,115.6,,F
+2014-12,2012,Other Leather Footwear,117.6,,F
+2014-12,2012,Other Medical Expenses (non-institutional),111.9,,F
+2014-12,2012,Other Metal Utensils,113.9,,F
+2014-12,2012,Other Milk Products,120.2,,F
+2014-12,2012,Other Nuts,145.4,,F
+2014-12,2012,Other Ornaments,108.4,,F
+2014-12,2012,Other Packaged Processed Food,114.1,,F
+2014-12,2012,Other Petty Articles,120.2,,F
+2014-12,2012,Other Pulse Products,118,,F
+2014-12,2012,Other Pulses,117.3,,F
+2014-12,2012,Other Rice Products,122.8,,F
+2014-12,2012,Other Tobacco Products,119.7,,F
+2014-12,2012,Other Vegetables,132.2,,F
+2014-12,2012,Other Washing Requisites,114.9,,F
+2014-12,2012,PC/ Laptop/ Other Peripherals Incl. Software,113,,F
+2014-12,2012,Palak/other Leafy Vegetables,130,,F
+2014-12,2012,Pan: Finished (no.),129.8,,F
+2014-12,2012,Pan: Leaf (no.),115,,F
+2014-12,2012,Papaya,135.9,,F
+2014-12,2012,Pears/nashpati,116.7,,F
+2014-12,2012,Peas (pulses),121.5,,F
+2014-12,2012,Peas (vegetables),124.6,,F
+2014-12,2012,Petrol for Vehicle,94.5,,F
+2014-12,2012,Photography,112.3,,F
+2014-12,2012,Pickles (gm),116.1,,F
+2014-12,2012,Pineapple (no.),124.2,,F
+2014-12,2012,Pork,125.5,,F
+2014-12,2012,Porter Charges,115.9,,F
+2014-12,2012,Potato,160.5,,F
+2014-12,2012,Pressure Cooker/ Pressure Pan,106.4,,F
+2014-12,2012,Private Tutor/ Coaching Centre,119.4,,F
+2014-12,2012,Radish,119.3,,F
+2014-12,2012,Ragi & its Products,136.3,,F
+2014-12,2012,Railway Fare,137.1,,F
+2014-12,2012,Refrigerator,114.6,,F
+2014-12,2012,Residential Building & Land (cost of Repairs Only),131.6,,F
+2014-12,2012,Rice – Other Sources,128.5,,F
+2014-12,2012,Rice – PDS,81.9,,F
+2014-12,2012,Rickshaw (hand Drawn & Cycle) Fare,128.3,,F
+2014-12,2012,Rubber / Pvc Footwear,120.3,,F
+2014-12,2012,Salt,115.8,,F
+2014-12,2012,Sanitary Napkins,116,,F
+2014-12,2012,Saree (no.),123,,F
+2014-12,2012,School/college Uniform: Boys,120.3,,F
+2014-12,2012,School/college Uniform: Girls,120.4,,F
+2014-12,2012,Sewing Machine,123.4,,F
+2014-12,2012,Silver,71.6,,F
+2014-12,2012,Singara,128.6,,F
+2014-12,2012,Small Millets & their Products,128.2,,F
+2014-12,2012,Snuff (gm),122.7,,F
+2014-12,2012,Spectacles,120.1,,F
+2014-12,2012,Stainless Steel Utensils,120.1,,F
+2014-12,2012,Sugar - Other Sources,99.2,,F
+2014-12,2012,Sugar - PDS,100.7,,F
+2014-12,2012,Sweeper,119.4,,F
+2014-12,2012,Tailor,129.1,,F
+2014-12,2012,Tamarind (gm),110.5,,F
+2014-12,2012,Tea: Cups (no.),124.3,,F
+2014-12,2012,Tea: Leaf (gm),117,,F
+2014-12,2012,Telephone Charges: Landline*,103.3,,F
+2014-12,2012,Telephone Charges: Mobile,111.4,,F
+2014-12,2012,Television,111.3,,F
+2014-12,2012,Toddy (litre),123.5,,F
+2014-12,2012,Toilet Soap,116.7,,F
+2014-12,2012,Tomato,129.2,,F
+2014-12,2012,Torch,117.5,,F
+2014-12,2012,Turmeric (gm),110,,F
+2014-12,2012,Tyres & Tubes,115.3,,F
+2014-12,2012,Urd,124.7,,F
+2014-12,2012,VCD/ DVD Hire (incl. Instrument),118.2,,F
+2014-12,2012,VCR/VCD/DVD Player,105.9,,F
+2014-12,2012,Walnut,151.6,,F
+2014-12,2012,Washing Machine,112.6,,F
+2014-12,2012,Washing Soap/soda/powder,116.4,,F
+2014-12,2012,Watch Man Charges (other Cons Taxes),121.9,,F
+2014-12,2012,Water Charges,107.5,,F
+2014-12,2012,Water Purifier,111.3,,F
+2014-12,2012,Watermelon,136.7,,F
+2014-12,2012,Wheat/ Atta – Other Sources,124.7,,F
+2014-12,2012,Wheat/ Atta – PDS,79.3,,F

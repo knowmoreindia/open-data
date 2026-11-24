@@ -1,0 +1,529 @@
+month,base_year,type,category,sub_category,index,growth_rate
+2011-01,1993-94,General,General,,361.2,4
+2011-01,1993-94,Sectoral,Electricity,,265.8,10.5
+2011-01,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",571.3,0.6
+2011-01,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",212.4,27.3
+2011-01,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",223.8,-34.7
+2011-01,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",347,12.3
+2011-01,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",650.1,-6.8
+2011-01,1993-94,Sectoral,Manufacturing,,391.9,3.7
+2011-01,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,406.1,12.4
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),378.5,4.5
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,193.5,11.2
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,292.2,9.7
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),101.6,768.4
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,424.2,2.7
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,302.8,11.9
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),363.5,12.8
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,686.1,3.5
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,91.5,-22.2
+2011-01,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,315.1,5.2
+2011-01,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,496.1,39.4
+2011-01,1993-94,Sectoral,Mining,,220.7,1.8
+2011-01,1993-94,Use-based category,Basic Goods,,280.1,7.6
+2011-01,1993-94,Use-based category,Capital Goods,,597.6,-18.1
+2011-01,1993-94,Use-based category,Consumer Durables,,648,23.9
+2011-01,1993-94,Use-based category,Consumer Non-durables,,351.4,7.9
+2011-01,1993-94,Use-based category,Intermediate Goods,,337.7,7.8
+2011-01,2004-05,General,General,,175.9,7.5
+2011-01,2004-05,Sectoral,Electricity,,146.4,10.5
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",137.1,7.6
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",179.2,9
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",106.3,1.1
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",251.9,23.9
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",148.2,44.2
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1002,6.5
+2011-01,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",153.6,-6.2
+2011-01,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",154.2,10.8
+2011-01,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",118.8,12.8
+2011-01,2004-05,Sectoral,Manufacturing,,186.5,8.1
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,195.4,13.1
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,125.8,6.4
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,383.4,-12.1
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,191.4,6.6
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,141.2,-8.3
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,265,27.8
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,157.2,1
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,217,6.3
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,134.7,9.1
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,190.8,7
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,142.2,14.6
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,106.1,-4.8
+2011-01,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,145.5,-1
+2011-01,2004-05,Sectoral,Mining,,141,1.7
+2011-01,2004-05,Use-based category,Basic Goods,,153.9,7.7
+2011-01,2004-05,Use-based category,Capital Goods,,263.8,5.4
+2011-01,2004-05,Use-based category,Consumer Durables,,310.8,12.5
+2011-01,2004-05,Use-based category,Consumer Non-durables,,152.3,5
+2011-01,2004-05,Use-based category,Intermediate Goods,,150.2,7.4
+2011-02,1993-94,General,General,,343.2,3.7
+2011-02,1993-94,Sectoral,Electricity,,243.7,6.7
+2011-02,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",561.6,-0.6
+2011-02,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",190,17.1
+2011-02,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",305.9,9.5
+2011-02,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",336.2,18.5
+2011-02,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",582.6,-16.7
+2011-02,1993-94,Sectoral,Manufacturing,,374.2,3.6
+2011-02,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,377.8,10.2
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),351.9,2.9
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,180,7
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,287.2,15
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),125.4,202.2
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,412.2,1.7
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,282,7.7
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),351.9,7.5
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,722.4,23.7
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,64,-42.3
+2011-02,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,288.8,3.8
+2011-02,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,473,34.5
+2011-02,1993-94,Sectoral,Mining,,205.4,1
+2011-02,1993-94,Use-based category,Basic Goods,,260.3,6
+2011-02,1993-94,Use-based category,Capital Goods,,545.5,-18.2
+2011-02,1993-94,Use-based category,Consumer Durables,,676.7,23.5
+2011-02,1993-94,Use-based category,Consumer Non-durables,,330.5,6
+2011-02,1993-94,Use-based category,Intermediate Goods,,327.8,8.6
+2011-02,2004-05,General,General,,168,6.7
+2011-02,2004-05,Sectoral,Electricity,,134.3,6.8
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",118.7,2.1
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",197.2,19.4
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",98.3,4
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",263.6,22.1
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",138.4,11
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",938.4,16.5
+2011-02,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",161.9,-6.7
+2011-02,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",148.1,11.4
+2011-02,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",117.1,11.5
+2011-02,2004-05,Sectoral,Manufacturing,,179.4,7.5
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,178.3,11.4
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,120.6,9.5
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,261.5,-39.3
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,196,13.8
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,137.8,-10.1
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,286.1,20.9
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,154.2,3.4
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,229.8,26.5
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,130.2,11.2
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,182.7,5.7
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,130.1,7.9
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,103.2,-1.8
+2011-02,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,155.7,-0.6
+2011-02,2004-05,Sectoral,Mining,,132,1.1
+2011-02,2004-05,Use-based category,Basic Goods,,142.1,5.6
+2011-02,2004-05,Use-based category,Capital Goods,,237,-5.7
+2011-02,2004-05,Use-based category,Consumer Durables,,317.2,18.2
+2011-02,2004-05,Use-based category,Consumer Non-durables,,153.5,9.7
+2011-02,2004-05,Use-based category,Intermediate Goods,,144,6.3
+2011-03,1993-94,General,General,,402.8,7.8
+2011-03,1993-94,Sectoral,Electricity,,280.2,7.2
+2011-03,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",631.8,3
+2011-03,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",190.2,24.6
+2011-03,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",333.9,9.1
+2011-03,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",373,16.1
+2011-03,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",909,11.7
+2011-03,1993-94,Sectoral,Manufacturing,,440.4,8.4
+2011-03,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,406.4,3.5
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),384.3,3.1
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,186.5,5.8
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,267.6,19.6
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),98.5,-9.9
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,481.8,6.3
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,311.6,4.5
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),317.9,-10.4
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,864.4,16.6
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,47.3,-66.4
+2011-03,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,293.9,-0.5
+2011-03,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,602.7,25.5
+2011-03,1993-94,Sectoral,Mining,,236.7,0.5
+2011-03,1993-94,Use-based category,Basic Goods,,290.5,4.4
+2011-03,1993-94,Use-based category,Capital Goods,,969.3,13.2
+2011-03,1993-94,Use-based category,Consumer Durables,,676.6,12.7
+2011-03,1993-94,Use-based category,Consumer Non-durables,,336.2,6
+2011-03,1993-94,Use-based category,Intermediate Goods,,358.6,6.4
+2011-03,2004-05,General,General,,193.1,9.4
+2011-03,2004-05,Sectoral,Electricity,,154.4,7.2
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",128.5,1.7
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",304.9,20.8
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",160.7,21.3
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",295.1,22.5
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",226.4,9
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",812.9,5.9
+2011-03,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",168,-7.7
+2011-03,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",157.4,11.7
+2011-03,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",124.1,11.3
+2011-03,2004-05,Sectoral,Manufacturing,,206.2,11
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,202.1,11.8
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126.3,7
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,533.6,7.3
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,196.9,23.9
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,141.3,-14
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,406.6,27.3
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,174.1,4.2
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,262.9,19.6
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,142.4,7
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,184.7,-7.4
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,135.5,4.7
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,87.4,-16.4
+2011-03,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,168,9.9
+2011-03,2004-05,Sectoral,Mining,,151.2,0.3
+2011-03,2004-05,Use-based category,Basic Goods,,161.5,6.5
+2011-03,2004-05,Use-based category,Capital Goods,,392.2,14.5
+2011-03,2004-05,Use-based category,Consumer Durables,,323.3,14.9
+2011-03,2004-05,Use-based category,Consumer Non-durables,,154.7,11.9
+2011-03,2004-05,Use-based category,Intermediate Goods,,155.1,3.1
+2011-04,1993-94,General,General,,338.1,4.4
+2011-04,1993-94,Sectoral,Electricity,,264.9,6.4
+2011-04,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",599.6,8.1
+2011-04,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",163.6,18.9
+2011-04,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",215.5,-3.1
+2011-04,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",322.2,7.4
+2011-04,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",618.7,0
+2011-04,1993-94,Sectoral,Manufacturing,,365.4,4.4
+2011-04,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,389.5,10.5
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),364.8,-1.7
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,164.3,-5
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,231.1,32.2
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),85.9,-24.1
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,418.4,1.6
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,284.5,7.6
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),259.5,-25.7
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,687.3,18
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,42.3,-62.6
+2011-04,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,261.4,-14.4
+2011-04,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,488.2,38.9
+2011-04,1993-94,Sectoral,Mining,,202.2,2.1
+2011-04,1993-94,Use-based category,Basic Goods,,266.6,5.6
+2011-04,1993-94,Use-based category,Capital Goods,,563.8,2.5
+2011-04,1993-94,Use-based category,Consumer Durables,,610.4,9.2
+2011-04,1993-94,Use-based category,Consumer Non-durables,,306,4.5
+2011-04,1993-94,Use-based category,Intermediate Goods,,328.2,2.4
+2011-04,2004-05,General,General,,166.2,5.3
+2011-04,2004-05,Sectoral,Electricity,,146,6.5
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",123.5,6.7
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",163.7,18.9
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",79.8,-9.4
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",259.1,22.9
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",149.3,37.5
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",723.1,-8.6
+2011-04,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",143.6,-14.6
+2011-04,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",156.8,12
+2011-04,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",116.2,6.8
+2011-04,2004-05,Sectoral,Manufacturing,,176.1,5.7
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,183,13.9
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,123.5,8.1
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,499.2,2.6
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,154.6,12.6
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,131.6,-17.5
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,253.8,-1
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,153.7,-1.3
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,218.2,18.1
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,130.2,9.7
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,177.6,-4.5
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,130.5,-0.4
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,116.8,2.3
+2011-04,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,144,0.5
+2011-04,2004-05,Sectoral,Mining,,128.4,1.6
+2011-04,2004-05,Use-based category,Basic Goods,,145.2,7.2
+2011-04,2004-05,Use-based category,Capital Goods,,264.8,6.6
+2011-04,2004-05,Use-based category,Consumer Durables,,290.5,1.6
+2011-04,2004-05,Use-based category,Consumer Non-durables,,137.3,4.6
+2011-04,2004-05,Use-based category,Intermediate Goods,,144.4,3.9
+2011-05,1993-94,General,General,,335,3.4
+2011-05,1993-94,Sectoral,Electricity,,278.2,10.3
+2011-05,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",620.7,10.7
+2011-05,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",170.9,-8.5
+2011-05,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",301.6,14.3
+2011-05,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",348.6,13.1
+2011-05,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",533.6,-5.9
+2011-05,1993-94,Sectoral,Manufacturing,,359.6,3
+2011-05,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,401.7,10.6
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),383.3,0
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,168.3,-5.9
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,167.8,15.4
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),84.8,-21.2
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,437.6,2.1
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,286.2,2.4
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),270.1,-20.7
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,679.6,17.7
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,40.1,-63.2
+2011-05,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,273.2,-5.8
+2011-05,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,487.4,18.8
+2011-05,1993-94,Sectoral,Mining,,203.5,0.9
+2011-05,1993-94,Use-based category,Basic Goods,,275.5,6.5
+2011-05,1993-94,Use-based category,Capital Goods,,513.6,-0.9
+2011-05,1993-94,Use-based category,Consumer Durables,,603.4,7.5
+2011-05,1993-94,Use-based category,Consumer Non-durables,,293.4,3.8
+2011-05,1993-94,Use-based category,Intermediate Goods,,334.5,0.9
+2011-05,2004-05,General,General,,166.2,6.2
+2011-05,2004-05,Sectoral,Electricity,,153.3,10.3
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",126.1,7.1
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",171.7,13.9
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",111,17.2
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",240.5,23.1
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",134.5,33.4
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",802.4,-0.6
+2011-05,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",155.4,-8.1
+2011-05,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",161.1,9.7
+2011-05,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",117.2,-4.8
+2011-05,2004-05,Sectoral,Manufacturing,,174.5,6.3
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,188.4,13.2
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126,4.4
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,389,-5.1
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,151.3,23.2
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,150.5,9.5
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,235.5,-6.4
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,153.1,-0.7
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,220.1,20.8
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,137.1,5.5
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,185.7,-2.5
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,125.3,-5
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,107.9,-0.2
+2011-05,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,142.8,0
+2011-05,2004-05,Sectoral,Mining,,130.9,1.8
+2011-05,2004-05,Use-based category,Basic Goods,,149.4,7.5
+2011-05,2004-05,Use-based category,Capital Goods,,248.6,6.2
+2011-05,2004-05,Use-based category,Consumer Durables,,282.6,5.1
+2011-05,2004-05,Use-based category,Consumer Non-durables,,138.4,9
+2011-05,2004-05,Use-based category,Intermediate Goods,,143.7,0.1
+2011-06,1993-94,General,General,,340,4.3
+2011-06,1993-94,Sectoral,Electricity,,261.9,8
+2011-06,1993-94,Sectoral,Manufacturing,"Manufacture of Beverages, Tobacco and Related_x0002_products",619.3,6.3
+2011-06,1993-94,Sectoral,Manufacturing,"Manufacture of Leather and Products of Leather, Fur &:: Substitutes of Leather",179.1,2.8
+2011-06,1993-94,Sectoral,Manufacturing,"Manufacture of Metal Products and Parts, Except Machinery and Equipment",299.6,-3.4
+2011-06,1993-94,Sectoral,Manufacturing,"Manufacture of Rubber, Plastic, Petroleum and Coal Products; Processing of Nuclear Fuels",344.2,13.8
+2011-06,1993-94,Sectoral,Manufacturing,"Manufacturing of Machinery and Equipment Other Than Transport Manufactureequipment of Machinery (manufacture and Equipment of Scientific Otherequip- Than Ment, Photographic! Cinematographic Equipment and Watches & Clocks is C1assifiedindivision 38)",625.7,5.6
+2011-06,1993-94,Sectoral,Manufacturing,,369.1,4.4
+2011-06,1993-94,Sectoral,Manufacturing,Basic Metal and Alloys Industries,415.6,17
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Basic Chemicals and Chemical Pro_x0002_ducts (except Products of Petroleum and Coal),364.5,-4.2
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Cotton Textiles,159.9,-11.2
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Food Products,167.7,18.7
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Jute and Other Vegetable Fibre Texliies (except Cotton),95.8,-1.9
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Non-metallic Mineral Products,440.8,5.8
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Paper and Paper Products and Printing Publishing & Allied Industries,295.9,4.3
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Textile Products (including Wearing Apparel),271.5,-18.9
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Transport Equipment and Parts,678.2,15.5
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Wood and Wood Products; Furniture and Fixtures,19,-84.9
+2011-06,1993-94,Sectoral,Manufacturing,Manufacture of Wool Silk and Man-made Fibre Textiles_x0002_,304.8,0.3
+2011-06,1993-94,Sectoral,Manufacturing,Other Manufacturing Industries,506.4,18.8
+2011-06,1993-94,Sectoral,Mining,,195.7,-0.9
+2011-06,1993-94,Use-based category,Basic Goods,,270.6,7.3
+2011-06,1993-94,Use-based category,Capital Goods,,602.5,7.5
+2011-06,1993-94,Use-based category,Consumer Durables,,625.1,10.5
+2011-06,1993-94,Use-based category,Consumer Non-durables,,291.9,2
+2011-06,1993-94,Use-based category,Intermediate Goods,,326.1,-1
+2011-06,2004-05,General,General,,171.4,9.5
+2011-06,2004-05,Sectoral,Electricity,,144.3,7.9
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",127.7,4.3
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",190.5,15.1
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",103.5,-12.4
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",231.5,14.5
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",177.3,17.9
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",913.7,-9.9
+2011-06,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",149.1,-0.8
+2011-06,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",154.8,10.4
+2011-06,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",118,16.1
+2011-06,2004-05,Sectoral,Manufacturing,,184,11.2
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,194.5,19.8
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,122.8,-1.5
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,679.1,92.5
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,158,17
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,146,10.9
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,233.4,2.6
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,147.4,0.5
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,224.1,18.3
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,132.5,5.2
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,186,-0.6
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,128.2,-1.5
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,106.9,11.1
+2011-06,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,122.8,-15.2
+2011-06,2004-05,Sectoral,Mining,,123.5,-1.4
+2011-06,2004-05,Use-based category,Basic Goods,,145.9,7.8
+2011-06,2004-05,Use-based category,Capital Goods,,325.2,38.7
+2011-06,2004-05,Use-based category,Consumer Durables,,281.7,1.6
+2011-06,2004-05,Use-based category,Consumer Non-durables,,138.4,4.4
+2011-06,2004-05,Use-based category,Intermediate Goods,,144.1,1.6
+2011-07,2004-05,General,General,,167.2,3.7
+2011-07,2004-05,Sectoral,Electricity,,152.1,13.1
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",125.3,2.8
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",188.2,14
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",98.1,-10.7
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",252.1,10.3
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",110.5,15.3
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1069.9,11.9
+2011-07,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",159,3.2
+2011-07,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",159.1,7.2
+2011-07,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",124.1,9.8
+2011-07,2004-05,Sectoral,Manufacturing,,177.4,3.1
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,197.2,19.7
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,121.6,-4.8
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,336.3,-42.8
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,140.4,21.1
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,149.8,7.5
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,213.3,-2.6
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,158.6,10.1
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,236.6,17.1
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,141.1,8
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,191.6,3.3
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,136.3,0.4
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,102.8,-10
+2011-07,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,125.2,-13
+2011-07,2004-05,Sectoral,Mining,,124.1,0.6
+2011-07,2004-05,Use-based category,Basic Goods,,149.1,10
+2011-07,2004-05,Use-based category,Capital Goods,,248.5,-13.7
+2011-07,2004-05,Use-based category,Consumer Durables,,304.6,9
+2011-07,2004-05,Use-based category,Consumer Non-durables,,133.5,4.1
+2011-07,2004-05,Use-based category,Intermediate Goods,,146.2,-0.1
+2011-08,2004-05,General,General,,161.4,3.4
+2011-08,2004-05,Sectoral,Electricity,,149.4,9.5
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",126.7,8.6
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",186.3,11.2
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",97.3,-8.5
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",243.2,8.1
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",116.4,-26.8
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",972.4,12.5
+2011-08,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",155.7,-0.3
+2011-08,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",158.2,6.5
+2011-08,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",120.5,5.4
+2011-08,2004-05,Sectoral,Manufacturing,,171.7,3.9
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,190.6,11.1
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,122.5,-1.6
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,380.5,-5.3
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,114,8.3
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,136.9,1.8
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,217.1,-0.6
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,151.9,6.8
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,235.9,13
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,136.6,-0.4
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,175.5,-1.6
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,139.2,-1.8
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,90.2,-19
+2011-08,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,114.9,-16.9
+2011-08,2004-05,Sectoral,Mining,,115,-5.5
+2011-08,2004-05,Use-based category,Basic Goods,,144.7,5.8
+2011-08,2004-05,Use-based category,Capital Goods,,261.6,4
+2011-08,2004-05,Use-based category,Consumer Durables,,278,5.5
+2011-08,2004-05,Use-based category,Consumer Non-durables,,123.3,-0.7
+2011-08,2004-05,Use-based category,Intermediate Goods,,142.6,-1
+2011-09,2004-05,General,General,,164.3,2.5
+2011-09,2004-05,Sectoral,Electricity,,144.1,9
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",114,2.8
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",206.8,11.1
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",121.9,13.4
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",250.6,5.6
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",199.8,16.6
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1117.9,25.3
+2011-09,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",147.5,2.2
+2011-09,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",154.2,8.6
+2011-09,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",118.4,7.7
+2011-09,2004-05,Sectoral,Manufacturing,,177.4,3.1
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,190.2,10.3
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,125.2,0.2
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,398,-27.9
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,109.9,6.4
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,150.5,-9.2
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,242.6,-2.6
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,144.8,1.5
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,247,18.9
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,137.2,5.5
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,176.3,-2.1
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,140.1,0.6
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,126.1,14.2
+2011-09,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,125.8,3.3
+2011-09,2004-05,Sectoral,Mining,,108.8,-7.6
+2011-09,2004-05,Use-based category,Basic Goods,,140.2,5.3
+2011-09,2004-05,Use-based category,Capital Goods,,286.8,-6.5
+2011-09,2004-05,Use-based category,Consumer Durables,,308.4,8.9
+2011-09,2004-05,Use-based category,Consumer Non-durables,,126,2.7
+2011-09,2004-05,Use-based category,Intermediate Goods,,139.7,-1.4
+2011-10,2004-05,General,General,,158.3,-5
+2011-10,2004-05,Sectoral,Electricity,,152.1,5.6
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",116.5,-3.5
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",181.9,5.8
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",124.7,29.2
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",208.4,-7.2
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",100.5,-24
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1084.5,15.2
+2011-10,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",143.3,1.6
+2011-10,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",166.5,2.7
+2011-10,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",109.1,-4.7
+2011-10,2004-05,Sectoral,Manufacturing,,165.9,-6
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,189,2.3
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,118.1,-3
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,266.2,-59
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,116.4,15.7
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,146.9,1.3
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,204.4,-13.5
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,159.8,3.4
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,233.6,1.8
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,138.8,4
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,164.8,-11.6
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,126.8,-11.9
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,113.8,1.7
+2011-10,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,112.2,-7.8
+2011-10,2004-05,Sectoral,Mining,,122.6,-5.9
+2011-10,2004-05,Use-based category,Basic Goods,,147.3,1.2
+2011-10,2004-05,Use-based category,Capital Goods,,225.4,-26.5
+2011-10,2004-05,Use-based category,Consumer Durables,,288.1,-0.4
+2011-10,2004-05,Use-based category,Consumer Non-durables,,121,0.5
+2011-10,2004-05,Use-based category,Intermediate Goods,,133.8,-8.4
+2011-11,2004-05,General,General,,167.5,6
+2011-11,2004-05,Sectoral,Electricity,,145.6,14.6
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",128,9.7
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",200.3,18.4
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",132.9,40.3
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",274.7,25.4
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",135.8,-6.4
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1023.7,7.2
+2011-11,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",162.8,10.9
+2011-11,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",239.9,69.2
+2011-11,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",108.2,1.8
+2011-11,2004-05,Sectoral,Manufacturing,,177.8,6.6
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,184.8,4.1
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,118.4,-2.4
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,306.5,-38.2
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,162.1,31.3
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,116.5,-10.9
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,225.7,8.2
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,155.9,14.3
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,245.4,23.4
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,140.2,9.6
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,185.9,9.2
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,128.3,-2.1
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,122.4,24.3
+2011-11,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,116.5,1.7
+2011-11,2004-05,Sectoral,Mining,,128.8,-3.5
+2011-11,2004-05,Use-based category,Basic Goods,,148,6.5
+2011-11,2004-05,Use-based category,Capital Goods,,257.3,-4.7
+2011-11,2004-05,Use-based category,Consumer Durables,,297.8,10.4
+2011-11,2004-05,Use-based category,Consumer Non-durables,,139.9,15
+2011-11,2004-05,Use-based category,Intermediate Goods,,141.4,1.3
+2011-12,2004-05,General,General,,180.3,2.7
+2011-12,2004-05,Sectoral,Electricity,,149.8,9.1
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",130.6,-0.5
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",226.6,14.3
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Medical, Precision and Optical Instruments, Watches and Clocks",154.9,38.1
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",258.9,5.4
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Office, Accounting and Computing Machinery",196.4,9.3
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Radio, Television and Communication Equipment and Apparatus",1083.7,12.5
+2011-12,2004-05,Sectoral,Manufacturing,"Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",187.6,14
+2011-12,2004-05,Sectoral,Manufacturing,"Publishing, Printing and Reproduction of Recorded Media",246.8,57.9
+2011-12,2004-05,Sectoral,Manufacturing,"Tanning and Dressing of Leather; Manufacture of Luggage, Handbags, Saddlery, Harness and Footwear",124.2,3.5
+2011-12,2004-05,Sectoral,Manufacturing,,192.6,2.8
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Basic Metals,197.6,7.3
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,129.6,3.8
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Electrical Machinery and Apparatus N.e.c.,283.4,-48.5
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Food Products and Beverages,222.6,19.4
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Furniture; Manufacturing N.e.c.,116.2,-10.6
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Machinery and Equipment N.e.c.,238.5,-4.8
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,167.2,8.3
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,237.1,9.8
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,139.8,2.9
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,192.3,-4
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Textiles,138.5,0.4
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Tobacco Products,111.2,27.4
+2011-12,2004-05,Sectoral,Manufacturing,Manufacture of Wearing Apparel; Dressing and Dyeing of Fur,173.1,4.5
+2011-12,2004-05,Sectoral,Mining,,136.8,-3.3
+2011-12,2004-05,Use-based category,Basic Goods,,156.6,5.5
+2011-12,2004-05,Use-based category,Capital Goods,,263.5,-16
+2011-12,2004-05,Use-based category,Consumer Durables,,298,5.1
+2011-12,2004-05,Use-based category,Consumer Non-durables,,172.3,13.8
+2011-12,2004-05,Use-based category,Intermediate Goods,,149.7,-1.5

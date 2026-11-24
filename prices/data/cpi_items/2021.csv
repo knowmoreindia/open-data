@@ -1,0 +1,3589 @@
+month,base_year,item,index,inflation,status
+2021-01,2012,"Air Conditioner, Air Cooler",130.8,4.31,F
+2021-01,2012,"Almirah, Dressing Table",142.1,4.79,F
+2021-01,2012,"Arhar, Tur",156.2,16.13,F
+2021-01,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",150,4.17,F
+2021-01,2012,"Barber, Beautician, etc.",186.1,8.13,F
+2021-01,2012,"Beans, Barbati",152.4,0.99,F
+2021-01,2012,"Bed Sheet, Bed Cover (no.)",150.2,3.37,F
+2021-01,2012,"Biscuits, Chocolates, etc.",132,3.13,F
+2021-01,2012,"Books, Journals: First Hand",150.7,3.22,F
+2021-01,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",153,3.03,F
+2021-01,2012,"CD, DVD, Audio/video Cassette, etc",127.7,-3.33,F
+2021-01,2012,"Candy, Misri",152.1,6.07,F
+2021-01,2012,"Carpet, Daree & Other Floor Mattings",209.9,12.43,F
+2021-01,2012,"Cereal Substitutes: Tapioca, etc.",163.4,-5.77,F
+2021-01,2012,"Chair, Stool, Bench, Table",157.7,2.14,F
+2021-01,2012,"Clock, Watch",134.4,-7.82,F
+2021-01,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",148.4,2.34,F
+2021-01,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",158,4.15,F
+2021-01,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",138.4,2.98,F
+2021-01,2012,"Coat, Jacket, Sweater, Windcheater (no.)",151.9,3.9,F
+2021-01,2012,"Coir, Rope, etc.",155.5,5.35,F
+2021-01,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",160.3,4.7,F
+2021-01,2012,"Electric Bulb, Tubelight",128.1,4.49,F
+2021-01,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",132.9,-5.81,F
+2021-01,2012,"Fish, Prawn",184.5,5.25,F
+2021-01,2012,"Frocks, Skirts, etc. (no.)",163.6,2.7,F
+2021-01,2012,"Gamchha, Towel, Handkerchief (no.)",152.1,4.68,F
+2021-01,2012,"Gourd, Pumpkin",152.4,-4.75,F
+2021-01,2012,"Hair Oil, Shampoo, Hair Cream",139.2,2.43,F
+2021-01,2012,"Headwear, Belts, Ties (no.)",152.4,-8.25,F
+2021-01,2012,"House Rent, Garage Rent",158.6,3.05,F
+2021-01,2012,"Incense (agarbatti), Room Freshener",146.9,2.37,F
+2021-01,2012,"Leather Boots, Shoes",146.5,3.46,F
+2021-01,2012,"Leather Sandals, Chappals, etc.",145.4,3.78,F
+2021-01,2012,"Mosquito Repellent, Insecticide, Acid etc.",138.2,3.06,F
+2021-01,2012,"Motor Car, Jeep",134.2,4.03,F
+2021-01,2012,"Motor Cycle, Scooter",151.4,15.05,F
+2021-01,2012,"Newspapers, Periodicals",163.4,5.22,F
+2021-01,2012,"Orange, Mausami (no.)",130.9,-8.78,F
+2021-01,2012,"Other Beverages: Cocoa, Chocolate, etc.",144.4,2.78,F
+2021-01,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",135.4,1.35,F
+2021-01,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",203.1,4.21,F
+2021-01,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",165.6,5.01,F
+2021-01,2012,"Parwal/patal, Kundru",217.5,-16.57,F
+2021-01,2012,"Pillow, Quilt, Mattress (no.)",152.4,3.18,F
+2021-01,2012,"Plugs, Switches & Other Electrical Fittings",159.8,3.56,F
+2021-01,2012,"Powder, Snow, Cream, Lotion and Perfume",159.8,3.9,F
+2021-01,2012,"Prepared Sweets, Cake, Pastry",162.3,5.12,F
+2021-01,2012,"Radio, Tape Recorder, 2-in-1",133.7,4.45,F
+2021-01,2012,"Raisin, Kishmish, Monacca, etc.",130.3,-0.91,F
+2021-01,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",154.1,24.07,F
+2021-01,2012,"Rug, Blanket (no.)",163,4.29,F
+2021-01,2012,"Sauce, Jam, Jelly (gm)",144.8,5.16,F
+2021-01,2012,"School Bus, Van, etc.",163,1.88,F
+2021-01,2012,"Sewai, Noodles",144.2,6.58,F
+2021-01,2012,"Shaving Blades, Shaving Stick, Razor",136.8,3.79,F
+2021-01,2012,"Shaving Cream, Aftershave Lotion",140.1,5.5,F
+2021-01,2012,"Shawl, Chaddar (no.)",156.6,2.76,F
+2021-01,2012,"Shirts, T-shirts (no.)",154.7,3,F
+2021-01,2012,"Shorts, Trousers, Bermudas (no.)",149.7,5.13,F
+2021-01,2012,"Sports Goods, Toys, etc.",153,4.37,F
+2021-01,2012,"Stationery, Photocopying Charges",146.1,4.43,F
+2021-01,2012,"Steamer, Boat Fare",185.4,6.55,F
+2021-01,2012,"Stove, Gas Burner",158.3,7.83,F
+2021-01,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",144.7,4.33,F
+2021-01,2012,"Suji, Rawa",152.7,3.88,F
+2021-01,2012,"Taxi, Auto-rickshaw Fare",159.6,7.26,F
+2021-01,2012,"Toothpaste, Toothbrush, Comb, etc.",148.1,3.64,F
+2021-01,2012,"Tuition and Other Fees (school, College, Etc.)",162.8,1.5,F
+2021-01,2012,"Umbrella, Raincoat",146.6,3.9,F
+2021-01,2012,"Vanaspati, Margarine",146.9,19.04,F
+2021-01,2012,"Washerman, Laundry, Ironing",184.2,5.92,F
+2021-01,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",148.5,3.99,F
+2021-01,2012,"Zarda, Kimam, Surti (gm)",180.1,8.17,F
+2021-01,2012,Air Fare (normal): Economy Class(adult),170.7,141.78,F
+2021-01,2012,Any Other Personal Goods,204.1,7.7,F
+2021-01,2012,Apple,113.3,19.39,F
+2021-01,2012,Baby Food,151.4,5.43,F
+2021-01,2012,Bajra & its Products,161.8,-9.51,F
+2021-01,2012,Banana (no.),131,-3.61,F
+2021-01,2012,Bathroom and Sanitary Equipment,156,-3.47,F
+2021-01,2012,Bedding: Others,156.4,22.28,F
+2021-01,2012,Bedstead,173.6,3.09,F
+2021-01,2012,Beef/ Buffalo Meat,191,8.09,F
+2021-01,2012,Beer (litre),188.8,23.16,F
+2021-01,2012,Berries,143.1,-7.8,F
+2021-01,2012,Besan,147.7,6.18,F
+2021-01,2012,Bicycle(without Accessories),134.2,5.34,F
+2021-01,2012,Bidi (no.),190.6,7.02,F
+2021-01,2012,Black Pepper (gm),145.5,0.34,F
+2021-01,2012,Bread (bakery),169.1,7.23,F
+2021-01,2012,Brinjal,144.1,-9.94,F
+2021-01,2012,Bus/tram Fare,172.6,12.08,F
+2021-01,2012,Butter,161.1,1.64,F
+2021-01,2012,Cabbage,131.4,-13.72,F
+2021-01,2012,Camera & Photographic Equipment,115.6,2.03,F
+2021-01,2012,Candle (no.),139.1,1.76,F
+2021-01,2012,Carrot,137,-21.76,F
+2021-01,2012,Cashewnut,152,-4.7,F
+2021-01,2012,Cauliflower,99.1,-27.56,F
+2021-01,2012,Charcoal,147.4,12.35,F
+2021-01,2012,Cheroot (no.),207.5,13.33,F
+2021-01,2012,Chicken,177.2,16.89,F
+2021-01,2012,Chips (gm),138.3,-25.44,F
+2021-01,2012,Chira,144.7,1.9,F
+2021-01,2012,Cigarettes (no.),209.5,8.61,F
+2021-01,2012,Cinema: New Release(normal Day),172.7,-2.15,F
+2021-01,2012,Clothing (first-hand): Other,148.3,3.06,F
+2021-01,2012,Clothing: Second-hand,128.9,-17.69,F
+2021-01,2012,Club Fees,131.4,-1.05,F
+2021-01,2012,Coal,156.4,8.76,F
+2021-01,2012,Coconut (no.),232.2,13.21,F
+2021-01,2012,Coconut Oil,267,10.83,F
+2021-01,2012,Coconut: Copra,208,1.81,F
+2021-01,2012,Coffee: Cups (no.),161,1.39,F
+2021-01,2012,Coffee: Powder (gm),137.5,-0.15,F
+2021-01,2012,Coke,153,6.18,F
+2021-01,2012,Cold Beverages: Bottled/canned (litre),146.1,5.26,F
+2021-01,2012,Cooked Meals Purchased (no.),176.3,5.63,F
+2021-01,2012,Country Liquor (litre),183,12.62,F
+2021-01,2012,Curd,158.9,5.23,F
+2021-01,2012,Curry Powder (gm),166.1,5.93,F
+2021-01,2012,Dates,209,22.01,F
+2021-01,2012,Dhania (gm),171.9,6.77,F
+2021-01,2012,Dhoti (no.),158.5,4.34,F
+2021-01,2012,Diesel (litre) [excl. Conveyance],135.5,10.61,F
+2021-01,2012,Diesel for Vehicle,165.8,12.79,F
+2021-01,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),181.9,5.63,F
+2021-01,2012,Domestic Servant/cook,167.3,2.95,F
+2021-01,2012,Dry Chillies (gm),193.4,15.67,F
+2021-01,2012,Dung Cake,151.2,2.65,F
+2021-01,2012,Earthenware,172.6,-1.2,F
+2021-01,2012,Eggs (no.),174.9,12.91,F
+2021-01,2012,Electric Batteries,142.8,2.88,F
+2021-01,2012,Electric Fan,122.8,1.32,F
+2021-01,2012,Electricity (std. Unit),138.1,3.6,F
+2021-01,2012,Family Planning Devices,168.5,1.44,F
+2021-01,2012,Firewood and Chips,152.7,2.28,F
+2021-01,2012,Flower (fresh): All Purposes,200.5,4.05,F
+2021-01,2012,Foreign/refined Liquor or Wine (litre),184.9,20.93,F
+2021-01,2012,Fruit Juice and Shake (litre),139.3,4.11,F
+2021-01,2012,Garlic (gm),206.4,-22.05,F
+2021-01,2012,Ghee,153,1.12,F
+2021-01,2012,Ginger (gm),137.7,-28.91,F
+2021-01,2012,Glassware,132.1,0.15,F
+2021-01,2012,Goat Meat/mutton,210.6,19.52,F
+2021-01,2012,Gold,170,25.46,F
+2021-01,2012,Goods for Recreation and Hobbies,186.6,9.64,F
+2021-01,2012,Gram Products,158.6,9.91,F
+2021-01,2012,Gram: Split,143,7.76,F
+2021-01,2012,Gram: Whole,144.1,8.84,F
+2021-01,2012,Grapes,157.6,3.96,F
+2021-01,2012,Green Chillies,154.9,16.91,F
+2021-01,2012,Green Coconut (no.),212.9,4.47,F
+2021-01,2012,Grinding Charges,153.8,6.36,F
+2021-01,2012,Groundnut Oil,147.4,21.42,F
+2021-01,2012,Groundnut,140.1,3.17,F
+2021-01,2012,Guava,172.9,3.91,F
+2021-01,2012,Gur,136.1,3.03,F
+2021-01,2012,Honey,161.4,5.49,F
+2021-01,2012,Hookah Tobacco (gm),148.8,3.98,F
+2021-01,2012,Horse Cart Fare,126,-17.7,F
+2021-01,2012,Hospital & Nursing Home Charges,180.1,4.89,F
+2021-01,2012,Hotel Lodging Charges,142.2,6.2,F
+2021-01,2012,Ice-cream,127.5,5.9,F
+2021-01,2012,Ingredients for Pan (gm),183.9,6.98,F
+2021-01,2012,Internet Expenses,128.1,4.06,F
+2021-01,2012,Inverter,129.7,1.17,F
+2021-01,2012,Jackfruit,,,F
+2021-01,2012,Jeera (gm),135.5,0.37,F
+2021-01,2012,Jowar & its Products,174.9,2.34,F
+2021-01,2012,Kerosene – Other Sources (litre),146.5,9.9,F
+2021-01,2012,Kerosene – PDS (litre),197.8,-9.6,F
+2021-01,2012,Kharbooza,,,F
+2021-01,2012,Khesari,184.1,19.93,F
+2021-01,2012,Knitting Wool (gm),158.6,12.56,F
+2021-01,2012,Kurta-pajama Suits: Females (no.),151.8,3.83,F
+2021-01,2012,Kurta-pajama Suits: Males (no.),152.4,4.38,F
+2021-01,2012,LPG [excl. Conveyance],158.8,10.82,F
+2021-01,2012,Lady's Finger,172.1,-4.81,F
+2021-01,2012,Leaf Tobacco (gm),174.7,7.18,F
+2021-01,2012,Leechi,,,F
+2021-01,2012,Lemon (no.),106.3,-4.83,F
+2021-01,2012,Library Charges,,,F
+2021-01,2012,Lighter (bidi/ Cigarette/ Gas Stove),119.9,-1.48,F
+2021-01,2012,Lock,161.9,6.16,F
+2021-01,2012,Lubricants & Other Fuels for Vehicle,135.3,4.4,F
+2021-01,2012,Lungi (no.),149.8,4.83,F
+2021-01,2012,Maida,150.2,1.21,F
+2021-01,2012,Maize & Products,151.5,-4.48,F
+2021-01,2012,Mango,,,F
+2021-01,2012,Masur,153.3,14.66,F
+2021-01,2012,Matches (box),117.8,0,F
+2021-01,2012,Medicine (non-institutional),156,6.63,F
+2021-01,2012,Milk: Condensed/ Powder,152.1,4.25,F
+2021-01,2012,Milk: Liquid (litre),154.2,2.73,F
+2021-01,2012,Mineral Water (litre),117.6,-0.42,F
+2021-01,2012,Mobile Handset,111.6,7.1,F
+2021-01,2012,Monthly Charges for Cable Tv Connection,152.1,8.03,F
+2021-01,2012,Monthly Maintainance Charges,137.7,8.17,F
+2021-01,2012,Moong,160.5,15.63,F
+2021-01,2012,Mosquito Net (no.),139.4,0.29,F
+2021-01,2012,Muri,147.5,7.82,F
+2021-01,2012,Mustard Oil,153.7,24.66,F
+2021-01,2012,Oilseeds (gm),160.1,10.11,F
+2021-01,2012,Onion,294.8,-36.16,F
+2021-01,2012,Other Cereals,229.4,22.67,F
+2021-01,2012,Other Consumer Services Excluding Conveyance,160.5,1.26,F
+2021-01,2012,Other Conveyance Expenses,152.3,12.15,F
+2021-01,2012,Other Cooking/ Household Appliances,124.5,4.1,F
+2021-01,2012,Other Crockery & Utensils,145.5,2.18,F
+2021-01,2012,Other Dry Fruits,169.7,3.22,F
+2021-01,2012,Other Durables (specify)….,158.8,1.99,F
+2021-01,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),144.5,5.32,F
+2021-01,2012,Other Entertainment,124.7,-6.24,F
+2021-01,2012,Other Footwear,142.7,3.48,F
+2021-01,2012,Other Fresh Fruits,150,14.77,F
+2021-01,2012,Other Fuel,153.8,8.54,F
+2021-01,2012,Other Intoxicants,180.3,15.36,F
+2021-01,2012,Other Leather Footwear,147.5,-2.32,F
+2021-01,2012,Other Medical Expenses (non-institutional),139.1,4.12,F
+2021-01,2012,Other Metal Utensils,156.7,3.16,F
+2021-01,2012,Other Milk Products,144.3,0.21,F
+2021-01,2012,Other Nuts,167.8,-3.4,F
+2021-01,2012,Other Ornaments,165,21.68,F
+2021-01,2012,Other Packaged Processed Food,140.3,0.94,F
+2021-01,2012,Other Petty Articles,171.6,7.92,F
+2021-01,2012,Other Pulse Products,157.7,5.2,F
+2021-01,2012,Other Pulses,161.6,11.53,F
+2021-01,2012,Other Rice Products,157.7,4.44,F
+2021-01,2012,Other Tobacco Products,177.8,2.36,F
+2021-01,2012,Other Vegetables,166.5,1.59,F
+2021-01,2012,Other Washing Requisites,142.5,3.64,F
+2021-01,2012,PC/ Laptop/ Other Peripherals Incl. Software,125.6,5.37,F
+2021-01,2012,Palak/other Leafy Vegetables,144.1,-4.13,F
+2021-01,2012,Pan: Finished (no.),184.2,7.28,F
+2021-01,2012,Pan: Leaf (no.),198.7,14.06,F
+2021-01,2012,Papaya,149.4,-12.53,F
+2021-01,2012,Pears/nashpati,,,F
+2021-01,2012,Peas (pulses),222.9,20.16,F
+2021-01,2012,Peas (vegetables),95.7,-29.99,F
+2021-01,2012,Petrol for Vehicle,121.2,12.53,F
+2021-01,2012,Photography,137.2,5.54,F
+2021-01,2012,Pickles (gm),144,4.05,F
+2021-01,2012,Pineapple (no.),153.8,-1.73,F
+2021-01,2012,Pork,190.7,14.67,F
+2021-01,2012,Porter Charges,184.3,20.14,F
+2021-01,2012,Potato,164.4,-9.72,F
+2021-01,2012,Pressure Cooker/ Pressure Pan,149.6,14.11,F
+2021-01,2012,Private Tutor/ Coaching Centre,160.8,2.81,F
+2021-01,2012,Radish,118.4,-16.15,F
+2021-01,2012,Ragi & its Products,192.3,1.8,F
+2021-01,2012,Railway Fare,149.4,2.05,F
+2021-01,2012,Refrigerator,133,2.54,F
+2021-01,2012,Residential Building & Land (cost of Repairs Only),181,8.51,F
+2021-01,2012,Rice – Other Sources,146.3,1.11,F
+2021-01,2012,Rice – PDS,84.3,9.48,F
+2021-01,2012,Rickshaw (hand Drawn & Cycle) Fare,169.7,7.27,F
+2021-01,2012,Rubber / Pvc Footwear,149.9,5.71,F
+2021-01,2012,Salt,145.7,5.73,F
+2021-01,2012,Sanitary Napkins,141.1,3.6,F
+2021-01,2012,Saree (no.),158.9,4.13,F
+2021-01,2012,School/college Uniform: Boys,151,4.21,F
+2021-01,2012,School/college Uniform: Girls,150.1,3.66,F
+2021-01,2012,Sewing Machine,140.7,8.31,F
+2021-01,2012,Silver,130.8,43.89,F
+2021-01,2012,Singara,132.2,,F
+2021-01,2012,Small Millets & their Products,168,-4.05,F
+2021-01,2012,Snuff (gm),201.7,20.27,F
+2021-01,2012,Spectacles,152.2,3.89,F
+2021-01,2012,Stainless Steel Utensils,161.8,-0.37,F
+2021-01,2012,Sugar - Other Sources,108.7,-1.27,F
+2021-01,2012,Sugar - PDS,162.8,8.03,F
+2021-01,2012,Sweeper,169,1.93,F
+2021-01,2012,Tailor,179.5,3.64,F
+2021-01,2012,Tamarind (gm),227,25,F
+2021-01,2012,Tea: Cups (no.),154.1,4.55,F
+2021-01,2012,Tea: Leaf (gm),158,16.35,F
+2021-01,2012,Telephone Charges: Landline*,115.6,2.76,F
+2021-01,2012,Telephone Charges: Mobile,141.1,4.52,F
+2021-01,2012,Television,145.8,6.5,F
+2021-01,2012,Toddy (litre),207.6,27.36,F
+2021-01,2012,Toilet Soap,140.9,2.62,F
+2021-01,2012,Tomato,129.3,-3.65,F
+2021-01,2012,Torch,137.8,1.17,F
+2021-01,2012,Turmeric (gm),140.5,5.88,F
+2021-01,2012,Tyres & Tubes,129.1,5.99,F
+2021-01,2012,Urd,179.2,10.96,F
+2021-01,2012,VCD/ DVD Hire (incl. Instrument),173.9,13.81,F
+2021-01,2012,VCR/VCD/DVD Player,106.1,-7.58,F
+2021-01,2012,Walnut,201.1,2.18,F
+2021-01,2012,Washing Machine,133.6,1.6,F
+2021-01,2012,Washing Soap/soda/powder,139.4,2.35,F
+2021-01,2012,Watch Man Charges (other Cons Taxes),155.6,6.58,F
+2021-01,2012,Water Charges,134.9,0.9,F
+2021-01,2012,Water Purifier,134,3.47,F
+2021-01,2012,Watermelon,155.9,-8.35,F
+2021-01,2012,Wheat/ Atta – Other Sources,147,-4.85,F
+2021-01,2012,Wheat/ Atta – PDS,76.7,4.35,F
+2021-02,2012,"Air Conditioner, Air Cooler",130.9,4.8,F
+2021-02,2012,"Almirah, Dressing Table",142.9,5,F
+2021-02,2012,"Arhar, Tur",155.7,16.28,F
+2021-02,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",150.8,4.65,F
+2021-02,2012,"Barber, Beautician, etc.",187.1,8.28,F
+2021-02,2012,"Beans, Barbati",152.2,6.43,F
+2021-02,2012,"Bed Sheet, Bed Cover (no.)",151.1,3.85,F
+2021-02,2012,"Biscuits, Chocolates, etc.",132,2.96,F
+2021-02,2012,"Books, Journals: First Hand",151,3.28,F
+2021-02,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",153.8,3.36,F
+2021-02,2012,"CD, DVD, Audio/video Cassette, etc",124.6,-5.61,F
+2021-02,2012,"Candy, Misri",153.3,8.26,F
+2021-02,2012,"Carpet, Daree & Other Floor Mattings",207.6,10.43,F
+2021-02,2012,"Cereal Substitutes: Tapioca, etc.",158.9,-8.47,F
+2021-02,2012,"Chair, Stool, Bench, Table",159.1,2.84,F
+2021-02,2012,"Clock, Watch",135.3,-7.2,F
+2021-02,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",149.5,3.03,F
+2021-02,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",159.5,4.87,F
+2021-02,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",139.1,3.65,F
+2021-02,2012,"Coat, Jacket, Sweater, Windcheater (no.)",150.6,3.65,F
+2021-02,2012,"Coir, Rope, etc.",157.6,6.41,F
+2021-02,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",161.2,4.95,F
+2021-02,2012,"Electric Bulb, Tubelight",128.6,4.81,F
+2021-02,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",135,-4.32,F
+2021-02,2012,"Fish, Prawn",183.7,3.96,F
+2021-02,2012,"Frocks, Skirts, etc. (no.)",164.5,3.07,F
+2021-02,2012,"Gamchha, Towel, Handkerchief (no.)",153.3,5.22,F
+2021-02,2012,"Gourd, Pumpkin",150.1,-4.64,F
+2021-02,2012,"Hair Oil, Shampoo, Hair Cream",139.4,2.5,F
+2021-02,2012,"Headwear, Belts, Ties (no.)",153.4,-7.92,F
+2021-02,2012,"House Rent, Garage Rent",159.5,2.97,F
+2021-02,2012,"Incense (agarbatti), Room Freshener",147,2.15,F
+2021-02,2012,"Leather Boots, Shoes",147.1,3.52,F
+2021-02,2012,"Leather Sandals, Chappals, etc.",145.9,3.99,F
+2021-02,2012,"Mosquito Repellent, Insecticide, Acid etc.",138.5,3.13,F
+2021-02,2012,"Motor Car, Jeep",135.7,4.3,F
+2021-02,2012,"Motor Cycle, Scooter",154.7,17.02,F
+2021-02,2012,"Newspapers, Periodicals",164,5.26,F
+2021-02,2012,"Orange, Mausami (no.)",136.4,0.66,F
+2021-02,2012,"Other Beverages: Cocoa, Chocolate, etc.",144.8,2.84,F
+2021-02,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",135.5,1.35,F
+2021-02,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",182.5,-6.75,F
+2021-02,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",166.5,5.31,F
+2021-02,2012,"Parwal/patal, Kundru",268.3,-25.08,F
+2021-02,2012,"Pillow, Quilt, Mattress (no.)",152.5,3.74,F
+2021-02,2012,"Plugs, Switches & Other Electrical Fittings",160.1,4.5,F
+2021-02,2012,"Powder, Snow, Cream, Lotion and Perfume",160.2,4.03,F
+2021-02,2012,"Prepared Sweets, Cake, Pastry",163.4,5.42,F
+2021-02,2012,"Radio, Tape Recorder, 2-in-1",136.9,6.54,F
+2021-02,2012,"Raisin, Kishmish, Monacca, etc.",132.6,1.3,F
+2021-02,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",158.8,26.33,F
+2021-02,2012,"Rug, Blanket (no.)",162.9,4.36,F
+2021-02,2012,"Sauce, Jam, Jelly (gm)",145,4.92,F
+2021-02,2012,"School Bus, Van, etc.",163.2,1.87,F
+2021-02,2012,"Sewai, Noodles",144.9,6.62,F
+2021-02,2012,"Shaving Blades, Shaving Stick, Razor",137.4,4.17,F
+2021-02,2012,"Shaving Cream, Aftershave Lotion",140.3,5.57,F
+2021-02,2012,"Shawl, Chaddar (no.)",157.5,3.41,F
+2021-02,2012,"Shirts, T-shirts (no.)",155.8,3.59,F
+2021-02,2012,"Shorts, Trousers, Bermudas (no.)",150.7,5.61,F
+2021-02,2012,"Sports Goods, Toys, etc.",153.7,4.7,F
+2021-02,2012,"Stationery, Photocopying Charges",146.5,4.57,F
+2021-02,2012,"Steamer, Boat Fare",185.4,6.55,F
+2021-02,2012,"Stove, Gas Burner",141.4,-3.74,F
+2021-02,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",143.7,2.79,F
+2021-02,2012,"Suji, Rawa",152.8,3.59,F
+2021-02,2012,"Taxi, Auto-rickshaw Fare",160.4,7.65,F
+2021-02,2012,"Toothpaste, Toothbrush, Comb, etc.",148.5,3.85,F
+2021-02,2012,"Tuition and Other Fees (school, College, Etc.)",163,1.56,F
+2021-02,2012,"Umbrella, Raincoat",147.2,3.88,F
+2021-02,2012,"Vanaspati, Margarine",151.8,21.15,F
+2021-02,2012,"Washerman, Laundry, Ironing",185.6,6.54,F
+2021-02,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",149.3,4.26,F
+2021-02,2012,"Zarda, Kimam, Surti (gm)",178.9,7.45,F
+2021-02,2012,Air Fare (normal): Economy Class(adult),163.1,133,F
+2021-02,2012,Any Other Personal Goods,204.1,7.14,F
+2021-02,2012,Apple,121.7,23.68,F
+2021-02,2012,Baby Food,152,5.41,F
+2021-02,2012,Bajra & its Products,159.6,-11.73,F
+2021-02,2012,Banana (no.),130.6,-2.54,F
+2021-02,2012,Bathroom and Sanitary Equipment,157.6,-2.48,F
+2021-02,2012,Bedding: Others,158.5,23.25,F
+2021-02,2012,Bedstead,175.3,3.42,F
+2021-02,2012,Beef/ Buffalo Meat,190.9,7.61,F
+2021-02,2012,Beer (litre),189.4,21.33,F
+2021-02,2012,Berries,121.6,-14.12,F
+2021-02,2012,Besan,146.4,5.25,F
+2021-02,2012,Bicycle(without Accessories),135.8,6.34,F
+2021-02,2012,Bidi (no.),191.6,7.4,F
+2021-02,2012,Black Pepper (gm),143.7,-0.62,F
+2021-02,2012,Bread (bakery),170,6.52,F
+2021-02,2012,Brinjal,138.3,-9.07,F
+2021-02,2012,Bus/tram Fare,173,11.83,F
+2021-02,2012,Butter,161,0.94,F
+2021-02,2012,Cabbage,116.8,-9.81,F
+2021-02,2012,Camera & Photographic Equipment,96.9,-15.74,F
+2021-02,2012,Candle (no.),139.7,2.12,F
+2021-02,2012,Carrot,124.3,-19.08,F
+2021-02,2012,Cashewnut,150.9,-4.97,F
+2021-02,2012,Cauliflower,95.4,-15.12,F
+2021-02,2012,Charcoal,148.2,13.13,F
+2021-02,2012,Cheroot (no.),207.2,12.92,F
+2021-02,2012,Chicken,172,15.75,F
+2021-02,2012,Chips (gm),138.3,-21.38,F
+2021-02,2012,Chira,143.7,1.84,F
+2021-02,2012,Cigarettes (no.),209.8,8.2,F
+2021-02,2012,Cinema: New Release(normal Day),172.2,-2.99,F
+2021-02,2012,Clothing (first-hand): Other,148.4,3.7,F
+2021-02,2012,Clothing: Second-hand,128.3,-18.44,F
+2021-02,2012,Club Fees,132.8,0,F
+2021-02,2012,Coal,156,8.11,F
+2021-02,2012,Coconut (no.),228.2,10.14,F
+2021-02,2012,Coconut Oil,270.2,10.78,F
+2021-02,2012,Coconut: Copra,208.7,2.86,F
+2021-02,2012,Coffee: Cups (no.),161.4,1.51,F
+2021-02,2012,Coffee: Powder (gm),137.3,-0.29,F
+2021-02,2012,Coke,153.3,6.38,F
+2021-02,2012,Cold Beverages: Bottled/canned (litre),145.9,4.96,F
+2021-02,2012,Cooked Meals Purchased (no.),177,5.73,F
+2021-02,2012,Country Liquor (litre),182.4,11.63,F
+2021-02,2012,Curd,159,4.19,F
+2021-02,2012,Curry Powder (gm),166.3,5.92,F
+2021-02,2012,Dates,203.7,15.87,F
+2021-02,2012,Dhania (gm),170.9,5.36,F
+2021-02,2012,Dhoti (no.),159.8,5.06,F
+2021-02,2012,Diesel (litre) [excl. Conveyance],142.9,20.69,F
+2021-02,2012,Diesel for Vehicle,173.8,22.57,F
+2021-02,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),183,6.09,F
+2021-02,2012,Domestic Servant/cook,168,3.13,F
+2021-02,2012,Dry Chillies (gm),194.4,13.68,F
+2021-02,2012,Dung Cake,152.2,3.54,F
+2021-02,2012,Earthenware,169,-3.87,F
+2021-02,2012,Eggs (no.),168.8,11.2,F
+2021-02,2012,Electric Batteries,142.7,2.66,F
+2021-02,2012,Electric Fan,123.4,1.65,F
+2021-02,2012,Electricity (std. Unit),137.9,3.22,F
+2021-02,2012,Family Planning Devices,168.6,1.51,F
+2021-02,2012,Firewood and Chips,152.7,1.73,F
+2021-02,2012,Flower (fresh): All Purposes,197,2.13,F
+2021-02,2012,Foreign/refined Liquor or Wine (litre),187.1,21.34,F
+2021-02,2012,Fruit Juice and Shake (litre),139.9,4.25,F
+2021-02,2012,Garlic (gm),201.3,-23.95,F
+2021-02,2012,Ghee,152.9,0.13,F
+2021-02,2012,Ginger (gm),129.9,-29.59,F
+2021-02,2012,Glassware,132.1,0.15,F
+2021-02,2012,Goat Meat/mutton,212.5,18.91,F
+2021-02,2012,Gold,162.6,16.64,F
+2021-02,2012,Goods for Recreation and Hobbies,180.9,6.29,F
+2021-02,2012,Gram Products,155.2,7.7,F
+2021-02,2012,Gram: Split,141.1,6.97,F
+2021-02,2012,Gram: Whole,142.9,8.09,F
+2021-02,2012,Grapes,134.8,1.89,F
+2021-02,2012,Green Chillies,150.5,14.8,F
+2021-02,2012,Green Coconut (no.),215.3,4.82,F
+2021-02,2012,Grinding Charges,154.1,5.98,F
+2021-02,2012,Groundnut Oil,150.6,23.04,F
+2021-02,2012,Groundnut,141.3,5.76,F
+2021-02,2012,Guava,180,6.89,F
+2021-02,2012,Gur,134.7,2.36,F
+2021-02,2012,Honey,162.2,5.6,F
+2021-02,2012,Hookah Tobacco (gm),150.3,4.96,F
+2021-02,2012,Horse Cart Fare,126,-16.39,F
+2021-02,2012,Hospital & Nursing Home Charges,181.7,5.27,F
+2021-02,2012,Hotel Lodging Charges,139.4,5.29,F
+2021-02,2012,Ice-cream,130.7,8.37,F
+2021-02,2012,Ingredients for Pan (gm),186.1,7.82,F
+2021-02,2012,Internet Expenses,128.7,4.29,F
+2021-02,2012,Inverter,130.4,1.4,F
+2021-02,2012,Jackfruit,,,F
+2021-02,2012,Jeera (gm),134.6,-0.15,F
+2021-02,2012,Jowar & its Products,175.3,0.52,F
+2021-02,2012,Kerosene – Other Sources (litre),152.1,13.42,F
+2021-02,2012,Kerosene – PDS (litre),209.2,-5.04,F
+2021-02,2012,Kharbooza,,,F
+2021-02,2012,Khesari,181.6,17.31,F
+2021-02,2012,Knitting Wool (gm),157.1,11.5,F
+2021-02,2012,Kurta-pajama Suits: Females (no.),152.7,4.23,F
+2021-02,2012,Kurta-pajama Suits: Males (no.),153.8,4.7,F
+2021-02,2012,LPG [excl. Conveyance],167.8,7.98,F
+2021-02,2012,Lady's Finger,190.3,2.59,F
+2021-02,2012,Leaf Tobacco (gm),171.7,5.08,F
+2021-02,2012,Leechi,,,F
+2021-02,2012,Lemon (no.),118.1,7.56,F
+2021-02,2012,Library Charges,,,F
+2021-02,2012,Lighter (bidi/ Cigarette/ Gas Stove),119.9,-1.48,F
+2021-02,2012,Lock,163,6.82,F
+2021-02,2012,Lubricants & Other Fuels for Vehicle,135.4,4.07,F
+2021-02,2012,Lungi (no.),150.9,5.45,F
+2021-02,2012,Maida,149.5,0.27,F
+2021-02,2012,Maize & Products,151.8,-4.89,F
+2021-02,2012,Mango,,,F
+2021-02,2012,Masur,152.5,12.96,F
+2021-02,2012,Matches (box),117.9,0.17,F
+2021-02,2012,Medicine (non-institutional),157,6.88,F
+2021-02,2012,Milk: Condensed/ Powder,152.8,4.3,F
+2021-02,2012,Milk: Liquid (litre),154.8,2.58,F
+2021-02,2012,Mineral Water (litre),117.4,-0.51,F
+2021-02,2012,Mobile Handset,111.5,6.9,F
+2021-02,2012,Monthly Charges for Cable Tv Connection,153.2,8.58,F
+2021-02,2012,Monthly Maintainance Charges,138.3,8.98,F
+2021-02,2012,Moong,160.8,13.08,F
+2021-02,2012,Mosquito Net (no.),139.8,0.5,F
+2021-02,2012,Muri,146.7,7,F
+2021-02,2012,Mustard Oil,156.7,25.56,F
+2021-02,2012,Oilseeds (gm),160.9,10.58,F
+2021-02,2012,Onion,317.6,2.45,F
+2021-02,2012,Other Cereals,230.2,23.1,F
+2021-02,2012,Other Consumer Services Excluding Conveyance,161.8,2.15,F
+2021-02,2012,Other Conveyance Expenses,153.8,12.02,F
+2021-02,2012,Other Cooking/ Household Appliances,125.9,5.36,F
+2021-02,2012,Other Crockery & Utensils,145.1,1.9,F
+2021-02,2012,Other Dry Fruits,168.3,2,F
+2021-02,2012,Other Durables (specify)….,159.2,1.79,F
+2021-02,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),146.3,6.63,F
+2021-02,2012,Other Entertainment,128.5,-3.89,F
+2021-02,2012,Other Footwear,143.6,4.13,F
+2021-02,2012,Other Fresh Fruits,148.4,13.89,F
+2021-02,2012,Other Fuel,155.1,10,F
+2021-02,2012,Other Intoxicants,180.3,15.36,F
+2021-02,2012,Other Leather Footwear,148.2,-1.79,F
+2021-02,2012,Other Medical Expenses (non-institutional),138.9,3.58,F
+2021-02,2012,Other Metal Utensils,158.7,4.34,F
+2021-02,2012,Other Milk Products,144,0.28,F
+2021-02,2012,Other Nuts,165.9,-4.49,F
+2021-02,2012,Other Ornaments,161.8,18.19,F
+2021-02,2012,Other Packaged Processed Food,141.1,1.15,F
+2021-02,2012,Other Petty Articles,172.8,8.41,F
+2021-02,2012,Other Pulse Products,158.5,5.25,F
+2021-02,2012,Other Pulses,163.3,12.7,F
+2021-02,2012,Other Rice Products,157.6,4.03,F
+2021-02,2012,Other Tobacco Products,178.7,2.64,F
+2021-02,2012,Other Vegetables,165.7,2.22,F
+2021-02,2012,Other Washing Requisites,142.8,3.48,F
+2021-02,2012,PC/ Laptop/ Other Peripherals Incl. Software,125.9,5.44,F
+2021-02,2012,Palak/other Leafy Vegetables,140.7,-1.81,F
+2021-02,2012,Pan: Finished (no.),185.4,7.35,F
+2021-02,2012,Pan: Leaf (no.),203.6,14.32,F
+2021-02,2012,Papaya,143.4,-14.74,F
+2021-02,2012,Pears/nashpati,,,F
+2021-02,2012,Peas (pulses),225.5,19.95,F
+2021-02,2012,Peas (vegetables),92.9,-26.27,F
+2021-02,2012,Petrol for Vehicle,126.1,20.67,F
+2021-02,2012,Photography,137.9,5.75,F
+2021-02,2012,Pickles (gm),144.8,4.17,F
+2021-02,2012,Pineapple (no.),153.6,-3.64,F
+2021-02,2012,Pork,192.8,14.76,F
+2021-02,2012,Porter Charges,184.3,19.91,F
+2021-02,2012,Potato,125.1,-21.27,F
+2021-02,2012,Pressure Cooker/ Pressure Pan,155.8,18.84,F
+2021-02,2012,Private Tutor/ Coaching Centre,160.8,2.68,F
+2021-02,2012,Radish,118.1,-8.73,F
+2021-02,2012,Ragi & its Products,193,2.33,F
+2021-02,2012,Railway Fare,149.7,2.04,F
+2021-02,2012,Refrigerator,133.8,3.16,F
+2021-02,2012,Residential Building & Land (cost of Repairs Only),182.5,9.15,F
+2021-02,2012,Rice – Other Sources,146.1,0.9,F
+2021-02,2012,Rice – PDS,84.3,9.48,F
+2021-02,2012,Rickshaw (hand Drawn & Cycle) Fare,169.1,6.69,F
+2021-02,2012,Rubber / Pvc Footwear,150.5,5.99,F
+2021-02,2012,Salt,146.2,5.71,F
+2021-02,2012,Sanitary Napkins,141.5,3.89,F
+2021-02,2012,Saree (no.),159.9,4.31,F
+2021-02,2012,School/college Uniform: Boys,150.2,3.8,F
+2021-02,2012,School/college Uniform: Girls,149.9,3.31,F
+2021-02,2012,Sewing Machine,144.7,11.74,F
+2021-02,2012,Silver,134.6,46.94,F
+2021-02,2012,Singara,,,F
+2021-02,2012,Small Millets & their Products,155.6,-11.14,F
+2021-02,2012,Snuff (gm),201.7,20.85,F
+2021-02,2012,Spectacles,152.9,4.16,F
+2021-02,2012,Stainless Steel Utensils,163.8,0.43,F
+2021-02,2012,Sugar - Other Sources,108,-1.46,F
+2021-02,2012,Sugar - PDS,161,6.83,F
+2021-02,2012,Sweeper,171.1,2.95,F
+2021-02,2012,Tailor,180.4,4.04,F
+2021-02,2012,Tamarind (gm),226.3,24.14,F
+2021-02,2012,Tea: Cups (no.),154.7,4.53,F
+2021-02,2012,Tea: Leaf (gm),160,17.47,F
+2021-02,2012,Telephone Charges: Landline*,116,2.75,F
+2021-02,2012,Telephone Charges: Mobile,141.3,4.36,F
+2021-02,2012,Television,147.9,7.88,F
+2021-02,2012,Toddy (litre),201.2,22.53,F
+2021-02,2012,Toilet Soap,141,3.15,F
+2021-02,2012,Tomato,115.9,4.04,F
+2021-02,2012,Torch,138,1.25,F
+2021-02,2012,Turmeric (gm),140,5.26,F
+2021-02,2012,Tyres & Tubes,129.9,6.74,F
+2021-02,2012,Urd,179.7,10.11,F
+2021-02,2012,VCD/ DVD Hire (incl. Instrument),158.5,3.73,F
+2021-02,2012,VCR/VCD/DVD Player,106.8,-9.41,F
+2021-02,2012,Walnut,202.5,2.43,F
+2021-02,2012,Washing Machine,133.9,2.14,F
+2021-02,2012,Washing Soap/soda/powder,139.7,2.65,F
+2021-02,2012,Watch Man Charges (other Cons Taxes),156.7,7.26,F
+2021-02,2012,Water Charges,135.8,1.27,F
+2021-02,2012,Water Purifier,133.7,4.37,F
+2021-02,2012,Watermelon,148.4,-4.87,F
+2021-02,2012,Wheat/ Atta – Other Sources,147.1,-5.4,F
+2021-02,2012,Wheat/ Atta – PDS,76.4,3.95,F
+2021-03,2012,"Air Conditioner, Air Cooler",134.8,,F
+2021-03,2012,"Almirah, Dressing Table",143.8,,F
+2021-03,2012,"Arhar, Tur",157.9,,F
+2021-03,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",151.3,,F
+2021-03,2012,"Barber, Beautician, etc.",188.3,,F
+2021-03,2012,"Beans, Barbati",151.6,,F
+2021-03,2012,"Bed Sheet, Bed Cover (no.)",151.6,,F
+2021-03,2012,"Biscuits, Chocolates, etc.",131.8,,F
+2021-03,2012,"Books, Journals: First Hand",151,,F
+2021-03,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",153.6,,F
+2021-03,2012,"CD, DVD, Audio/video Cassette, etc",123.4,,F
+2021-03,2012,"Candy, Misri",154.1,,F
+2021-03,2012,"Carpet, Daree & Other Floor Mattings",209,,F
+2021-03,2012,"Cereal Substitutes: Tapioca, etc.",158.3,,F
+2021-03,2012,"Chair, Stool, Bench, Table",159.9,,F
+2021-03,2012,"Clock, Watch",136,,F
+2021-03,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",149.9,,F
+2021-03,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",160.5,,F
+2021-03,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",140.2,,F
+2021-03,2012,"Coat, Jacket, Sweater, Windcheater (no.)",149.3,,F
+2021-03,2012,"Coir, Rope, etc.",157.9,,F
+2021-03,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",161.8,,F
+2021-03,2012,"Electric Bulb, Tubelight",128.8,,F
+2021-03,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",137.2,,F
+2021-03,2012,"Fish, Prawn",183.2,,F
+2021-03,2012,"Frocks, Skirts, etc. (no.)",165.2,,F
+2021-03,2012,"Gamchha, Towel, Handkerchief (no.)",154.2,,F
+2021-03,2012,"Gourd, Pumpkin",149,,F
+2021-03,2012,"Hair Oil, Shampoo, Hair Cream",139.6,,F
+2021-03,2012,"Headwear, Belts, Ties (no.)",154.4,,F
+2021-03,2012,"House Rent, Garage Rent",159.6,,F
+2021-03,2012,"Incense (agarbatti), Room Freshener",146.9,,F
+2021-03,2012,"Leather Boots, Shoes",147.2,,F
+2021-03,2012,"Leather Sandals, Chappals, etc.",146.5,,F
+2021-03,2012,"Mosquito Repellent, Insecticide, Acid etc.",138.9,,F
+2021-03,2012,"Motor Car, Jeep",136.1,,F
+2021-03,2012,"Motor Cycle, Scooter",155.9,,F
+2021-03,2012,"Newspapers, Periodicals",164.8,,F
+2021-03,2012,"Orange, Mausami (no.)",152.2,,F
+2021-03,2012,"Other Beverages: Cocoa, Chocolate, etc.",145.1,,F
+2021-03,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",138.3,,F
+2021-03,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",193.2,,F
+2021-03,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",166.8,,F
+2021-03,2012,"Parwal/patal, Kundru",229.7,,F
+2021-03,2012,"Pillow, Quilt, Mattress (no.)",152.5,,F
+2021-03,2012,"Plugs, Switches & Other Electrical Fittings",161.9,,F
+2021-03,2012,"Powder, Snow, Cream, Lotion and Perfume",160.5,,F
+2021-03,2012,"Prepared Sweets, Cake, Pastry",164,,F
+2021-03,2012,"Radio, Tape Recorder, 2-in-1",138.3,,F
+2021-03,2012,"Raisin, Kishmish, Monacca, etc.",133.2,,F
+2021-03,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",167.5,,F
+2021-03,2012,"Rug, Blanket (no.)",162,,F
+2021-03,2012,"Sauce, Jam, Jelly (gm)",145.1,,F
+2021-03,2012,"School Bus, Van, etc.",162.3,,F
+2021-03,2012,"Sewai, Noodles",144.8,,F
+2021-03,2012,"Shaving Blades, Shaving Stick, Razor",137.6,,F
+2021-03,2012,"Shaving Cream, Aftershave Lotion",140.4,,F
+2021-03,2012,"Shawl, Chaddar (no.)",157.6,,F
+2021-03,2012,"Shirts, T-shirts (no.)",156.6,,F
+2021-03,2012,"Shorts, Trousers, Bermudas (no.)",150.9,,F
+2021-03,2012,"Sports Goods, Toys, etc.",154.2,,F
+2021-03,2012,"Stationery, Photocopying Charges",146.8,,F
+2021-03,2012,"Steamer, Boat Fare",185.4,,F
+2021-03,2012,"Stove, Gas Burner",144.2,,F
+2021-03,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",147.9,,F
+2021-03,2012,"Suji, Rawa",152.5,,F
+2021-03,2012,"Taxi, Auto-rickshaw Fare",160.3,,F
+2021-03,2012,"Toothpaste, Toothbrush, Comb, etc.",148,,F
+2021-03,2012,"Tuition and Other Fees (school, College, Etc.)",163.9,,F
+2021-03,2012,"Umbrella, Raincoat",148.3,,F
+2021-03,2012,"Vanaspati, Margarine",158.9,,F
+2021-03,2012,"Washerman, Laundry, Ironing",186.1,,F
+2021-03,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",149.8,,F
+2021-03,2012,"Zarda, Kimam, Surti (gm)",176.8,,F
+2021-03,2012,Air Fare (normal): Economy Class(adult),161.1,,F
+2021-03,2012,Any Other Personal Goods,205.5,,F
+2021-03,2012,Apple,132.3,,F
+2021-03,2012,Baby Food,151.4,,F
+2021-03,2012,Bajra & its Products,157.2,,F
+2021-03,2012,Banana (no.),132.8,,F
+2021-03,2012,Bathroom and Sanitary Equipment,159.2,,F
+2021-03,2012,Bedding: Others,159.9,,F
+2021-03,2012,Bedstead,177,,F
+2021-03,2012,Beef/ Buffalo Meat,193.5,,F
+2021-03,2012,Beer (litre),189.5,,F
+2021-03,2012,Berries,127,,F
+2021-03,2012,Besan,146.4,,F
+2021-03,2012,Bicycle(without Accessories),137.4,,F
+2021-03,2012,Bidi (no.),191.3,,F
+2021-03,2012,Black Pepper (gm),143.8,,F
+2021-03,2012,Bread (bakery),170.4,,F
+2021-03,2012,Brinjal,133.1,,F
+2021-03,2012,Bus/tram Fare,173.6,,F
+2021-03,2012,Butter,161.6,,F
+2021-03,2012,Cabbage,110.4,,F
+2021-03,2012,Camera & Photographic Equipment,95.4,,F
+2021-03,2012,Candle (no.),139.5,,F
+2021-03,2012,Carrot,122.6,,F
+2021-03,2012,Cashewnut,150.4,,F
+2021-03,2012,Cauliflower,98.6,,F
+2021-03,2012,Charcoal,152.9,,F
+2021-03,2012,Cheroot (no.),207.9,,F
+2021-03,2012,Chicken,186.6,,F
+2021-03,2012,Chips (gm),149.6,,F
+2021-03,2012,Chira,143,,F
+2021-03,2012,Cigarettes (no.),209.7,,F
+2021-03,2012,Cinema: New Release(normal Day),174.3,,F
+2021-03,2012,Clothing (first-hand): Other,149.7,,F
+2021-03,2012,Clothing: Second-hand,127.3,,F
+2021-03,2012,Club Fees,133,,F
+2021-03,2012,Coal,154.5,,F
+2021-03,2012,Coconut (no.),232.7,,F
+2021-03,2012,Coconut Oil,275.3,,F
+2021-03,2012,Coconut: Copra,208.1,,F
+2021-03,2012,Coffee: Cups (no.),161.6,,F
+2021-03,2012,Coffee: Powder (gm),135.5,,F
+2021-03,2012,Coke,153.6,,F
+2021-03,2012,Cold Beverages: Bottled/canned (litre),146.6,,F
+2021-03,2012,Cooked Meals Purchased (no.),178,,F
+2021-03,2012,Country Liquor (litre),181.5,,F
+2021-03,2012,Curd,158.8,,F
+2021-03,2012,Curry Powder (gm),166.7,,F
+2021-03,2012,Dates,199.5,,F
+2021-03,2012,Dhania (gm),170.1,,F
+2021-03,2012,Dhoti (no.),159.9,,F
+2021-03,2012,Diesel (litre) [excl. Conveyance],146.9,,F
+2021-03,2012,Diesel for Vehicle,179.2,,F
+2021-03,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),183.1,,F
+2021-03,2012,Domestic Servant/cook,169.6,,F
+2021-03,2012,Dry Chillies (gm),194.8,,F
+2021-03,2012,Dung Cake,151.1,,F
+2021-03,2012,Earthenware,170.4,,F
+2021-03,2012,Eggs (no.),163.8,,F
+2021-03,2012,Electric Batteries,141.4,,F
+2021-03,2012,Electric Fan,123.8,,F
+2021-03,2012,Electricity (std. Unit),138.1,,F
+2021-03,2012,Family Planning Devices,168.6,,F
+2021-03,2012,Firewood and Chips,151.7,,F
+2021-03,2012,Flower (fresh): All Purposes,190.4,,F
+2021-03,2012,Foreign/refined Liquor or Wine (litre),187.1,,F
+2021-03,2012,Fruit Juice and Shake (litre),140.7,,F
+2021-03,2012,Garlic (gm),185.2,,F
+2021-03,2012,Ghee,153.6,,F
+2021-03,2012,Ginger (gm),126.7,,F
+2021-03,2012,Glassware,132.1,,F
+2021-03,2012,Goat Meat/mutton,214.7,,F
+2021-03,2012,Gold,154.7,,F
+2021-03,2012,Goods for Recreation and Hobbies,182.9,,F
+2021-03,2012,Gram Products,154.2,,F
+2021-03,2012,Gram: Split,140.8,,F
+2021-03,2012,Gram: Whole,143.1,,F
+2021-03,2012,Grapes,118.9,,F
+2021-03,2012,Green Chillies,147.2,,F
+2021-03,2012,Green Coconut (no.),220.5,,F
+2021-03,2012,Grinding Charges,154,,F
+2021-03,2012,Groundnut Oil,155.9,,F
+2021-03,2012,Groundnut,141.9,,F
+2021-03,2012,Guava,185.6,,F
+2021-03,2012,Gur,133.8,,F
+2021-03,2012,Honey,142.3,,F
+2021-03,2012,Hookah Tobacco (gm),152.2,,F
+2021-03,2012,Horse Cart Fare,134.6,,F
+2021-03,2012,Hospital & Nursing Home Charges,181.8,,F
+2021-03,2012,Hotel Lodging Charges,140.5,,F
+2021-03,2012,Ice-cream,131.5,,F
+2021-03,2012,Ingredients for Pan (gm),187.1,,F
+2021-03,2012,Internet Expenses,128.7,,F
+2021-03,2012,Inverter,131.8,,F
+2021-03,2012,Jackfruit,,,F
+2021-03,2012,Jeera (gm),134.2,,F
+2021-03,2012,Jowar & its Products,171.6,,F
+2021-03,2012,Kerosene – Other Sources (litre),155,,F
+2021-03,2012,Kerosene – PDS (litre),220.4,,F
+2021-03,2012,Kharbooza,185.4,,F
+2021-03,2012,Khesari,179.3,,F
+2021-03,2012,Knitting Wool (gm),157.3,,F
+2021-03,2012,Kurta-pajama Suits: Females (no.),153,,F
+2021-03,2012,Kurta-pajama Suits: Males (no.),154.6,,F
+2021-03,2012,LPG [excl. Conveyance],183.5,,F
+2021-03,2012,Lady's Finger,187.9,,F
+2021-03,2012,Leaf Tobacco (gm),172.8,,F
+2021-03,2012,Leechi,,,F
+2021-03,2012,Lemon (no.),133.3,,F
+2021-03,2012,Library Charges,,,F
+2021-03,2012,Lighter (bidi/ Cigarette/ Gas Stove),119.9,,F
+2021-03,2012,Lock,163,,F
+2021-03,2012,Lubricants & Other Fuels for Vehicle,136.2,,F
+2021-03,2012,Lungi (no.),151.7,,F
+2021-03,2012,Maida,148.8,,F
+2021-03,2012,Maize & Products,151.6,,F
+2021-03,2012,Mango,,,F
+2021-03,2012,Masur,153,,F
+2021-03,2012,Matches (box),117.9,,F
+2021-03,2012,Medicine (non-institutional),157.4,,F
+2021-03,2012,Milk: Condensed/ Powder,153.1,,F
+2021-03,2012,Milk: Liquid (litre),154.9,,F
+2021-03,2012,Mineral Water (litre),117.4,,F
+2021-03,2012,Mobile Handset,111.4,,F
+2021-03,2012,Monthly Charges for Cable Tv Connection,154,,F
+2021-03,2012,Monthly Maintainance Charges,134.4,,F
+2021-03,2012,Moong,161.8,,F
+2021-03,2012,Mosquito Net (no.),139.8,,F
+2021-03,2012,Muri,145.7,,F
+2021-03,2012,Mustard Oil,159.8,,F
+2021-03,2012,Oilseeds (gm),161.8,,F
+2021-03,2012,Onion,256.2,,F
+2021-03,2012,Other Cereals,229.9,,F
+2021-03,2012,Other Consumer Services Excluding Conveyance,162.9,,F
+2021-03,2012,Other Conveyance Expenses,154.3,,F
+2021-03,2012,Other Cooking/ Household Appliances,124.9,,F
+2021-03,2012,Other Crockery & Utensils,145.4,,F
+2021-03,2012,Other Dry Fruits,167.2,,F
+2021-03,2012,Other Durables (specify)….,160.2,,F
+2021-03,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),147.4,,F
+2021-03,2012,Other Entertainment,129.8,,F
+2021-03,2012,Other Footwear,144,,F
+2021-03,2012,Other Fresh Fruits,151.1,,F
+2021-03,2012,Other Fuel,155.8,,F
+2021-03,2012,Other Intoxicants,181,,F
+2021-03,2012,Other Leather Footwear,147.6,,F
+2021-03,2012,Other Medical Expenses (non-institutional),139.3,,F
+2021-03,2012,Other Metal Utensils,159.8,,F
+2021-03,2012,Other Milk Products,144.1,,F
+2021-03,2012,Other Nuts,158.9,,F
+2021-03,2012,Other Ornaments,159.5,,F
+2021-03,2012,Other Packaged Processed Food,141.6,,F
+2021-03,2012,Other Petty Articles,172.7,,F
+2021-03,2012,Other Pulse Products,159.6,,F
+2021-03,2012,Other Pulses,164.5,,F
+2021-03,2012,Other Rice Products,156.2,,F
+2021-03,2012,Other Tobacco Products,178.9,,F
+2021-03,2012,Other Vegetables,165.6,,F
+2021-03,2012,Other Washing Requisites,142.7,,F
+2021-03,2012,PC/ Laptop/ Other Peripherals Incl. Software,126.8,,F
+2021-03,2012,Palak/other Leafy Vegetables,142,,F
+2021-03,2012,Pan: Finished (no.),186.1,,F
+2021-03,2012,Pan: Leaf (no.),198.3,,F
+2021-03,2012,Papaya,150.8,,F
+2021-03,2012,Pears/nashpati,,,F
+2021-03,2012,Peas (pulses),222.8,,F
+2021-03,2012,Peas (vegetables),111.1,,F
+2021-03,2012,Petrol for Vehicle,129.3,,F
+2021-03,2012,Photography,138.5,,F
+2021-03,2012,Pickles (gm),145.5,,F
+2021-03,2012,Pineapple (no.),153.3,,F
+2021-03,2012,Pork,197.5,,F
+2021-03,2012,Porter Charges,184.3,,F
+2021-03,2012,Potato,113.6,,F
+2021-03,2012,Pressure Cooker/ Pressure Pan,155.2,,F
+2021-03,2012,Private Tutor/ Coaching Centre,160.2,,F
+2021-03,2012,Radish,127.2,,F
+2021-03,2012,Ragi & its Products,194.3,,F
+2021-03,2012,Railway Fare,150.4,,F
+2021-03,2012,Refrigerator,134.9,,F
+2021-03,2012,Residential Building & Land (cost of Repairs Only),183.9,,F
+2021-03,2012,Rice – Other Sources,145.9,,F
+2021-03,2012,Rice – PDS,84.3,,F
+2021-03,2012,Rickshaw (hand Drawn & Cycle) Fare,169.8,,F
+2021-03,2012,Rubber / Pvc Footwear,151.1,,F
+2021-03,2012,Salt,146.6,,F
+2021-03,2012,Sanitary Napkins,141.7,,F
+2021-03,2012,Saree (no.),161.1,,F
+2021-03,2012,School/college Uniform: Boys,150.4,,F
+2021-03,2012,School/college Uniform: Girls,150.6,,F
+2021-03,2012,Sewing Machine,144.8,,F
+2021-03,2012,Silver,132.8,,F
+2021-03,2012,Singara,,,F
+2021-03,2012,Small Millets & their Products,154.9,,F
+2021-03,2012,Snuff (gm),190,,F
+2021-03,2012,Spectacles,153,,F
+2021-03,2012,Stainless Steel Utensils,164,,F
+2021-03,2012,Sugar - Other Sources,107.8,,F
+2021-03,2012,Sugar - PDS,161,,F
+2021-03,2012,Sweeper,171.7,,F
+2021-03,2012,Tailor,181,,F
+2021-03,2012,Tamarind (gm),214.6,,F
+2021-03,2012,Tea: Cups (no.),155.3,,F
+2021-03,2012,Tea: Leaf (gm),161.1,,F
+2021-03,2012,Telephone Charges: Landline*,116.5,,F
+2021-03,2012,Telephone Charges: Mobile,141.1,,F
+2021-03,2012,Television,149.8,,F
+2021-03,2012,Toddy (litre),201.9,,F
+2021-03,2012,Toilet Soap,141.2,,F
+2021-03,2012,Tomato,101.4,,F
+2021-03,2012,Torch,138,,F
+2021-03,2012,Turmeric (gm),139.8,,F
+2021-03,2012,Tyres & Tubes,130.6,,F
+2021-03,2012,Urd,180.5,,F
+2021-03,2012,VCD/ DVD Hire (incl. Instrument),158.5,,F
+2021-03,2012,VCR/VCD/DVD Player,109.4,,F
+2021-03,2012,Walnut,201,,F
+2021-03,2012,Washing Machine,135.6,,F
+2021-03,2012,Washing Soap/soda/powder,139.5,,F
+2021-03,2012,Watch Man Charges (other Cons Taxes),154.9,,F
+2021-03,2012,Water Charges,136.3,,F
+2021-03,2012,Water Purifier,135.2,,F
+2021-03,2012,Watermelon,152.3,,F
+2021-03,2012,Wheat/ Atta – Other Sources,146.8,,F
+2021-03,2012,Wheat/ Atta – PDS,76.4,,F
+2021-04,2012,"Air Conditioner, Air Cooler",135.5,,F
+2021-04,2012,"Almirah, Dressing Table",144.3,,F
+2021-04,2012,"Arhar, Tur",160.5,,F
+2021-04,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",152.1,,F
+2021-04,2012,"Barber, Beautician, etc.",188.9,,F
+2021-04,2012,"Beans, Barbati",157.1,,F
+2021-04,2012,"Bed Sheet, Bed Cover (no.)",152.3,,F
+2021-04,2012,"Biscuits, Chocolates, etc.",131.8,,F
+2021-04,2012,"Books, Journals: First Hand",152.3,,F
+2021-04,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",153.5,,F
+2021-04,2012,"CD, DVD, Audio/video Cassette, etc",124.8,,F
+2021-04,2012,"Candy, Misri",151.9,,F
+2021-04,2012,"Carpet, Daree & Other Floor Mattings",213.1,,F
+2021-04,2012,"Cereal Substitutes: Tapioca, etc.",157.4,,F
+2021-04,2012,"Chair, Stool, Bench, Table",161.5,,F
+2021-04,2012,"Clock, Watch",136.5,,F
+2021-04,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",150.9,,F
+2021-04,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",162.1,,F
+2021-04,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",145.1,,F
+2021-04,2012,"Coat, Jacket, Sweater, Windcheater (no.)",148.6,,F
+2021-04,2012,"Coir, Rope, etc.",158.5,,F
+2021-04,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",162.9,,F
+2021-04,2012,"Electric Bulb, Tubelight",129.4,,F
+2021-04,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",163.8,,F
+2021-04,2012,"Fish, Prawn",185.4,,F
+2021-04,2012,"Frocks, Skirts, etc. (no.)",165.9,,F
+2021-04,2012,"Gamchha, Towel, Handkerchief (no.)",155.2,,F
+2021-04,2012,"Gourd, Pumpkin",142.2,,F
+2021-04,2012,"Hair Oil, Shampoo, Hair Cream",140.1,,F
+2021-04,2012,"Headwear, Belts, Ties (no.)",155.1,,F
+2021-04,2012,"House Rent, Garage Rent",161.2,,F
+2021-04,2012,"Incense (agarbatti), Room Freshener",147.6,,F
+2021-04,2012,"Leather Boots, Shoes",147.8,,F
+2021-04,2012,"Leather Sandals, Chappals, etc.",147.1,,F
+2021-04,2012,"Mosquito Repellent, Insecticide, Acid etc.",139.1,,F
+2021-04,2012,"Motor Car, Jeep",136.5,,F
+2021-04,2012,"Motor Cycle, Scooter",156.3,,F
+2021-04,2012,"Newspapers, Periodicals",165.4,,F
+2021-04,2012,"Orange, Mausami (no.)",172.3,,F
+2021-04,2012,"Other Beverages: Cocoa, Chocolate, etc.",145.3,,F
+2021-04,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",143.2,,F
+2021-04,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",195,,F
+2021-04,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",167.7,,F
+2021-04,2012,"Parwal/patal, Kundru",172.9,,F
+2021-04,2012,"Pillow, Quilt, Mattress (no.)",153.1,,F
+2021-04,2012,"Plugs, Switches & Other Electrical Fittings",163.2,,F
+2021-04,2012,"Powder, Snow, Cream, Lotion and Perfume",161.1,,F
+2021-04,2012,"Prepared Sweets, Cake, Pastry",164.9,,F
+2021-04,2012,"Radio, Tape Recorder, 2-in-1",138.7,,F
+2021-04,2012,"Raisin, Kishmish, Monacca, etc.",135.2,,F
+2021-04,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",175.9,,F
+2021-04,2012,"Rug, Blanket (no.)",161.5,,F
+2021-04,2012,"Sauce, Jam, Jelly (gm)",145.5,,F
+2021-04,2012,"School Bus, Van, etc.",163.3,,F
+2021-04,2012,"Sewai, Noodles",145.2,,F
+2021-04,2012,"Shaving Blades, Shaving Stick, Razor",138.2,,F
+2021-04,2012,"Shaving Cream, Aftershave Lotion",141.6,,F
+2021-04,2012,"Shawl, Chaddar (no.)",158.5,,F
+2021-04,2012,"Shirts, T-shirts (no.)",157.3,,F
+2021-04,2012,"Shorts, Trousers, Bermudas (no.)",152,,F
+2021-04,2012,"Sports Goods, Toys, etc.",155.1,,F
+2021-04,2012,"Stationery, Photocopying Charges",147.2,,F
+2021-04,2012,"Steamer, Boat Fare",200.9,,F
+2021-04,2012,"Stove, Gas Burner",128.8,,F
+2021-04,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",149.3,,F
+2021-04,2012,"Suji, Rawa",152.9,,F
+2021-04,2012,"Taxi, Auto-rickshaw Fare",161.2,,F
+2021-04,2012,"Toothpaste, Toothbrush, Comb, etc.",148.4,,F
+2021-04,2012,"Tuition and Other Fees (school, College, Etc.)",163.7,,F
+2021-04,2012,"Umbrella, Raincoat",149.8,,F
+2021-04,2012,"Vanaspati, Margarine",166,,F
+2021-04,2012,"Washerman, Laundry, Ironing",187.1,,F
+2021-04,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",150.6,,F
+2021-04,2012,"Zarda, Kimam, Surti (gm)",179.5,,F
+2021-04,2012,Air Fare (normal): Economy Class(adult),177.2,,F
+2021-04,2012,Any Other Personal Goods,213.2,,F
+2021-04,2012,Apple,144,,F
+2021-04,2012,Baby Food,151.8,,F
+2021-04,2012,Bajra & its Products,157.4,,F
+2021-04,2012,Banana (no.),140.6,,F
+2021-04,2012,Bathroom and Sanitary Equipment,159.4,,F
+2021-04,2012,Bedding: Others,160.9,,F
+2021-04,2012,Bedstead,178.6,,F
+2021-04,2012,Beef/ Buffalo Meat,202.8,,F
+2021-04,2012,Beer (litre),188.5,,F
+2021-04,2012,Berries,,,F
+2021-04,2012,Besan,148,,F
+2021-04,2012,Bicycle(without Accessories),138.3,,F
+2021-04,2012,Bidi (no.),192.2,,F
+2021-04,2012,Black Pepper (gm),145.8,,F
+2021-04,2012,Bread (bakery),170.7,,F
+2021-04,2012,Brinjal,138.1,,F
+2021-04,2012,Bus/tram Fare,174.1,,F
+2021-04,2012,Butter,161.6,,F
+2021-04,2012,Cabbage,118.9,,F
+2021-04,2012,Camera & Photographic Equipment,116.6,,F
+2021-04,2012,Candle (no.),140.1,,F
+2021-04,2012,Carrot,132.8,,F
+2021-04,2012,Cashewnut,150.5,,F
+2021-04,2012,Cauliflower,116.8,,F
+2021-04,2012,Charcoal,153.1,,F
+2021-04,2012,Cheroot (no.),207.8,,F
+2021-04,2012,Chicken,197.6,,F
+2021-04,2012,Chips (gm),149.6,,F
+2021-04,2012,Chira,143.5,,F
+2021-04,2012,Cigarettes (no.),209.9,,F
+2021-04,2012,Cinema: New Release(normal Day),175.2,,F
+2021-04,2012,Clothing (first-hand): Other,150.9,,F
+2021-04,2012,Clothing: Second-hand,130.9,,F
+2021-04,2012,Club Fees,134.9,,F
+2021-04,2012,Coal,156,,F
+2021-04,2012,Coconut (no.),235.3,,F
+2021-04,2012,Coconut Oil,280.2,,F
+2021-04,2012,Coconut: Copra,210.1,,F
+2021-04,2012,Coffee: Cups (no.),161.7,,F
+2021-04,2012,Coffee: Powder (gm),135.9,,F
+2021-04,2012,Coke,154.2,,F
+2021-04,2012,Cold Beverages: Bottled/canned (litre),147.2,,F
+2021-04,2012,Cooked Meals Purchased (no.),178.4,,F
+2021-04,2012,Country Liquor (litre),183,,F
+2021-04,2012,Curd,159.1,,F
+2021-04,2012,Curry Powder (gm),167.6,,F
+2021-04,2012,Dates,202.4,,F
+2021-04,2012,Dhania (gm),170.6,,F
+2021-04,2012,Dhoti (no.),161.4,,F
+2021-04,2012,Diesel (litre) [excl. Conveyance],146.2,,F
+2021-04,2012,Diesel for Vehicle,178.1,,F
+2021-04,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),183.4,,F
+2021-04,2012,Domestic Servant/cook,169.7,,F
+2021-04,2012,Dry Chillies (gm),195.5,,F
+2021-04,2012,Dung Cake,152,,F
+2021-04,2012,Earthenware,174.6,,F
+2021-04,2012,Eggs (no.),164.6,,F
+2021-04,2012,Electric Batteries,143.2,,F
+2021-04,2012,Electric Fan,124.7,,F
+2021-04,2012,Electricity (std. Unit),138.7,,F
+2021-04,2012,Family Planning Devices,168.6,,F
+2021-04,2012,Firewood and Chips,150.9,,F
+2021-04,2012,Flower (fresh): All Purposes,187.8,,F
+2021-04,2012,Foreign/refined Liquor or Wine (litre),187.1,,F
+2021-04,2012,Fruit Juice and Shake (litre),141.7,,F
+2021-04,2012,Garlic (gm),176.4,,F
+2021-04,2012,Ghee,154.4,,F
+2021-04,2012,Ginger (gm),129.3,,F
+2021-04,2012,Glassware,133.7,,F
+2021-04,2012,Goat Meat/mutton,217.1,,F
+2021-04,2012,Gold,158.9,,F
+2021-04,2012,Goods for Recreation and Hobbies,183.7,,F
+2021-04,2012,Gram Products,153.1,,F
+2021-04,2012,Gram: Split,143.5,,F
+2021-04,2012,Gram: Whole,145.5,,F
+2021-04,2012,Grapes,122.6,,F
+2021-04,2012,Green Chillies,148.2,,F
+2021-04,2012,Green Coconut (no.),224.2,,F
+2021-04,2012,Grinding Charges,154.4,,F
+2021-04,2012,Groundnut Oil,161.5,,F
+2021-04,2012,Groundnut,144,,F
+2021-04,2012,Guava,202.3,,F
+2021-04,2012,Gur,134.5,,F
+2021-04,2012,Honey,142.5,,F
+2021-04,2012,Hookah Tobacco (gm),153.8,,F
+2021-04,2012,Horse Cart Fare,126,,F
+2021-04,2012,Hospital & Nursing Home Charges,182.7,,F
+2021-04,2012,Hotel Lodging Charges,141.7,,F
+2021-04,2012,Ice-cream,131,,F
+2021-04,2012,Ingredients for Pan (gm),189.4,,F
+2021-04,2012,Internet Expenses,130.4,,F
+2021-04,2012,Inverter,133.1,,F
+2021-04,2012,Jackfruit,,,F
+2021-04,2012,Jeera (gm),134.2,,F
+2021-04,2012,Jowar & its Products,167.8,,F
+2021-04,2012,Kerosene – Other Sources (litre),157.1,,F
+2021-04,2012,Kerosene – PDS (litre),228.7,,F
+2021-04,2012,Kharbooza,173.7,,F
+2021-04,2012,Khesari,178.6,,F
+2021-04,2012,Knitting Wool (gm),161.1,,F
+2021-04,2012,Kurta-pajama Suits: Females (no.),153.7,,F
+2021-04,2012,Kurta-pajama Suits: Males (no.),157.1,,F
+2021-04,2012,LPG [excl. Conveyance],182.4,,F
+2021-04,2012,Lady's Finger,160.8,,F
+2021-04,2012,Leaf Tobacco (gm),174.3,,F
+2021-04,2012,Leechi,,,F
+2021-04,2012,Lemon (no.),162.5,,F
+2021-04,2012,Library Charges,,,F
+2021-04,2012,Lighter (bidi/ Cigarette/ Gas Stove),120,,F
+2021-04,2012,Lock,163.3,,F
+2021-04,2012,Lubricants & Other Fuels for Vehicle,136.3,,F
+2021-04,2012,Lungi (no.),152.6,,F
+2021-04,2012,Maida,148.8,,F
+2021-04,2012,Maize & Products,152.8,,F
+2021-04,2012,Mango,197.1,,F
+2021-04,2012,Masur,155,,F
+2021-04,2012,Matches (box),118.4,,F
+2021-04,2012,Medicine (non-institutional),158.1,,F
+2021-04,2012,Milk: Condensed/ Powder,152.6,,F
+2021-04,2012,Milk: Liquid (litre),155.4,,F
+2021-04,2012,Mineral Water (litre),117.4,,F
+2021-04,2012,Mobile Handset,112.3,,F
+2021-04,2012,Monthly Charges for Cable Tv Connection,154.4,,F
+2021-04,2012,Monthly Maintainance Charges,134.4,,F
+2021-04,2012,Moong,163.4,,F
+2021-04,2012,Mosquito Net (no.),140.7,,F
+2021-04,2012,Muri,146,,F
+2021-04,2012,Mustard Oil,166.3,,F
+2021-04,2012,Oilseeds (gm),162.4,,F
+2021-04,2012,Onion,190.8,,F
+2021-04,2012,Other Cereals,229.9,,F
+2021-04,2012,Other Consumer Services Excluding Conveyance,162.9,,F
+2021-04,2012,Other Conveyance Expenses,154.2,,F
+2021-04,2012,Other Cooking/ Household Appliances,126.5,,F
+2021-04,2012,Other Crockery & Utensils,145.5,,F
+2021-04,2012,Other Dry Fruits,168.9,,F
+2021-04,2012,Other Durables (specify)….,161.2,,F
+2021-04,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),149,,F
+2021-04,2012,Other Entertainment,130.3,,F
+2021-04,2012,Other Footwear,144.8,,F
+2021-04,2012,Other Fresh Fruits,155.8,,F
+2021-04,2012,Other Fuel,152.3,,F
+2021-04,2012,Other Intoxicants,173.2,,F
+2021-04,2012,Other Leather Footwear,148.6,,F
+2021-04,2012,Other Medical Expenses (non-institutional),139.7,,F
+2021-04,2012,Other Metal Utensils,160.9,,F
+2021-04,2012,Other Milk Products,147.4,,F
+2021-04,2012,Other Nuts,160.2,,F
+2021-04,2012,Other Ornaments,162.1,,F
+2021-04,2012,Other Packaged Processed Food,142.3,,F
+2021-04,2012,Other Petty Articles,173.7,,F
+2021-04,2012,Other Pulse Products,160.4,,F
+2021-04,2012,Other Pulses,167.4,,F
+2021-04,2012,Other Rice Products,156.4,,F
+2021-04,2012,Other Tobacco Products,180.9,,F
+2021-04,2012,Other Vegetables,158.2,,F
+2021-04,2012,Other Washing Requisites,143.1,,F
+2021-04,2012,PC/ Laptop/ Other Peripherals Incl. Software,126.8,,F
+2021-04,2012,Palak/other Leafy Vegetables,151.4,,F
+2021-04,2012,Pan: Finished (no.),186.4,,F
+2021-04,2012,Pan: Leaf (no.),198.5,,F
+2021-04,2012,Papaya,163.8,,F
+2021-04,2012,Pears/nashpati,,,F
+2021-04,2012,Peas (pulses),222.5,,F
+2021-04,2012,Peas (vegetables),143.7,,F
+2021-04,2012,Petrol for Vehicle,128.5,,F
+2021-04,2012,Photography,139.2,,F
+2021-04,2012,Pickles (gm),147.5,,F
+2021-04,2012,Pineapple (no.),178.6,,F
+2021-04,2012,Pork,198.8,,F
+2021-04,2012,Porter Charges,183.6,,F
+2021-04,2012,Potato,121.3,,F
+2021-04,2012,Pressure Cooker/ Pressure Pan,169.1,,F
+2021-04,2012,Private Tutor/ Coaching Centre,160.1,,F
+2021-04,2012,Radish,143.6,,F
+2021-04,2012,Ragi & its Products,196.2,,F
+2021-04,2012,Railway Fare,150.3,,F
+2021-04,2012,Refrigerator,136,,F
+2021-04,2012,Residential Building & Land (cost of Repairs Only),184.8,,F
+2021-04,2012,Rice – Other Sources,146.3,,F
+2021-04,2012,Rice – PDS,84.3,,F
+2021-04,2012,Rickshaw (hand Drawn & Cycle) Fare,170.9,,F
+2021-04,2012,Rubber / Pvc Footwear,151.9,,F
+2021-04,2012,Salt,146.7,,F
+2021-04,2012,Sanitary Napkins,141.8,,F
+2021-04,2012,Saree (no.),162.3,,F
+2021-04,2012,School/college Uniform: Boys,151.4,,F
+2021-04,2012,School/college Uniform: Girls,152,,F
+2021-04,2012,Sewing Machine,144.4,,F
+2021-04,2012,Silver,134,,F
+2021-04,2012,Singara,,,F
+2021-04,2012,Small Millets & their Products,153.3,,F
+2021-04,2012,Snuff (gm),183.9,,F
+2021-04,2012,Spectacles,154.8,,F
+2021-04,2012,Stainless Steel Utensils,165.6,,F
+2021-04,2012,Sugar - Other Sources,108.4,,F
+2021-04,2012,Sugar - PDS,161,,F
+2021-04,2012,Sweeper,172.6,,F
+2021-04,2012,Tailor,181.6,,F
+2021-04,2012,Tamarind (gm),208.7,,F
+2021-04,2012,Tea: Cups (no.),155.9,,F
+2021-04,2012,Tea: Leaf (gm),162.4,,F
+2021-04,2012,Telephone Charges: Landline*,117,,F
+2021-04,2012,Telephone Charges: Mobile,142.3,,F
+2021-04,2012,Television,152,,F
+2021-04,2012,Toddy (litre),210.1,,F
+2021-04,2012,Toilet Soap,141.9,,F
+2021-04,2012,Tomato,101.3,,F
+2021-04,2012,Torch,138.6,,F
+2021-04,2012,Turmeric (gm),140.9,,F
+2021-04,2012,Tyres & Tubes,131.6,,F
+2021-04,2012,Urd,180.7,,F
+2021-04,2012,VCD/ DVD Hire (incl. Instrument),158.5,,F
+2021-04,2012,VCR/VCD/DVD Player,111.5,,F
+2021-04,2012,Walnut,206.6,,F
+2021-04,2012,Washing Machine,136.4,,F
+2021-04,2012,Washing Soap/soda/powder,140.1,,F
+2021-04,2012,Watch Man Charges (other Cons Taxes),154.7,,F
+2021-04,2012,Water Charges,137.6,,F
+2021-04,2012,Water Purifier,136.6,,F
+2021-04,2012,Watermelon,143.8,,F
+2021-04,2012,Wheat/ Atta – Other Sources,147,,F
+2021-04,2012,Wheat/ Atta – PDS,76.4,,F
+2021-05,2012,"Air Conditioner, Air Cooler",136.1,,F
+2021-05,2012,"Almirah, Dressing Table",147.9,,F
+2021-05,2012,"Arhar, Tur",164.2,,F
+2021-05,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",154.9,,F
+2021-05,2012,"Barber, Beautician, etc.",192.6,,F
+2021-05,2012,"Beans, Barbati",160.7,,F
+2021-05,2012,"Bed Sheet, Bed Cover (no.)",155.9,,F
+2021-05,2012,"Biscuits, Chocolates, etc.",133.1,,F
+2021-05,2012,"Books, Journals: First Hand",155,,F
+2021-05,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",155.4,,F
+2021-05,2012,"CD, DVD, Audio/video Cassette, etc",135.9,,F
+2021-05,2012,"Candy, Misri",155.1,,F
+2021-05,2012,"Carpet, Daree & Other Floor Mattings",205.5,,F
+2021-05,2012,"Cereal Substitutes: Tapioca, etc.",161.7,,F
+2021-05,2012,"Chair, Stool, Bench, Table",165,,F
+2021-05,2012,"Clock, Watch",143.4,,F
+2021-05,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",152.5,,F
+2021-05,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",166.5,,F
+2021-05,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",160,,F
+2021-05,2012,"Coat, Jacket, Sweater, Windcheater (no.)",148,,F
+2021-05,2012,"Coir, Rope, etc.",164.7,,F
+2021-05,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",165.2,,F
+2021-05,2012,"Electric Bulb, Tubelight",132.3,,F
+2021-05,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",,,F
+2021-05,2012,"Fish, Prawn",191.2,,F
+2021-05,2012,"Frocks, Skirts, etc. (no.)",168.8,,F
+2021-05,2012,"Gamchha, Towel, Handkerchief (no.)",159.8,,F
+2021-05,2012,"Gourd, Pumpkin",139.6,,F
+2021-05,2012,"Hair Oil, Shampoo, Hair Cream",143.9,,F
+2021-05,2012,"Headwear, Belts, Ties (no.)",153.5,,F
+2021-05,2012,"House Rent, Garage Rent",161.4,,F
+2021-05,2012,"Incense (agarbatti), Room Freshener",151.3,,F
+2021-05,2012,"Leather Boots, Shoes",151.2,,F
+2021-05,2012,"Leather Sandals, Chappals, etc.",151.2,,F
+2021-05,2012,"Mosquito Repellent, Insecticide, Acid etc.",140.6,,F
+2021-05,2012,"Motor Car, Jeep",137.5,,F
+2021-05,2012,"Motor Cycle, Scooter",153.9,,F
+2021-05,2012,"Newspapers, Periodicals",165.9,,F
+2021-05,2012,"Orange, Mausami (no.)",190.8,,F
+2021-05,2012,"Other Beverages: Cocoa, Chocolate, etc.",147.8,,F
+2021-05,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",139.4,,F
+2021-05,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",192.8,,F
+2021-05,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",169.1,,F
+2021-05,2012,"Parwal/patal, Kundru",140.8,,F
+2021-05,2012,"Pillow, Quilt, Mattress (no.)",158.7,,F
+2021-05,2012,"Plugs, Switches & Other Electrical Fittings",168.5,,F
+2021-05,2012,"Powder, Snow, Cream, Lotion and Perfume",164.8,,F
+2021-05,2012,"Prepared Sweets, Cake, Pastry",166.3,,F
+2021-05,2012,"Radio, Tape Recorder, 2-in-1",141.4,,F
+2021-05,2012,"Raisin, Kishmish, Monacca, etc.",141.5,,F
+2021-05,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",184.1,,F
+2021-05,2012,"Rug, Blanket (no.)",163.4,,F
+2021-05,2012,"Sauce, Jam, Jelly (gm)",147.2,,F
+2021-05,2012,"School Bus, Van, etc.",170.7,,F
+2021-05,2012,"Sewai, Noodles",148.2,,F
+2021-05,2012,"Shaving Blades, Shaving Stick, Razor",142.7,,F
+2021-05,2012,"Shaving Cream, Aftershave Lotion",143,,F
+2021-05,2012,"Shawl, Chaddar (no.)",163.7,,F
+2021-05,2012,"Shirts, T-shirts (no.)",161.4,,F
+2021-05,2012,"Shorts, Trousers, Bermudas (no.)",154.7,,F
+2021-05,2012,"Sports Goods, Toys, etc.",157.9,,F
+2021-05,2012,"Stationery, Photocopying Charges",149.6,,F
+2021-05,2012,"Steamer, Boat Fare",204.7,,F
+2021-05,2012,"Stove, Gas Burner",130.7,,F
+2021-05,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",157.4,,F
+2021-05,2012,"Suji, Rawa",154.4,,F
+2021-05,2012,"Taxi, Auto-rickshaw Fare",164.7,,F
+2021-05,2012,"Toothpaste, Toothbrush, Comb, etc.",151.8,,F
+2021-05,2012,"Tuition and Other Fees (school, College, Etc.)",164.6,,F
+2021-05,2012,"Umbrella, Raincoat",153.2,,F
+2021-05,2012,"Vanaspati, Margarine",172.6,,F
+2021-05,2012,"Washerman, Laundry, Ironing",184.8,,F
+2021-05,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",153.7,,F
+2021-05,2012,"Zarda, Kimam, Surti (gm)",186.3,,F
+2021-05,2012,Air Fare (normal): Economy Class(adult),182.5,,F
+2021-05,2012,Any Other Personal Goods,204,,F
+2021-05,2012,Apple,157.1,,F
+2021-05,2012,Baby Food,155,,F
+2021-05,2012,Bajra & its Products,160,,F
+2021-05,2012,Banana (no.),147.1,,F
+2021-05,2012,Bathroom and Sanitary Equipment,169.3,,F
+2021-05,2012,Bedding: Others,157.8,,F
+2021-05,2012,Bedstead,192.8,,F
+2021-05,2012,Beef/ Buffalo Meat,202.4,,F
+2021-05,2012,Beer (litre),188.7,,F
+2021-05,2012,Berries,,,F
+2021-05,2012,Besan,151.2,,F
+2021-05,2012,Bicycle(without Accessories),139.6,,F
+2021-05,2012,Bidi (no.),195.2,,F
+2021-05,2012,Black Pepper (gm),153.5,,F
+2021-05,2012,Bread (bakery),172.1,,F
+2021-05,2012,Brinjal,145.2,,F
+2021-05,2012,Bus/tram Fare,176.9,,F
+2021-05,2012,Butter,161.7,,F
+2021-05,2012,Cabbage,133.5,,F
+2021-05,2012,Camera & Photographic Equipment,110.2,,F
+2021-05,2012,Candle (no.),139.8,,F
+2021-05,2012,Carrot,148.7,,F
+2021-05,2012,Cashewnut,152,,F
+2021-05,2012,Cauliflower,137.6,,F
+2021-05,2012,Charcoal,154.6,,F
+2021-05,2012,Cheroot (no.),206.8,,F
+2021-05,2012,Chicken,197.3,,F
+2021-05,2012,Chips (gm),132.4,,F
+2021-05,2012,Chira,145.9,,F
+2021-05,2012,Cigarettes (no.),211.5,,F
+2021-05,2012,Cinema: New Release(normal Day),172.7,,F
+2021-05,2012,Clothing (first-hand): Other,156.9,,F
+2021-05,2012,Clothing: Second-hand,141.1,,F
+2021-05,2012,Club Fees,126.1,,F
+2021-05,2012,Coal,155.4,,F
+2021-05,2012,Coconut (no.),237.6,,F
+2021-05,2012,Coconut Oil,282.8,,F
+2021-05,2012,Coconut: Copra,214.7,,F
+2021-05,2012,Coffee: Cups (no.),165.7,,F
+2021-05,2012,Coffee: Powder (gm),137.8,,F
+2021-05,2012,Coke,150.4,,F
+2021-05,2012,Cold Beverages: Bottled/canned (litre),149.4,,F
+2021-05,2012,Cooked Meals Purchased (no.),179.2,,F
+2021-05,2012,Country Liquor (litre),187,,F
+2021-05,2012,Curd,161.3,,F
+2021-05,2012,Curry Powder (gm),170.1,,F
+2021-05,2012,Dates,209.4,,F
+2021-05,2012,Dhania (gm),176.7,,F
+2021-05,2012,Dhoti (no.),163.6,,F
+2021-05,2012,Diesel (litre) [excl. Conveyance],149.7,,F
+2021-05,2012,Diesel for Vehicle,182.3,,F
+2021-05,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),185.8,,F
+2021-05,2012,Domestic Servant/cook,173.6,,F
+2021-05,2012,Dry Chillies (gm),198.5,,F
+2021-05,2012,Dung Cake,158.9,,F
+2021-05,2012,Earthenware,179.1,,F
+2021-05,2012,Eggs (no.),170.3,,F
+2021-05,2012,Electric Batteries,153.4,,F
+2021-05,2012,Electric Fan,127.5,,F
+2021-05,2012,Electricity (std. Unit),141.2,,F
+2021-05,2012,Family Planning Devices,173.4,,F
+2021-05,2012,Firewood and Chips,156,,F
+2021-05,2012,Flower (fresh): All Purposes,191.5,,F
+2021-05,2012,Foreign/refined Liquor or Wine (litre),189,,F
+2021-05,2012,Fruit Juice and Shake (litre),140.9,,F
+2021-05,2012,Garlic (gm),183.5,,F
+2021-05,2012,Ghee,155.7,,F
+2021-05,2012,Ginger (gm),136.8,,F
+2021-05,2012,Glassware,138.8,,F
+2021-05,2012,Goat Meat/mutton,219.5,,F
+2021-05,2012,Gold,163.6,,F
+2021-05,2012,Goods for Recreation and Hobbies,291.4,,F
+2021-05,2012,Gram Products,161.2,,F
+2021-05,2012,Gram: Split,148.1,,F
+2021-05,2012,Gram: Whole,150.4,,F
+2021-05,2012,Grapes,133.9,,F
+2021-05,2012,Green Chillies,150.2,,F
+2021-05,2012,Green Coconut (no.),227.2,,F
+2021-05,2012,Grinding Charges,158,,F
+2021-05,2012,Groundnut Oil,167.1,,F
+2021-05,2012,Groundnut,147.8,,F
+2021-05,2012,Guava,207,,F
+2021-05,2012,Gur,137.3,,F
+2021-05,2012,Honey,145.3,,F
+2021-05,2012,Hookah Tobacco (gm),158.4,,F
+2021-05,2012,Horse Cart Fare,105,,F
+2021-05,2012,Hospital & Nursing Home Charges,184.6,,F
+2021-05,2012,Hotel Lodging Charges,159.5,,F
+2021-05,2012,Ice-cream,132.3,,F
+2021-05,2012,Ingredients for Pan (gm),194.2,,F
+2021-05,2012,Internet Expenses,132.1,,F
+2021-05,2012,Inverter,132.7,,F
+2021-05,2012,Jackfruit,143.5,,F
+2021-05,2012,Jeera (gm),137.3,,F
+2021-05,2012,Jowar & its Products,170.7,,F
+2021-05,2012,Kerosene – Other Sources (litre),160.8,,F
+2021-05,2012,Kerosene – PDS (litre),231.4,,F
+2021-05,2012,Kharbooza,141.8,,F
+2021-05,2012,Khesari,179.1,,F
+2021-05,2012,Knitting Wool (gm),154.5,,F
+2021-05,2012,Kurta-pajama Suits: Females (no.),157.4,,F
+2021-05,2012,Kurta-pajama Suits: Males (no.),158.7,,F
+2021-05,2012,LPG [excl. Conveyance],182.4,,F
+2021-05,2012,Lady's Finger,138.9,,F
+2021-05,2012,Leaf Tobacco (gm),179.4,,F
+2021-05,2012,Leechi,141.1,,F
+2021-05,2012,Lemon (no.),165,,F
+2021-05,2012,Library Charges,,,F
+2021-05,2012,Lighter (bidi/ Cigarette/ Gas Stove),113.9,,F
+2021-05,2012,Lock,163.1,,F
+2021-05,2012,Lubricants & Other Fuels for Vehicle,137.5,,F
+2021-05,2012,Lungi (no.),154.7,,F
+2021-05,2012,Maida,150.9,,F
+2021-05,2012,Maize & Products,154.7,,F
+2021-05,2012,Mango,165.1,,F
+2021-05,2012,Masur,159.2,,F
+2021-05,2012,Matches (box),118.9,,F
+2021-05,2012,Medicine (non-institutional),161.9,,F
+2021-05,2012,Milk: Condensed/ Powder,153.8,,F
+2021-05,2012,Milk: Liquid (litre),156,,F
+2021-05,2012,Mineral Water (litre),117.4,,F
+2021-05,2012,Mobile Handset,114.2,,F
+2021-05,2012,Monthly Charges for Cable Tv Connection,157,,F
+2021-05,2012,Monthly Maintainance Charges,129.7,,F
+2021-05,2012,Moong,166.6,,F
+2021-05,2012,Mosquito Net (no.),143,,F
+2021-05,2012,Muri,148.4,,F
+2021-05,2012,Mustard Oil,178.9,,F
+2021-05,2012,Oilseeds (gm),168.9,,F
+2021-05,2012,Onion,188,,F
+2021-05,2012,Other Cereals,236.2,,F
+2021-05,2012,Other Consumer Services Excluding Conveyance,169.5,,F
+2021-05,2012,Other Conveyance Expenses,175.6,,F
+2021-05,2012,Other Cooking/ Household Appliances,132.4,,F
+2021-05,2012,Other Crockery & Utensils,151.9,,F
+2021-05,2012,Other Dry Fruits,176.5,,F
+2021-05,2012,Other Durables (specify)….,155.8,,F
+2021-05,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),153.2,,F
+2021-05,2012,Other Entertainment,128.6,,F
+2021-05,2012,Other Footwear,147.8,,F
+2021-05,2012,Other Fresh Fruits,158.4,,F
+2021-05,2012,Other Fuel,155.9,,F
+2021-05,2012,Other Intoxicants,175.8,,F
+2021-05,2012,Other Leather Footwear,151.8,,F
+2021-05,2012,Other Medical Expenses (non-institutional),143.1,,F
+2021-05,2012,Other Metal Utensils,168,,F
+2021-05,2012,Other Milk Products,149.7,,F
+2021-05,2012,Other Nuts,162.6,,F
+2021-05,2012,Other Ornaments,160.7,,F
+2021-05,2012,Other Packaged Processed Food,148.1,,F
+2021-05,2012,Other Petty Articles,177,,F
+2021-05,2012,Other Pulse Products,164.7,,F
+2021-05,2012,Other Pulses,169.6,,F
+2021-05,2012,Other Rice Products,158,,F
+2021-05,2012,Other Tobacco Products,183.6,,F
+2021-05,2012,Other Vegetables,152.7,,F
+2021-05,2012,Other Washing Requisites,148,,F
+2021-05,2012,PC/ Laptop/ Other Peripherals Incl. Software,128.3,,F
+2021-05,2012,Palak/other Leafy Vegetables,158.4,,F
+2021-05,2012,Pan: Finished (no.),190.3,,F
+2021-05,2012,Pan: Leaf (no.),206,,F
+2021-05,2012,Papaya,177.9,,F
+2021-05,2012,Pears/nashpati,,,F
+2021-05,2012,Peas (pulses),225.1,,F
+2021-05,2012,Peas (vegetables),155.9,,F
+2021-05,2012,Petrol for Vehicle,130.7,,F
+2021-05,2012,Photography,143.9,,F
+2021-05,2012,Pickles (gm),160.1,,F
+2021-05,2012,Pineapple (no.),166.8,,F
+2021-05,2012,Pork,205.7,,F
+2021-05,2012,Porter Charges,182.8,,F
+2021-05,2012,Potato,134.9,,F
+2021-05,2012,Pressure Cooker/ Pressure Pan,152,,F
+2021-05,2012,Private Tutor/ Coaching Centre,164.3,,F
+2021-05,2012,Radish,161.6,,F
+2021-05,2012,Ragi & its Products,200.1,,F
+2021-05,2012,Railway Fare,150.5,,F
+2021-05,2012,Refrigerator,137.2,,F
+2021-05,2012,Residential Building & Land (cost of Repairs Only),185.6,,F
+2021-05,2012,Rice – Other Sources,148.5,,F
+2021-05,2012,Rice – PDS,81.2,,F
+2021-05,2012,Rickshaw (hand Drawn & Cycle) Fare,180.7,,F
+2021-05,2012,Rubber / Pvc Footwear,155.6,,F
+2021-05,2012,Salt,149.3,,F
+2021-05,2012,Sanitary Napkins,144.1,,F
+2021-05,2012,Saree (no.),165.1,,F
+2021-05,2012,School/college Uniform: Boys,153.5,,F
+2021-05,2012,School/college Uniform: Girls,154.7,,F
+2021-05,2012,Sewing Machine,,,F
+2021-05,2012,Silver,139,,F
+2021-05,2012,Singara,,,F
+2021-05,2012,Small Millets & their Products,171.1,,F
+2021-05,2012,Snuff (gm),183.9,,F
+2021-05,2012,Spectacles,157.8,,F
+2021-05,2012,Stainless Steel Utensils,167.5,,F
+2021-05,2012,Sugar - Other Sources,110.1,,F
+2021-05,2012,Sugar - PDS,161,,F
+2021-05,2012,Sweeper,181.6,,F
+2021-05,2012,Tailor,183.5,,F
+2021-05,2012,Tamarind (gm),209.4,,F
+2021-05,2012,Tea: Cups (no.),158.1,,F
+2021-05,2012,Tea: Leaf (gm),164.2,,F
+2021-05,2012,Telephone Charges: Landline*,116,,F
+2021-05,2012,Telephone Charges: Mobile,145.2,,F
+2021-05,2012,Television,158.1,,F
+2021-05,2012,Toddy (litre),218.9,,F
+2021-05,2012,Toilet Soap,145.7,,F
+2021-05,2012,Tomato,104.5,,F
+2021-05,2012,Torch,145.1,,F
+2021-05,2012,Turmeric (gm),147.8,,F
+2021-05,2012,Tyres & Tubes,135.5,,F
+2021-05,2012,Urd,184,,F
+2021-05,2012,VCD/ DVD Hire (incl. Instrument),136.4,,F
+2021-05,2012,VCR/VCD/DVD Player,104.3,,F
+2021-05,2012,Walnut,213.5,,F
+2021-05,2012,Washing Machine,133,,F
+2021-05,2012,Washing Soap/soda/powder,143.7,,F
+2021-05,2012,Watch Man Charges (other Cons Taxes),156.8,,F
+2021-05,2012,Water Charges,139.2,,F
+2021-05,2012,Water Purifier,120.6,,F
+2021-05,2012,Watermelon,129.8,,F
+2021-05,2012,Wheat/ Atta – Other Sources,149.2,,F
+2021-05,2012,Wheat/ Atta – PDS,76.4,,F
+2021-06,2012,"Air Conditioner, Air Cooler",136.6,,F
+2021-06,2012,"Almirah, Dressing Table",150.5,,F
+2021-06,2012,"Arhar, Tur",164.2,,F
+2021-06,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",155.5,,F
+2021-06,2012,"Barber, Beautician, etc.",188.7,,F
+2021-06,2012,"Beans, Barbati",171.2,,F
+2021-06,2012,"Bed Sheet, Bed Cover (no.)",156.4,,F
+2021-06,2012,"Biscuits, Chocolates, etc.",133.3,,F
+2021-06,2012,"Books, Journals: First Hand",155.2,,F
+2021-06,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",156.7,,F
+2021-06,2012,"CD, DVD, Audio/video Cassette, etc",133.2,,F
+2021-06,2012,"Candy, Misri",153.6,,F
+2021-06,2012,"Carpet, Daree & Other Floor Mattings",208.1,,F
+2021-06,2012,"Cereal Substitutes: Tapioca, etc.",160.3,,F
+2021-06,2012,"Chair, Stool, Bench, Table",161,,F
+2021-06,2012,"Clock, Watch",161.4,,F
+2021-06,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",154.7,,F
+2021-06,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",165.1,,F
+2021-06,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",157.4,,F
+2021-06,2012,"Coat, Jacket, Sweater, Windcheater (no.)",150.1,,F
+2021-06,2012,"Coir, Rope, etc.",168.5,,F
+2021-06,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",165.6,,F
+2021-06,2012,"Electric Bulb, Tubelight",131.4,,F
+2021-06,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",,,F
+2021-06,2012,"Fish, Prawn",191.7,,F
+2021-06,2012,"Frocks, Skirts, etc. (no.)",167.7,,F
+2021-06,2012,"Gamchha, Towel, Handkerchief (no.)",162.1,,F
+2021-06,2012,"Gourd, Pumpkin",142.8,,F
+2021-06,2012,"Hair Oil, Shampoo, Hair Cream",144.1,,F
+2021-06,2012,"Headwear, Belts, Ties (no.)",156.3,,F
+2021-06,2012,"House Rent, Garage Rent",160.1,,F
+2021-06,2012,"Incense (agarbatti), Room Freshener",150.8,,F
+2021-06,2012,"Leather Boots, Shoes",150.7,,F
+2021-06,2012,"Leather Sandals, Chappals, etc.",150.5,,F
+2021-06,2012,"Mosquito Repellent, Insecticide, Acid etc.",141,,F
+2021-06,2012,"Motor Car, Jeep",137.1,,F
+2021-06,2012,"Motor Cycle, Scooter",158.6,,F
+2021-06,2012,"Newspapers, Periodicals",165.9,,F
+2021-06,2012,"Orange, Mausami (no.)",201.2,,F
+2021-06,2012,"Other Beverages: Cocoa, Chocolate, etc.",147.9,,F
+2021-06,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",141.9,,F
+2021-06,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",192.9,,F
+2021-06,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",170.2,,F
+2021-06,2012,"Parwal/patal, Kundru",146.4,,F
+2021-06,2012,"Pillow, Quilt, Mattress (no.)",159.1,,F
+2021-06,2012,"Plugs, Switches & Other Electrical Fittings",161.4,,F
+2021-06,2012,"Powder, Snow, Cream, Lotion and Perfume",164.9,,F
+2021-06,2012,"Prepared Sweets, Cake, Pastry",168,,F
+2021-06,2012,"Radio, Tape Recorder, 2-in-1",145.5,,F
+2021-06,2012,"Raisin, Kishmish, Monacca, etc.",142.1,,F
+2021-06,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",188.7,,F
+2021-06,2012,"Rug, Blanket (no.)",165,,F
+2021-06,2012,"Sauce, Jam, Jelly (gm)",147,,F
+2021-06,2012,"School Bus, Van, etc.",175,,F
+2021-06,2012,"Sewai, Noodles",147.9,,F
+2021-06,2012,"Shaving Blades, Shaving Stick, Razor",142.7,,F
+2021-06,2012,"Shaving Cream, Aftershave Lotion",143.2,,F
+2021-06,2012,"Shawl, Chaddar (no.)",162.5,,F
+2021-06,2012,"Shirts, T-shirts (no.)",161.5,,F
+2021-06,2012,"Shorts, Trousers, Bermudas (no.)",156,,F
+2021-06,2012,"Sports Goods, Toys, etc.",158.2,,F
+2021-06,2012,"Stationery, Photocopying Charges",149.4,,F
+2021-06,2012,"Steamer, Boat Fare",239.6,,F
+2021-06,2012,"Stove, Gas Burner",130.7,,F
+2021-06,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",157,,F
+2021-06,2012,"Suji, Rawa",155.1,,F
+2021-06,2012,"Taxi, Auto-rickshaw Fare",165,,F
+2021-06,2012,"Toothpaste, Toothbrush, Comb, etc.",152.3,,F
+2021-06,2012,"Tuition and Other Fees (school, College, Etc.)",164.5,,F
+2021-06,2012,"Umbrella, Raincoat",153.9,,F
+2021-06,2012,"Vanaspati, Margarine",177.9,,F
+2021-06,2012,"Washerman, Laundry, Ironing",187.9,,F
+2021-06,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",153.9,,F
+2021-06,2012,"Zarda, Kimam, Surti (gm)",177.8,,F
+2021-06,2012,Air Fare (normal): Economy Class(adult),205.8,,F
+2021-06,2012,Any Other Personal Goods,204,,F
+2021-06,2012,Apple,167.9,,F
+2021-06,2012,Baby Food,155.3,,F
+2021-06,2012,Bajra & its Products,160.9,,F
+2021-06,2012,Banana (no.),143.1,,F
+2021-06,2012,Bathroom and Sanitary Equipment,161.5,,F
+2021-06,2012,Bedding: Others,160.7,,F
+2021-06,2012,Bedstead,182.1,,F
+2021-06,2012,Beef/ Buffalo Meat,206.2,,F
+2021-06,2012,Beer (litre),190,,F
+2021-06,2012,Berries,,,F
+2021-06,2012,Besan,152.2,,F
+2021-06,2012,Bicycle(without Accessories),140.2,,F
+2021-06,2012,Bidi (no.),194.6,,F
+2021-06,2012,Black Pepper (gm),154.2,,F
+2021-06,2012,Bread (bakery),172.9,,F
+2021-06,2012,Brinjal,161.8,,F
+2021-06,2012,Bus/tram Fare,174.7,,F
+2021-06,2012,Butter,161.9,,F
+2021-06,2012,Cabbage,148.2,,F
+2021-06,2012,Camera & Photographic Equipment,110.2,,F
+2021-06,2012,Candle (no.),140,,F
+2021-06,2012,Carrot,166.2,,F
+2021-06,2012,Cashewnut,152.2,,F
+2021-06,2012,Cauliflower,157.4,,F
+2021-06,2012,Charcoal,158.1,,F
+2021-06,2012,Cheroot (no.),206.7,,F
+2021-06,2012,Chicken,199.8,,F
+2021-06,2012,Chips (gm),132.4,,F
+2021-06,2012,Chira,146.5,,F
+2021-06,2012,Cigarettes (no.),212.6,,F
+2021-06,2012,Cinema: New Release(normal Day),187.7,,F
+2021-06,2012,Clothing (first-hand): Other,156.4,,F
+2021-06,2012,Clothing: Second-hand,154.7,,F
+2021-06,2012,Club Fees,128.8,,F
+2021-06,2012,Coal,155.3,,F
+2021-06,2012,Coconut (no.),233.7,,F
+2021-06,2012,Coconut Oil,276.7,,F
+2021-06,2012,Coconut: Copra,217.1,,F
+2021-06,2012,Coffee: Cups (no.),169.4,,F
+2021-06,2012,Coffee: Powder (gm),138,,F
+2021-06,2012,Coke,151.7,,F
+2021-06,2012,Cold Beverages: Bottled/canned (litre),149.4,,F
+2021-06,2012,Cooked Meals Purchased (no.),183,,F
+2021-06,2012,Country Liquor (litre),184.6,,F
+2021-06,2012,Curd,161.8,,F
+2021-06,2012,Curry Powder (gm),170.3,,F
+2021-06,2012,Dates,210.6,,F
+2021-06,2012,Dhania (gm),177.4,,F
+2021-06,2012,Dhoti (no.),165,,F
+2021-06,2012,Diesel (litre) [excl. Conveyance],157.5,,F
+2021-06,2012,Diesel for Vehicle,191.5,,F
+2021-06,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),186.4,,F
+2021-06,2012,Domestic Servant/cook,174.2,,F
+2021-06,2012,Dry Chillies (gm),198.6,,F
+2021-06,2012,Dung Cake,160.4,,F
+2021-06,2012,Earthenware,180,,F
+2021-06,2012,Eggs (no.),180.7,,F
+2021-06,2012,Electric Batteries,153.3,,F
+2021-06,2012,Electric Fan,127.5,,F
+2021-06,2012,Electricity (std. Unit),140,,F
+2021-06,2012,Family Planning Devices,173.4,,F
+2021-06,2012,Firewood and Chips,156.7,,F
+2021-06,2012,Flower (fresh): All Purposes,184.2,,F
+2021-06,2012,Foreign/refined Liquor or Wine (litre),189.4,,F
+2021-06,2012,Fruit Juice and Shake (litre),142,,F
+2021-06,2012,Garlic (gm),189.6,,F
+2021-06,2012,Ghee,156.2,,F
+2021-06,2012,Ginger (gm),140.6,,F
+2021-06,2012,Glassware,136.9,,F
+2021-06,2012,Goat Meat/mutton,220.2,,F
+2021-06,2012,Gold,163.7,,F
+2021-06,2012,Goods for Recreation and Hobbies,193.8,,F
+2021-06,2012,Gram Products,162.9,,F
+2021-06,2012,Gram: Split,149.6,,F
+2021-06,2012,Gram: Whole,151.3,,F
+2021-06,2012,Grapes,140.5,,F
+2021-06,2012,Green Chillies,148.4,,F
+2021-06,2012,Green Coconut (no.),227.3,,F
+2021-06,2012,Grinding Charges,158.5,,F
+2021-06,2012,Groundnut Oil,169.3,,F
+2021-06,2012,Groundnut,148.6,,F
+2021-06,2012,Guava,198.2,,F
+2021-06,2012,Gur,139.1,,F
+2021-06,2012,Honey,146.4,,F
+2021-06,2012,Hookah Tobacco (gm),157,,F
+2021-06,2012,Horse Cart Fare,113.8,,F
+2021-06,2012,Hospital & Nursing Home Charges,185.2,,F
+2021-06,2012,Hotel Lodging Charges,161.5,,F
+2021-06,2012,Ice-cream,132,,F
+2021-06,2012,Ingredients for Pan (gm),196.1,,F
+2021-06,2012,Internet Expenses,134.5,,F
+2021-06,2012,Inverter,134.6,,F
+2021-06,2012,Jackfruit,148.2,,F
+2021-06,2012,Jeera (gm),137.8,,F
+2021-06,2012,Jowar & its Products,177.4,,F
+2021-06,2012,Kerosene – Other Sources (litre),160,,F
+2021-06,2012,Kerosene – PDS (litre),243.7,,F
+2021-06,2012,Kharbooza,128.9,,F
+2021-06,2012,Khesari,180.5,,F
+2021-06,2012,Knitting Wool (gm),154.6,,F
+2021-06,2012,Kurta-pajama Suits: Females (no.),157.6,,F
+2021-06,2012,Kurta-pajama Suits: Males (no.),163.9,,F
+2021-06,2012,LPG [excl. Conveyance],182.3,,F
+2021-06,2012,Lady's Finger,134.9,,F
+2021-06,2012,Leaf Tobacco (gm),179.8,,F
+2021-06,2012,Leechi,157.2,,F
+2021-06,2012,Lemon (no.),140,,F
+2021-06,2012,Library Charges,,,F
+2021-06,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.2,,F
+2021-06,2012,Lock,157.9,,F
+2021-06,2012,Lubricants & Other Fuels for Vehicle,138.1,,F
+2021-06,2012,Lungi (no.),156,,F
+2021-06,2012,Maida,151.1,,F
+2021-06,2012,Maize & Products,155.3,,F
+2021-06,2012,Mango,130.7,,F
+2021-06,2012,Masur,161.5,,F
+2021-06,2012,Matches (box),118.9,,F
+2021-06,2012,Medicine (non-institutional),162.4,,F
+2021-06,2012,Milk: Condensed/ Powder,153.8,,F
+2021-06,2012,Milk: Liquid (litre),156.2,,F
+2021-06,2012,Mineral Water (litre),117.3,,F
+2021-06,2012,Mobile Handset,113.8,,F
+2021-06,2012,Monthly Charges for Cable Tv Connection,157.9,,F
+2021-06,2012,Monthly Maintainance Charges,132,,F
+2021-06,2012,Moong,166,,F
+2021-06,2012,Mosquito Net (no.),145.8,,F
+2021-06,2012,Muri,149.1,,F
+2021-06,2012,Mustard Oil,187.3,,F
+2021-06,2012,Oilseeds (gm),170.5,,F
+2021-06,2012,Onion,205.9,,F
+2021-06,2012,Other Cereals,230,,F
+2021-06,2012,Other Consumer Services Excluding Conveyance,169.1,,F
+2021-06,2012,Other Conveyance Expenses,164.8,,F
+2021-06,2012,Other Cooking/ Household Appliances,129.5,,F
+2021-06,2012,Other Crockery & Utensils,151.9,,F
+2021-06,2012,Other Dry Fruits,176.1,,F
+2021-06,2012,Other Durables (specify)….,154.5,,F
+2021-06,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),144.6,,F
+2021-06,2012,Other Entertainment,130,,F
+2021-06,2012,Other Footwear,148.1,,F
+2021-06,2012,Other Fresh Fruits,159.2,,F
+2021-06,2012,Other Fuel,156.2,,F
+2021-06,2012,Other Intoxicants,173.9,,F
+2021-06,2012,Other Leather Footwear,149.9,,F
+2021-06,2012,Other Medical Expenses (non-institutional),148.4,,F
+2021-06,2012,Other Metal Utensils,167.4,,F
+2021-06,2012,Other Milk Products,150,,F
+2021-06,2012,Other Nuts,162.8,,F
+2021-06,2012,Other Ornaments,166.9,,F
+2021-06,2012,Other Packaged Processed Food,149.3,,F
+2021-06,2012,Other Petty Articles,176.9,,F
+2021-06,2012,Other Pulse Products,166.3,,F
+2021-06,2012,Other Pulses,170.8,,F
+2021-06,2012,Other Rice Products,158.6,,F
+2021-06,2012,Other Tobacco Products,180.3,,F
+2021-06,2012,Other Vegetables,154.4,,F
+2021-06,2012,Other Washing Requisites,148.3,,F
+2021-06,2012,PC/ Laptop/ Other Peripherals Incl. Software,128.5,,F
+2021-06,2012,Palak/other Leafy Vegetables,166.8,,F
+2021-06,2012,Pan: Finished (no.),189.6,,F
+2021-06,2012,Pan: Leaf (no.),203.1,,F
+2021-06,2012,Papaya,183.1,,F
+2021-06,2012,Pears/nashpati,,,F
+2021-06,2012,Peas (pulses),223.8,,F
+2021-06,2012,Peas (vegetables),164.5,,F
+2021-06,2012,Petrol for Vehicle,136,,F
+2021-06,2012,Photography,145.4,,F
+2021-06,2012,Pickles (gm),159,,F
+2021-06,2012,Pineapple (no.),150.4,,F
+2021-06,2012,Pork,208.3,,F
+2021-06,2012,Porter Charges,185,,F
+2021-06,2012,Potato,142.1,,F
+2021-06,2012,Pressure Cooker/ Pressure Pan,152.6,,F
+2021-06,2012,Private Tutor/ Coaching Centre,162.8,,F
+2021-06,2012,Radish,172.9,,F
+2021-06,2012,Ragi & its Products,201.5,,F
+2021-06,2012,Railway Fare,150.4,,F
+2021-06,2012,Refrigerator,138,,F
+2021-06,2012,Residential Building & Land (cost of Repairs Only),185.3,,F
+2021-06,2012,Rice – Other Sources,148.9,,F
+2021-06,2012,Rice – PDS,81.5,,F
+2021-06,2012,Rickshaw (hand Drawn & Cycle) Fare,178.4,,F
+2021-06,2012,Rubber / Pvc Footwear,156,,F
+2021-06,2012,Salt,149.4,,F
+2021-06,2012,Sanitary Napkins,143.9,,F
+2021-06,2012,Saree (no.),164.3,,F
+2021-06,2012,School/college Uniform: Boys,154.2,,F
+2021-06,2012,School/college Uniform: Girls,156.3,,F
+2021-06,2012,Sewing Machine,148.1,,F
+2021-06,2012,Silver,138.8,,F
+2021-06,2012,Singara,,,F
+2021-06,2012,Small Millets & their Products,171.1,,F
+2021-06,2012,Snuff (gm),181.5,,F
+2021-06,2012,Spectacles,157.2,,F
+2021-06,2012,Stainless Steel Utensils,166.1,,F
+2021-06,2012,Sugar - Other Sources,110.2,,F
+2021-06,2012,Sugar - PDS,161,,F
+2021-06,2012,Sweeper,178,,F
+2021-06,2012,Tailor,183.1,,F
+2021-06,2012,Tamarind (gm),207,,F
+2021-06,2012,Tea: Cups (no.),158.2,,F
+2021-06,2012,Tea: Leaf (gm),165.1,,F
+2021-06,2012,Telephone Charges: Landline*,116.3,,F
+2021-06,2012,Telephone Charges: Mobile,145.2,,F
+2021-06,2012,Television,155.3,,F
+2021-06,2012,Toddy (litre),221,,F
+2021-06,2012,Toilet Soap,146.2,,F
+2021-06,2012,Tomato,113.3,,F
+2021-06,2012,Torch,147.5,,F
+2021-06,2012,Turmeric (gm),148.3,,F
+2021-06,2012,Tyres & Tubes,135.7,,F
+2021-06,2012,Urd,184.6,,F
+2021-06,2012,VCD/ DVD Hire (incl. Instrument),148.1,,F
+2021-06,2012,VCR/VCD/DVD Player,112.2,,F
+2021-06,2012,Walnut,213.9,,F
+2021-06,2012,Washing Machine,148.4,,F
+2021-06,2012,Washing Soap/soda/powder,143.7,,F
+2021-06,2012,Watch Man Charges (other Cons Taxes),160.2,,F
+2021-06,2012,Water Charges,140.6,,F
+2021-06,2012,Water Purifier,123.7,,F
+2021-06,2012,Watermelon,118.8,,F
+2021-06,2012,Wheat/ Atta – Other Sources,149.1,,F
+2021-06,2012,Wheat/ Atta – PDS,76.3,,F
+2021-07,2012,"Air Conditioner, Air Cooler",138.9,3.89,F
+2021-07,2012,"Almirah, Dressing Table",149.3,7.49,F
+2021-07,2012,"Arhar, Tur",160.9,12.52,F
+2021-07,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",156.3,6.25,F
+2021-07,2012,"Barber, Beautician, etc.",191.9,6.67,F
+2021-07,2012,"Beans, Barbati",168.5,8.78,F
+2021-07,2012,"Bed Sheet, Bed Cover (no.)",156.6,6.46,F
+2021-07,2012,"Biscuits, Chocolates, etc.",133.7,2.61,F
+2021-07,2012,"Books, Journals: First Hand",154.9,3.27,F
+2021-07,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",157,5.09,F
+2021-07,2012,"CD, DVD, Audio/video Cassette, etc",132.2,4.75,F
+2021-07,2012,"Candy, Misri",157.8,7.64,F
+2021-07,2012,"Carpet, Daree & Other Floor Mattings",215.8,9.54,F
+2021-07,2012,"Cereal Substitutes: Tapioca, etc.",158.9,-10.68,F
+2021-07,2012,"Chair, Stool, Bench, Table",161.9,4.05,F
+2021-07,2012,"Clock, Watch",144.2,-7.56,F
+2021-07,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",154.5,4.67,F
+2021-07,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",166.9,7.96,F
+2021-07,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",157.2,15.93,F
+2021-07,2012,"Coat, Jacket, Sweater, Windcheater (no.)",151.7,8.36,F
+2021-07,2012,"Coir, Rope, etc.",167.3,7.8,F
+2021-07,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",166.7,7.62,F
+2021-07,2012,"Electric Bulb, Tubelight",131.9,5.69,F
+2021-07,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",122.6,,F
+2021-07,2012,"Fish, Prawn",190.2,1.87,F
+2021-07,2012,"Frocks, Skirts, etc. (no.)",169,5.16,F
+2021-07,2012,"Gamchha, Towel, Handkerchief (no.)",161.8,8.52,F
+2021-07,2012,"Gourd, Pumpkin",152,4.54,F
+2021-07,2012,"Hair Oil, Shampoo, Hair Cream",144.7,4.55,F
+2021-07,2012,"Headwear, Belts, Ties (no.)",157,9.26,F
+2021-07,2012,"House Rent, Garage Rent",161.1,3.73,F
+2021-07,2012,"Incense (agarbatti), Room Freshener",151.4,4.27,F
+2021-07,2012,"Leather Boots, Shoes",152,5.7,F
+2021-07,2012,"Leather Sandals, Chappals, etc.",152.3,7.03,F
+2021-07,2012,"Mosquito Repellent, Insecticide, Acid etc.",141.3,3.59,F
+2021-07,2012,"Motor Car, Jeep",137,3.4,F
+2021-07,2012,"Motor Cycle, Scooter",159.4,11.24,F
+2021-07,2012,"Newspapers, Periodicals",166.6,4.19,F
+2021-07,2012,"Orange, Mausami (no.)",186.2,22.58,F
+2021-07,2012,"Other Beverages: Cocoa, Chocolate, etc.",148.4,3.56,F
+2021-07,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",142.3,6.11,F
+2021-07,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",215.4,12.77,F
+2021-07,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",171.3,6.53,F
+2021-07,2012,"Parwal/patal, Kundru",142,4.87,F
+2021-07,2012,"Pillow, Quilt, Mattress (no.)",159.6,7.11,F
+2021-07,2012,"Plugs, Switches & Other Electrical Fittings",165,4.17,F
+2021-07,2012,"Powder, Snow, Cream, Lotion and Perfume",165.6,5.75,F
+2021-07,2012,"Prepared Sweets, Cake, Pastry",168.8,7.79,F
+2021-07,2012,"Radio, Tape Recorder, 2-in-1",146.9,15.31,F
+2021-07,2012,"Raisin, Kishmish, Monacca, etc.",142.8,7.85,F
+2021-07,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",186.6,42.23,F
+2021-07,2012,"Rug, Blanket (no.)",166,7.3,F
+2021-07,2012,"Sauce, Jam, Jelly (gm)",147.3,3.88,F
+2021-07,2012,"School Bus, Van, etc.",173,2.49,F
+2021-07,2012,"Sewai, Noodles",148.4,5.32,F
+2021-07,2012,"Shaving Blades, Shaving Stick, Razor",142.9,5.77,F
+2021-07,2012,"Shaving Cream, Aftershave Lotion",143.6,4.06,F
+2021-07,2012,"Shawl, Chaddar (no.)",163.8,6.71,F
+2021-07,2012,"Shirts, T-shirts (no.)",162,6.16,F
+2021-07,2012,"Shorts, Trousers, Bermudas (no.)",156.8,6.96,F
+2021-07,2012,"Sports Goods, Toys, etc.",158.5,5.53,F
+2021-07,2012,"Stationery, Photocopying Charges",149.6,3.96,F
+2021-07,2012,"Steamer, Boat Fare",204.7,10.41,F
+2021-07,2012,"Stove, Gas Burner",145.2,-1.16,F
+2021-07,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",163.6,8.49,F
+2021-07,2012,"Suji, Rawa",154.7,-0.32,F
+2021-07,2012,"Taxi, Auto-rickshaw Fare",166.9,8.38,F
+2021-07,2012,"Toothpaste, Toothbrush, Comb, etc.",152.8,5.31,F
+2021-07,2012,"Tuition and Other Fees (school, College, Etc.)",165.6,1.78,F
+2021-07,2012,"Umbrella, Raincoat",154.9,6.39,F
+2021-07,2012,"Vanaspati, Margarine",180.6,38.5,F
+2021-07,2012,"Washerman, Laundry, Ironing",187.7,4.74,F
+2021-07,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",154.4,6.63,F
+2021-07,2012,"Zarda, Kimam, Surti (gm)",178.3,-4.35,F
+2021-07,2012,Air Fare (normal): Economy Class(adult),207.2,27.51,F
+2021-07,2012,Any Other Personal Goods,203.8,0.15,F
+2021-07,2012,Apple,172,30.11,F
+2021-07,2012,Baby Food,156.4,6.25,F
+2021-07,2012,Bajra & its Products,161.3,-8.2,F
+2021-07,2012,Banana (no.),141.8,3.05,F
+2021-07,2012,Bathroom and Sanitary Equipment,162.6,2.2,F
+2021-07,2012,Bedding: Others,154.4,13.61,F
+2021-07,2012,Bedstead,182.6,10.2,F
+2021-07,2012,Beef/ Buffalo Meat,207.9,9.08,F
+2021-07,2012,Beer (litre),188.7,3.06,F
+2021-07,2012,Berries,,,F
+2021-07,2012,Besan,151.8,5.64,F
+2021-07,2012,Bicycle(without Accessories),141.2,8.28,F
+2021-07,2012,Bidi (no.),194.8,3.51,F
+2021-07,2012,Black Pepper (gm),155.3,5.22,F
+2021-07,2012,Bread (bakery),173.4,5.09,F
+2021-07,2012,Brinjal,170.9,2.95,F
+2021-07,2012,Bus/tram Fare,177.2,6.49,F
+2021-07,2012,Butter,161.5,-0.06,F
+2021-07,2012,Cabbage,166.5,-1.6,F
+2021-07,2012,Camera & Photographic Equipment,116.6,0.87,F
+2021-07,2012,Candle (no.),140.3,4.39,F
+2021-07,2012,Carrot,185.8,18.87,F
+2021-07,2012,Cashewnut,152,-4.88,F
+2021-07,2012,Cauliflower,184.8,0.33,F
+2021-07,2012,Charcoal,159.4,19.67,F
+2021-07,2012,Cheroot (no.),221,18.63,F
+2021-07,2012,Chicken,214.5,15.2,F
+2021-07,2012,Chips (gm),132.4,-40.55,F
+2021-07,2012,Chira,146.3,-1.81,F
+2021-07,2012,Cigarettes (no.),212.3,8.26,F
+2021-07,2012,Cinema: New Release(normal Day),176.5,,F
+2021-07,2012,Clothing (first-hand): Other,156.4,9.29,F
+2021-07,2012,Clothing: Second-hand,154.8,12.42,F
+2021-07,2012,Club Fees,136.3,8.52,F
+2021-07,2012,Coal,155.2,1.11,F
+2021-07,2012,Coconut (no.),227.6,10,F
+2021-07,2012,Coconut Oil,267.2,13.7,F
+2021-07,2012,Coconut: Copra,217.9,5.88,F
+2021-07,2012,Coffee: Cups (no.),165.5,3.76,F
+2021-07,2012,Coffee: Powder (gm),138.4,0.58,F
+2021-07,2012,Coke,152.9,-1.92,F
+2021-07,2012,Cold Beverages: Bottled/canned (litre),150,3.31,F
+2021-07,2012,Cooked Meals Purchased (no.),181.4,5.04,F
+2021-07,2012,Country Liquor (litre),186.1,3.33,F
+2021-07,2012,Curd,162,2.86,F
+2021-07,2012,Curry Powder (gm),171.3,5.81,F
+2021-07,2012,Dates,212.1,10.76,F
+2021-07,2012,Dhania (gm),177.2,3.99,F
+2021-07,2012,Dhoti (no.),165.8,6.76,F
+2021-07,2012,Diesel (litre) [excl. Conveyance],162.3,24.27,F
+2021-07,2012,Diesel for Vehicle,197.2,22.71,F
+2021-07,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),186.7,5.36,F
+2021-07,2012,Domestic Servant/cook,176.4,4.13,F
+2021-07,2012,Dry Chillies (gm),197.9,8.86,F
+2021-07,2012,Dung Cake,159,10.03,F
+2021-07,2012,Earthenware,178.5,1.94,F
+2021-07,2012,Eggs (no.),182.2,20.82,F
+2021-07,2012,Electric Batteries,153.6,7.94,F
+2021-07,2012,Electric Fan,127,2.42,F
+2021-07,2012,Electricity (std. Unit),140,3.86,F
+2021-07,2012,Family Planning Devices,173.4,3.34,F
+2021-07,2012,Firewood and Chips,157.5,6.28,F
+2021-07,2012,Flower (fresh): All Purposes,181.2,-2.79,F
+2021-07,2012,Foreign/refined Liquor or Wine (litre),189.9,4.05,F
+2021-07,2012,Fruit Juice and Shake (litre),143.8,4.05,F
+2021-07,2012,Garlic (gm),191.7,-5.52,F
+2021-07,2012,Ghee,156.3,0.64,F
+2021-07,2012,Ginger (gm),147,-28.61,F
+2021-07,2012,Glassware,136.9,4.82,F
+2021-07,2012,Goat Meat/mutton,221.1,7.43,F
+2021-07,2012,Gold,163.8,-2.73,F
+2021-07,2012,Goods for Recreation and Hobbies,195,37.81,F
+2021-07,2012,Gram Products,162.1,9.75,F
+2021-07,2012,Gram: Split,148.9,9.24,F
+2021-07,2012,Gram: Whole,150.7,9.84,F
+2021-07,2012,Grapes,159,16.23,F
+2021-07,2012,Green Chillies,160,7.67,F
+2021-07,2012,Green Coconut (no.),225.7,5.12,F
+2021-07,2012,Grinding Charges,159.2,6.63,F
+2021-07,2012,Groundnut Oil,166.5,23.79,F
+2021-07,2012,Groundnut,146.8,4.04,F
+2021-07,2012,Guava,188.9,6.66,F
+2021-07,2012,Gur,140.4,0.43,F
+2021-07,2012,Honey,146.9,-8.81,F
+2021-07,2012,Hookah Tobacco (gm),159,10.88,F
+2021-07,2012,Horse Cart Fare,119.7,-21.66,F
+2021-07,2012,Hospital & Nursing Home Charges,186.4,6.45,F
+2021-07,2012,Hotel Lodging Charges,157.1,-11.14,F
+2021-07,2012,Ice-cream,131.6,3.95,F
+2021-07,2012,Ingredients for Pan (gm),195.5,10.64,F
+2021-07,2012,Internet Expenses,131.3,9.33,F
+2021-07,2012,Inverter,135.7,6.26,F
+2021-07,2012,Jackfruit,148.4,-4.81,F
+2021-07,2012,Jeera (gm),137.4,-0.94,F
+2021-07,2012,Jowar & its Products,174.5,0.75,F
+2021-07,2012,Kerosene – Other Sources (litre),160,12.83,F
+2021-07,2012,Kerosene – PDS (litre),253.2,46.53,F
+2021-07,2012,Kharbooza,144.4,5.87,F
+2021-07,2012,Khesari,179.7,2.74,F
+2021-07,2012,Knitting Wool (gm),154.1,4.83,F
+2021-07,2012,Kurta-pajama Suits: Females (no.),158.1,6.11,F
+2021-07,2012,Kurta-pajama Suits: Males (no.),162.4,5.18,F
+2021-07,2012,LPG [excl. Conveyance],187,30.77,F
+2021-07,2012,Lady's Finger,133.4,13.82,F
+2021-07,2012,Leaf Tobacco (gm),180.2,4.71,F
+2021-07,2012,Leechi,,,F
+2021-07,2012,Lemon (no.),120.8,11.13,F
+2021-07,2012,Library Charges,,,F
+2021-07,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.2,-1.07,F
+2021-07,2012,Lock,163.1,8.88,F
+2021-07,2012,Lubricants & Other Fuels for Vehicle,139.2,5.3,F
+2021-07,2012,Lungi (no.),156.2,6.77,F
+2021-07,2012,Maida,149.9,-3.54,F
+2021-07,2012,Maize & Products,155.7,-3.47,F
+2021-07,2012,Mango,118.7,-10.75,F
+2021-07,2012,Masur,162.5,9.43,F
+2021-07,2012,Matches (box),118.9,0.68,F
+2021-07,2012,Medicine (non-institutional),163.2,8.66,F
+2021-07,2012,Milk: Condensed/ Powder,153.8,0.98,F
+2021-07,2012,Milk: Liquid (litre),157.5,2.74,F
+2021-07,2012,Mineral Water (litre),117.5,-0.34,F
+2021-07,2012,Mobile Handset,114.2,5.84,F
+2021-07,2012,Monthly Charges for Cable Tv Connection,158.1,6.97,F
+2021-07,2012,Monthly Maintainance Charges,133.8,-2.05,F
+2021-07,2012,Moong,162.9,3.82,F
+2021-07,2012,Mosquito Net (no.),145.8,2.89,F
+2021-07,2012,Muri,148.8,1.99,F
+2021-07,2012,Mustard Oil,186,40.7,F
+2021-07,2012,Oilseeds (gm),172.6,12.96,F
+2021-07,2012,Onion,222.2,29.71,F
+2021-07,2012,Other Cereals,182,6.06,F
+2021-07,2012,Other Consumer Services Excluding Conveyance,169.4,8.52,F
+2021-07,2012,Other Conveyance Expenses,175.7,11.63,F
+2021-07,2012,Other Cooking/ Household Appliances,130.1,11.2,F
+2021-07,2012,Other Crockery & Utensils,152.9,7.07,F
+2021-07,2012,Other Dry Fruits,177.1,3.39,F
+2021-07,2012,Other Durables (specify)….,156.4,0,F
+2021-07,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),151.2,8.08,F
+2021-07,2012,Other Entertainment,128.7,-0.31,F
+2021-07,2012,Other Footwear,148.9,7.35,F
+2021-07,2012,Other Fresh Fruits,154.1,8.6,F
+2021-07,2012,Other Fuel,163,8.16,F
+2021-07,2012,Other Intoxicants,175,1.21,F
+2021-07,2012,Other Leather Footwear,152.5,5.9,F
+2021-07,2012,Other Medical Expenses (non-institutional),145.2,4.46,F
+2021-07,2012,Other Metal Utensils,169.2,11.39,F
+2021-07,2012,Other Milk Products,150.5,3.51,F
+2021-07,2012,Other Nuts,166.7,-4.58,F
+2021-07,2012,Other Ornaments,167.1,12.98,F
+2021-07,2012,Other Packaged Processed Food,149.4,7.48,F
+2021-07,2012,Other Petty Articles,178.5,9.51,F
+2021-07,2012,Other Pulse Products,167.3,7.94,F
+2021-07,2012,Other Pulses,171.7,12.08,F
+2021-07,2012,Other Rice Products,157.4,5.5,F
+2021-07,2012,Other Tobacco Products,180.7,4.09,F
+2021-07,2012,Other Vegetables,155.8,4.21,F
+2021-07,2012,Other Washing Requisites,148.9,5.9,F
+2021-07,2012,PC/ Laptop/ Other Peripherals Incl. Software,130.2,6.37,F
+2021-07,2012,Palak/other Leafy Vegetables,172.3,0.82,F
+2021-07,2012,Pan: Finished (no.),189.9,7.17,F
+2021-07,2012,Pan: Leaf (no.),198.4,6.55,F
+2021-07,2012,Papaya,185.3,13.96,F
+2021-07,2012,Pears/nashpati,137.8,-6.39,F
+2021-07,2012,Peas (pulses),221.1,13.27,F
+2021-07,2012,Peas (vegetables),178.7,0.11,F
+2021-07,2012,Petrol for Vehicle,142.5,23.7,F
+2021-07,2012,Photography,141.8,6.38,F
+2021-07,2012,Pickles (gm),158.9,12.78,F
+2021-07,2012,Pineapple (no.),156.2,10,F
+2021-07,2012,Pork,206.3,14.23,F
+2021-07,2012,Porter Charges,189.9,13.17,F
+2021-07,2012,Potato,145,-33.82,F
+2021-07,2012,Pressure Cooker/ Pressure Pan,150.5,4.95,F
+2021-07,2012,Private Tutor/ Coaching Centre,168.8,7.65,F
+2021-07,2012,Radish,195.6,0.15,F
+2021-07,2012,Ragi & its Products,201.6,2.6,F
+2021-07,2012,Railway Fare,149.3,9.7,F
+2021-07,2012,Refrigerator,138,5.67,F
+2021-07,2012,Residential Building & Land (cost of Repairs Only),186.3,8.06,F
+2021-07,2012,Rice – Other Sources,148.7,-1.06,F
+2021-07,2012,Rice – PDS,81.5,-3.44,F
+2021-07,2012,Rickshaw (hand Drawn & Cycle) Fare,174.8,2.1,F
+2021-07,2012,Rubber / Pvc Footwear,156.8,7.1,F
+2021-07,2012,Salt,149.8,5.72,F
+2021-07,2012,Sanitary Napkins,144.3,4.04,F
+2021-07,2012,Saree (no.),165.1,6.24,F
+2021-07,2012,School/college Uniform: Boys,154.5,4.82,F
+2021-07,2012,School/college Uniform: Girls,155.6,6.5,F
+2021-07,2012,Sewing Machine,147.6,7.11,F
+2021-07,2012,Silver,137.3,30.64,F
+2021-07,2012,Singara,,,F
+2021-07,2012,Small Millets & their Products,170.1,3.72,F
+2021-07,2012,Snuff (gm),181.9,-6.62,F
+2021-07,2012,Spectacles,159.6,10.91,F
+2021-07,2012,Stainless Steel Utensils,167.3,8.14,F
+2021-07,2012,Sugar - Other Sources,109.3,-1.8,F
+2021-07,2012,Sugar - PDS,161,20.78,F
+2021-07,2012,Sweeper,177.4,1.49,F
+2021-07,2012,Tailor,183.7,4.2,F
+2021-07,2012,Tamarind (gm),202.2,-3.71,F
+2021-07,2012,Tea: Cups (no.),158.1,5.61,F
+2021-07,2012,Tea: Leaf (gm),166,17.98,F
+2021-07,2012,Telephone Charges: Landline*,116.4,1.93,F
+2021-07,2012,Telephone Charges: Mobile,145.5,4.6,F
+2021-07,2012,Television,157.9,11.04,F
+2021-07,2012,Toddy (litre),213.7,15.26,F
+2021-07,2012,Toilet Soap,148.3,6.38,F
+2021-07,2012,Tomato,139.3,-38.88,F
+2021-07,2012,Torch,147.4,8.54,F
+2021-07,2012,Turmeric (gm),148.9,7.2,F
+2021-07,2012,Tyres & Tubes,136.9,8.05,F
+2021-07,2012,Urd,181.4,6.08,F
+2021-07,2012,VCD/ DVD Hire (incl. Instrument),144.1,-20.03,F
+2021-07,2012,VCR/VCD/DVD Player,112.4,-3.44,F
+2021-07,2012,Walnut,207.7,-1.8,F
+2021-07,2012,Washing Machine,140.6,4.07,F
+2021-07,2012,Washing Soap/soda/powder,144.5,4.03,F
+2021-07,2012,Watch Man Charges (other Cons Taxes),158.1,1.22,F
+2021-07,2012,Water Charges,139.6,2.35,F
+2021-07,2012,Water Purifier,136.8,5.96,F
+2021-07,2012,Watermelon,147.1,17.4,F
+2021-07,2012,Wheat/ Atta – Other Sources,148.4,-4.75,F
+2021-07,2012,Wheat/ Atta – PDS,76.3,16.13,F
+2021-08,2012,"Air Conditioner, Air Cooler",139,4.91,F
+2021-08,2012,"Almirah, Dressing Table",151.4,8.22,F
+2021-08,2012,"Arhar, Tur",159.5,12.32,F
+2021-08,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",157.5,7,F
+2021-08,2012,"Barber, Beautician, etc.",192.7,6.82,F
+2021-08,2012,"Beans, Barbati",158.7,-2.58,F
+2021-08,2012,"Bed Sheet, Bed Cover (no.)",157.7,6.84,F
+2021-08,2012,"Biscuits, Chocolates, etc.",134.3,2.99,F
+2021-08,2012,"Books, Journals: First Hand",155.5,3.6,F
+2021-08,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",159.8,7.83,F
+2021-08,2012,"CD, DVD, Audio/video Cassette, etc",132.8,3.75,F
+2021-08,2012,"Candy, Misri",158.9,8.69,F
+2021-08,2012,"Carpet, Daree & Other Floor Mattings",216.7,8.62,F
+2021-08,2012,"Cereal Substitutes: Tapioca, etc.",157.4,-8.59,F
+2021-08,2012,"Chair, Stool, Bench, Table",163.9,7.26,F
+2021-08,2012,"Clock, Watch",144.4,-9.24,F
+2021-08,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",155.4,5.28,F
+2021-08,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",168.2,8.52,F
+2021-08,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",156.9,19.13,F
+2021-08,2012,"Coat, Jacket, Sweater, Windcheater (no.)",151.9,9.12,F
+2021-08,2012,"Coir, Rope, etc.",168.5,7.46,F
+2021-08,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",168,7.83,F
+2021-08,2012,"Electric Bulb, Tubelight",132.4,5.92,F
+2021-08,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",140.2,6.21,F
+2021-08,2012,"Fish, Prawn",186.7,2.25,F
+2021-08,2012,"Frocks, Skirts, etc. (no.)",170.5,5.64,F
+2021-08,2012,"Gamchha, Towel, Handkerchief (no.)",162.7,8.76,F
+2021-08,2012,"Gourd, Pumpkin",152.6,1.33,F
+2021-08,2012,"Hair Oil, Shampoo, Hair Cream",145.3,4.83,F
+2021-08,2012,"Headwear, Belts, Ties (no.)",158.1,6.9,F
+2021-08,2012,"House Rent, Garage Rent",162,3.78,F
+2021-08,2012,"Incense (agarbatti), Room Freshener",151.3,4.06,F
+2021-08,2012,"Leather Boots, Shoes",153,6.4,F
+2021-08,2012,"Leather Sandals, Chappals, etc.",153.2,7.28,F
+2021-08,2012,"Mosquito Repellent, Insecticide, Acid etc.",141.6,3.74,F
+2021-08,2012,"Motor Car, Jeep",137.7,3.69,F
+2021-08,2012,"Motor Cycle, Scooter",160.2,10.25,F
+2021-08,2012,"Newspapers, Periodicals",167.4,4.63,F
+2021-08,2012,"Orange, Mausami (no.)",168.3,10.58,F
+2021-08,2012,"Other Beverages: Cocoa, Chocolate, etc.",148.5,3.7,F
+2021-08,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",144,8.03,F
+2021-08,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",221,9.03,F
+2021-08,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",172.7,7.67,F
+2021-08,2012,"Parwal/patal, Kundru",139.2,-7.57,F
+2021-08,2012,"Pillow, Quilt, Mattress (no.)",160.3,8.83,F
+2021-08,2012,"Plugs, Switches & Other Electrical Fittings",166.7,5.51,F
+2021-08,2012,"Powder, Snow, Cream, Lotion and Perfume",166.2,5.93,F
+2021-08,2012,"Prepared Sweets, Cake, Pastry",169.6,7.75,F
+2021-08,2012,"Radio, Tape Recorder, 2-in-1",147.5,17.44,F
+2021-08,2012,"Raisin, Kishmish, Monacca, etc.",143.8,9.6,F
+2021-08,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",188.6,43.97,F
+2021-08,2012,"Rug, Blanket (no.)",165.5,6.43,F
+2021-08,2012,"Sauce, Jam, Jelly (gm)",147.7,3.43,F
+2021-08,2012,"School Bus, Van, etc.",175,3.73,F
+2021-08,2012,"Sewai, Noodles",148.5,4.72,F
+2021-08,2012,"Shaving Blades, Shaving Stick, Razor",143.3,6.38,F
+2021-08,2012,"Shaving Cream, Aftershave Lotion",143.6,3.68,F
+2021-08,2012,"Shawl, Chaddar (no.)",164.2,8.1,F
+2021-08,2012,"Shirts, T-shirts (no.)",163,7.03,F
+2021-08,2012,"Shorts, Trousers, Bermudas (no.)",157.4,7.22,F
+2021-08,2012,"Sports Goods, Toys, etc.",159.1,5.5,F
+2021-08,2012,"Stationery, Photocopying Charges",150,3.81,F
+2021-08,2012,"Steamer, Boat Fare",204.7,10.41,F
+2021-08,2012,"Stove, Gas Burner",145.2,-2.29,F
+2021-08,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",163,9.76,F
+2021-08,2012,"Suji, Rawa",154.8,0.13,F
+2021-08,2012,"Taxi, Auto-rickshaw Fare",167.6,8.9,F
+2021-08,2012,"Toothpaste, Toothbrush, Comb, etc.",153.2,5.22,F
+2021-08,2012,"Tuition and Other Fees (school, College, Etc.)",165.8,2.54,F
+2021-08,2012,"Umbrella, Raincoat",155.8,6.49,F
+2021-08,2012,"Vanaspati, Margarine",183.9,39.64,F
+2021-08,2012,"Washerman, Laundry, Ironing",189.3,5.7,F
+2021-08,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",154.8,6.32,F
+2021-08,2012,"Zarda, Kimam, Surti (gm)",178,-5.17,F
+2021-08,2012,Air Fare (normal): Economy Class(adult),214.6,20.83,F
+2021-08,2012,Any Other Personal Goods,205,0.74,F
+2021-08,2012,Apple,148.3,14.34,F
+2021-08,2012,Baby Food,157.1,6.51,F
+2021-08,2012,Bajra & its Products,162.5,-6.07,F
+2021-08,2012,Banana (no.),142.9,2.66,F
+2021-08,2012,Bathroom and Sanitary Equipment,163.3,4.88,F
+2021-08,2012,Bedding: Others,155.3,7.1,F
+2021-08,2012,Bedstead,184.6,11.74,F
+2021-08,2012,Beef/ Buffalo Meat,207.6,8.13,F
+2021-08,2012,Beer (litre),188.4,1.78,F
+2021-08,2012,Berries,,,F
+2021-08,2012,Besan,151.7,6.01,F
+2021-08,2012,Bicycle(without Accessories),142.6,9.36,F
+2021-08,2012,Bidi (no.),195.9,4.15,F
+2021-08,2012,Black Pepper (gm),156.2,5.83,F
+2021-08,2012,Bread (bakery),174.8,5.17,F
+2021-08,2012,Brinjal,171.8,-0.69,F
+2021-08,2012,Bus/tram Fare,178,6.46,F
+2021-08,2012,Butter,162,0.19,F
+2021-08,2012,Cabbage,172.9,-4.1,F
+2021-08,2012,Camera & Photographic Equipment,125.3,8.39,F
+2021-08,2012,Candle (no.),144.6,4.86,F
+2021-08,2012,Carrot,196.9,13.62,F
+2021-08,2012,Cashewnut,153.1,-3.47,F
+2021-08,2012,Cauliflower,201.2,-3.55,F
+2021-08,2012,Charcoal,159.5,19.83,F
+2021-08,2012,Cheroot (no.),220,17.4,F
+2021-08,2012,Chicken,211.4,17.97,F
+2021-08,2012,Chips (gm),132.4,-40.55,F
+2021-08,2012,Chira,146.1,-1.48,F
+2021-08,2012,Cigarettes (no.),212.1,3.11,F
+2021-08,2012,Cinema: New Release(normal Day),181.2,,F
+2021-08,2012,Clothing (first-hand): Other,157.6,11.22,F
+2021-08,2012,Clothing: Second-hand,152.7,8.3,F
+2021-08,2012,Club Fees,136.2,-0.51,F
+2021-08,2012,Coal,154.5,1.38,F
+2021-08,2012,Coconut (no.),224.4,7.52,F
+2021-08,2012,Coconut Oil,261.6,10.94,F
+2021-08,2012,Coconut: Copra,218.9,7.3,F
+2021-08,2012,Coffee: Cups (no.),166.4,3.81,F
+2021-08,2012,Coffee: Powder (gm),138.8,1.31,F
+2021-08,2012,Coke,151.9,-2.25,F
+2021-08,2012,Cold Beverages: Bottled/canned (litre),150.4,3.51,F
+2021-08,2012,Cooked Meals Purchased (no.),182,5.2,F
+2021-08,2012,Country Liquor (litre),187.4,3.25,F
+2021-08,2012,Curd,162.4,3.24,F
+2021-08,2012,Curry Powder (gm),171.3,5.22,F
+2021-08,2012,Dates,210.4,7.79,F
+2021-08,2012,Dhania (gm),176.8,3.27,F
+2021-08,2012,Dhoti (no.),167.4,7.93,F
+2021-08,2012,Diesel (litre) [excl. Conveyance],162.8,23.61,F
+2021-08,2012,Diesel for Vehicle,197.5,22.06,F
+2021-08,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),187.5,5.63,F
+2021-08,2012,Domestic Servant/cook,177.8,5.64,F
+2021-08,2012,Dry Chillies (gm),198.2,8.84,F
+2021-08,2012,Dung Cake,159.8,10.66,F
+2021-08,2012,Earthenware,178.2,2.59,F
+2021-08,2012,Eggs (no.),177.3,16.26,F
+2021-08,2012,Electric Batteries,153.6,10.34,F
+2021-08,2012,Electric Fan,127.4,2.25,F
+2021-08,2012,Electricity (std. Unit),140.1,3.32,F
+2021-08,2012,Family Planning Devices,173.4,3.21,F
+2021-08,2012,Firewood and Chips,157.3,6.43,F
+2021-08,2012,Flower (fresh): All Purposes,183.9,-2.6,F
+2021-08,2012,Foreign/refined Liquor or Wine (litre),189.2,1.83,F
+2021-08,2012,Fruit Juice and Shake (litre),144.1,5.03,F
+2021-08,2012,Garlic (gm),189,-10.68,F
+2021-08,2012,Ghee,156.5,1.1,F
+2021-08,2012,Ginger (gm),147.3,-29.35,F
+2021-08,2012,Glassware,137,3.01,F
+2021-08,2012,Goat Meat/mutton,220.6,7.5,F
+2021-08,2012,Gold,162.1,-10.09,F
+2021-08,2012,Goods for Recreation and Hobbies,196.2,-7.01,F
+2021-08,2012,Gram Products,162,9.68,F
+2021-08,2012,Gram: Split,148.4,9.28,F
+2021-08,2012,Gram: Whole,150.3,9.23,F
+2021-08,2012,Grapes,167,17.19,F
+2021-08,2012,Green Chillies,160,-3.21,F
+2021-08,2012,Green Coconut (no.),224.8,4.85,F
+2021-08,2012,Grinding Charges,159.7,6.32,F
+2021-08,2012,Groundnut Oil,166.9,23.72,F
+2021-08,2012,Groundnut,147.2,4.4,F
+2021-08,2012,Guava,159.3,3.17,F
+2021-08,2012,Gur,142.3,0.78,F
+2021-08,2012,Honey,147.9,-6.75,F
+2021-08,2012,Hookah Tobacco (gm),161.6,11.37,F
+2021-08,2012,Horse Cart Fare,119.7,-20.78,F
+2021-08,2012,Hospital & Nursing Home Charges,187.6,7.08,F
+2021-08,2012,Hotel Lodging Charges,155.9,-6.48,F
+2021-08,2012,Ice-cream,132.2,4.42,F
+2021-08,2012,Ingredients for Pan (gm),198.3,12.61,F
+2021-08,2012,Internet Expenses,132.5,8.87,F
+2021-08,2012,Inverter,136.3,6.73,F
+2021-08,2012,Jackfruit,143.9,-10.9,F
+2021-08,2012,Jeera (gm),137,-0.72,F
+2021-08,2012,Jowar & its Products,173.2,0.12,F
+2021-08,2012,Kerosene – Other Sources (litre),163.4,14.11,F
+2021-08,2012,Kerosene – PDS (litre),260.3,44.37,F
+2021-08,2012,Kharbooza,,,F
+2021-08,2012,Khesari,179.2,0.39,F
+2021-08,2012,Knitting Wool (gm),154,4.41,F
+2021-08,2012,Kurta-pajama Suits: Females (no.),158.8,6.36,F
+2021-08,2012,Kurta-pajama Suits: Males (no.),163.5,5.62,F
+2021-08,2012,LPG [excl. Conveyance],188.7,35.27,F
+2021-08,2012,Lady's Finger,124.8,1.46,F
+2021-08,2012,Leaf Tobacco (gm),180.9,4.09,F
+2021-08,2012,Leechi,,,F
+2021-08,2012,Lemon (no.),114.2,8.25,F
+2021-08,2012,Library Charges,,,F
+2021-08,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.5,-0.82,F
+2021-08,2012,Lock,163.6,7,F
+2021-08,2012,Lubricants & Other Fuels for Vehicle,139.9,5.27,F
+2021-08,2012,Lungi (no.),158.9,8.24,F
+2021-08,2012,Maida,149.7,-2.86,F
+2021-08,2012,Maize & Products,156.7,-3.09,F
+2021-08,2012,Mango,136.1,-0.95,F
+2021-08,2012,Masur,163.3,9.67,F
+2021-08,2012,Matches (box),119.2,1.36,F
+2021-08,2012,Medicine (non-institutional),163.8,8.55,F
+2021-08,2012,Milk: Condensed/ Powder,154.2,1.25,F
+2021-08,2012,Milk: Liquid (litre),157.9,2.8,F
+2021-08,2012,Mineral Water (litre),117.5,-0.17,F
+2021-08,2012,Mobile Handset,114.6,6.01,F
+2021-08,2012,Monthly Charges for Cable Tv Connection,158.1,6.75,F
+2021-08,2012,Monthly Maintainance Charges,133.8,-11.97,F
+2021-08,2012,Moong,160.8,2.23,F
+2021-08,2012,Mosquito Net (no.),146.1,6.02,F
+2021-08,2012,Muri,148.3,1.44,F
+2021-08,2012,Mustard Oil,189.1,40.8,F
+2021-08,2012,Oilseeds (gm),174.6,14.19,F
+2021-08,2012,Onion,220.8,23.98,F
+2021-08,2012,Other Cereals,182,6.06,F
+2021-08,2012,Other Consumer Services Excluding Conveyance,170.2,7.04,F
+2021-08,2012,Other Conveyance Expenses,175.8,11.69,F
+2021-08,2012,Other Cooking/ Household Appliances,130.2,7.34,F
+2021-08,2012,Other Crockery & Utensils,153.1,7.44,F
+2021-08,2012,Other Dry Fruits,180.7,5.36,F
+2021-08,2012,Other Durables (specify)….,156.9,0.13,F
+2021-08,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),149.3,5.89,F
+2021-08,2012,Other Entertainment,129.3,-0.84,F
+2021-08,2012,Other Footwear,150.5,7.89,F
+2021-08,2012,Other Fresh Fruits,148.7,8.94,F
+2021-08,2012,Other Fuel,163,9.03,F
+2021-08,2012,Other Intoxicants,175.2,-0.06,F
+2021-08,2012,Other Leather Footwear,153.3,3.02,F
+2021-08,2012,Other Medical Expenses (non-institutional),145.8,3.11,F
+2021-08,2012,Other Metal Utensils,169.7,10.05,F
+2021-08,2012,Other Milk Products,152.9,7.98,F
+2021-08,2012,Other Nuts,175.6,-0.28,F
+2021-08,2012,Other Ornaments,162.7,4.43,F
+2021-08,2012,Other Packaged Processed Food,149.4,8.26,F
+2021-08,2012,Other Petty Articles,180,9.89,F
+2021-08,2012,Other Pulse Products,167.9,9.45,F
+2021-08,2012,Other Pulses,172.6,12.52,F
+2021-08,2012,Other Rice Products,156.4,5.6,F
+2021-08,2012,Other Tobacco Products,181.2,4.08,F
+2021-08,2012,Other Vegetables,151.1,-0.79,F
+2021-08,2012,Other Washing Requisites,149.4,6.26,F
+2021-08,2012,PC/ Laptop/ Other Peripherals Incl. Software,130.7,5.4,F
+2021-08,2012,Palak/other Leafy Vegetables,178.2,0.39,F
+2021-08,2012,Pan: Finished (no.),191.1,6.76,F
+2021-08,2012,Pan: Leaf (no.),194.5,5.36,F
+2021-08,2012,Papaya,180.3,9.21,F
+2021-08,2012,Pears/nashpati,127,-13.84,F
+2021-08,2012,Peas (pulses),219.8,11.52,F
+2021-08,2012,Peas (vegetables),196.3,-10.69,F
+2021-08,2012,Petrol for Vehicle,143.6,24.01,F
+2021-08,2012,Photography,142.1,5.65,F
+2021-08,2012,Pickles (gm),159.8,13.98,F
+2021-08,2012,Pineapple (no.),153.8,3.92,F
+2021-08,2012,Pork,205.8,13.33,F
+2021-08,2012,Porter Charges,189,7.75,F
+2021-08,2012,Potato,143.1,-39.59,F
+2021-08,2012,Pressure Cooker/ Pressure Pan,159.1,10.26,F
+2021-08,2012,Private Tutor/ Coaching Centre,168.4,9.85,F
+2021-08,2012,Radish,213.9,2.59,F
+2021-08,2012,Ragi & its Products,201.7,2.59,F
+2021-08,2012,Railway Fare,150.5,-0.73,F
+2021-08,2012,Refrigerator,138.7,5.8,F
+2021-08,2012,Residential Building & Land (cost of Repairs Only),186.9,7.66,F
+2021-08,2012,Rice – Other Sources,148.4,-1.2,F
+2021-08,2012,Rice – PDS,81.5,-0.24,F
+2021-08,2012,Rickshaw (hand Drawn & Cycle) Fare,176.3,2.14,F
+2021-08,2012,Rubber / Pvc Footwear,158.3,7.76,F
+2021-08,2012,Salt,150.3,5.85,F
+2021-08,2012,Sanitary Napkins,144.6,4.4,F
+2021-08,2012,Saree (no.),166.1,6.47,F
+2021-08,2012,School/college Uniform: Boys,154.9,5.02,F
+2021-08,2012,School/college Uniform: Girls,156.2,6.48,F
+2021-08,2012,Sewing Machine,146.9,7.7,F
+2021-08,2012,Silver,131.8,4.03,F
+2021-08,2012,Singara,,,F
+2021-08,2012,Small Millets & their Products,169.7,5.6,F
+2021-08,2012,Snuff (gm),182.8,-3.59,F
+2021-08,2012,Spectacles,162.6,13.39,F
+2021-08,2012,Stainless Steel Utensils,169.1,9.03,F
+2021-08,2012,Sugar - Other Sources,110.6,-0.9,F
+2021-08,2012,Sugar - PDS,161,3.54,F
+2021-08,2012,Sweeper,179.1,0.34,F
+2021-08,2012,Tailor,184.5,4.47,F
+2021-08,2012,Tamarind (gm),201.7,-4.72,F
+2021-08,2012,Tea: Cups (no.),158.3,4.83,F
+2021-08,2012,Tea: Leaf (gm),167.3,17.24,F
+2021-08,2012,Telephone Charges: Landline*,116.2,1.66,F
+2021-08,2012,Telephone Charges: Mobile,145.6,4,F
+2021-08,2012,Television,159.2,11.02,F
+2021-08,2012,Toddy (litre),214.9,16.1,F
+2021-08,2012,Toilet Soap,149.8,7.15,F
+2021-08,2012,Tomato,145.4,-34.53,F
+2021-08,2012,Torch,147.8,8.2,F
+2021-08,2012,Turmeric (gm),149.2,7.42,F
+2021-08,2012,Tyres & Tubes,137.5,8.35,F
+2021-08,2012,Urd,179.7,6.46,F
+2021-08,2012,VCD/ DVD Hire (incl. Instrument),144.1,-19.32,F
+2021-08,2012,VCR/VCD/DVD Player,116,2.65,F
+2021-08,2012,Walnut,211.7,3.47,F
+2021-08,2012,Washing Machine,141.6,8.01,F
+2021-08,2012,Washing Soap/soda/powder,145,4.32,F
+2021-08,2012,Watch Man Charges (other Cons Taxes),158.7,-1.73,F
+2021-08,2012,Water Charges,140,2.79,F
+2021-08,2012,Water Purifier,134.8,2.74,F
+2021-08,2012,Watermelon,171.5,20.27,F
+2021-08,2012,Wheat/ Atta – Other Sources,148.2,-4.2,F
+2021-08,2012,Wheat/ Atta – PDS,76.3,11.22,F
+2021-09,2012,"Air Conditioner, Air Cooler",139.1,5.7,F
+2021-09,2012,"Almirah, Dressing Table",152.1,8.18,F
+2021-09,2012,"Arhar, Tur",159.8,11.51,F
+2021-09,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",158.8,7.73,F
+2021-09,2012,"Barber, Beautician, etc.",193.1,6.63,F
+2021-09,2012,"Beans, Barbati",159.9,-12.38,F
+2021-09,2012,"Bed Sheet, Bed Cover (no.)",158.4,7.1,F
+2021-09,2012,"Biscuits, Chocolates, etc.",134.8,2.98,F
+2021-09,2012,"Books, Journals: First Hand",156.2,3.86,F
+2021-09,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",161.8,8.74,F
+2021-09,2012,"CD, DVD, Audio/video Cassette, etc",131.6,1.23,F
+2021-09,2012,"Candy, Misri",160.9,8.42,F
+2021-09,2012,"Carpet, Daree & Other Floor Mattings",218.8,8.32,F
+2021-09,2012,"Cereal Substitutes: Tapioca, etc.",157.4,-7.57,F
+2021-09,2012,"Chair, Stool, Bench, Table",164,6.49,F
+2021-09,2012,"Clock, Watch",144.1,-10.5,F
+2021-09,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",156,4.98,F
+2021-09,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",169.2,8.67,F
+2021-09,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",157,17.87,F
+2021-09,2012,"Coat, Jacket, Sweater, Windcheater (no.)",151.6,7.52,F
+2021-09,2012,"Coir, Rope, etc.",169.8,9.97,F
+2021-09,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",169.1,7.91,F
+2021-09,2012,"Electric Bulb, Tubelight",132.7,5.57,F
+2021-09,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",144.9,12.94,F
+2021-09,2012,"Fish, Prawn",185.6,2.15,F
+2021-09,2012,"Frocks, Skirts, etc. (no.)",171.6,6.39,F
+2021-09,2012,"Gamchha, Towel, Handkerchief (no.)",163.5,9.07,F
+2021-09,2012,"Gourd, Pumpkin",146.2,-10.8,F
+2021-09,2012,"Hair Oil, Shampoo, Hair Cream",146,5.04,F
+2021-09,2012,"Headwear, Belts, Ties (no.)",158,6.18,F
+2021-09,2012,"House Rent, Garage Rent",161.7,3.52,F
+2021-09,2012,"Incense (agarbatti), Room Freshener",150.9,3.85,F
+2021-09,2012,"Leather Boots, Shoes",153.7,6.51,F
+2021-09,2012,"Leather Sandals, Chappals, etc.",154.2,7.46,F
+2021-09,2012,"Mosquito Repellent, Insecticide, Acid etc.",141.9,3.73,F
+2021-09,2012,"Motor Car, Jeep",138.8,4.6,F
+2021-09,2012,"Motor Cycle, Scooter",161.1,10.8,F
+2021-09,2012,"Newspapers, Periodicals",167.6,4.23,F
+2021-09,2012,"Orange, Mausami (no.)",158.4,5.74,F
+2021-09,2012,"Other Beverages: Cocoa, Chocolate, etc.",148.3,3.42,F
+2021-09,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",144.5,8.32,F
+2021-09,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",220.6,9.21,F
+2021-09,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",173.7,7.75,F
+2021-09,2012,"Parwal/patal, Kundru",146.2,-13.08,F
+2021-09,2012,"Pillow, Quilt, Mattress (no.)",161,9.45,F
+2021-09,2012,"Plugs, Switches & Other Electrical Fittings",165.1,3.06,F
+2021-09,2012,"Powder, Snow, Cream, Lotion and Perfume",167,5.9,F
+2021-09,2012,"Prepared Sweets, Cake, Pastry",170.6,8.18,F
+2021-09,2012,"Radio, Tape Recorder, 2-in-1",148.6,14.4,F
+2021-09,2012,"Raisin, Kishmish, Monacca, etc.",145.2,11.44,F
+2021-09,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",191,43.61,F
+2021-09,2012,"Rug, Blanket (no.)",165.6,6.84,F
+2021-09,2012,"Sauce, Jam, Jelly (gm)",148.1,3.35,F
+2021-09,2012,"School Bus, Van, etc.",170.3,5.19,F
+2021-09,2012,"Sewai, Noodles",149.1,4.93,F
+2021-09,2012,"Shaving Blades, Shaving Stick, Razor",143.4,6.07,F
+2021-09,2012,"Shaving Cream, Aftershave Lotion",144.3,3.89,F
+2021-09,2012,"Shawl, Chaddar (no.)",165.6,8.66,F
+2021-09,2012,"Shirts, T-shirts (no.)",163.8,7.34,F
+2021-09,2012,"Shorts, Trousers, Bermudas (no.)",158.5,7.68,F
+2021-09,2012,"Sports Goods, Toys, etc.",159.7,5.62,F
+2021-09,2012,"Stationery, Photocopying Charges",150.2,3.8,F
+2021-09,2012,"Steamer, Boat Fare",204.7,10.41,F
+2021-09,2012,"Stove, Gas Burner",145.2,-4.35,F
+2021-09,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",162.6,17.06,F
+2021-09,2012,"Suji, Rawa",154.6,0,F
+2021-09,2012,"Taxi, Auto-rickshaw Fare",167.3,6.7,F
+2021-09,2012,"Toothpaste, Toothbrush, Comb, etc.",153.8,4.84,F
+2021-09,2012,"Tuition and Other Fees (school, College, Etc.)",166,2.22,F
+2021-09,2012,"Umbrella, Raincoat",156.3,6.33,F
+2021-09,2012,"Vanaspati, Margarine",188.1,41.96,F
+2021-09,2012,"Washerman, Laundry, Ironing",190.1,6.44,F
+2021-09,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",155.2,6.01,F
+2021-09,2012,"Zarda, Kimam, Surti (gm)",178.2,-0.5,F
+2021-09,2012,Air Fare (normal): Economy Class(adult),224.3,32.41,F
+2021-09,2012,Any Other Personal Goods,210.8,3.59,F
+2021-09,2012,Apple,123.7,-1.43,F
+2021-09,2012,Baby Food,157.8,5.98,F
+2021-09,2012,Bajra & its Products,165.1,-3.05,F
+2021-09,2012,Banana (no.),139.2,-0.93,F
+2021-09,2012,Bathroom and Sanitary Equipment,164.4,5.59,F
+2021-09,2012,Bedding: Others,158.9,9.66,F
+2021-09,2012,Bedstead,185.7,10.47,F
+2021-09,2012,Beef/ Buffalo Meat,206.9,6.43,F
+2021-09,2012,Beer (litre),188.7,1.45,F
+2021-09,2012,Berries,,,F
+2021-09,2012,Besan,152.9,6.11,F
+2021-09,2012,Bicycle(without Accessories),144,10.09,F
+2021-09,2012,Bidi (no.),196.6,4.3,F
+2021-09,2012,Black Pepper (gm),156.8,6.96,F
+2021-09,2012,Bread (bakery),176.3,5.63,F
+2021-09,2012,Brinjal,169.2,-11.6,F
+2021-09,2012,Bus/tram Fare,178.4,4.63,F
+2021-09,2012,Butter,163.1,1.87,F
+2021-09,2012,Cabbage,169.7,-14.68,F
+2021-09,2012,Camera & Photographic Equipment,125.3,8.39,F
+2021-09,2012,Candle (no.),144.8,5,F
+2021-09,2012,Carrot,195.3,1.09,F
+2021-09,2012,Cashewnut,155.1,-1.46,F
+2021-09,2012,Cauliflower,212.9,-7.35,F
+2021-09,2012,Charcoal,158.2,15.9,F
+2021-09,2012,Cheroot (no.),215.5,9.45,F
+2021-09,2012,Chicken,211.4,14.52,F
+2021-09,2012,Chips (gm),132.4,-15.94,F
+2021-09,2012,Chira,146,-1.22,F
+2021-09,2012,Cigarettes (no.),212.6,3.2,F
+2021-09,2012,Cinema: New Release(normal Day),183.9,,F
+2021-09,2012,Clothing (first-hand): Other,156.9,10.57,F
+2021-09,2012,Clothing: Second-hand,151.3,14.45,F
+2021-09,2012,Club Fees,136.2,-1.09,F
+2021-09,2012,Coal,152.8,0.53,F
+2021-09,2012,Coconut (no.),222.9,5.49,F
+2021-09,2012,Coconut Oil,258.4,6.47,F
+2021-09,2012,Coconut: Copra,220.5,8.94,F
+2021-09,2012,Coffee: Cups (no.),165.9,3.56,F
+2021-09,2012,Coffee: Powder (gm),139,1.39,F
+2021-09,2012,Coke,151.2,-2.7,F
+2021-09,2012,Cold Beverages: Bottled/canned (litre),150.6,3.51,F
+2021-09,2012,Cooked Meals Purchased (no.),183.1,5.84,F
+2021-09,2012,Country Liquor (litre),189.1,3.79,F
+2021-09,2012,Curd,162.4,2.98,F
+2021-09,2012,Curry Powder (gm),171.9,5.2,F
+2021-09,2012,Dates,209.9,3.55,F
+2021-09,2012,Dhania (gm),177.3,3.2,F
+2021-09,2012,Dhoti (no.),168.2,8.31,F
+2021-09,2012,Diesel (litre) [excl. Conveyance],161.4,23.21,F
+2021-09,2012,Diesel for Vehicle,195.8,22.38,F
+2021-09,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),188.3,5.97,F
+2021-09,2012,Domestic Servant/cook,178.6,7.72,F
+2021-09,2012,Dry Chillies (gm),198.2,8.25,F
+2021-09,2012,Dung Cake,160,12.2,F
+2021-09,2012,Earthenware,177.8,1.66,F
+2021-09,2012,Eggs (no.),172.8,7.06,F
+2021-09,2012,Electric Batteries,154.2,9.83,F
+2021-09,2012,Electric Fan,127.9,3.9,F
+2021-09,2012,Electricity (std. Unit),140.3,3.16,F
+2021-09,2012,Family Planning Devices,174,3.57,F
+2021-09,2012,Firewood and Chips,157.3,5.5,F
+2021-09,2012,Flower (fresh): All Purposes,185.7,-2.21,F
+2021-09,2012,Foreign/refined Liquor or Wine (litre),188.6,2.28,F
+2021-09,2012,Fruit Juice and Shake (litre),144.1,5.03,F
+2021-09,2012,Garlic (gm),185.3,-16.08,F
+2021-09,2012,Ghee,156.8,1.36,F
+2021-09,2012,Ginger (gm),143.7,-28.65,F
+2021-09,2012,Glassware,137,3.09,F
+2021-09,2012,Goat Meat/mutton,220.9,7.44,F
+2021-09,2012,Gold,160.6,-7.7,F
+2021-09,2012,Goods for Recreation and Hobbies,197.9,1.85,F
+2021-09,2012,Gram Products,161.6,7.66,F
+2021-09,2012,Gram: Split,149.6,8.48,F
+2021-09,2012,Gram: Whole,152.1,9.11,F
+2021-09,2012,Grapes,167.5,13.71,F
+2021-09,2012,Green Chillies,152.8,-16.04,F
+2021-09,2012,Green Coconut (no.),227.6,6.16,F
+2021-09,2012,Grinding Charges,160.9,6.91,F
+2021-09,2012,Groundnut Oil,167.1,21.53,F
+2021-09,2012,Groundnut,148.6,5.69,F
+2021-09,2012,Guava,152.7,2.28,F
+2021-09,2012,Gur,144,0.56,F
+2021-09,2012,Honey,148.1,-6.86,F
+2021-09,2012,Hookah Tobacco (gm),162,12.03,F
+2021-09,2012,Horse Cart Fare,119.7,-15.64,F
+2021-09,2012,Hospital & Nursing Home Charges,188.5,7.22,F
+2021-09,2012,Hotel Lodging Charges,157.7,2.47,F
+2021-09,2012,Ice-cream,132.5,4.83,F
+2021-09,2012,Ingredients for Pan (gm),199.9,12.62,F
+2021-09,2012,Internet Expenses,133.2,8.47,F
+2021-09,2012,Inverter,136.9,7.12,F
+2021-09,2012,Jackfruit,,,F
+2021-09,2012,Jeera (gm),137.2,-0.72,F
+2021-09,2012,Jowar & its Products,169.2,-1.8,F
+2021-09,2012,Kerosene – Other Sources (litre),165.6,16.13,F
+2021-09,2012,Kerosene – PDS (litre),263,44.27,F
+2021-09,2012,Kharbooza,,,F
+2021-09,2012,Khesari,180.4,0.95,F
+2021-09,2012,Knitting Wool (gm),155.5,3.87,F
+2021-09,2012,Kurta-pajama Suits: Females (no.),159.3,6.63,F
+2021-09,2012,Kurta-pajama Suits: Males (no.),161.1,6.27,F
+2021-09,2012,LPG [excl. Conveyance],196.2,41.35,F
+2021-09,2012,Lady's Finger,119.7,-13.95,F
+2021-09,2012,Leaf Tobacco (gm),181.8,3.95,F
+2021-09,2012,Leechi,,,F
+2021-09,2012,Lemon (no.),120.4,7.98,F
+2021-09,2012,Library Charges,,,F
+2021-09,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.5,-0.82,F
+2021-09,2012,Lock,164.6,16.16,F
+2021-09,2012,Lubricants & Other Fuels for Vehicle,141.1,5.38,F
+2021-09,2012,Lungi (no.),160,8.47,F
+2021-09,2012,Maida,150.2,-2.15,F
+2021-09,2012,Maize & Products,157.4,-1.01,F
+2021-09,2012,Mango,,,F
+2021-09,2012,Masur,167.8,11.64,F
+2021-09,2012,Matches (box),119.4,1.36,F
+2021-09,2012,Medicine (non-institutional),164.6,8.5,F
+2021-09,2012,Milk: Condensed/ Powder,154.9,2.31,F
+2021-09,2012,Milk: Liquid (litre),158.4,3.13,F
+2021-09,2012,Mineral Water (litre),117.5,-0.25,F
+2021-09,2012,Mobile Handset,115.3,5.88,F
+2021-09,2012,Monthly Charges for Cable Tv Connection,158.6,6.8,F
+2021-09,2012,Monthly Maintainance Charges,134.1,-20.27,F
+2021-09,2012,Moong,160.1,2.43,F
+2021-09,2012,Mosquito Net (no.),147,5.6,F
+2021-09,2012,Muri,148.9,1.64,F
+2021-09,2012,Mustard Oil,197.6,44.87,F
+2021-09,2012,Oilseeds (gm),177.4,15.49,F
+2021-09,2012,Onion,213,-9.55,F
+2021-09,2012,Other Cereals,182,6.06,F
+2021-09,2012,Other Consumer Services Excluding Conveyance,170.1,8.14,F
+2021-09,2012,Other Conveyance Expenses,175.2,15.04,F
+2021-09,2012,Other Cooking/ Household Appliances,133.5,10.88,F
+2021-09,2012,Other Crockery & Utensils,154.6,7.74,F
+2021-09,2012,Other Dry Fruits,184.5,8.66,F
+2021-09,2012,Other Durables (specify)….,157.5,-0.25,F
+2021-09,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),149.4,6.41,F
+2021-09,2012,Other Entertainment,131.4,0.84,F
+2021-09,2012,Other Footwear,151.1,7.93,F
+2021-09,2012,Other Fresh Fruits,148.6,9.26,F
+2021-09,2012,Other Fuel,162.8,9.12,F
+2021-09,2012,Other Intoxicants,175.2,-0.79,F
+2021-09,2012,Other Leather Footwear,153.8,5.34,F
+2021-09,2012,Other Medical Expenses (non-institutional),145.9,3.55,F
+2021-09,2012,Other Metal Utensils,170.5,10.43,F
+2021-09,2012,Other Milk Products,153.2,8.5,F
+2021-09,2012,Other Nuts,181.2,5.47,F
+2021-09,2012,Other Ornaments,156.9,0.64,F
+2021-09,2012,Other Packaged Processed Food,149.9,8.7,F
+2021-09,2012,Other Petty Articles,180.8,8.72,F
+2021-09,2012,Other Pulse Products,169.3,9.44,F
+2021-09,2012,Other Pulses,176.2,12.88,F
+2021-09,2012,Other Rice Products,154.6,4.04,F
+2021-09,2012,Other Tobacco Products,181.5,3.42,F
+2021-09,2012,Other Vegetables,148.2,-9.19,F
+2021-09,2012,Other Washing Requisites,149.6,6.02,F
+2021-09,2012,PC/ Laptop/ Other Peripherals Incl. Software,131.6,6.3,F
+2021-09,2012,Palak/other Leafy Vegetables,182.2,-5.64,F
+2021-09,2012,Pan: Finished (no.),191.3,7.35,F
+2021-09,2012,Pan: Leaf (no.),192,4.01,F
+2021-09,2012,Papaya,178.1,9.13,F
+2021-09,2012,Pears/nashpati,129.2,-9.9,F
+2021-09,2012,Peas (pulses),219.6,8.23,F
+2021-09,2012,Peas (vegetables),214.6,-13.88,F
+2021-09,2012,Petrol for Vehicle,142.7,22.17,F
+2021-09,2012,Photography,142.9,5.77,F
+2021-09,2012,Pickles (gm),160.9,14.28,F
+2021-09,2012,Pineapple (no.),159,2.32,F
+2021-09,2012,Pork,205.3,13.93,F
+2021-09,2012,Porter Charges,189,3.96,F
+2021-09,2012,Potato,139.8,-47.32,F
+2021-09,2012,Pressure Cooker/ Pressure Pan,156.2,16.83,F
+2021-09,2012,Private Tutor/ Coaching Centre,168.9,6.9,F
+2021-09,2012,Radish,210.7,-9.84,F
+2021-09,2012,Ragi & its Products,200.5,2.66,F
+2021-09,2012,Railway Fare,151.3,-0.2,F
+2021-09,2012,Refrigerator,139.3,5.21,F
+2021-09,2012,Residential Building & Land (cost of Repairs Only),187.5,6.72,F
+2021-09,2012,Rice – Other Sources,148.5,-0.8,F
+2021-09,2012,Rice – PDS,81.5,-4.12,F
+2021-09,2012,Rickshaw (hand Drawn & Cycle) Fare,176.3,2.32,F
+2021-09,2012,Rubber / Pvc Footwear,159.6,8.2,F
+2021-09,2012,Salt,151.2,6.03,F
+2021-09,2012,Sanitary Napkins,144.8,4.02,F
+2021-09,2012,Saree (no.),167.3,7.11,F
+2021-09,2012,School/college Uniform: Boys,154.4,4.25,F
+2021-09,2012,School/college Uniform: Girls,155.9,6.34,F
+2021-09,2012,Sewing Machine,147.9,7.72,F
+2021-09,2012,Silver,127.7,3.65,F
+2021-09,2012,Singara,,,F
+2021-09,2012,Small Millets & their Products,166.9,3.86,F
+2021-09,2012,Snuff (gm),182.8,-4.44,F
+2021-09,2012,Spectacles,163.7,14.32,F
+2021-09,2012,Stainless Steel Utensils,174.6,10.51,F
+2021-09,2012,Sugar - Other Sources,115.1,3.6,F
+2021-09,2012,Sugar - PDS,161,2.09,F
+2021-09,2012,Sweeper,179.4,3.7,F
+2021-09,2012,Tailor,185.2,4.87,F
+2021-09,2012,Tamarind (gm),199.7,-6.94,F
+2021-09,2012,Tea: Cups (no.),158.8,4.89,F
+2021-09,2012,Tea: Leaf (gm),168.2,15.92,F
+2021-09,2012,Telephone Charges: Landline*,116.3,0.95,F
+2021-09,2012,Telephone Charges: Mobile,145.7,3.48,F
+2021-09,2012,Television,160.7,12.77,F
+2021-09,2012,Toddy (litre),214.7,17.45,F
+2021-09,2012,Toilet Soap,150.8,7.79,F
+2021-09,2012,Tomato,137.7,-45.57,F
+2021-09,2012,Torch,147.8,7.33,F
+2021-09,2012,Turmeric (gm),149.9,7.15,F
+2021-09,2012,Tyres & Tubes,138,8.58,F
+2021-09,2012,Urd,180.3,6.88,F
+2021-09,2012,VCD/ DVD Hire (incl. Instrument),144.1,-19.32,F
+2021-09,2012,VCR/VCD/DVD Player,115.8,3.95,F
+2021-09,2012,Walnut,214.6,5.2,F
+2021-09,2012,Washing Machine,143.3,9.81,F
+2021-09,2012,Washing Soap/soda/powder,145.5,4.53,F
+2021-09,2012,Watch Man Charges (other Cons Taxes),159.6,-3.51,F
+2021-09,2012,Water Charges,140,4.24,F
+2021-09,2012,Water Purifier,135.9,4.7,F
+2021-09,2012,Watermelon,162.8,3.76,F
+2021-09,2012,Wheat/ Atta – Other Sources,149.3,-1.97,F
+2021-09,2012,Wheat/ Atta – PDS,76.3,8.53,F
+2021-10,2012,"Air Conditioner, Air Cooler",138.9,5.71,F
+2021-10,2012,"Almirah, Dressing Table",154.2,9.52,F
+2021-10,2012,"Arhar, Tur",160.3,3.55,F
+2021-10,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",159.8,7.97,F
+2021-10,2012,"Barber, Beautician, etc.",194.1,6.41,F
+2021-10,2012,"Beans, Barbati",175.1,-6.41,F
+2021-10,2012,"Bed Sheet, Bed Cover (no.)",159.3,7.13,F
+2021-10,2012,"Biscuits, Chocolates, etc.",135.4,3.12,F
+2021-10,2012,"Books, Journals: First Hand",156.5,4.68,F
+2021-10,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",163,8.02,F
+2021-10,2012,"CD, DVD, Audio/video Cassette, etc",131.2,-0.61,F
+2021-10,2012,"Candy, Misri",159.7,6.68,F
+2021-10,2012,"Carpet, Daree & Other Floor Mattings",219.9,8.17,F
+2021-10,2012,"Cereal Substitutes: Tapioca, etc.",157.4,-6.31,F
+2021-10,2012,"Chair, Stool, Bench, Table",164.1,5.67,F
+2021-10,2012,"Clock, Watch",144,-1.91,F
+2021-10,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",156.9,5.73,F
+2021-10,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",170.5,9.22,F
+2021-10,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",157.9,17.14,F
+2021-10,2012,"Coat, Jacket, Sweater, Windcheater (no.)",153.7,6.88,F
+2021-10,2012,"Coir, Rope, etc.",171,11.33,F
+2021-10,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",169.8,7.81,F
+2021-10,2012,"Electric Bulb, Tubelight",132.9,5.39,F
+2021-10,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",145.2,2.4,F
+2021-10,2012,"Fish, Prawn",186,1.69,F
+2021-10,2012,"Frocks, Skirts, etc. (no.)",172.7,6.87,F
+2021-10,2012,"Gamchha, Towel, Handkerchief (no.)",164.3,9.39,F
+2021-10,2012,"Gourd, Pumpkin",157.4,-9.7,F
+2021-10,2012,"Hair Oil, Shampoo, Hair Cream",146.5,5.32,F
+2021-10,2012,"Headwear, Belts, Ties (no.)",157.8,6.84,F
+2021-10,2012,"House Rent, Garage Rent",163.3,3.42,F
+2021-10,2012,"Incense (agarbatti), Room Freshener",150.8,3.5,F
+2021-10,2012,"Leather Boots, Shoes",154.5,6.77,F
+2021-10,2012,"Leather Sandals, Chappals, etc.",155.3,7.92,F
+2021-10,2012,"Mosquito Repellent, Insecticide, Acid etc.",142.1,3.5,F
+2021-10,2012,"Motor Car, Jeep",139.8,4.8,F
+2021-10,2012,"Motor Cycle, Scooter",162,10.88,F
+2021-10,2012,"Newspapers, Periodicals",168,4.22,F
+2021-10,2012,"Orange, Mausami (no.)",149.9,4.46,F
+2021-10,2012,"Other Beverages: Cocoa, Chocolate, etc.",148.6,3.34,F
+2021-10,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",145.2,8.2,F
+2021-10,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",213.1,3.85,F
+2021-10,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",174.7,7.64,F
+2021-10,2012,"Parwal/patal, Kundru",170.6,-7.83,F
+2021-10,2012,"Pillow, Quilt, Mattress (no.)",162.1,9.23,F
+2021-10,2012,"Plugs, Switches & Other Electrical Fittings",166.6,4.65,F
+2021-10,2012,"Powder, Snow, Cream, Lotion and Perfume",167.7,5.87,F
+2021-10,2012,"Prepared Sweets, Cake, Pastry",171.5,8.48,F
+2021-10,2012,"Radio, Tape Recorder, 2-in-1",151.2,16.22,F
+2021-10,2012,"Raisin, Kishmish, Monacca, etc.",146.2,13.16,F
+2021-10,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",190.4,39.08,F
+2021-10,2012,"Rug, Blanket (no.)",166.4,4.85,F
+2021-10,2012,"Sauce, Jam, Jelly (gm)",148.3,3.42,F
+2021-10,2012,"School Bus, Van, etc.",170.7,4.92,F
+2021-10,2012,"Sewai, Noodles",149.2,4.26,F
+2021-10,2012,"Shaving Blades, Shaving Stick, Razor",144,6.43,F
+2021-10,2012,"Shaving Cream, Aftershave Lotion",145,4.32,F
+2021-10,2012,"Shawl, Chaddar (no.)",167.3,9.2,F
+2021-10,2012,"Shirts, T-shirts (no.)",164.8,7.64,F
+2021-10,2012,"Shorts, Trousers, Bermudas (no.)",159.4,7.85,F
+2021-10,2012,"Sports Goods, Toys, etc.",160.5,5.73,F
+2021-10,2012,"Stationery, Photocopying Charges",150.6,3.79,F
+2021-10,2012,"Steamer, Boat Fare",204.7,10.41,F
+2021-10,2012,"Stove, Gas Burner",146.4,-4.63,F
+2021-10,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",163,16.68,F
+2021-10,2012,"Suji, Rawa",155.2,0.58,F
+2021-10,2012,"Taxi, Auto-rickshaw Fare",168.4,7.12,F
+2021-10,2012,"Toothpaste, Toothbrush, Comb, etc.",154.2,4.97,F
+2021-10,2012,"Tuition and Other Fees (school, College, Etc.)",166.3,2.4,F
+2021-10,2012,"Umbrella, Raincoat",156.3,6.33,F
+2021-10,2012,"Vanaspati, Margarine",190.6,41.92,F
+2021-10,2012,"Washerman, Laundry, Ironing",190.9,6.41,F
+2021-10,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",155.6,5.92,F
+2021-10,2012,"Zarda, Kimam, Surti (gm)",179,0.39,F
+2021-10,2012,Air Fare (normal): Economy Class(adult),212.3,32.19,F
+2021-10,2012,Any Other Personal Goods,215.6,5.95,F
+2021-10,2012,Apple,114.6,6.51,F
+2021-10,2012,Baby Food,158.7,6.51,F
+2021-10,2012,Bajra & its Products,165.2,-1.9,F
+2021-10,2012,Banana (no.),140,1.82,F
+2021-10,2012,Bathroom and Sanitary Equipment,166.6,6.93,F
+2021-10,2012,Bedding: Others,159.8,7.32,F
+2021-10,2012,Bedstead,187.1,10.71,F
+2021-10,2012,Beef/ Buffalo Meat,207.1,6.59,F
+2021-10,2012,Beer (litre),188.7,1.51,F
+2021-10,2012,Berries,,,F
+2021-10,2012,Besan,153.6,4.77,F
+2021-10,2012,Bicycle(without Accessories),145.4,10.99,F
+2021-10,2012,Bidi (no.),197,4.07,F
+2021-10,2012,Black Pepper (gm),157.7,7.5,F
+2021-10,2012,Bread (bakery),177.5,5.78,F
+2021-10,2012,Brinjal,197.8,-0.75,F
+2021-10,2012,Bus/tram Fare,179,5.11,F
+2021-10,2012,Butter,164.3,2.37,F
+2021-10,2012,Cabbage,182.8,-21.24,F
+2021-10,2012,Camera & Photographic Equipment,125.3,8.39,F
+2021-10,2012,Candle (no.),145.1,4.99,F
+2021-10,2012,Carrot,198,-12.43,F
+2021-10,2012,Cashewnut,155.4,0.06,F
+2021-10,2012,Cauliflower,221.1,-7.26,F
+2021-10,2012,Charcoal,159.2,15.03,F
+2021-10,2012,Cheroot (no.),216.8,6.85,F
+2021-10,2012,Chicken,212.3,12.33,F
+2021-10,2012,Chips (gm),132.4,-8.82,F
+2021-10,2012,Chira,146.2,-1.02,F
+2021-10,2012,Cigarettes (no.),212.7,2.8,F
+2021-10,2012,Cinema: New Release(normal Day),188.8,6.85,F
+2021-10,2012,Clothing (first-hand): Other,158,10.64,F
+2021-10,2012,Clothing: Second-hand,152.9,13.18,F
+2021-10,2012,Club Fees,135.1,1.12,F
+2021-10,2012,Coal,156.9,3.29,F
+2021-10,2012,Coconut (no.),223.8,2.24,F
+2021-10,2012,Coconut Oil,254.9,3.37,F
+2021-10,2012,Coconut: Copra,222.9,11.39,F
+2021-10,2012,Coffee: Cups (no.),167.2,4.7,F
+2021-10,2012,Coffee: Powder (gm),139.5,1.75,F
+2021-10,2012,Coke,152.2,-3.37,F
+2021-10,2012,Cold Beverages: Bottled/canned (litre),150.8,3.5,F
+2021-10,2012,Cooked Meals Purchased (no.),183.8,5.94,F
+2021-10,2012,Country Liquor (litre),190.1,4.28,F
+2021-10,2012,Curd,163.1,3.03,F
+2021-10,2012,Curry Powder (gm),173.2,5.42,F
+2021-10,2012,Dates,209.7,2.95,F
+2021-10,2012,Dhania (gm),177.9,3.43,F
+2021-10,2012,Dhoti (no.),169.1,8.61,F
+2021-10,2012,Diesel (litre) [excl. Conveyance],170.2,32.45,F
+2021-10,2012,Diesel for Vehicle,206.2,31.76,F
+2021-10,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),188.9,6.18,F
+2021-10,2012,Domestic Servant/cook,179.5,7.81,F
+2021-10,2012,Dry Chillies (gm),198.1,7.49,F
+2021-10,2012,Dung Cake,161,11.96,F
+2021-10,2012,Earthenware,178.3,1.89,F
+2021-10,2012,Eggs (no.),171.2,-1.38,F
+2021-10,2012,Electric Batteries,154.4,9.66,F
+2021-10,2012,Electric Fan,128.5,4.13,F
+2021-10,2012,Electricity (std. Unit),140,2.41,F
+2021-10,2012,Family Planning Devices,174,4,F
+2021-10,2012,Firewood and Chips,158.9,5.51,F
+2021-10,2012,Flower (fresh): All Purposes,189.5,-2.42,F
+2021-10,2012,Foreign/refined Liquor or Wine (litre),188.8,3.06,F
+2021-10,2012,Fruit Juice and Shake (litre),144.1,4.65,F
+2021-10,2012,Garlic (gm),183.7,-17.99,F
+2021-10,2012,Ghee,157.1,1.95,F
+2021-10,2012,Ginger (gm),141.1,-23.94,F
+2021-10,2012,Glassware,137,3.09,F
+2021-10,2012,Goat Meat/mutton,221.3,7.12,F
+2021-10,2012,Gold,161.8,-6.37,F
+2021-10,2012,Goods for Recreation and Hobbies,199.3,2.57,F
+2021-10,2012,Gram Products,163.5,6.03,F
+2021-10,2012,Gram: Split,150.5,5.47,F
+2021-10,2012,Gram: Whole,153.6,7.41,F
+2021-10,2012,Grapes,164.4,8.51,F
+2021-10,2012,Green Chillies,155.3,-21.76,F
+2021-10,2012,Green Coconut (no.),230.4,7.16,F
+2021-10,2012,Grinding Charges,161.7,6.87,F
+2021-10,2012,Groundnut Oil,167,19.63,F
+2021-10,2012,Groundnut,151.4,8.76,F
+2021-10,2012,Guava,164.6,0.61,F
+2021-10,2012,Gur,146.1,2.81,F
+2021-10,2012,Honey,149.8,-6.32,F
+2021-10,2012,Hookah Tobacco (gm),162.3,11.01,F
+2021-10,2012,Horse Cart Fare,122.9,-13.39,F
+2021-10,2012,Hospital & Nursing Home Charges,189.2,6.89,F
+2021-10,2012,Hotel Lodging Charges,160.9,16.85,F
+2021-10,2012,Ice-cream,132.5,5.75,F
+2021-10,2012,Ingredients for Pan (gm),202.9,13.8,F
+2021-10,2012,Internet Expenses,133.3,7.5,F
+2021-10,2012,Inverter,137.7,7.49,F
+2021-10,2012,Jackfruit,,,F
+2021-10,2012,Jeera (gm),137.7,0.15,F
+2021-10,2012,Jowar & its Products,168.5,-3.05,F
+2021-10,2012,Kerosene – Other Sources (litre),168.3,18.35,F
+2021-10,2012,Kerosene – PDS (litre),271.3,47.93,F
+2021-10,2012,Kharbooza,,,F
+2021-10,2012,Khesari,179.8,-1.48,F
+2021-10,2012,Knitting Wool (gm),155.5,2.91,F
+2021-10,2012,Kurta-pajama Suits: Females (no.),160.1,6.73,F
+2021-10,2012,Kurta-pajama Suits: Males (no.),162.1,7.07,F
+2021-10,2012,LPG [excl. Conveyance],199.3,43.59,F
+2021-10,2012,Lady's Finger,137.6,-10.82,F
+2021-10,2012,Leaf Tobacco (gm),183,4.57,F
+2021-10,2012,Leechi,,,F
+2021-10,2012,Lemon (no.),124.4,9.03,F
+2021-10,2012,Library Charges,,,F
+2021-10,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.5,-0.17,F
+2021-10,2012,Lock,164.7,9.73,F
+2021-10,2012,Lubricants & Other Fuels for Vehicle,142.3,6.19,F
+2021-10,2012,Lungi (no.),160.8,8.94,F
+2021-10,2012,Maida,151.3,-1.3,F
+2021-10,2012,Maize & Products,158.5,2.32,F
+2021-10,2012,Mango,,,F
+2021-10,2012,Masur,172,12.71,F
+2021-10,2012,Matches (box),119.9,1.78,F
+2021-10,2012,Medicine (non-institutional),165.3,8.25,F
+2021-10,2012,Milk: Condensed/ Powder,155.8,2.77,F
+2021-10,2012,Milk: Liquid (litre),158.7,3.12,F
+2021-10,2012,Mineral Water (litre),117.5,-0.25,F
+2021-10,2012,Mobile Handset,115.8,5.95,F
+2021-10,2012,Monthly Charges for Cable Tv Connection,158.9,6,F
+2021-10,2012,Monthly Maintainance Charges,134.1,-13.76,F
+2021-10,2012,Moong,160.3,1.46,F
+2021-10,2012,Mosquito Net (no.),148.8,6.67,F
+2021-10,2012,Muri,149,0.95,F
+2021-10,2012,Mustard Oil,205.1,47.45,F
+2021-10,2012,Oilseeds (gm),181.3,16.44,F
+2021-10,2012,Onion,270.7,-23.49,F
+2021-10,2012,Other Cereals,176,2.56,F
+2021-10,2012,Other Consumer Services Excluding Conveyance,170.4,7.71,F
+2021-10,2012,Other Conveyance Expenses,175.2,15.87,F
+2021-10,2012,Other Cooking/ Household Appliances,133.5,9.79,F
+2021-10,2012,Other Crockery & Utensils,157.2,8.71,F
+2021-10,2012,Other Dry Fruits,185.7,9.3,F
+2021-10,2012,Other Durables (specify)….,157.8,0.51,F
+2021-10,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),148.8,3.84,F
+2021-10,2012,Other Entertainment,131.9,3.13,F
+2021-10,2012,Other Footwear,151.8,8.12,F
+2021-10,2012,Other Fresh Fruits,152.6,7.62,F
+2021-10,2012,Other Fuel,167.4,11.75,F
+2021-10,2012,Other Intoxicants,175.8,-1.46,F
+2021-10,2012,Other Leather Footwear,155.1,6.31,F
+2021-10,2012,Other Medical Expenses (non-institutional),146.2,4.06,F
+2021-10,2012,Other Metal Utensils,172.6,10.78,F
+2021-10,2012,Other Milk Products,154.6,10.43,F
+2021-10,2012,Other Nuts,181.7,5.7,F
+2021-10,2012,Other Ornaments,157.5,-0.19,F
+2021-10,2012,Other Packaged Processed Food,150.1,7.75,F
+2021-10,2012,Other Petty Articles,182.2,9.04,F
+2021-10,2012,Other Pulse Products,170.6,9.57,F
+2021-10,2012,Other Pulses,178.2,13.79,F
+2021-10,2012,Other Rice Products,154.9,2.04,F
+2021-10,2012,Other Tobacco Products,181.4,3.07,F
+2021-10,2012,Other Vegetables,160.6,-8.54,F
+2021-10,2012,Other Washing Requisites,149.8,5.72,F
+2021-10,2012,PC/ Laptop/ Other Peripherals Incl. Software,132.9,6.83,F
+2021-10,2012,Palak/other Leafy Vegetables,201.4,0,F
+2021-10,2012,Pan: Finished (no.),191.5,6.69,F
+2021-10,2012,Pan: Leaf (no.),190.5,2.36,F
+2021-10,2012,Papaya,182.2,7.75,F
+2021-10,2012,Pears/nashpati,127.1,-7.63,F
+2021-10,2012,Peas (pulses),223.1,6.44,F
+2021-10,2012,Peas (vegetables),238.7,-4.25,F
+2021-10,2012,Petrol for Vehicle,147.9,27.28,F
+2021-10,2012,Photography,143.4,5.52,F
+2021-10,2012,Pickles (gm),161.7,14.03,F
+2021-10,2012,Pineapple (no.),162.2,3.25,F
+2021-10,2012,Pork,208.5,14,F
+2021-10,2012,Porter Charges,193.8,4.03,F
+2021-10,2012,Potato,153,-47.49,F
+2021-10,2012,Pressure Cooker/ Pressure Pan,159.7,13.02,F
+2021-10,2012,Private Tutor/ Coaching Centre,169.1,6.35,F
+2021-10,2012,Radish,206.3,-4.67,F
+2021-10,2012,Ragi & its Products,200.6,3.78,F
+2021-10,2012,Railway Fare,151.6,0.6,F
+2021-10,2012,Refrigerator,139.7,6.07,F
+2021-10,2012,Residential Building & Land (cost of Repairs Only),188.2,6.57,F
+2021-10,2012,Rice – Other Sources,148.9,0.07,F
+2021-10,2012,Rice – PDS,81.5,-2.98,F
+2021-10,2012,Rickshaw (hand Drawn & Cycle) Fare,175.9,1.91,F
+2021-10,2012,Rubber / Pvc Footwear,160.9,8.72,F
+2021-10,2012,Salt,152.5,6.49,F
+2021-10,2012,Sanitary Napkins,145,3.87,F
+2021-10,2012,Saree (no.),168.5,7.39,F
+2021-10,2012,School/college Uniform: Boys,156.2,4.34,F
+2021-10,2012,School/college Uniform: Girls,157.1,6.15,F
+2021-10,2012,Sewing Machine,148.6,7.06,F
+2021-10,2012,Silver,127.4,5.73,F
+2021-10,2012,Singara,183.7,5.45,F
+2021-10,2012,Small Millets & their Products,165.8,-3.88,F
+2021-10,2012,Snuff (gm),183.9,-6.98,F
+2021-10,2012,Spectacles,165.3,7.9,F
+2021-10,2012,Stainless Steel Utensils,178.6,12.33,F
+2021-10,2012,Sugar - Other Sources,117.5,6.33,F
+2021-10,2012,Sugar - PDS,161,0.81,F
+2021-10,2012,Sweeper,178.8,3.77,F
+2021-10,2012,Tailor,186,4.97,F
+2021-10,2012,Tamarind (gm),199.1,-9.17,F
+2021-10,2012,Tea: Cups (no.),159.5,5,F
+2021-10,2012,Tea: Leaf (gm),168.9,13.89,F
+2021-10,2012,Telephone Charges: Landline*,116.4,0.87,F
+2021-10,2012,Telephone Charges: Mobile,145.5,3.71,F
+2021-10,2012,Television,162,13.52,F
+2021-10,2012,Toddy (litre),217.6,15.01,F
+2021-10,2012,Toilet Soap,152,8.57,F
+2021-10,2012,Tomato,211.6,-8.36,F
+2021-10,2012,Torch,148.3,7.78,F
+2021-10,2012,Turmeric (gm),150.1,7.06,F
+2021-10,2012,Tyres & Tubes,138.5,8.03,F
+2021-10,2012,Urd,180.7,4.09,F
+2021-10,2012,VCD/ DVD Hire (incl. Instrument),148.1,-17.26,F
+2021-10,2012,VCR/VCD/DVD Player,114.5,0.79,F
+2021-10,2012,Walnut,212.8,4.01,F
+2021-10,2012,Washing Machine,143.8,10.19,F
+2021-10,2012,Washing Soap/soda/powder,146.4,5.32,F
+2021-10,2012,Watch Man Charges (other Cons Taxes),159.5,-0.37,F
+2021-10,2012,Water Charges,140.4,4.54,F
+2021-10,2012,Water Purifier,136.3,3.34,F
+2021-10,2012,Watermelon,162.8,-7.5,F
+2021-10,2012,Wheat/ Atta – Other Sources,150.8,0.27,F
+2021-10,2012,Wheat/ Atta – PDS,76.3,-4.51,F
+2021-11,2012,"Air Conditioner, Air Cooler",138.3,4.93,F
+2021-11,2012,"Almirah, Dressing Table",155.3,10.06,F
+2021-11,2012,"Arhar, Tur",159.6,-0.25,F
+2021-11,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",161.1,8.34,F
+2021-11,2012,"Barber, Beautician, etc.",194.9,6.15,F
+2021-11,2012,"Beans, Barbati",184,5.44,F
+2021-11,2012,"Bed Sheet, Bed Cover (no.)",160.3,7.37,F
+2021-11,2012,"Biscuits, Chocolates, etc.",135.8,3.35,F
+2021-11,2012,"Books, Journals: First Hand",156.6,4.54,F
+2021-11,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",163.6,8.2,F
+2021-11,2012,"CD, DVD, Audio/video Cassette, etc",130,0.85,F
+2021-11,2012,"Candy, Misri",160,6.17,F
+2021-11,2012,"Carpet, Daree & Other Floor Mattings",221.9,7.25,F
+2021-11,2012,"Cereal Substitutes: Tapioca, etc.",155.8,-6.43,F
+2021-11,2012,"Chair, Stool, Bench, Table",165.8,6.49,F
+2021-11,2012,"Clock, Watch",144.6,4.25,F
+2021-11,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",157.9,6.4,F
+2021-11,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",171.9,9.77,F
+2021-11,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",158.4,18.3,F
+2021-11,2012,"Coat, Jacket, Sweater, Windcheater (no.)",163.6,8.99,F
+2021-11,2012,"Coir, Rope, etc.",172.3,12.54,F
+2021-11,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",170.7,7.7,F
+2021-11,2012,"Electric Bulb, Tubelight",133.4,5.45,F
+2021-11,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",134.6,-5.08,F
+2021-11,2012,"Fish, Prawn",185.4,0.49,F
+2021-11,2012,"Frocks, Skirts, etc. (no.)",174.1,7.34,F
+2021-11,2012,"Gamchha, Towel, Handkerchief (no.)",165.2,9.55,F
+2021-11,2012,"Gourd, Pumpkin",167,0.18,F
+2021-11,2012,"Hair Oil, Shampoo, Hair Cream",147.1,5.9,F
+2021-11,2012,"Headwear, Belts, Ties (no.)",160.1,6.8,F
+2021-11,2012,"House Rent, Garage Rent",163.8,3.47,F
+2021-11,2012,"Incense (agarbatti), Room Freshener",151.1,3.35,F
+2021-11,2012,"Leather Boots, Shoes",155.6,7.24,F
+2021-11,2012,"Leather Sandals, Chappals, etc.",156.3,8.32,F
+2021-11,2012,"Mosquito Repellent, Insecticide, Acid etc.",142.3,3.34,F
+2021-11,2012,"Motor Car, Jeep",140.1,5.1,F
+2021-11,2012,"Motor Cycle, Scooter",162.9,10.29,F
+2021-11,2012,"Newspapers, Periodicals",168.6,4.33,F
+2021-11,2012,"Orange, Mausami (no.)",144.7,4.4,F
+2021-11,2012,"Other Beverages: Cocoa, Chocolate, etc.",149.1,3.61,F
+2021-11,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",146,8.39,F
+2021-11,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",207.7,5.43,F
+2021-11,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",175.7,7.53,F
+2021-11,2012,"Parwal/patal, Kundru",183,1.72,F
+2021-11,2012,"Pillow, Quilt, Mattress (no.)",165.7,10.69,F
+2021-11,2012,"Plugs, Switches & Other Electrical Fittings",166.1,4.2,F
+2021-11,2012,"Powder, Snow, Cream, Lotion and Perfume",168.3,5.98,F
+2021-11,2012,"Prepared Sweets, Cake, Pastry",172.8,8.54,F
+2021-11,2012,"Radio, Tape Recorder, 2-in-1",150.4,15.25,F
+2021-11,2012,"Raisin, Kishmish, Monacca, etc.",147.3,13.66,F
+2021-11,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",187,33,F
+2021-11,2012,"Rug, Blanket (no.)",170.8,7.9,F
+2021-11,2012,"Sauce, Jam, Jelly (gm)",148.8,3.33,F
+2021-11,2012,"School Bus, Van, etc.",178.2,11.93,F
+2021-11,2012,"Sewai, Noodles",149.7,4.54,F
+2021-11,2012,"Shaving Blades, Shaving Stick, Razor",144.3,6.26,F
+2021-11,2012,"Shaving Cream, Aftershave Lotion",145.2,4.46,F
+2021-11,2012,"Shawl, Chaddar (no.)",171.9,11.84,F
+2021-11,2012,"Shirts, T-shirts (no.)",165.8,8.01,F
+2021-11,2012,"Shorts, Trousers, Bermudas (no.)",160.4,8.16,F
+2021-11,2012,"Sports Goods, Toys, etc.",161.3,5.84,F
+2021-11,2012,"Stationery, Photocopying Charges",151,3.85,F
+2021-11,2012,"Steamer, Boat Fare",204.7,10.41,F
+2021-11,2012,"Stove, Gas Burner",146.4,-8.44,F
+2021-11,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",163.9,16.57,F
+2021-11,2012,"Suji, Rawa",155.4,0.91,F
+2021-11,2012,"Taxi, Auto-rickshaw Fare",169.9,7.12,F
+2021-11,2012,"Toothpaste, Toothbrush, Comb, etc.",154.6,5.03,F
+2021-11,2012,"Tuition and Other Fees (school, College, Etc.)",166.6,1.96,F
+2021-11,2012,"Umbrella, Raincoat",156.3,6.62,F
+2021-11,2012,"Vanaspati, Margarine",192.1,40.22,F
+2021-11,2012,"Washerman, Laundry, Ironing",192.5,6.53,F
+2021-11,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",156,5.91,F
+2021-11,2012,"Zarda, Kimam, Surti (gm)",178,0.06,F
+2021-11,2012,Air Fare (normal): Economy Class(adult),208.3,33.53,F
+2021-11,2012,Any Other Personal Goods,215.6,5.63,F
+2021-11,2012,Apple,113.2,8.85,F
+2021-11,2012,Baby Food,159.4,6.62,F
+2021-11,2012,Bajra & its Products,168,0.6,F
+2021-11,2012,Banana (no.),139.1,3.19,F
+2021-11,2012,Bathroom and Sanitary Equipment,166.8,7.13,F
+2021-11,2012,Bedding: Others,160.2,4.57,F
+2021-11,2012,Bedstead,188.1,10.45,F
+2021-11,2012,Beef/ Buffalo Meat,207.8,9.14,F
+2021-11,2012,Beer (litre),189,0.91,F
+2021-11,2012,Berries,,,F
+2021-11,2012,Besan,153.7,3.92,F
+2021-11,2012,Bicycle(without Accessories),147,11.62,F
+2021-11,2012,Bidi (no.),197.2,4.17,F
+2021-11,2012,Black Pepper (gm),159.8,9.08,F
+2021-11,2012,Bread (bakery),178.5,5.81,F
+2021-11,2012,Brinjal,202.4,10.42,F
+2021-11,2012,Bus/tram Fare,180,5.39,F
+2021-11,2012,Butter,166,3.62,F
+2021-11,2012,Cabbage,188.5,-12.97,F
+2021-11,2012,Camera & Photographic Equipment,125.3,8.39,F
+2021-11,2012,Candle (no.),145.7,5.27,F
+2021-11,2012,Carrot,209.9,-2.24,F
+2021-11,2012,Cashewnut,155.3,0.71,F
+2021-11,2012,Cauliflower,208,16.01,F
+2021-11,2012,Charcoal,157,11.74,F
+2021-11,2012,Cheroot (no.),217.2,5.44,F
+2021-11,2012,Chicken,203.5,8.53,F
+2021-11,2012,Chips (gm),132.4,-7.86,F
+2021-11,2012,Chira,146.2,-0.88,F
+2021-11,2012,Cigarettes (no.),212.6,2.46,F
+2021-11,2012,Cinema: New Release(normal Day),189.6,13.19,F
+2021-11,2012,Clothing (first-hand): Other,158.4,10.08,F
+2021-11,2012,Clothing: Second-hand,153.9,12.91,F
+2021-11,2012,Club Fees,133.8,3.16,F
+2021-11,2012,Coal,157.7,2.87,F
+2021-11,2012,Coconut (no.),224.8,1.03,F
+2021-11,2012,Coconut Oil,251,-1.1,F
+2021-11,2012,Coconut: Copra,223.8,11.45,F
+2021-11,2012,Coffee: Cups (no.),168.1,5,F
+2021-11,2012,Coffee: Powder (gm),139.2,1.46,F
+2021-11,2012,Coke,152.2,-3.37,F
+2021-11,2012,Cold Beverages: Bottled/canned (litre),151.3,3.7,F
+2021-11,2012,Cooked Meals Purchased (no.),184.7,5.97,F
+2021-11,2012,Country Liquor (litre),190.2,4.05,F
+2021-11,2012,Curd,163.7,2.89,F
+2021-11,2012,Curry Powder (gm),173.3,5.09,F
+2021-11,2012,Dates,207.4,0.53,F
+2021-11,2012,Dhania (gm),178.6,3.54,F
+2021-11,2012,Dhoti (no.),170.5,9.36,F
+2021-11,2012,Diesel (litre) [excl. Conveyance],160.1,24.49,F
+2021-11,2012,Diesel for Vehicle,191.9,22.39,F
+2021-11,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),189.7,5.8,F
+2021-11,2012,Domestic Servant/cook,180.5,7.89,F
+2021-11,2012,Dry Chillies (gm),197.8,5.21,F
+2021-11,2012,Dung Cake,160.3,9.35,F
+2021-11,2012,Earthenware,178.6,2.47,F
+2021-11,2012,Eggs (no.),173,-1.31,F
+2021-11,2012,Electric Batteries,154.5,9.73,F
+2021-11,2012,Electric Fan,129.7,5.02,F
+2021-11,2012,Electricity (std. Unit),135.5,-1.74,F
+2021-11,2012,Family Planning Devices,174,3.51,F
+2021-11,2012,Firewood and Chips,159.2,5.15,F
+2021-11,2012,Flower (fresh): All Purposes,194.9,-0.61,F
+2021-11,2012,Foreign/refined Liquor or Wine (litre),188.7,3.34,F
+2021-11,2012,Fruit Juice and Shake (litre),144.3,4.34,F
+2021-11,2012,Garlic (gm),180.9,-17.51,F
+2021-11,2012,Ghee,157.3,2.34,F
+2021-11,2012,Ginger (gm),136.9,-18.9,F
+2021-11,2012,Glassware,137,3.79,F
+2021-11,2012,Goat Meat/mutton,221.9,6.94,F
+2021-11,2012,Gold,164.7,-4.52,F
+2021-11,2012,Goods for Recreation and Hobbies,200.4,2.93,F
+2021-11,2012,Gram Products,164.9,5.5,F
+2021-11,2012,Gram: Split,150.4,3.8,F
+2021-11,2012,Gram: Whole,153.6,5.71,F
+2021-11,2012,Grapes,170.6,10.21,F
+2021-11,2012,Green Chillies,151.8,-15.85,F
+2021-11,2012,Green Coconut (no.),230.5,8.42,F
+2021-11,2012,Grinding Charges,162.7,6.97,F
+2021-11,2012,Groundnut Oil,164.6,16.16,F
+2021-11,2012,Groundnut,151.8,9.6,F
+2021-11,2012,Guava,179.5,6.53,F
+2021-11,2012,Gur,146.7,4.19,F
+2021-11,2012,Honey,150.4,-5.82,F
+2021-11,2012,Hookah Tobacco (gm),163.6,11.6,F
+2021-11,2012,Horse Cart Fare,122.9,-9.23,F
+2021-11,2012,Hospital & Nursing Home Charges,189.9,6.81,F
+2021-11,2012,Hotel Lodging Charges,159.3,13.62,F
+2021-11,2012,Ice-cream,132.8,5.56,F
+2021-11,2012,Ingredients for Pan (gm),204.8,14.48,F
+2021-11,2012,Internet Expenses,133.8,6.53,F
+2021-11,2012,Inverter,138.8,8.02,F
+2021-11,2012,Jackfruit,,,F
+2021-11,2012,Jeera (gm),138,0.95,F
+2021-11,2012,Jowar & its Products,168.3,-3.5,F
+2021-11,2012,Kerosene – Other Sources (litre),169,17.69,F
+2021-11,2012,Kerosene – PDS (litre),307.9,71.06,F
+2021-11,2012,Kharbooza,,,F
+2021-11,2012,Khesari,180.7,-2.11,F
+2021-11,2012,Knitting Wool (gm),161.7,5.76,F
+2021-11,2012,Kurta-pajama Suits: Females (no.),161.1,6.83,F
+2021-11,2012,Kurta-pajama Suits: Males (no.),163.2,6.88,F
+2021-11,2012,LPG [excl. Conveyance],199.7,44.08,F
+2021-11,2012,Lady's Finger,161.7,5.41,F
+2021-11,2012,Leaf Tobacco (gm),183.3,5.04,F
+2021-11,2012,Leechi,,,F
+2021-11,2012,Lemon (no.),121.2,11.29,F
+2021-11,2012,Library Charges,,,F
+2021-11,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.5,-0.17,F
+2021-11,2012,Lock,164.8,5.1,F
+2021-11,2012,Lubricants & Other Fuels for Vehicle,143,6.32,F
+2021-11,2012,Lungi (no.),161,8.56,F
+2021-11,2012,Maida,152.8,0.26,F
+2021-11,2012,Maize & Products,160.8,4.89,F
+2021-11,2012,Mango,,,F
+2021-11,2012,Masur,173.9,12.85,F
+2021-11,2012,Matches (box),120.1,2.04,F
+2021-11,2012,Medicine (non-institutional),166.2,7.99,F
+2021-11,2012,Milk: Condensed/ Powder,156.3,3.17,F
+2021-11,2012,Milk: Liquid (litre),159.2,3.31,F
+2021-11,2012,Mineral Water (litre),117.6,-0.17,F
+2021-11,2012,Mobile Handset,116.3,5.63,F
+2021-11,2012,Monthly Charges for Cable Tv Connection,159.2,5.71,F
+2021-11,2012,Monthly Maintainance Charges,134.2,-11.88,F
+2021-11,2012,Moong,160.3,0.25,F
+2021-11,2012,Mosquito Net (no.),149.5,7.09,F
+2021-11,2012,Muri,148.7,0.34,F
+2021-11,2012,Mustard Oil,207.6,43.17,F
+2021-11,2012,Oilseeds (gm),184.5,16.85,F
+2021-11,2012,Onion,282,-30.75,F
+2021-11,2012,Other Cereals,176.5,2.86,F
+2021-11,2012,Other Consumer Services Excluding Conveyance,170.6,7.03,F
+2021-11,2012,Other Conveyance Expenses,174.7,15.77,F
+2021-11,2012,Other Cooking/ Household Appliances,134.7,10.5,F
+2021-11,2012,Other Crockery & Utensils,158.1,8.59,F
+2021-11,2012,Other Dry Fruits,185.2,8.62,F
+2021-11,2012,Other Durables (specify)….,158.1,0.83,F
+2021-11,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),149.9,4.31,F
+2021-11,2012,Other Entertainment,133.6,7.66,F
+2021-11,2012,Other Footwear,153,8.28,F
+2021-11,2012,Other Fresh Fruits,159.9,10.35,F
+2021-11,2012,Other Fuel,165.4,8.46,F
+2021-11,2012,Other Intoxicants,176,-0.79,F
+2021-11,2012,Other Leather Footwear,155.9,6.93,F
+2021-11,2012,Other Medical Expenses (non-institutional),146.3,4.87,F
+2021-11,2012,Other Metal Utensils,173.7,11.06,F
+2021-11,2012,Other Milk Products,154.8,10.33,F
+2021-11,2012,Other Nuts,179.4,5.22,F
+2021-11,2012,Other Ornaments,161,-0.12,F
+2021-11,2012,Other Packaged Processed Food,150.4,8.2,F
+2021-11,2012,Other Petty Articles,183.7,8.83,F
+2021-11,2012,Other Pulse Products,170.4,8.67,F
+2021-11,2012,Other Pulses,179.6,13.67,F
+2021-11,2012,Other Rice Products,155,-0.45,F
+2021-11,2012,Other Tobacco Products,180.9,2.2,F
+2021-11,2012,Other Vegetables,171.8,-0.52,F
+2021-11,2012,Other Washing Requisites,149.9,5.86,F
+2021-11,2012,PC/ Laptop/ Other Peripherals Incl. Software,133.5,7.4,F
+2021-11,2012,Palak/other Leafy Vegetables,196.5,8.62,F
+2021-11,2012,Pan: Finished (no.),192.3,6.48,F
+2021-11,2012,Pan: Leaf (no.),191,2.19,F
+2021-11,2012,Papaya,179.3,8.67,F
+2021-11,2012,Pears/nashpati,,,F
+2021-11,2012,Peas (pulses),222.9,3.19,F
+2021-11,2012,Peas (vegetables),253.7,3.76,F
+2021-11,2012,Petrol for Vehicle,144.1,23.69,F
+2021-11,2012,Photography,143.8,5.81,F
+2021-11,2012,Pickles (gm),163,14.07,F
+2021-11,2012,Pineapple (no.),164,1.17,F
+2021-11,2012,Pork,209.3,13.63,F
+2021-11,2012,Porter Charges,193.8,1.84,F
+2021-11,2012,Potato,177.7,-45.36,F
+2021-11,2012,Pressure Cooker/ Pressure Pan,160,12.12,F
+2021-11,2012,Private Tutor/ Coaching Centre,169.6,6.27,F
+2021-11,2012,Radish,197,16.09,F
+2021-11,2012,Ragi & its Products,199.9,3.47,F
+2021-11,2012,Railway Fare,151.3,2.09,F
+2021-11,2012,Refrigerator,139.9,6.07,F
+2021-11,2012,Residential Building & Land (cost of Repairs Only),189.7,6.75,F
+2021-11,2012,Rice – Other Sources,149.4,0.95,F
+2021-11,2012,Rice – PDS,81.5,-1.81,F
+2021-11,2012,Rickshaw (hand Drawn & Cycle) Fare,176.5,2.68,F
+2021-11,2012,Rubber / Pvc Footwear,162,9.24,F
+2021-11,2012,Salt,153.2,6.54,F
+2021-11,2012,Sanitary Napkins,145.4,3.49,F
+2021-11,2012,Saree (no.),170.1,8.07,F
+2021-11,2012,School/college Uniform: Boys,157.1,4.25,F
+2021-11,2012,School/college Uniform: Girls,158.4,6.17,F
+2021-11,2012,Sewing Machine,147.7,5.42,F
+2021-11,2012,Silver,130.3,5.93,F
+2021-11,2012,Singara,141,-1.54,F
+2021-11,2012,Small Millets & their Products,165.8,-1.31,F
+2021-11,2012,Snuff (gm),184.7,-7,F
+2021-11,2012,Spectacles,165.5,7.82,F
+2021-11,2012,Stainless Steel Utensils,180.1,12.99,F
+2021-11,2012,Sugar - Other Sources,118,7.08,F
+2021-11,2012,Sugar - PDS,161,0.81,F
+2021-11,2012,Sweeper,179.8,6.01,F
+2021-11,2012,Tailor,186.7,4.89,F
+2021-11,2012,Tamarind (gm),198.2,-11,F
+2021-11,2012,Tea: Cups (no.),159.9,4.58,F
+2021-11,2012,Tea: Leaf (gm),169.4,11.59,F
+2021-11,2012,Telephone Charges: Landline*,116.2,0.52,F
+2021-11,2012,Telephone Charges: Mobile,145.4,3.49,F
+2021-11,2012,Television,163.7,14.72,F
+2021-11,2012,Toddy (litre),219.4,12.8,F
+2021-11,2012,Toilet Soap,153.2,9.27,F
+2021-11,2012,Tomato,274.9,31.59,F
+2021-11,2012,Torch,148.9,8.13,F
+2021-11,2012,Turmeric (gm),150.3,7.05,F
+2021-11,2012,Tyres & Tubes,139.3,8.57,F
+2021-11,2012,Urd,180.9,1.92,F
+2021-11,2012,VCD/ DVD Hire (incl. Instrument),148.1,-17.26,F
+2021-11,2012,VCR/VCD/DVD Player,112.7,6.32,F
+2021-11,2012,Walnut,207.7,2.32,F
+2021-11,2012,Washing Machine,144.6,9.46,F
+2021-11,2012,Washing Soap/soda/powder,146.8,5.38,F
+2021-11,2012,Watch Man Charges (other Cons Taxes),159.9,0.88,F
+2021-11,2012,Water Charges,140.7,4.53,F
+2021-11,2012,Water Purifier,137.8,4.08,F
+2021-11,2012,Watermelon,179.8,-2.02,F
+2021-11,2012,Wheat/ Atta – Other Sources,152.5,2.42,F
+2021-11,2012,Wheat/ Atta – PDS,76.3,-4.27,F
+2021-12,2012,"Air Conditioner, Air Cooler",137.8,5.11,F
+2021-12,2012,"Almirah, Dressing Table",155.9,10.1,F
+2021-12,2012,"Arhar, Tur",157.2,-1.57,F
+2021-12,2012,"Baniyan, Socks, Other Hosiery and Undergarments, Etc.(no.)",162.5,8.84,F
+2021-12,2012,"Barber, Beautician, etc.",195.9,6.06,F
+2021-12,2012,"Beans, Barbati",193.3,21.19,F
+2021-12,2012,"Bed Sheet, Bed Cover (no.)",161,7.48,F
+2021-12,2012,"Biscuits, Chocolates, etc.",136.8,3.95,F
+2021-12,2012,"Books, Journals: First Hand",156.9,4.67,F
+2021-12,2012,"Bucket, Water Bottle/ Feeding Bottle & Other Plastic Goods",164.9,8.2,F
+2021-12,2012,"CD, DVD, Audio/video Cassette, etc",130,1.4,F
+2021-12,2012,"Candy, Misri",158.5,5.04,F
+2021-12,2012,"Carpet, Daree & Other Floor Mattings",222.7,5.9,F
+2021-12,2012,"Cereal Substitutes: Tapioca, etc.",158,-4.53,F
+2021-12,2012,"Chair, Stool, Bench, Table",167.4,6.42,F
+2021-12,2012,"Clock, Watch",144.6,5.47,F
+2021-12,2012,"Cloth for Coat, Trousers, Suit, etc. (metre)",159.4,7.48,F
+2021-12,2012,"Cloth for Shirt, Pyjama, Kurta, Salwar, etc. (metre)",173.3,10.24,F
+2021-12,2012,"Cloth for Upholstery, Curtains, Tablecloth, etc. (metre)",159.2,18.54,F
+2021-12,2012,"Coat, Jacket, Sweater, Windcheater (no.)",164.3,8.74,F
+2021-12,2012,"Coir, Rope, etc.",174.1,12.54,F
+2021-12,2012,"Cooked Snacks Purchased [samosa, Puri, Paratha, Burger, Chowmein, Idli, Dosa, Vada, Chops, Pakoras, Pao Bhaji, Etc.]",172,7.77,F
+2021-12,2012,"Electric Bulb, Tubelight",133.8,5.19,F
+2021-12,2012,"Electric Iron, Heater, Toaster, Oven & Other Electric Heating Appliances",146.4,3.03,F
+2021-12,2012,"Fish, Prawn",183.9,-0.11,F
+2021-12,2012,"Frocks, Skirts, etc. (no.)",175.2,7.68,F
+2021-12,2012,"Gamchha, Towel, Handkerchief (no.)",166.3,9.91,F
+2021-12,2012,"Gourd, Pumpkin",171.5,8.34,F
+2021-12,2012,"Hair Oil, Shampoo, Hair Cream",147.6,6.26,F
+2021-12,2012,"Headwear, Belts, Ties (no.)",161.2,6.19,F
+2021-12,2012,"House Rent, Garage Rent",163,3.49,F
+2021-12,2012,"Incense (agarbatti), Room Freshener",151.7,3.55,F
+2021-12,2012,"Leather Boots, Shoes",156.9,7.61,F
+2021-12,2012,"Leather Sandals, Chappals, etc.",157.7,8.91,F
+2021-12,2012,"Mosquito Repellent, Insecticide, Acid etc.",142.6,3.18,F
+2021-12,2012,"Motor Car, Jeep",140.4,5.01,F
+2021-12,2012,"Motor Cycle, Scooter",163.9,10.22,F
+2021-12,2012,"Newspapers, Periodicals",169.6,4.31,F
+2021-12,2012,"Orange, Mausami (no.)",142.2,6.12,F
+2021-12,2012,"Other Beverages: Cocoa, Chocolate, etc.",149.2,3.54,F
+2021-12,2012,"Other Furniture & Fixtures (couch, Sofa, Etc.)",146.7,8.67,F
+2021-12,2012,"Others: Birds, Crab, Oyster, Tortoise, etc.",209.8,15.91,F
+2021-12,2012,"Papad, Bhujia, Namkeen, Mixture, Chanachur",176.5,7.43,F
+2021-12,2012,"Parwal/patal, Kundru",210.8,16.46,F
+2021-12,2012,"Pillow, Quilt, Mattress (no.)",167.3,10.72,F
+2021-12,2012,"Plugs, Switches & Other Electrical Fittings",166.6,3.8,F
+2021-12,2012,"Powder, Snow, Cream, Lotion and Perfume",169.1,6.29,F
+2021-12,2012,"Prepared Sweets, Cake, Pastry",174,8.61,F
+2021-12,2012,"Radio, Tape Recorder, 2-in-1",149.4,11.91,F
+2021-12,2012,"Raisin, Kishmish, Monacca, etc.",147.9,14.12,F
+2021-12,2012,"Refined Oil [sunflower, Soyabean, Saffola, Etc.]",182.8,25.03,F
+2021-12,2012,"Rug, Blanket (no.)",172,7.03,F
+2021-12,2012,"Sauce, Jam, Jelly (gm)",149.1,3.33,F
+2021-12,2012,"School Bus, Van, etc.",172.2,8.51,F
+2021-12,2012,"Sewai, Noodles",150,4.24,F
+2021-12,2012,"Shaving Blades, Shaving Stick, Razor",144.5,6.02,F
+2021-12,2012,"Shaving Cream, Aftershave Lotion",145.8,4.29,F
+2021-12,2012,"Shawl, Chaddar (no.)",173.6,12,F
+2021-12,2012,"Shirts, T-shirts (no.)",166.9,8.38,F
+2021-12,2012,"Shorts, Trousers, Bermudas (no.)",161.5,8.46,F
+2021-12,2012,"Sports Goods, Toys, etc.",162.2,6.22,F
+2021-12,2012,"Stationery, Photocopying Charges",151.6,3.98,F
+2021-12,2012,"Steamer, Boat Fare",205.4,10.79,F
+2021-12,2012,"Stove, Gas Burner",150.2,-3.16,F
+2021-12,2012,"Suitcase, Trunk, Box, Handbag and Other Travel Goods",164.5,15.44,F
+2021-12,2012,"Suji, Rawa",155.4,1.3,F
+2021-12,2012,"Taxi, Auto-rickshaw Fare",170.2,6.98,F
+2021-12,2012,"Toothpaste, Toothbrush, Comb, etc.",155.4,5.21,F
+2021-12,2012,"Tuition and Other Fees (school, College, Etc.)",166.9,2.33,F
+2021-12,2012,"Umbrella, Raincoat",156,6.48,F
+2021-12,2012,"Vanaspati, Margarine",192,36.07,F
+2021-12,2012,"Washerman, Laundry, Ironing",193.8,6.48,F
+2021-12,2012,"X-ray, Ecg, Pathological Test, etc. (non-institutional)",156.5,5.67,F
+2021-12,2012,"Zarda, Kimam, Surti (gm)",179,0.73,F
+2021-12,2012,Air Fare (normal): Economy Class(adult),204.2,24.36,F
+2021-12,2012,Any Other Personal Goods,215.6,5.63,F
+2021-12,2012,Apple,113.3,6.09,F
+2021-12,2012,Baby Food,160.3,6.87,F
+2021-12,2012,Bajra & its Products,172.8,6.08,F
+2021-12,2012,Banana (no.),133.8,0.3,F
+2021-12,2012,Bathroom and Sanitary Equipment,167.1,7.6,F
+2021-12,2012,Bedding: Others,160.4,3.68,F
+2021-12,2012,Bedstead,188.8,9.83,F
+2021-12,2012,Beef/ Buffalo Meat,207.8,8.63,F
+2021-12,2012,Beer (litre),187.5,-0.42,F
+2021-12,2012,Berries,,,F
+2021-12,2012,Besan,153.6,3.57,F
+2021-12,2012,Bicycle(without Accessories),148.4,11.83,F
+2021-12,2012,Bidi (no.),197.7,4,F
+2021-12,2012,Black Pepper (gm),165,12.63,F
+2021-12,2012,Bread (bakery),179.8,6.39,F
+2021-12,2012,Brinjal,204.4,29.53,F
+2021-12,2012,Bus/tram Fare,179.9,4.59,F
+2021-12,2012,Butter,166.4,3.74,F
+2021-12,2012,Cabbage,195.8,17.67,F
+2021-12,2012,Camera & Photographic Equipment,125.3,8.39,F
+2021-12,2012,Candle (no.),145.9,5.04,F
+2021-12,2012,Carrot,204.2,19.07,F
+2021-12,2012,Cashewnut,154.9,1.24,F
+2021-12,2012,Cauliflower,169.1,36.7,F
+2021-12,2012,Charcoal,151.5,5.65,F
+2021-12,2012,Cheroot (no.),218.1,5.77,F
+2021-12,2012,Chicken,196.9,6.95,F
+2021-12,2012,Chips (gm),132.4,-2.93,F
+2021-12,2012,Chira,145.7,-0.14,F
+2021-12,2012,Cigarettes (no.),212.1,1.73,F
+2021-12,2012,Cinema: New Release(normal Day),189.8,11.91,F
+2021-12,2012,Clothing (first-hand): Other,159.7,8.42,F
+2021-12,2012,Clothing: Second-hand,155.2,22.49,F
+2021-12,2012,Club Fees,135.2,-0.52,F
+2021-12,2012,Coal,159.8,2.9,F
+2021-12,2012,Coconut (no.),222.6,-2.41,F
+2021-12,2012,Coconut Oil,250.9,-5.71,F
+2021-12,2012,Coconut: Copra,225.8,10.69,F
+2021-12,2012,Coffee: Cups (no.),168.9,5.5,F
+2021-12,2012,Coffee: Powder (gm),139.8,1.75,F
+2021-12,2012,Coke,152.4,-0.33,F
+2021-12,2012,Cold Beverages: Bottled/canned (litre),151.6,3.69,F
+2021-12,2012,Cooked Meals Purchased (no.),185.8,6.05,F
+2021-12,2012,Country Liquor (litre),186.6,1.91,F
+2021-12,2012,Curd,164,3.14,F
+2021-12,2012,Curry Powder (gm),173.8,5.08,F
+2021-12,2012,Dates,199.3,-4.04,F
+2021-12,2012,Dhania (gm),179.3,4.12,F
+2021-12,2012,Dhoti (no.),173,9.98,F
+2021-12,2012,Diesel (litre) [excl. Conveyance],157.5,18.6,F
+2021-12,2012,Diesel for Vehicle,186.8,14.74,F
+2021-12,2012,Doctor’s/ Surgeon’s Fee-first Consultation (non-institutional),190.9,5.88,F
+2021-12,2012,Domestic Servant/cook,181.4,8.1,F
+2021-12,2012,Dry Chillies (gm),198.7,3.76,F
+2021-12,2012,Dung Cake,162,8.51,F
+2021-12,2012,Earthenware,179,3.35,F
+2021-12,2012,Eggs (no.),177.9,1.48,F
+2021-12,2012,Electric Batteries,154.5,8.8,F
+2021-12,2012,Electric Fan,130.6,6.61,F
+2021-12,2012,Electricity (std. Unit),135.5,-1.74,F
+2021-12,2012,Family Planning Devices,176.4,4.69,F
+2021-12,2012,Firewood and Chips,159.8,4.72,F
+2021-12,2012,Flower (fresh): All Purposes,199,0.61,F
+2021-12,2012,Foreign/refined Liquor or Wine (litre),187.1,1.8,F
+2021-12,2012,Fruit Juice and Shake (litre),144.8,4.47,F
+2021-12,2012,Garlic (gm),163.1,-22.92,F
+2021-12,2012,Ghee,157.1,2.35,F
+2021-12,2012,Ginger (gm),123.3,-19.25,F
+2021-12,2012,Glassware,138.7,5.08,F
+2021-12,2012,Goat Meat/mutton,221.9,6.27,F
+2021-12,2012,Gold,164.4,-3.07,F
+2021-12,2012,Goods for Recreation and Hobbies,202.1,3.48,F
+2021-12,2012,Gram Products,165.3,4.75,F
+2021-12,2012,Gram: Split,149.2,3.04,F
+2021-12,2012,Gram: Whole,153.2,5.58,F
+2021-12,2012,Grapes,170,3.16,F
+2021-12,2012,Green Chillies,145,-8.75,F
+2021-12,2012,Green Coconut (no.),229,7.71,F
+2021-12,2012,Grinding Charges,163,6.54,F
+2021-12,2012,Groundnut Oil,162.1,12.18,F
+2021-12,2012,Groundnut,151.4,9.31,F
+2021-12,2012,Guava,183.9,9.27,F
+2021-12,2012,Gur,144.2,4.19,F
+2021-12,2012,Honey,151,-5.15,F
+2021-12,2012,Hookah Tobacco (gm),163.6,10.69,F
+2021-12,2012,Horse Cart Fare,125.9,-0.08,F
+2021-12,2012,Hospital & Nursing Home Charges,190.8,6.41,F
+2021-12,2012,Hotel Lodging Charges,159.2,12.59,F
+2021-12,2012,Ice-cream,132.8,4.9,F
+2021-12,2012,Ingredients for Pan (gm),206.8,14.13,F
+2021-12,2012,Internet Expenses,135.3,6.96,F
+2021-12,2012,Inverter,139,8,F
+2021-12,2012,Jackfruit,,,F
+2021-12,2012,Jeera (gm),138.2,1.47,F
+2021-12,2012,Jowar & its Products,167.4,-4.07,F
+2021-12,2012,Kerosene – Other Sources (litre),171.1,18.65,F
+2021-12,2012,Kerosene – PDS (litre),302.4,63.46,F
+2021-12,2012,Kharbooza,,,F
+2021-12,2012,Khesari,179.9,-2.91,F
+2021-12,2012,Knitting Wool (gm),165.3,4.89,F
+2021-12,2012,Kurta-pajama Suits: Females (no.),162.3,7.27,F
+2021-12,2012,Kurta-pajama Suits: Males (no.),164.2,7.74,F
+2021-12,2012,LPG [excl. Conveyance],199.7,31.3,F
+2021-12,2012,Lady's Finger,193.8,22.97,F
+2021-12,2012,Leaf Tobacco (gm),182.7,4.88,F
+2021-12,2012,Leechi,,,F
+2021-12,2012,Lemon (no.),111,5.51,F
+2021-12,2012,Library Charges,,,F
+2021-12,2012,Lighter (bidi/ Cigarette/ Gas Stove),120.5,0.08,F
+2021-12,2012,Lock,164.8,5.57,F
+2021-12,2012,Lubricants & Other Fuels for Vehicle,144.3,7.13,F
+2021-12,2012,Lungi (no.),163.1,9.54,F
+2021-12,2012,Maida,153.2,1.46,F
+2021-12,2012,Maize & Products,162.6,6.27,F
+2021-12,2012,Mango,,,F
+2021-12,2012,Masur,174.5,13.53,F
+2021-12,2012,Matches (box),121.5,3.32,F
+2021-12,2012,Medicine (non-institutional),166.9,7.68,F
+2021-12,2012,Milk: Condensed/ Powder,156.8,3.23,F
+2021-12,2012,Milk: Liquid (litre),159.8,3.63,F
+2021-12,2012,Mineral Water (litre),117.5,-0.09,F
+2021-12,2012,Mobile Handset,117.2,5.49,F
+2021-12,2012,Monthly Charges for Cable Tv Connection,159.6,5.35,F
+2021-12,2012,Monthly Maintainance Charges,136.1,-2.3,F
+2021-12,2012,Moong,159.4,-0.62,F
+2021-12,2012,Mosquito Net (no.),149.3,7.1,F
+2021-12,2012,Muri,148.2,0.2,F
+2021-12,2012,Mustard Oil,205.7,37.59,F
+2021-12,2012,Oilseeds (gm),187.5,17.7,F
+2021-12,2012,Onion,255.2,-22.74,F
+2021-12,2012,Other Cereals,172.2,0.35,F
+2021-12,2012,Other Consumer Services Excluding Conveyance,170.7,7.22,F
+2021-12,2012,Other Conveyance Expenses,174.2,14.38,F
+2021-12,2012,Other Cooking/ Household Appliances,132.5,7.99,F
+2021-12,2012,Other Crockery & Utensils,158.5,8.19,F
+2021-12,2012,Other Dry Fruits,183.5,7.75,F
+2021-12,2012,Other Durables (specify)….,158.4,0.06,F
+2021-12,2012,Other Educational Expenses (incl. Fees for Enrollment in Web-based Training),150.6,4.66,F
+2021-12,2012,Other Entertainment,134,7.63,F
+2021-12,2012,Other Footwear,154,8.45,F
+2021-12,2012,Other Fresh Fruits,155.7,4.29,F
+2021-12,2012,Other Fuel,166.8,8.95,F
+2021-12,2012,Other Intoxicants,175.2,-2.07,F
+2021-12,2012,Other Leather Footwear,157.1,7.31,F
+2021-12,2012,Other Medical Expenses (non-institutional),146.4,5.17,F
+2021-12,2012,Other Metal Utensils,174.5,11.22,F
+2021-12,2012,Other Milk Products,154.3,7.15,F
+2021-12,2012,Other Nuts,176.8,3.88,F
+2021-12,2012,Other Ornaments,161.4,-1.47,F
+2021-12,2012,Other Packaged Processed Food,150.5,7.96,F
+2021-12,2012,Other Petty Articles,185,8.76,F
+2021-12,2012,Other Pulse Products,171.3,8.62,F
+2021-12,2012,Other Pulses,180.6,13.37,F
+2021-12,2012,Other Rice Products,155.8,-0.51,F
+2021-12,2012,Other Tobacco Products,180.6,1.92,F
+2021-12,2012,Other Vegetables,180.3,8.61,F
+2021-12,2012,Other Washing Requisites,150.3,5.77,F
+2021-12,2012,PC/ Laptop/ Other Peripherals Incl. Software,134.5,7.51,F
+2021-12,2012,Palak/other Leafy Vegetables,177.9,15.52,F
+2021-12,2012,Pan: Finished (no.),193.3,6.09,F
+2021-12,2012,Pan: Leaf (no.),193.8,0.31,F
+2021-12,2012,Papaya,170.1,7.39,F
+2021-12,2012,Pears/nashpati,,,F
+2021-12,2012,Peas (pulses),223.9,1.59,F
+2021-12,2012,Peas (vegetables),173.9,21.02,F
+2021-12,2012,Petrol for Vehicle,141.5,18.41,F
+2021-12,2012,Photography,144.3,5.56,F
+2021-12,2012,Pickles (gm),163.8,13.99,F
+2021-12,2012,Pineapple (no.),157.7,-1.87,F
+2021-12,2012,Pork,212,14.41,F
+2021-12,2012,Porter Charges,194.2,5.37,F
+2021-12,2012,Potato,157.2,-38.04,F
+2021-12,2012,Pressure Cooker/ Pressure Pan,161.1,10.65,F
+2021-12,2012,Private Tutor/ Coaching Centre,167.9,5.53,F
+2021-12,2012,Radish,169.3,28.75,F
+2021-12,2012,Ragi & its Products,198.9,3.11,F
+2021-12,2012,Railway Fare,151.7,1.81,F
+2021-12,2012,Refrigerator,140.3,6.29,F
+2021-12,2012,Residential Building & Land (cost of Repairs Only),190.7,6.24,F
+2021-12,2012,Rice – Other Sources,149.7,1.91,F
+2021-12,2012,Rice – PDS,81.5,-3.32,F
+2021-12,2012,Rickshaw (hand Drawn & Cycle) Fare,176.9,4.3,F
+2021-12,2012,Rubber / Pvc Footwear,163.6,9.65,F
+2021-12,2012,Salt,155.1,6.97,F
+2021-12,2012,Sanitary Napkins,145.8,3.55,F
+2021-12,2012,Saree (no.),171.5,8.61,F
+2021-12,2012,School/college Uniform: Boys,158,4.98,F
+2021-12,2012,School/college Uniform: Girls,158.9,6.36,F
+2021-12,2012,Sewing Machine,148.9,5.38,F
+2021-12,2012,Silver,125.6,-0.79,F
+2021-12,2012,Singara,134.1,2.84,F
+2021-12,2012,Small Millets & their Products,161.5,-3.87,F
+2021-12,2012,Snuff (gm),184.7,-7,F
+2021-12,2012,Spectacles,165.7,9.3,F
+2021-12,2012,Stainless Steel Utensils,180.4,12.47,F
+2021-12,2012,Sugar - Other Sources,116.6,6.39,F
+2021-12,2012,Sugar - PDS,161,-1.23,F
+2021-12,2012,Sweeper,179.5,6.53,F
+2021-12,2012,Tailor,188,5.2,F
+2021-12,2012,Tamarind (gm),196.9,-12.72,F
+2021-12,2012,Tea: Cups (no.),160.5,4.56,F
+2021-12,2012,Tea: Leaf (gm),170,9.54,F
+2021-12,2012,Telephone Charges: Landline*,116.5,0.95,F
+2021-12,2012,Telephone Charges: Mobile,152.4,8.47,F
+2021-12,2012,Television,165.5,15.01,F
+2021-12,2012,Toddy (litre),223.6,10.26,F
+2021-12,2012,Toilet Soap,155.2,10.38,F
+2021-12,2012,Tomato,257.3,46.86,F
+2021-12,2012,Torch,149.6,8.8,F
+2021-12,2012,Turmeric (gm),150.6,7.19,F
+2021-12,2012,Tyres & Tubes,140.1,8.6,F
+2021-12,2012,Urd,180.4,1.06,F
+2021-12,2012,VCD/ DVD Hire (incl. Instrument),148.1,-17.26,F
+2021-12,2012,VCR/VCD/DVD Player,113.4,7.39,F
+2021-12,2012,Walnut,206.2,3.1,F
+2021-12,2012,Washing Machine,145,9.52,F
+2021-12,2012,Washing Soap/soda/powder,148.1,6.16,F
+2021-12,2012,Watch Man Charges (other Cons Taxes),160.2,2.89,F
+2021-12,2012,Water Charges,140.8,4.45,F
+2021-12,2012,Water Purifier,138,4.15,F
+2021-12,2012,Watermelon,197.3,11.22,F
+2021-12,2012,Wheat/ Atta – Other Sources,153.6,4.14,F
+2021-12,2012,Wheat/ Atta – PDS,76.3,-1.29,F

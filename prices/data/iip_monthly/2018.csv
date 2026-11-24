@@ -1,0 +1,397 @@
+month,base_year,type,category,sub_category,index,growth_rate
+2018-01,2011-12,General,General,,132.3,7.5
+2018-01,2011-12,Sectoral,Electricity,,149.5,7.6
+2018-01,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",157.2,22.5
+2018-01,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",114.4,8.4
+2018-01,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",123.8,23.3
+2018-01,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",89.3,1.7
+2018-01,2011-12,Sectoral,Manufacturing,,133.8,8.7
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,143.7,4.7
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,107.8,12.4
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,120.1,3.4
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,133.3,11.5
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,106,-2.6
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,131.4,14.6
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,217.8,28
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,125.6,8.5
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,121.7,14.9
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,124.3,17.8
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,132.5,32
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,108.2,-2.8
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,112.2,-2.5
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,120.4,1.9
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,85.7,-47.9
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,141.1,-12.8
+2018-01,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,231.6,22
+2018-01,2011-12,Sectoral,Manufacturing,Other Manufacturing,93.7,-33.7
+2018-01,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,90.8,-16
+2018-01,2011-12,Sectoral,Mining,,114.7,0.3
+2018-01,2011-12,Use-based category,Capital Goods,,111.1,12.4
+2018-01,2011-12,Use-based category,Consumer Durables,,125.6,7.6
+2018-01,2011-12,Use-based category,Consumer Non-durables,,153.3,10.7
+2018-01,2011-12,Use-based category,Infrastructure/ Construction Goods,,138.3,7.5
+2018-01,2011-12,Use-based category,Intermediate Goods,,130.6,5.4
+2018-01,2011-12,Use-based category,Primary Goods,,129.2,5.9
+2018-02,2011-12,General,General,,127.4,6.9
+2018-02,2011-12,Sectoral,Electricity,,136.1,4.5
+2018-02,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",145.5,16.5
+2018-02,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",119.2,17.1
+2018-02,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",123.6,20
+2018-02,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",94.1,2.2
+2018-02,2011-12,Sectoral,Manufacturing,,129.7,8.4
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,143,10.8
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,109.9,12.3
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,110.9,-2.9
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,118.8,6.8
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,105.5,-2.7
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,125.9,24.3
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,216.4,20.1
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,125.5,0.1
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,139.1,23.3
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,118.8,15.2
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,143,32
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,101.2,-3.6
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,103.9,-8.6
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,115,2.2
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,96.9,-2
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,142.9,-8.4
+2018-02,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,217.9,4.9
+2018-02,2011-12,Sectoral,Manufacturing,Other Manufacturing,87.6,-32.4
+2018-02,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,91.2,-9.3
+2018-02,2011-12,Sectoral,Mining,,110.1,-0.4
+2018-02,2011-12,Use-based category,Capital Goods,,118.8,16.6
+2018-02,2011-12,Use-based category,Consumer Durables,,124,7.5
+2018-02,2011-12,Use-based category,Consumer Non-durables,,146.6,7.4
+2018-02,2011-12,Use-based category,Infrastructure/ Construction Goods,,138.5,13
+2018-02,2011-12,Use-based category,Intermediate Goods,,124.8,3.4
+2018-02,2011-12,Use-based category,Primary Goods,,119.5,3.7
+2018-03,2011-12,General,General,,140.3,5.3
+2018-03,2011-12,Sectoral,Electricity,,156.7,5.9
+2018-03,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",159.8,15.1
+2018-03,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",132.9,11
+2018-03,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",134.4,18.2
+2018-03,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",105.2,-3
+2018-03,2011-12,Sectoral,Manufacturing,,140.2,5.7
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,151.3,9.9
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,123.1,3.2
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126.9,1.8
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,128.6,-0.7
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,117.4,-6.8
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,128.3,26.4
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,276.5,40
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,130.3,-3
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,147.9,-7.9
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,129.8,9.2
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,151.1,16.3
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,112.7,-2
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,111.3,-11.8
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,119,-1.2
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,95,-20.6
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,169.3,-0.5
+2018-03,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,231.5,20.1
+2018-03,2011-12,Sectoral,Manufacturing,Other Manufacturing,109.2,-32.4
+2018-03,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,111.2,2.3
+2018-03,2011-12,Sectoral,Mining,,131.6,3.1
+2018-03,2011-12,Use-based category,Capital Goods,,130.5,-3.1
+2018-03,2011-12,Use-based category,Consumer Durables,,136.1,6.2
+2018-03,2011-12,Use-based category,Consumer Non-durables,,154.5,14.1
+2018-03,2011-12,Use-based category,Infrastructure/ Construction Goods,,147.9,9.1
+2018-03,2011-12,Use-based category,Intermediate Goods,,137.4,2.5
+2018-03,2011-12,Use-based category,Primary Goods,,136.5,3
+2018-04,2011-12,General,General,,122.6,4.5
+2018-04,2011-12,Sectoral,Electricity,,153.7,2.1
+2018-04,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",151.6,30.1
+2018-04,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",102.7,9.3
+2018-04,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",122.6,23
+2018-04,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",89.8,4.3
+2018-04,2011-12,Sectoral,Manufacturing,,123.1,4.9
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,134,2.2
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,116.4,3.7
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,112.9,4
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,117.7,1.2
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,102.1,4.1
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,109,19.1
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,182.4,7.6
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,126.3,-3.9
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,106,4.8
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,126,13.9
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,141.2,13.1
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,107.5,-2.7
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,105.5,-10.4
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,116.2,0.2
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,75.8,3
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,125.4,-19.4
+2018-04,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,194.9,7
+2018-04,2011-12,Sectoral,Manufacturing,Other Manufacturing,93.3,-32.8
+2018-04,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.2,-10.5
+2018-04,2011-12,Sectoral,Mining,,102.6,3.8
+2018-04,2011-12,Use-based category,Capital Goods,,97.6,9.8
+2018-04,2011-12,Use-based category,Consumer Durables,,124.4,3.9
+2018-04,2011-12,Use-based category,Consumer Non-durables,,132.8,7.5
+2018-04,2011-12,Use-based category,Infrastructure/ Construction Goods,,135.9,8.5
+2018-04,2011-12,Use-based category,Intermediate Goods,,120.1,0.4
+2018-04,2011-12,Use-based category,Primary Goods,,119.7,2.7
+2018-05,2011-12,General,General,,129.6,3.8
+2018-05,2011-12,Sectoral,Electricity,,164.7,4.2
+2018-05,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",184.8,35.8
+2018-05,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",107.5,12.9
+2018-05,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",126.5,23.1
+2018-05,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",96.3,3.3
+2018-05,2011-12,Sectoral,Manufacturing,,130.1,3.6
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,138.3,2.1
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,132.9,10
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,119.9,5.5
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,129.7,4.9
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,110,2.2
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,101.9,12.1
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,204.6,10.4
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,132.9,-2.8
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,117.1,-1.3
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,125.6,10.2
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,148,8.1
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,108.6,-5
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,110.3,-8.4
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,118.9,1.9
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,96,-13.7
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,150.8,-3.8
+2018-05,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,207.8,-7.7
+2018-05,2011-12,Sectoral,Manufacturing,Other Manufacturing,89.5,-32
+2018-05,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,96.5,-2.5
+2018-05,2011-12,Sectoral,Mining,,107.6,5.8
+2018-05,2011-12,Use-based category,Capital Goods,,106.1,6.4
+2018-05,2011-12,Use-based category,Consumer Durables,,133.5,6.7
+2018-05,2011-12,Use-based category,Consumer Non-durables,,138.6,-1.6
+2018-05,2011-12,Use-based category,Infrastructure/ Construction Goods,,140.8,7.6
+2018-05,2011-12,Use-based category,Intermediate Goods,,123.4,0.1
+2018-05,2011-12,Use-based category,Primary Goods,,129,5.7
+2018-06,2011-12,General,General,,127.7,7
+2018-06,2011-12,Sectoral,Electricity,,159.9,8.5
+2018-06,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",178.9,44.3
+2018-06,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",109.5,12.7
+2018-06,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",123.7,21.2
+2018-06,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",112.4,18.8
+2018-06,2011-12,Sectoral,Manufacturing,,128.6,6.9
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,139,2.9
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,117.4,11.4
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,116.5,5.7
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,131.3,11.7
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,111.5,14.2
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,94.3,5.6
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,233.2,25.4
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,130.8,1.7
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,125,7.6
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,127.5,12.5
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,150.4,18.1
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,110.6,3.5
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,108.5,2.6
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,117.1,0.6
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,89.1,-32.3
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,151.6,4.4
+2018-06,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,189.6,-0.7
+2018-06,2011-12,Sectoral,Manufacturing,Other Manufacturing,86.9,-40.2
+2018-06,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,97.2,2.2
+2018-06,2011-12,Sectoral,Mining,,104.9,6.5
+2018-06,2011-12,Use-based category,Capital Goods,,109.5,9.7
+2018-06,2011-12,Use-based category,Consumer Durables,,133.6,13.6
+2018-06,2011-12,Use-based category,Consumer Non-durables,,128.5,0.2
+2018-06,2011-12,Use-based category,Infrastructure/ Construction Goods,,142.4,9.4
+2018-06,2011-12,Use-based category,Intermediate Goods,,121.8,1.5
+2018-06,2011-12,Use-based category,Primary Goods,,127.1,9.2
+2018-07,2011-12,General,General,,125.7,6.5
+2018-07,2011-12,Sectoral,Electricity,,162,6.6
+2018-07,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",172.7,27.7
+2018-07,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",105.1,8.9
+2018-07,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",125.5,14.7
+2018-07,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",103.7,10.9
+2018-07,2011-12,Sectoral,Manufacturing,,127.6,7
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,136.9,3.9
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,103.6,12.5
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,116.4,4.2
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,131,10.8
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,103.9,7.9
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,96.2,2.4
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,230.6,58.1
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,134.2,8.2
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,109.2,0.2
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,115.3,5.6
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,153.5,17
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,109.1,-2.8
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,107,-0.3
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,120.1,3.2
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,87.6,28.1
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,145.4,8.3
+2018-07,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,212.2,6
+2018-07,2011-12,Sectoral,Manufacturing,Other Manufacturing,90.9,1.1
+2018-07,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,101,-1.4
+2018-07,2011-12,Sectoral,Mining,,95.5,3.4
+2018-07,2011-12,Use-based category,Capital Goods,,98.7,2.3
+2018-07,2011-12,Use-based category,Consumer Durables,,133.5,14.1
+2018-07,2011-12,Use-based category,Consumer Non-durables,,135.1,5.3
+2018-07,2011-12,Use-based category,Infrastructure/ Construction Goods,,136.1,9.2
+2018-07,2011-12,Use-based category,Intermediate Goods,,121.4,1.3
+2018-07,2011-12,Use-based category,Primary Goods,,123.6,6.8
+2018-08,2011-12,General,General,,128,4.8
+2018-08,2011-12,Sectoral,Electricity,,167.2,7.6
+2018-08,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",168.3,-5.7
+2018-08,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",108.4,-1.8
+2018-08,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",128,11.4
+2018-08,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",109.9,15.9
+2018-08,2011-12,Sectoral,Manufacturing,,130.6,5.2
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,140.4,3.1
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,103.1,7.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126,7.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,123.9,2.2
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,107.8,1.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,104.8,9.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,226.5,40.9
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,123.6,5.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,128.6,12
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,115.4,9.6
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,157.9,9
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,108.2,-5
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,110.6,-0.7
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,124.4,7.2
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,84.1,-17.4
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,146,20.3
+2018-08,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,212.9,8.1
+2018-08,2011-12,Sectoral,Manufacturing,Other Manufacturing,105.3,-2.5
+2018-08,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,94.4,-16.7
+2018-08,2011-12,Sectoral,Mining,,92,-0.6
+2018-08,2011-12,Use-based category,Capital Goods,,112.2,10.3
+2018-08,2011-12,Use-based category,Consumer Durables,,135.1,5.5
+2018-08,2011-12,Use-based category,Consumer Non-durables,,140,6.5
+2018-08,2011-12,Use-based category,Infrastructure/ Construction Goods,,138.6,8
+2018-08,2011-12,Use-based category,Intermediate Goods,,126.6,2.9
+2018-08,2011-12,Use-based category,Primary Goods,,120.7,2.5
+2018-09,2011-12,General,General,,128.8,4.6
+2018-09,2011-12,Sectoral,Electricity,,162.9,8.2
+2018-09,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",182.5,-0.9
+2018-09,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",112.2,1.7
+2018-09,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",128.3,10.3
+2018-09,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",108.9,19.5
+2018-09,2011-12,Sectoral,Manufacturing,,131.6,4.8
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,138.7,4.2
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,103,3.6
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,120.3,1.5
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,121.7,0.2
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,111.6,-2.2
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,110.5,16.3
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,243.6,33.8
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,118.5,2.5
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,134.4,6.6
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,114.9,11.3
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,165.6,10.5
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,103.5,-2.3
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,113.3,5.4
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,121.6,5.6
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,92,-6.7
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,142.2,19.7
+2018-09,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,226.5,6.3
+2018-09,2011-12,Sectoral,Manufacturing,Other Manufacturing,96.8,-10.7
+2018-09,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,92.5,-10.5
+2018-09,2011-12,Sectoral,Mining,,94.5,0.1
+2018-09,2011-12,Use-based category,Capital Goods,,115,6.9
+2018-09,2011-12,Use-based category,Consumer Durables,,136.9,5.4
+2018-09,2011-12,Use-based category,Consumer Non-durables,,145.6,6.4
+2018-09,2011-12,Use-based category,Infrastructure/ Construction Goods,,137.2,9.5
+2018-09,2011-12,Use-based category,Intermediate Goods,,125.6,1.5
+2018-09,2011-12,Use-based category,Primary Goods,,120,2.6
+2018-10,2011-12,General,General,,132.8,8.4
+2018-10,2011-12,Sectoral,Electricity,,166,10.8
+2018-10,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",197.2,29.7
+2018-10,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",105.9,3.3
+2018-10,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",132.1,16
+2018-10,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",108.6,39.9
+2018-10,2011-12,Sectoral,Manufacturing,,133.9,8.2
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,143.2,3.3
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,98.8,-2.4
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,118,0.9
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,131.2,1.6
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,115.6,2.4
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,117.8,19.4
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,215.2,28.5
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,119.2,11.4
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,130.1,21.7
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,124.7,14.2
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,164.3,24.8
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,108.3,-0.1
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,113.1,7.2
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,120.2,5.9
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,100.4,0.2
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,141.1,32.7
+2018-10,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,212.3,6.3
+2018-10,2011-12,Sectoral,Manufacturing,Other Manufacturing,102.1,22.9
+2018-10,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,97.3,4.7
+2018-10,2011-12,Sectoral,Mining,,108.2,7.3
+2018-10,2011-12,Use-based category,Capital Goods,,114.1,16.9
+2018-10,2011-12,Use-based category,Consumer Durables,,139.7,17.4
+2018-10,2011-12,Use-based category,Consumer Non-durables,,143.4,8.6
+2018-10,2011-12,Use-based category,Infrastructure/ Construction Goods,,143.9,9
+2018-10,2011-12,Use-based category,Intermediate Goods,,125.5,2.4
+2018-10,2011-12,Use-based category,Primary Goods,,129.5,6.1
+2018-11,2011-12,General,General,,126.1,0.2
+2018-11,2011-12,Sectoral,Electricity,,147.3,5.1
+2018-11,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",147.4,1
+2018-11,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",92.9,-13.9
+2018-11,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",112.7,-6.4
+2018-11,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",94,5.4
+2018-11,2011-12,Sectoral,Manufacturing,,126.8,-0.7
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,139.5,2.1
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,97.7,1.2
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,110.9,-6.9
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,126.7,3
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,105.2,-9.7
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,130.3,6.5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,186.1,-11.2
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,107.9,-8.9
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,113.5,-1.6
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,115.5,4.5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,138.6,8.1
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,99,-5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,101.8,-7.5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,113.6,-3.5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,104.1,9.5
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,135.7,14.9
+2018-11,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,220.9,-2.3
+2018-11,2011-12,Sectoral,Manufacturing,Other Manufacturing,75.5,-7.6
+2018-11,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,91.5,-4.5
+2018-11,2011-12,Sectoral,Mining,,110.6,2.7
+2018-11,2011-12,Use-based category,Capital Goods,,100,-4.1
+2018-11,2011-12,Use-based category,Consumer Durables,,118.3,-3
+2018-11,2011-12,Use-based category,Consumer Non-durables,,148.6,-0.3
+2018-11,2011-12,Use-based category,Infrastructure/ Construction Goods,,135.5,4.8
+2018-11,2011-12,Use-based category,Intermediate Goods,,120.2,-4.1
+2018-11,2011-12,Use-based category,Primary Goods,,124.8,3.2
+2018-12,2011-12,General,General,,133.9,2.5
+2018-12,2011-12,Sectoral,Electricity,,150.4,4.5
+2018-12,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",152.5,3.9
+2018-12,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",110.6,-3.2
+2018-12,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",109.3,-3
+2018-12,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",110.8,10.9
+2018-12,2011-12,Sectoral,Manufacturing,,135.8,2.9
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,146.4,4.3
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,101.9,0.9
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,122.4,2.9
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,124.4,-5.4
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,124.9,13.4
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,154.4,14.6
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,217.4,-10.2
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,122.2,-3.6
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,138,7.4
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,126.2,6
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,123.1,16.2
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,102.1,-5.9
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,108.7,-4.5
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,120.4,-1.6
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,106.6,27.7
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,175.6,24.6
+2018-12,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,233.1,1.5
+2018-12,2011-12,Sectoral,Manufacturing,Other Manufacturing,80.1,-17
+2018-12,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,110.4,7.8
+2018-12,2011-12,Sectoral,Mining,,114.4,-1
+2018-12,2011-12,Use-based category,Capital Goods,,114.7,4.2
+2018-12,2011-12,Use-based category,Consumer Durables,,124.2,4.1
+2018-12,2011-12,Use-based category,Consumer Non-durables,,163.4,6.5
+2018-12,2011-12,Use-based category,Infrastructure/ Construction Goods,,146.1,9
+2018-12,2011-12,Use-based category,Intermediate Goods,,129.9,-0.8
+2018-12,2011-12,Use-based category,Primary Goods,,126.6,-1.1
