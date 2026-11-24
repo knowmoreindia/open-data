@@ -1,0 +1,610 @@
+{
+  "name": "mgnrega",
+  "title": "MGNREGA",
+  "homepage": "https://github.com/knowmoreindia/open-data/tree/main/mgnrega",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Rural Development: District-wise MGNREGA Data at a Glance (data.gov.in)",
+      "path": "https://www.data.gov.in/resource/ee03643a-ee4c-48c2-ac30-9f2ff26ab722"
+    }
+  ],
+  "version": "2026-11-24",
+  "resources": [
+    {
+      "name": "district-month",
+      "path": [
+        "data/district_month/2018-2019.csv",
+        "data/district_month/2019-2020.csv",
+        "data/district_month/2020-2021.csv",
+        "data/district_month/2021-2022.csv",
+        "data/district_month/2022-2023.csv",
+        "data/district_month/2023-2024.csv",
+        "data/district_month/2024-2025.csv",
+        "data/district_month/2025-2026.csv",
+        "data/district_month/2026-2027.csv"
+      ],
+      "format": "csv",
+      "description": "One row per district and month",
+      "schema": {
+        "fields": [
+          {
+            "name": "financial_year",
+            "type": "string",
+            "description": "Financial year, April to March, such as 2025-2026"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM. Figures are for the financial year up to the end of this month"
+          },
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "State code used by the MGNREGA portal"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State as published"
+          },
+          {
+            "name": "district_code",
+            "type": "string",
+            "description": "District code used by the MGNREGA portal"
+          },
+          {
+            "name": "district",
+            "type": "string",
+            "description": "District as published"
+          },
+          {
+            "name": "approved_labour_budget",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Approved labour budget for the year, in person-days"
+          },
+          {
+            "name": "average_wage_per_day",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Average wage paid per person per day, in rupees"
+          },
+          {
+            "name": "average_days_per_household",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Average days of work given to each household that worked"
+          },
+          {
+            "name": "differently_abled_persons_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Persons with disabilities who worked"
+          },
+          {
+            "name": "material_and_skilled_wages",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Spending on material and skilled wages. As published. The portal does not state the unit"
+          },
+          {
+            "name": "completed_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works completed"
+          },
+          {
+            "name": "gram_panchayats_with_no_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Gram panchayats that spent nothing"
+          },
+          {
+            "name": "ongoing_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works under way"
+          },
+          {
+            "name": "person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days of work generated so far in the financial year"
+          },
+          {
+            "name": "sc_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by Scheduled Caste workers"
+          },
+          {
+            "name": "sc_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Scheduled Caste workers among active workers"
+          },
+          {
+            "name": "st_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by Scheduled Tribe workers"
+          },
+          {
+            "name": "st_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Scheduled Tribe workers among active workers"
+          },
+          {
+            "name": "administrative_expenditure",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Administrative spending. As published. The portal does not state the unit"
+          },
+          {
+            "name": "total_expenditure",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Total spending. As published. The portal does not state the unit"
+          },
+          {
+            "name": "households_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Households that worked"
+          },
+          {
+            "name": "individuals_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Individuals who worked"
+          },
+          {
+            "name": "active_job_cards",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Active job cards"
+          },
+          {
+            "name": "active_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Active workers"
+          },
+          {
+            "name": "households_completed_100_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Households that completed 100 days of work"
+          },
+          {
+            "name": "job_cards_issued",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Job cards issued"
+          },
+          {
+            "name": "workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Registered workers"
+          },
+          {
+            "name": "works_taken_up",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works taken up"
+          },
+          {
+            "name": "wages",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Spending on unskilled wages. As published. The portal does not state the unit"
+          },
+          {
+            "name": "women_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by women"
+          },
+          {
+            "name": "percent_category_b_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of works on individual land (Category B), per cent"
+          },
+          {
+            "name": "percent_agriculture_allied_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of spending on agriculture and allied works, per cent"
+          },
+          {
+            "name": "percent_natural_resource_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of spending on natural resource management, per cent"
+          },
+          {
+            "name": "percent_paid_within_15_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of wage payments made within 15 days, per cent"
+          }
+        ]
+      }
+    },
+    {
+      "name": "all-copies",
+      "path": [
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2018-2019.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2019-2020.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2020-2021.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2021-2022.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2022-2023.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2023-2024.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2024-2025.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2025-2026.csv.gz",
+        "https://github.com/knowmoreindia/open-data/releases/download/mgnrega/all-copies-2026-2027.csv.gz"
+      ],
+      "format": "csv",
+      "compression": "gz",
+      "description": "Every copy of each district's monthly row as published",
+      "schema": {
+        "fields": [
+          {
+            "name": "financial_year",
+            "type": "string",
+            "description": "Financial year, April to March, such as 2025-2026"
+          },
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM. Figures are for the financial year up to the end of this month"
+          },
+          {
+            "name": "state_code",
+            "type": "string",
+            "description": "State code used by the MGNREGA portal"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "State as published"
+          },
+          {
+            "name": "district_code",
+            "type": "string",
+            "description": "District code used by the MGNREGA portal"
+          },
+          {
+            "name": "district",
+            "type": "string",
+            "description": "District as published"
+          },
+          {
+            "name": "approved_labour_budget",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Approved labour budget for the year, in person-days"
+          },
+          {
+            "name": "average_wage_per_day",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Average wage paid per person per day, in rupees"
+          },
+          {
+            "name": "average_days_per_household",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Average days of work given to each household that worked"
+          },
+          {
+            "name": "differently_abled_persons_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Persons with disabilities who worked"
+          },
+          {
+            "name": "material_and_skilled_wages",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Spending on material and skilled wages. As published. The portal does not state the unit"
+          },
+          {
+            "name": "completed_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works completed"
+          },
+          {
+            "name": "gram_panchayats_with_no_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Gram panchayats that spent nothing"
+          },
+          {
+            "name": "ongoing_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works under way"
+          },
+          {
+            "name": "person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days of work generated so far in the financial year"
+          },
+          {
+            "name": "sc_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by Scheduled Caste workers"
+          },
+          {
+            "name": "sc_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Scheduled Caste workers among active workers"
+          },
+          {
+            "name": "st_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by Scheduled Tribe workers"
+          },
+          {
+            "name": "st_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Scheduled Tribe workers among active workers"
+          },
+          {
+            "name": "administrative_expenditure",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Administrative spending. As published. The portal does not state the unit"
+          },
+          {
+            "name": "total_expenditure",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Total spending. As published. The portal does not state the unit"
+          },
+          {
+            "name": "households_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Households that worked"
+          },
+          {
+            "name": "individuals_worked",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Individuals who worked"
+          },
+          {
+            "name": "active_job_cards",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Active job cards"
+          },
+          {
+            "name": "active_workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Active workers"
+          },
+          {
+            "name": "households_completed_100_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Households that completed 100 days of work"
+          },
+          {
+            "name": "job_cards_issued",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Job cards issued"
+          },
+          {
+            "name": "workers",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Registered workers"
+          },
+          {
+            "name": "works_taken_up",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Works taken up"
+          },
+          {
+            "name": "wages",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Spending on unskilled wages. As published. The portal does not state the unit"
+          },
+          {
+            "name": "women_person_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Person-days worked by women"
+          },
+          {
+            "name": "percent_category_b_works",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of works on individual land (Category B), per cent"
+          },
+          {
+            "name": "percent_agriculture_allied_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of spending on agriculture and allied works, per cent"
+          },
+          {
+            "name": "percent_natural_resource_spending",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of spending on natural resource management, per cent"
+          },
+          {
+            "name": "percent_paid_within_15_days",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Share of wage payments made within 15 days, per cent"
+          },
+          {
+            "name": "remarks",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Remarks, as published"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+file,column,type,description
+data/district_month/<financial year>.csv,financial_year,string,"Financial year, April to March, such as 2025-2026"
+data/district_month/<financial year>.csv,month,string,"Month, YYYY-MM. Figures are for the financial year up to the end of this month"
+data/district_month/<financial year>.csv,state_code,string,State code used by the MGNREGA portal
+data/district_month/<financial year>.csv,state_slug,"string,null",State or UT slug
+data/district_month/<financial year>.csv,state,string,State as published
+data/district_month/<financial year>.csv,district_code,string,District code used by the MGNREGA portal
+data/district_month/<financial year>.csv,district,string,District as published
+data/district_month/<financial year>.csv,approved_labour_budget,"number,null","Approved labour budget for the year, in person-days"
+data/district_month/<financial year>.csv,average_wage_per_day,"number,null","Average wage paid per person per day, in rupees"
+data/district_month/<financial year>.csv,average_days_per_household,"number,null",Average days of work given to each household that worked
+data/district_month/<financial year>.csv,differently_abled_persons_worked,"number,null",Persons with disabilities who worked
+data/district_month/<financial year>.csv,material_and_skilled_wages,"number,null",Spending on material and skilled wages. As published. The portal does not state the unit
+data/district_month/<financial year>.csv,completed_works,"number,null",Works completed
+data/district_month/<financial year>.csv,gram_panchayats_with_no_spending,"number,null",Gram panchayats that spent nothing
+data/district_month/<financial year>.csv,ongoing_works,"number,null",Works under way
+data/district_month/<financial year>.csv,person_days,"number,null",Person-days of work generated so far in the financial year
+data/district_month/<financial year>.csv,sc_person_days,"number,null",Person-days worked by Scheduled Caste workers
+data/district_month/<financial year>.csv,sc_workers,"number,null",Scheduled Caste workers among active workers
+data/district_month/<financial year>.csv,st_person_days,"number,null",Person-days worked by Scheduled Tribe workers
+data/district_month/<financial year>.csv,st_workers,"number,null",Scheduled Tribe workers among active workers
+data/district_month/<financial year>.csv,administrative_expenditure,"number,null",Administrative spending. As published. The portal does not state the unit
+data/district_month/<financial year>.csv,total_expenditure,"number,null",Total spending. As published. The portal does not state the unit
+data/district_month/<financial year>.csv,households_worked,"number,null",Households that worked
+data/district_month/<financial year>.csv,individuals_worked,"number,null",Individuals who worked
+data/district_month/<financial year>.csv,active_job_cards,"number,null",Active job cards
+data/district_month/<financial year>.csv,active_workers,"number,null",Active workers
+data/district_month/<financial year>.csv,households_completed_100_days,"number,null",Households that completed 100 days of work
+data/district_month/<financial year>.csv,job_cards_issued,"number,null",Job cards issued
+data/district_month/<financial year>.csv,workers,"number,null",Registered workers
+data/district_month/<financial year>.csv,works_taken_up,"number,null",Works taken up
+data/district_month/<financial year>.csv,wages,"number,null",Spending on unskilled wages. As published. The portal does not state the unit
+data/district_month/<financial year>.csv,women_person_days,"number,null",Person-days worked by women
+data/district_month/<financial year>.csv,percent_category_b_works,"number,null","Share of works on individual land (Category B), per cent"
+data/district_month/<financial year>.csv,percent_agriculture_allied_spending,"number,null","Share of spending on agriculture and allied works, per cent"
+data/district_month/<financial year>.csv,percent_natural_resource_spending,"number,null","Share of spending on natural resource management, per cent"
+data/district_month/<financial year>.csv,percent_paid_within_15_days,"number,null","Share of wage payments made within 15 days, per cent"
+release: all-copies-<financial year>.csv.gz,financial_year,string,"Financial year, April to March, such as 2025-2026"
+release: all-copies-<financial year>.csv.gz,month,string,"Month, YYYY-MM. Figures are for the financial year up to the end of this month"
+release: all-copies-<financial year>.csv.gz,state_code,string,State code used by the MGNREGA portal
+release: all-copies-<financial year>.csv.gz,state_slug,"string,null",State or UT slug
+release: all-copies-<financial year>.csv.gz,state,string,State as published
+release: all-copies-<financial year>.csv.gz,district_code,string,District code used by the MGNREGA portal
+release: all-copies-<financial year>.csv.gz,district,string,District as published
+release: all-copies-<financial year>.csv.gz,approved_labour_budget,"number,null","Approved labour budget for the year, in person-days"
+release: all-copies-<financial year>.csv.gz,average_wage_per_day,"number,null","Average wage paid per person per day, in rupees"
+release: all-copies-<financial year>.csv.gz,average_days_per_household,"number,null",Average days of work given to each household that worked
+release: all-copies-<financial year>.csv.gz,differently_abled_persons_worked,"number,null",Persons with disabilities who worked
+release: all-copies-<financial year>.csv.gz,material_and_skilled_wages,"number,null",Spending on material and skilled wages. As published. The portal does not state the unit
+release: all-copies-<financial year>.csv.gz,completed_works,"number,null",Works completed
+release: all-copies-<financial year>.csv.gz,gram_panchayats_with_no_spending,"number,null",Gram panchayats that spent nothing
+release: all-copies-<financial year>.csv.gz,ongoing_works,"number,null",Works under way
+release: all-copies-<financial year>.csv.gz,person_days,"number,null",Person-days of work generated so far in the financial year
+release: all-copies-<financial year>.csv.gz,sc_person_days,"number,null",Person-days worked by Scheduled Caste workers
+release: all-copies-<financial year>.csv.gz,sc_workers,"number,null",Scheduled Caste workers among active workers
+release: all-copies-<financial year>.csv.gz,st_person_days,"number,null",Person-days worked by Scheduled Tribe workers
+release: all-copies-<financial year>.csv.gz,st_workers,"number,null",Scheduled Tribe workers among active workers
+release: all-copies-<financial year>.csv.gz,administrative_expenditure,"number,null",Administrative spending. As published. The portal does not state the unit
+release: all-copies-<financial year>.csv.gz,total_expenditure,"number,null",Total spending. As published. The portal does not state the unit
+release: all-copies-<financial year>.csv.gz,households_worked,"number,null",Households that worked
+release: all-copies-<financial year>.csv.gz,individuals_worked,"number,null",Individuals who worked
+release: all-copies-<financial year>.csv.gz,active_job_cards,"number,null",Active job cards
+release: all-copies-<financial year>.csv.gz,active_workers,"number,null",Active workers
+release: all-copies-<financial year>.csv.gz,households_completed_100_days,"number,null",Households that completed 100 days of work
+release: all-copies-<financial year>.csv.gz,job_cards_issued,"number,null",Job cards issued
+release: all-copies-<financial year>.csv.gz,workers,"number,null",Registered workers
+release: all-copies-<financial year>.csv.gz,works_taken_up,"number,null",Works taken up
+release: all-copies-<financial year>.csv.gz,wages,"number,null",Spending on unskilled wages. As published. The portal does not state the unit
+release: all-copies-<financial year>.csv.gz,women_person_days,"number,null",Person-days worked by women
+release: all-copies-<financial year>.csv.gz,percent_category_b_works,"number,null","Share of works on individual land (Category B), per cent"
+release: all-copies-<financial year>.csv.gz,percent_agriculture_allied_spending,"number,null","Share of spending on agriculture and allied works, per cent"
+release: all-copies-<financial year>.csv.gz,percent_natural_resource_spending,"number,null","Share of spending on natural resource management, per cent"
+release: all-copies-<financial year>.csv.gz,percent_paid_within_15_days,"number,null","Share of wage payments made within 15 days, per cent"
+release: all-copies-<financial year>.csv.gz,remarks,"string,null","Remarks, as published"

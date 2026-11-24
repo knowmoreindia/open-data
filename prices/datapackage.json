@@ -1,0 +1,512 @@
+{
+  "name": "prices",
+  "title": "Prices and production",
+  "homepage": "https://github.com/knowmoreindia/open-data/tree/main/prices",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Statistics and Programme Implementation: CPI and IIP",
+      "path": "https://api.mospi.gov.in"
+    },
+    {
+      "title": "Office of the Economic Adviser, DPIIT: Wholesale Price Index",
+      "path": "https://eaindustry.nic.in"
+    }
+  ],
+  "version": "2026-11-24",
+  "resources": [
+    {
+      "name": "cpi",
+      "path": [
+        "data/cpi/2011.csv",
+        "data/cpi/2012.csv",
+        "data/cpi/2013.csv",
+        "data/cpi/2014.csv",
+        "data/cpi/2015.csv",
+        "data/cpi/2016.csv",
+        "data/cpi/2017.csv",
+        "data/cpi/2018.csv",
+        "data/cpi/2019.csv",
+        "data/cpi/2020.csv",
+        "data/cpi/2021.csv",
+        "data/cpi/2022.csv",
+        "data/cpi/2023.csv",
+        "data/cpi/2024.csv",
+        "data/cpi/2025.csv"
+      ],
+      "format": "csv",
+      "description": "Consumer prices (base 2012), by State, rural and urban, group and subgroup",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Blank for All India"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as published, or All India"
+          },
+          {
+            "name": "sector",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Rural, Urban or Combined"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group, such as Food and beverages, or General"
+          },
+          {
+            "name": "subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subgroup, such as Cereals and products, or General-Overall for the headline index"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "status",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "F for final, P for provisional"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cpi-back-series",
+      "path": "data/cpi_back_series.csv",
+      "format": "csv",
+      "description": "Consumer prices back series on base 2012, as MoSPI publishes it beside the main series",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Blank for All India"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as published, or All India"
+          },
+          {
+            "name": "sector",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Rural, Urban or Combined"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group, such as Food and beverages, or General"
+          },
+          {
+            "name": "subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subgroup, such as Cereals and products, or General-Overall for the headline index"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "status",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "F for final, P for provisional"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cpi-items",
+      "path": [
+        "data/cpi_items/2014.csv",
+        "data/cpi_items/2015.csv",
+        "data/cpi_items/2016.csv",
+        "data/cpi_items/2017.csv",
+        "data/cpi_items/2018.csv",
+        "data/cpi_items/2019.csv",
+        "data/cpi_items/2020.csv",
+        "data/cpi_items/2021.csv",
+        "data/cpi_items/2022.csv",
+        "data/cpi_items/2023.csv",
+        "data/cpi_items/2024.csv",
+        "data/cpi_items/2025.csv"
+      ],
+      "format": "csv",
+      "description": "All-India consumer prices of each item (base 2012)",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item, such as Rice or Petrol for vehicle"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "status",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "F for final, P for provisional"
+          }
+        ]
+      }
+    },
+    {
+      "name": "wpi-2011-12",
+      "path": [
+        "data/wpi_2011_12/2012.csv",
+        "data/wpi_2011_12/2013.csv",
+        "data/wpi_2011_12/2014.csv",
+        "data/wpi_2011_12/2015.csv",
+        "data/wpi_2011_12/2016.csv",
+        "data/wpi_2011_12/2017.csv",
+        "data/wpi_2011_12/2018.csv",
+        "data/wpi_2011_12/2019.csv",
+        "data/wpi_2011_12/2020.csv",
+        "data/wpi_2011_12/2021.csv",
+        "data/wpi_2011_12/2022.csv",
+        "data/wpi_2011_12/2023.csv",
+        "data/wpi_2011_12/2024.csv",
+        "data/wpi_2011_12/2025.csv",
+        "data/wpi_2011_12/2026.csv"
+      ],
+      "format": "csv",
+      "description": "Wholesale prices (base 2011-12), by group down to each item",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "major_group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Major group: Primary articles, Fuel and power, Manufactured products, or the all-commodities index"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group within the major group"
+          },
+          {
+            "name": "subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subgroup"
+          },
+          {
+            "name": "sub_subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Sub-subgroup"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          }
+        ]
+      }
+    },
+    {
+      "name": "iip-monthly",
+      "path": [
+        "data/iip_monthly/1994.csv",
+        "data/iip_monthly/1995.csv",
+        "data/iip_monthly/1996.csv",
+        "data/iip_monthly/1997.csv",
+        "data/iip_monthly/1998.csv",
+        "data/iip_monthly/1999.csv",
+        "data/iip_monthly/2000.csv",
+        "data/iip_monthly/2001.csv",
+        "data/iip_monthly/2002.csv",
+        "data/iip_monthly/2003.csv",
+        "data/iip_monthly/2004.csv",
+        "data/iip_monthly/2005.csv",
+        "data/iip_monthly/2006.csv",
+        "data/iip_monthly/2007.csv",
+        "data/iip_monthly/2008.csv",
+        "data/iip_monthly/2009.csv",
+        "data/iip_monthly/2010.csv",
+        "data/iip_monthly/2011.csv",
+        "data/iip_monthly/2012.csv",
+        "data/iip_monthly/2013.csv",
+        "data/iip_monthly/2014.csv",
+        "data/iip_monthly/2015.csv",
+        "data/iip_monthly/2016.csv",
+        "data/iip_monthly/2017.csv",
+        "data/iip_monthly/2018.csv",
+        "data/iip_monthly/2019.csv",
+        "data/iip_monthly/2020.csv",
+        "data/iip_monthly/2021.csv",
+        "data/iip_monthly/2022.csv",
+        "data/iip_monthly/2023.csv",
+        "data/iip_monthly/2024.csv",
+        "data/iip_monthly/2025.csv",
+        "data/iip_monthly/2026.csv"
+      ],
+      "format": "csv",
+      "description": "Industrial production each month, by sector, use and industry",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "General, Sectoral or Use-based"
+          },
+          {
+            "name": "category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Category, such as Mining, Manufacturing, Electricity, or a use-based group"
+          },
+          {
+            "name": "sub_category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Industry within manufacturing"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "growth_rate",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Growth over the same month a year earlier, per cent"
+          }
+        ]
+      }
+    },
+    {
+      "name": "iip-annual",
+      "path": "data/iip_annual.csv",
+      "format": "csv",
+      "description": "Industrial production each financial year",
+      "schema": {
+        "fields": [
+          {
+            "name": "financial_year",
+            "type": "string",
+            "description": "Financial year, such as 2024-25"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "type",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "General, Sectoral or Use-based"
+          },
+          {
+            "name": "category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Category"
+          },
+          {
+            "name": "sub_category",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Industry within manufacturing"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value for the year"
+          },
+          {
+            "name": "growth_rate",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Growth over the year before, per cent"
+          }
+        ]
+      }
+    }
+  ]
+}

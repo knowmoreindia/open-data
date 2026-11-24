@@ -1,0 +1,784 @@
+month,base_year,type,category,sub_category,index,growth_rate
+2023-01,2011-12,General,General,,147.4,5.8
+2023-01,2011-12,Sectoral,Electricity,,186.6,12.7
+2023-01,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",130.7,-29.7
+2023-01,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",81.4,-8
+2023-01,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",118.2,12.8
+2023-01,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",93.2,-12.1
+2023-01,2011-12,Sectoral,Manufacturing,,145.5,4.5
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,210.8,10
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,104.3,14
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,130.2,4.2
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,137.6,5.5
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,105.4,12.7
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,158,8.9
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,173,-9.1
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,99.4,-2.2
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,113,11
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,143.2,1.2
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,119.3,-1.9
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,84.3,2.7
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,105.3,0.1
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,107.9,-12
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,92.4,-14.6
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,120.1,-22.4
+2023-01,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,243.9,9.2
+2023-01,2011-12,Sectoral,Manufacturing,Other Manufacturing,82.1,-11.1
+2023-01,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.5,9.7
+2023-01,2011-12,Sectoral,Mining,,136.1,9
+2023-01,2011-12,Use-based category,Capital Goods,,104.9,10.5
+2023-01,2011-12,Use-based category,Consumer Durables,,108.8,-8.2
+2023-01,2011-12,Use-based category,Consumer Non-durables,,164.4,6.5
+2023-01,2011-12,Use-based category,Infrastructure/ Construction Goods,,176.9,11.3
+2023-01,2011-12,Use-based category,Intermediate Goods,,155.6,1.4
+2023-01,2011-12,Use-based category,Primary Goods,,149.9,9.8
+2023-02,2011-12,General,General,,139.3,6
+2023-02,2011-12,Sectoral,Electricity,,174,8.2
+2023-02,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",123.8,-11.4
+2023-02,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",83.7,-8
+2023-02,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",116.8,8.3
+2023-02,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",95.1,-15.5
+2023-02,2011-12,Sectoral,Manufacturing,,137.6,5.9
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,195.4,8.6
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,104.4,10.6
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,122.8,6.5
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,126,4.7
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,101.6,12.5
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,146.8,4.9
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,173.3,-12.7
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,94.9,-8
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,115.5,12
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,136.8,2.1
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,117.2,5.5
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,75.1,-4.7
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,98.8,-2.1
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,102,-9.7
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,77.9,-2.5
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,129.1,-16.7
+2023-02,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,229.3,23.1
+2023-02,2011-12,Sectoral,Manufacturing,Other Manufacturing,81.6,-14.5
+2023-02,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,84.3,10.1
+2023-02,2011-12,Sectoral,Mining,,129.2,4.8
+2023-02,2011-12,Use-based category,Capital Goods,,104.9,11
+2023-02,2011-12,Use-based category,Consumer Durables,,108.3,-4.1
+2023-02,2011-12,Use-based category,Consumer Non-durables,,154.8,12.5
+2023-02,2011-12,Use-based category,Infrastructure/ Construction Goods,,165.7,9
+2023-02,2011-12,Use-based category,Intermediate Goods,,145.1,1
+2023-02,2011-12,Use-based category,Primary Goods,,139.9,7
+2023-03,2011-12,General,General,,151.7,1.9
+2023-03,2011-12,Sectoral,Electricity,,188,-1.6
+2023-03,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",134.1,-28.1
+2023-03,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",95.4,-2.6
+2023-03,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",122.4,6.4
+2023-03,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",108.1,-8.5
+2023-03,2011-12,Sectoral,Manufacturing,,147.5,1.5
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,214,7.4
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,123.5,6.4
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,130.1,7.4
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,141.1,1.4
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,108.7,15.3
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,147.2,-2.2
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,210.9,-9.3
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,106.2,-6.7
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,141.3,10.4
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,152.8,-1
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,139.2,9.6
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,83.1,-3.5
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,110.2,1.1
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,110.2,-7
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,95.5,-11
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,133.1,-30.6
+2023-03,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,194.7,-3.1
+2023-03,2011-12,Sectoral,Manufacturing,Other Manufacturing,108.5,-14
+2023-03,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,91.7,3.9
+2023-03,2011-12,Sectoral,Mining,,154.2,6.8
+2023-03,2011-12,Use-based category,Capital Goods,,123,10
+2023-03,2011-12,Use-based category,Consumer Durables,,118.6,-8
+2023-03,2011-12,Use-based category,Consumer Non-durables,,147.5,-1.9
+2023-03,2011-12,Use-based category,Infrastructure/ Construction Goods,,181.7,7.2
+2023-03,2011-12,Use-based category,Intermediate Goods,,159.4,1.8
+2023-03,2011-12,Use-based category,Primary Goods,,158.3,3.3
+2023-04,2011-12,General,General,,140.7,4.6
+2023-04,2011-12,Sectoral,Electricity,,192.3,-1.1
+2023-04,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",111.5,-12
+2023-04,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",76.4,-1.9
+2023-04,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",112.9,3.8
+2023-04,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",89.4,-15.8
+2023-04,2011-12,Sectoral,Manufacturing,,138.8,5.5
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,201.9,12.1
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,109.2,-7.6
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126.6,2.7
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,129.1,-1.5
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,106.6,16.5
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,137.8,3.8
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,144.7,-29
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,97.7,-8.2
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,107.7,8.2
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,146.7,7.1
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,119.5,11.6
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,79.8,-7.6
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,106.3,1.3
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,105.6,-7.4
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,67.1,-21.4
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,92.1,-28.8
+2023-04,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,237,24
+2023-04,2011-12,Sectoral,Manufacturing,Other Manufacturing,87.8,-4.5
+2023-04,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.6,5.2
+2023-04,2011-12,Sectoral,Mining,,122.6,5.1
+2023-04,2011-12,Use-based category,Capital Goods,,92.4,4.4
+2023-04,2011-12,Use-based category,Consumer Durables,,108.1,-2.3
+2023-04,2011-12,Use-based category,Consumer Non-durables,,154.7,11.4
+2023-04,2011-12,Use-based category,Infrastructure/ Construction Goods,,169.8,13.4
+2023-04,2011-12,Use-based category,Intermediate Goods,,152,1.7
+2023-04,2011-12,Use-based category,Primary Goods,,142.2,1.9
+2023-04,2022-23,General,General,,100.4,0.4
+2023-04,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,109.6,9.6
+2023-04,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,105.9,5.9
+2023-04,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,112.9,12.9
+2023-04,2022-23,Sectoral,Electricity & Gas Supply,,103.8,3.8
+2023-04,2022-23,Sectoral,Electricity & Gas Supply,Electricity,103.8,3.8
+2023-04,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,103.8,3.8
+2023-04,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,110.3,10.3
+2023-04,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,82,-18
+2023-04,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",107.6,7.6
+2023-04,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",98.7,-1.3
+2023-04,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",98.2,-1.8
+2023-04,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",90.2,-9.8
+2023-04,2022-23,Sectoral,Manufacturing,,100.1,0.1
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,105,5
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,122.8,22.8
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,101.5,1.5
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,100.9,0.9
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,99.4,-0.6
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,98.9,-1.1
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,79.4,-20.6
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,87.3,-12.7
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,90.1,-9.9
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,104.3,4.3
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,98.8,-1.2
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,98.7,-1.3
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,94.6,-5.4
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,105.5,5.5
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,87.5,-12.5
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,92.2,-7.8
+2023-04,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,101.9,1.9
+2023-04,2022-23,Sectoral,Manufacturing,Other Manufacturing,97.6,-2.4
+2023-04,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,100.2,0.2
+2023-04,2022-23,Sectoral,Mining & Quarrying,,97.4,-2.6
+2023-04,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,97,-3
+2023-04,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,110.8,10.8
+2023-04,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,90.2,-9.8
+2023-04,2022-23,Use-based category,Capital Goods,,95.3,-4.7
+2023-04,2022-23,Use-based category,Consumer Durables,,96,-4
+2023-04,2022-23,Use-based category,Consumer Non-durables,,100.6,0.6
+2023-04,2022-23,Use-based category,Infrastructure/ Construction Goods,,105.7,5.7
+2023-04,2022-23,Use-based category,Intermediate Goods,,100.6,0.6
+2023-04,2022-23,Use-based category,Primary Goods,,101.3,1.3
+2023-05,2011-12,General,General,,145.6,5.7
+2023-05,2011-12,Sectoral,Electricity,,201.6,0.9
+2023-05,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",115.1,-6
+2023-05,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",87.1,4.7
+2023-05,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",126.1,13.7
+2023-05,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",98.7,-12.7
+2023-05,2011-12,Sectoral,Manufacturing,,143.1,6.3
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,206.3,10.8
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,124.1,-1.7
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,133.8,-1.3
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,138,2.7
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,106.6,8.4
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,123.2,0.4
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,179.9,-12.6
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,101.1,2.1
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,116.2,9.7
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,148.4,10.4
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,131.2,10.9
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,77.9,-9.7
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,112.7,7.2
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,107.4,-3.7
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,83.7,-4.8
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,112.2,-21.2
+2023-05,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,227.9,21.2
+2023-05,2011-12,Sectoral,Manufacturing,Other Manufacturing,79.2,-0.5
+2023-05,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.7,0.2
+2023-05,2011-12,Sectoral,Mining,,128.1,6.4
+2023-05,2011-12,Use-based category,Capital Goods,,102.6,8.1
+2023-05,2011-12,Use-based category,Consumer Durables,,115.6,1.5
+2023-05,2011-12,Use-based category,Consumer Non-durables,,149.8,8.9
+2023-05,2011-12,Use-based category,Infrastructure/ Construction Goods,,173.2,13
+2023-05,2011-12,Use-based category,Intermediate Goods,,156.9,3.4
+2023-05,2011-12,Use-based category,Primary Goods,,149.9,3.6
+2023-05,2022-23,General,General,,105.2,5.2
+2023-05,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,111,11
+2023-05,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,106.1,6.1
+2023-05,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,115.4,15.4
+2023-05,2022-23,Sectoral,Electricity & Gas Supply,,109.1,9.1
+2023-05,2022-23,Sectoral,Electricity & Gas Supply,Electricity,108.8,8.8
+2023-05,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,113.9,13.9
+2023-05,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,110.2,10.2
+2023-05,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,104.1,4.1
+2023-05,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",104.5,4.5
+2023-05,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",101.6,1.6
+2023-05,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",105.3,5.3
+2023-05,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",104,4
+2023-05,2022-23,Sectoral,Manufacturing,,105.2,5.2
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,107.7,7.7
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,137.2,37.2
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,109.7,9.7
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,107.7,7.7
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,99.5,-0.5
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,97.6,-2.4
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,90.8,-9.2
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,103.1,3.1
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,98.2,-1.8
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,107.9,7.9
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,108.5,8.5
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,95.4,-4.6
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,97.2,-2.8
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,106,6
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,99.9,-0.1
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,94.8,-5.2
+2023-05,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,116.8,16.8
+2023-05,2022-23,Sectoral,Manufacturing,Other Manufacturing,93.9,-6.1
+2023-05,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,97.3,-2.7
+2023-05,2022-23,Sectoral,Mining & Quarrying,,100.7,0.7
+2023-05,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,101.8,1.8
+2023-05,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,116.4,16.4
+2023-05,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,89.7,-10.3
+2023-05,2022-23,Use-based category,Capital Goods,,101.6,1.6
+2023-05,2022-23,Use-based category,Consumer Durables,,98.8,-1.2
+2023-05,2022-23,Use-based category,Consumer Non-durables,,108.4,8.4
+2023-05,2022-23,Use-based category,Infrastructure/ Construction Goods,,107.9,7.9
+2023-05,2022-23,Use-based category,Intermediate Goods,,105.5,5.5
+2023-05,2022-23,Use-based category,Primary Goods,,105.8,5.8
+2023-06,2011-12,General,General,,143.9,4
+2023-06,2011-12,Sectoral,Electricity,,205.2,4.2
+2023-06,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",121.9,-32.5
+2023-06,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",86.7,-4.8
+2023-06,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",123.6,7.3
+2023-06,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",98,-12.5
+2023-06,2011-12,Sectoral,Manufacturing,,141.6,3.5
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,203.4,16.1
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,125,4.6
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,130.5,-2.2
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,133.5,3.2
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,103.5,10.7
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,113.6,-2.9
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,183,-12.1
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,103.4,7.8
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,123.7,7.1
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,149.5,4.8
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,140.6,-0.1
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,81.3,-1.6
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,106.5,1.3
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,107.8,0
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,93.8,-17
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,120.1,-23.5
+2023-06,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,225.3,4.1
+2023-06,2011-12,Sectoral,Manufacturing,Other Manufacturing,85.6,-10.6
+2023-06,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.7,-11
+2023-06,2011-12,Sectoral,Mining,,122.3,7.6
+2023-06,2011-12,Use-based category,Capital Goods,,107.4,2.9
+2023-06,2011-12,Use-based category,Consumer Durables,,116.8,-6.8
+2023-06,2011-12,Use-based category,Consumer Non-durables,,146.7,0.5
+2023-06,2011-12,Use-based category,Infrastructure/ Construction Goods,,170.9,13.3
+2023-06,2011-12,Use-based category,Intermediate Goods,,154.2,5.2
+2023-06,2011-12,Use-based category,Primary Goods,,146.7,5.3
+2023-06,2022-23,General,General,,104.6,4.6
+2023-06,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,113.1,13.1
+2023-06,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,107.9,7.9
+2023-06,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,117.9,17.9
+2023-06,2022-23,Sectoral,Electricity & Gas Supply,,110.4,10.4
+2023-06,2022-23,Sectoral,Electricity & Gas Supply,Electricity,110.8,10.8
+2023-06,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,104.5,4.5
+2023-06,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,107.8,7.8
+2023-06,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,121,21
+2023-06,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",106.3,6.3
+2023-06,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",101.4,1.4
+2023-06,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",104.2,4.2
+2023-06,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",87.9,-12.1
+2023-06,2022-23,Sectoral,Manufacturing,,104.2,4.2
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,106.1,6.1
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,142,42
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,103,3
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,104.5,4.5
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,101.7,1.7
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,92.6,-7.4
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,95,-5
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,95.5,-4.5
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,108,8
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,107.3,7.3
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,113.8,13.8
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,100.1,0.1
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,94.1,-5.9
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,102.8,2.8
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,112.6,12.6
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,95.2,-4.8
+2023-06,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,113,13
+2023-06,2022-23,Sectoral,Manufacturing,Other Manufacturing,101.1,1.1
+2023-06,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,88.8,-11.2
+2023-06,2022-23,Sectoral,Mining & Quarrying,,99.9,-0.1
+2023-06,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,99.4,-0.6
+2023-06,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,107.7,7.7
+2023-06,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,96.2,-3.8
+2023-06,2022-23,Use-based category,Capital Goods,,108.8,8.8
+2023-06,2022-23,Use-based category,Consumer Durables,,98.8,-1.2
+2023-06,2022-23,Use-based category,Consumer Non-durables,,106.9,6.9
+2023-06,2022-23,Use-based category,Infrastructure/ Construction Goods,,107.4,7.4
+2023-06,2022-23,Use-based category,Intermediate Goods,,101.7,1.7
+2023-06,2022-23,Use-based category,Primary Goods,,105.4,5.4
+2023-07,2011-12,General,General,,142.7,6.2
+2023-07,2011-12,Sectoral,Electricity,,204,8
+2023-07,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",118.6,-16.6
+2023-07,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",83.8,-3.2
+2023-07,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",129.5,8.6
+2023-07,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",98.4,-11.5
+2023-07,2011-12,Sectoral,Manufacturing,,142.1,5.3
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,209.4,14.7
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,109.4,7.3
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,128.6,-6.3
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,131.9,4.4
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,102.5,3.1
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,121.6,7.4
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,190.6,-10.6
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,95.1,-4.1
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,119.9,5.5
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,134,5.6
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,123.5,-2.5
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,82.1,-3.3
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,107.7,1.4
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,108.5,1.2
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,71.8,-0.6
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,103.9,-22.7
+2023-07,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,244.5,12.2
+2023-07,2011-12,Sectoral,Manufacturing,Other Manufacturing,97.1,7.3
+2023-07,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,89,-7.9
+2023-07,2011-12,Sectoral,Mining,,111.9,10.7
+2023-07,2011-12,Use-based category,Capital Goods,,102.1,5.1
+2023-07,2011-12,Use-based category,Consumer Durables,,117,-3.6
+2023-07,2011-12,Use-based category,Consumer Non-durables,,153.5,8.3
+2023-07,2011-12,Use-based category,Infrastructure/ Construction Goods,,170.3,12.6
+2023-07,2011-12,Use-based category,Intermediate Goods,,153.8,3.2
+2023-07,2011-12,Use-based category,Primary Goods,,141.8,7.7
+2023-07,2022-23,General,General,,103,3
+2023-07,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,113.7,13.7
+2023-07,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,106.4,6.4
+2023-07,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,120.3,20.3
+2023-07,2022-23,Sectoral,Electricity & Gas Supply,,110,10
+2023-07,2022-23,Sectoral,Electricity & Gas Supply,Electricity,110.1,10.1
+2023-07,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,108.4,8.4
+2023-07,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,102.7,2.7
+2023-07,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,135.1,35.1
+2023-07,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",115.5,15.5
+2023-07,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",101.4,1.4
+2023-07,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",112.4,12.4
+2023-07,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",94.4,-5.6
+2023-07,2022-23,Sectoral,Manufacturing,,104.7,4.7
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,108.6,8.6
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,111.2,11.2
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,106.2,6.2
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,103.6,3.6
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,102,2
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,97.3,-2.7
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,94,-6
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,89.8,-10.2
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,99.8,-0.2
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,98.3,-1.7
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,109.8,9.8
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,104.3,4.3
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,98.5,-1.5
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,108.8,8.8
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,99.5,-0.5
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,88.3,-11.7
+2023-07,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,109.4,9.4
+2023-07,2022-23,Sectoral,Manufacturing,Other Manufacturing,111.8,11.8
+2023-07,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,95.8,-4.2
+2023-07,2022-23,Sectoral,Mining & Quarrying,,82.8,-17.2
+2023-07,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,100.6,0.6
+2023-07,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,82.8,-17.2
+2023-07,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,53.3,-46.7
+2023-07,2022-23,Use-based category,Capital Goods,,104.1,4.1
+2023-07,2022-23,Use-based category,Consumer Durables,,102.4,2.4
+2023-07,2022-23,Use-based category,Consumer Non-durables,,105,5
+2023-07,2022-23,Use-based category,Infrastructure/ Construction Goods,,107.3,7.3
+2023-07,2022-23,Use-based category,Intermediate Goods,,104.8,4.8
+2023-07,2022-23,Use-based category,Primary Goods,,99.1,-0.9
+2023-08,2011-12,General,General,,145.8,10.9
+2023-08,2011-12,Sectoral,Electricity,,220.5,15.3
+2023-08,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",131.4,-8.8
+2023-08,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",100,24.2
+2023-08,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",128.6,12.1
+2023-08,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",98.5,-3
+2023-08,2011-12,Sectoral,Manufacturing,,144.4,10
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,217.4,16.9
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,103.4,12.6
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126.8,-3.9
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,131.7,10.2
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,108.6,18
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,123.9,4.9
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,189.5,-20.6
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,92.4,3.2
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,126.3,12.8
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,142.5,15
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,145.9,8.2
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,82.3,-0.5
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,108.5,4.5
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,107.1,1.8
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,81.4,7.4
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,97.8,-17
+2023-08,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,225.9,17.2
+2023-08,2011-12,Sectoral,Manufacturing,Other Manufacturing,94.6,-4.7
+2023-08,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,91,3.2
+2023-08,2011-12,Sectoral,Mining,,111.9,12.3
+2023-08,2011-12,Use-based category,Capital Goods,,107.4,13.1
+2023-08,2011-12,Use-based category,Consumer Durables,,123.2,6
+2023-08,2011-12,Use-based category,Consumer Non-durables,,148.3,9.9
+2023-08,2011-12,Use-based category,Infrastructure/ Construction Goods,,176.8,15.7
+2023-08,2011-12,Use-based category,Intermediate Goods,,157.4,7.4
+2023-08,2011-12,Use-based category,Primary Goods,,145.4,12.4
+2023-08,2022-23,General,General,,106.9,6.9
+2023-08,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,115.7,15.7
+2023-08,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,108.1,8.1
+2023-08,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,122.6,22.6
+2023-08,2022-23,Sectoral,Electricity & Gas Supply,,119,19
+2023-08,2022-23,Sectoral,Electricity & Gas Supply,Electricity,119.1,19.1
+2023-08,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,116.9,16.9
+2023-08,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,109.7,9.7
+2023-08,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,150.6,50.6
+2023-08,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",126,26
+2023-08,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",107.3,7.3
+2023-08,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",114.1,14.1
+2023-08,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",92.2,-7.8
+2023-08,2022-23,Sectoral,Manufacturing,,108.5,8.5
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,113.1,13.1
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,108.9,8.9
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,108.1,8.1
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,100.1,0.1
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,115.9,15.9
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,99.2,-0.8
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,97.6,-2.4
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,91.3,-8.7
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,109.1,9.1
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,104.7,4.7
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,119.8,19.8
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,104.7,4.7
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,99.2,-0.8
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,110.9,10.9
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,107,7
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,88.5,-11.5
+2023-08,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,116.9,16.9
+2023-08,2022-23,Sectoral,Manufacturing,Other Manufacturing,118.9,18.9
+2023-08,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,90.5,-9.5
+2023-08,2022-23,Sectoral,Mining & Quarrying,,82.5,-17.5
+2023-08,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,100,0
+2023-08,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,83.9,-16.1
+2023-08,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,52.6,-47.4
+2023-08,2022-23,Use-based category,Capital Goods,,112.8,12.8
+2023-08,2022-23,Use-based category,Consumer Durables,,107.9,7.9
+2023-08,2022-23,Use-based category,Consumer Non-durables,,108.7,8.7
+2023-08,2022-23,Use-based category,Infrastructure/ Construction Goods,,111.8,11.8
+2023-08,2022-23,Use-based category,Intermediate Goods,,108.2,8.2
+2023-08,2022-23,Use-based category,Primary Goods,,101.3,1.3
+2023-09,2011-12,General,General,,142.3,6.4
+2023-09,2011-12,Sectoral,Electricity,,205.9,9.9
+2023-09,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",149.4,-8.8
+2023-09,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",97.1,10.5
+2023-09,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",130.5,10.9
+2023-09,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",108.1,4.3
+2023-09,2011-12,Sectoral,Manufacturing,,141.5,5.1
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,213.6,15
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,101.6,6.6
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,123.6,-5.8
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,122.4,2.7
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,108,8
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,114.6,-0.9
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,185.1,-18.4
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,91.8,-0.5
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,127,5
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,132.8,4.7
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,166,7.1
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,78.5,-3.8
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,106.5,1.4
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,108.4,4.3
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,89.8,-5.1
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,102.4,-18.2
+2023-09,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,220.1,7.4
+2023-09,2011-12,Sectoral,Manufacturing,Other Manufacturing,96.7,-13
+2023-09,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,87.5,-3.7
+2023-09,2011-12,Sectoral,Mining,,111.5,11.5
+2023-09,2011-12,Use-based category,Capital Goods,,112.6,8.4
+2023-09,2011-12,Use-based category,Consumer Durables,,125,1
+2023-09,2011-12,Use-based category,Consumer Non-durables,,142.6,2.7
+2023-09,2011-12,Use-based category,Infrastructure/ Construction Goods,,172.8,10.1
+2023-09,2011-12,Use-based category,Intermediate Goods,,154.2,6.1
+2023-09,2011-12,Use-based category,Primary Goods,,138.8,8
+2023-09,2022-23,General,General,,104.9,4.9
+2023-09,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,117,17
+2023-09,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,108.5,8.5
+2023-09,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,124.8,24.8
+2023-09,2022-23,Sectoral,Electricity & Gas Supply,,111.1,11.1
+2023-09,2022-23,Sectoral,Electricity & Gas Supply,Electricity,111.1,11.1
+2023-09,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,111.3,11.3
+2023-09,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,108.6,8.6
+2023-09,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,119.6,19.6
+2023-09,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",135.2,35.2
+2023-09,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",106.7,6.7
+2023-09,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",110.7,10.7
+2023-09,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",93.4,-6.6
+2023-09,2022-23,Sectoral,Manufacturing,,106.9,6.9
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,111.2,11.2
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,106.5,6.5
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,103.8,3.8
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,96.4,-3.6
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,108.7,8.7
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,93,-7
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,101.8,1.8
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,88.3,-11.7
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,114.3,14.3
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,99.7,-0.3
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,132.4,32.4
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,100.3,0.3
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,97.7,-2.3
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,110.7,10.7
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,106.2,6.2
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,85.7,-14.3
+2023-09,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,118.3,18.3
+2023-09,2022-23,Sectoral,Manufacturing,Other Manufacturing,120.9,20.9
+2023-09,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,90.5,-9.5
+2023-09,2022-23,Sectoral,Mining & Quarrying,,83,-17
+2023-09,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,96.6,-3.4
+2023-09,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,88.5,-11.5
+2023-09,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,57.4,-42.6
+2023-09,2022-23,Use-based category,Capital Goods,,116.3,16.3
+2023-09,2022-23,Use-based category,Consumer Durables,,108.3,8.3
+2023-09,2022-23,Use-based category,Consumer Non-durables,,106.4,6.4
+2023-09,2022-23,Use-based category,Infrastructure/ Construction Goods,,109.1,9.1
+2023-09,2022-23,Use-based category,Intermediate Goods,,105.6,5.6
+2023-09,2022-23,Use-based category,Primary Goods,,98.1,-1.9
+2023-10,2011-12,General,General,,144.9,11.9
+2023-10,2011-12,Sectoral,Electricity,,203.8,20.4
+2023-10,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",123.1,-7.3
+2023-10,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",92.8,19.3
+2023-10,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",135.7,24.7
+2023-10,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",93.7,-1.3
+2023-10,2011-12,Sectoral,Manufacturing,,142.1,10.6
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,217.2,13
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,99.6,10.8
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,126.5,3.6
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,125.7,2.4
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,94.8,12.7
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,123.5,7.1
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,176.8,-6.6
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,91.1,18.5
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,123.3,25.6
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,140.5,12.9
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,157.2,23.3
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,78.5,-1.3
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,109,7.6
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,110.2,7.7
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,82.7,1.2
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,97.8,-5.7
+2023-10,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,212.8,13.1
+2023-10,2011-12,Sectoral,Manufacturing,Other Manufacturing,103.7,30.6
+2023-10,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,87,3.3
+2023-10,2011-12,Sectoral,Mining,,127.4,13.1
+2023-10,2011-12,Use-based category,Capital Goods,,106.1,21.7
+2023-10,2011-12,Use-based category,Consumer Durables,,123,15.9
+2023-10,2011-12,Use-based category,Consumer Non-durables,,142.4,9.3
+2023-10,2011-12,Use-based category,Infrastructure/ Construction Goods,,175.9,12.6
+2023-10,2011-12,Use-based category,Intermediate Goods,,157.5,9.5
+2023-10,2011-12,Use-based category,Primary Goods,,146.1,11.4
+2023-10,2022-23,General,General,,106.6,6.6
+2023-10,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,118.6,18.6
+2023-10,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,109.3,9.3
+2023-10,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,127,27
+2023-10,2022-23,Sectoral,Electricity & Gas Supply,,110.3,10.3
+2023-10,2022-23,Sectoral,Electricity & Gas Supply,Electricity,110,10
+2023-10,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,115.3,15.3
+2023-10,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,116.7,16.7
+2023-10,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,87.5,-12.5
+2023-10,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",126.5,26.5
+2023-10,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",105.8,5.8
+2023-10,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",117.6,17.6
+2023-10,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",97.5,-2.5
+2023-10,2022-23,Sectoral,Manufacturing,,106.5,6.5
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,113.1,13.1
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,94.5,-5.5
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,104.3,4.3
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,98.6,-1.4
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,104.9,4.9
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,100,0
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,107.1,7.1
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,88.9,-11.1
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,100.5,0.5
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,102.9,2.9
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,132.7,32.7
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,105.4,5.4
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,101.2,1.2
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,112.2,12.2
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,99.1,-0.9
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,82.6,-17.4
+2023-10,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,105.5,5.5
+2023-10,2022-23,Sectoral,Manufacturing,Other Manufacturing,125.7,25.7
+2023-10,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,98.5,-1.5
+2023-10,2022-23,Sectoral,Mining & Quarrying,,101.6,1.6
+2023-10,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,104.8,4.8
+2023-10,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,106.7,6.7
+2023-10,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,93.3,-6.7
+2023-10,2022-23,Use-based category,Capital Goods,,107.6,7.6
+2023-10,2022-23,Use-based category,Consumer Durables,,112.6,12.6
+2023-10,2022-23,Use-based category,Consumer Non-durables,,103.3,3.3
+2023-10,2022-23,Use-based category,Infrastructure/ Construction Goods,,110.3,10.3
+2023-10,2022-23,Use-based category,Intermediate Goods,,106.3,6.3
+2023-10,2022-23,Use-based category,Primary Goods,,105,5
+2023-11,2011-12,General,General,,141.1,2.5
+2023-11,2011-12,Sectoral,Electricity,,176.3,5.8
+2023-11,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",96.7,-23.9
+2023-11,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",81,-6.1
+2023-11,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",126.7,11.2
+2023-11,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",87.6,-15.7
+2023-11,2011-12,Sectoral,Manufacturing,,139.3,1.3
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,207.3,7.6
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,100.7,8.4
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,119.5,-4.1
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,132.9,14
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,89,-17.2
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,141.5,-3.7
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,144.5,-30.4
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,78.8,-16.4
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,109.1,-1.3
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,127,-3.6
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,144.5,9.8
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,73.3,-5.7
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,105.1,1.7
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,102.7,-4.6
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,79.8,-14.5
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,92.9,-20.6
+2023-11,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,244.3,-2.5
+2023-11,2011-12,Sectoral,Manufacturing,Other Manufacturing,65.8,-15.1
+2023-11,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,84.1,-6.6
+2023-11,2011-12,Sectoral,Mining,,131.3,7
+2023-11,2011-12,Use-based category,Capital Goods,,98,-1.1
+2023-11,2011-12,Use-based category,Consumer Durables,,106.5,-4.8
+2023-11,2011-12,Use-based category,Consumer Non-durables,,157.2,-3.4
+2023-11,2011-12,Use-based category,Infrastructure/ Construction Goods,,164.2,1.5
+2023-11,2011-12,Use-based category,Intermediate Goods,,151.3,3.4
+2023-11,2011-12,Use-based category,Primary Goods,,143.8,8.4
+2023-11,2022-23,General,General,,101.1,1.1
+2023-11,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,120.5,20.5
+2023-11,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,111.2,11.2
+2023-11,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,129,29
+2023-11,2022-23,Sectoral,Electricity & Gas Supply,,96,-4
+2023-11,2022-23,Sectoral,Electricity & Gas Supply,Electricity,95.2,-4.8
+2023-11,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,108.2,8.2
+2023-11,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,103.6,3.6
+2023-11,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,66.8,-33.2
+2023-11,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",108.4,8.4
+2023-11,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",95.6,-4.4
+2023-11,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",103.9,3.9
+2023-11,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",89.2,-10.8
+2023-11,2022-23,Sectoral,Manufacturing,,101.5,1.5
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,106.9,6.9
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,82.2,-17.8
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,99.2,-0.8
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,104.4,4.4
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,104.2,4.2
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,108.3,8.3
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,101.6,1.6
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,84.6,-15.4
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,95.3,-4.7
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,96.8,-3.2
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,116.8,16.8
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,91.6,-8.4
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,92.6,-7.4
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,100.6,0.6
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,99.9,-0.1
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,86.5,-13.5
+2023-11,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,106.5,6.5
+2023-11,2022-23,Sectoral,Manufacturing,Other Manufacturing,90.8,-9.2
+2023-11,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,95.1,-4.9
+2023-11,2022-23,Sectoral,Mining & Quarrying,,99.6,-0.4
+2023-11,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,104.7,4.7
+2023-11,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,110.5,10.5
+2023-11,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,84.8,-15.2
+2023-11,2022-23,Use-based category,Capital Goods,,101.2,1.2
+2023-11,2022-23,Use-based category,Consumer Durables,,96.7,-3.3
+2023-11,2022-23,Use-based category,Consumer Non-durables,,102.9,2.9
+2023-11,2022-23,Use-based category,Infrastructure/ Construction Goods,,103.2,3.2
+2023-11,2022-23,Use-based category,Intermediate Goods,,101.2,1.2
+2023-11,2022-23,Use-based category,Primary Goods,,100.8,0.8
+2023-12,2011-12,General,General,,152.3,4.4
+2023-12,2011-12,Sectoral,Electricity,,181.6,1.2
+2023-12,2011-12,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",111.6,-5.2
+2023-12,2011-12,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",98.1,6.3
+2023-12,2011-12,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",118.5,10.3
+2023-12,2011-12,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",97.7,-12.3
+2023-12,2011-12,Sectoral,Manufacturing,,151.6,4.6
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Basic Metals,220.2,9.1
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Beverages,101.3,3.3
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,127.5,-1.5
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,141.9,7.3
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Electrical Equipment,116.6,6.9
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Food Products,160.8,3.4
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Furniture,197.4,-0.5
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Leather and Related Products,95.9,-2.5
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,115.5,0
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,147.1,3
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,137.2,29.4
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,78.1,-7.6
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,106.9,1.4
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Textiles,112.3,1.4
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Tobacco Products,82.7,-8.7
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of Wearing Apparel,113.1,-10
+2023-12,2011-12,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,286.3,3.6
+2023-12,2011-12,Sectoral,Manufacturing,Other Manufacturing,70.5,-24.6
+2023-12,2011-12,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,95.5,-4.5
+2023-12,2011-12,Sectoral,Mining,,139.5,5.2
+2023-12,2011-12,Use-based category,Capital Goods,,103.8,3.7
+2023-12,2011-12,Use-based category,Consumer Durables,,114.5,5.2
+2023-12,2011-12,Use-based category,Consumer Non-durables,,179.7,3
+2023-12,2011-12,Use-based category,Infrastructure/ Construction Goods,,180.3,5.5
+2023-12,2011-12,Use-based category,Intermediate Goods,,159.8,3.7
+2023-12,2011-12,Use-based category,Primary Goods,,151.9,4.8
+2023-12,2022-23,General,General,,109,9
+2023-12,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",,121.3,21.3
+2023-12,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Sewerage & Waste Management,110.3,10.3
+2023-12,2022-23,Sectoral,"Water Supply, Sewerage & Waste Management",Water Supply,131.2,31.2
+2023-12,2022-23,Sectoral,Electricity & Gas Supply,,98.9,-1.1
+2023-12,2022-23,Sectoral,Electricity & Gas Supply,Electricity,98,-2
+2023-12,2022-23,Sectoral,Electricity & Gas Supply,Gas Supply,112.8,12.8
+2023-12,2022-23,Sectoral,Electricity & Gas Supply,Non-Renewable Electricity,105.2,5.2
+2023-12,2022-23,Sectoral,Electricity & Gas Supply,Renewable Electricity,73.9,-26.1
+2023-12,2022-23,Sectoral,Manufacturing,"Manufacture of Computer, Electronic and Optical Products",115.2,15.2
+2023-12,2022-23,Sectoral,Manufacturing,"Manufacture of Fabricated Metal Products, Except Machinery and Equipment",107.6,7.6
+2023-12,2022-23,Sectoral,Manufacturing,"Manufacture of Motor Vehicles, Trailers and Semi-trailers",99.7,-0.3
+2023-12,2022-23,Sectoral,Manufacturing,"Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",104.7,4.7
+2023-12,2022-23,Sectoral,Manufacturing,,109.6,9.6
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Basic Metals,114.4,14.4
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Beverages,77,-23
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Chemicals and Chemical Products,107.7,7.7
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Coke and Refined Petroleum Products,111.7,11.7
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Electrical Equipment,114.6,14.6
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Food Products,119.4,19.4
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Furniture,101.8,1.8
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Leather and Related Products,95.4,-4.6
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Machinery and Equipment n.e.c.,103,3
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Other Non-metallic Mineral Products,108.7,8.7
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Other Transport Equipment,112,12
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Paper and Paper Products,100.7,0.7
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Rubber and Plastics Products,100.1,0.1
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Textiles,114,14
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Tobacco Products,109,9
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of Wearing Apparel,99.6,-0.4
+2023-12,2022-23,Sectoral,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,127.2,27.2
+2023-12,2022-23,Sectoral,Manufacturing,Other Manufacturing,91.1,-8.9
+2023-12,2022-23,Sectoral,Manufacturing,Printing and Reproduction of Recorded Media,104.5,4.5
+2023-12,2022-23,Sectoral,Mining & Quarrying,,112.5,12.5
+2023-12,2022-23,Sectoral,Mining & Quarrying,Fuel Minerals,110.5,10.5
+2023-12,2022-23,Sectoral,Mining & Quarrying,Metallic Minerals incl. Rare Earth Minerals,115.1,15.1
+2023-12,2022-23,Sectoral,Mining & Quarrying,Non-Metallic Minerals incl. Minor Minerals,114.2,14.2
+2023-12,2022-23,Use-based category,Capital Goods,,108.2,8.2
+2023-12,2022-23,Use-based category,Consumer Durables,,100.6,0.6
+2023-12,2022-23,Use-based category,Consumer Non-durables,,115.5,15.5
+2023-12,2022-23,Use-based category,Infrastructure/ Construction Goods,,112.9,12.9
+2023-12,2022-23,Use-based category,Intermediate Goods,,108,8
+2023-12,2022-23,Use-based category,Primary Goods,,108.3,8.3
