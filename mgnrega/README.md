@@ -44,14 +44,14 @@ year = pd.read_csv(f"{base}/district_month/2026-2027.csv")
 
 ## How to cite
 
-Know More India, *MGNREGA*, version 2026-11-24, https://github.com/knowmoreindia/open-data/tree/main/mgnrega. Licensed CC BY 4.0.
+Know More India, *MGNREGA*, version 2026-11-25, https://github.com/knowmoreindia/open-data/tree/main/mgnrega. Licensed CC BY 4.0.
 
 ```bibtex
 @misc{knowmoreindia_mgnrega,
   author = {{Know More India}},
   title = {MGNREGA},
   year = {2026},
-  version = {2026-11-24},
+  version = {2026-11-25},
   howpublished = {\url{https://github.com/knowmoreindia/open-data/tree/main/mgnrega}}
 }
 ```
