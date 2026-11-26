@@ -6,7 +6,7 @@ Free data about India, cleaned and kept up to date. Look at sample rows of every
 
 | Dataset | What it holds | Updated |
 | --- | --- | --- |
-| [MGNREGA](mgnrega) | What the rural jobs scheme did in every district, every month since April 2018: person-days of work, households and individuals who worked, wages and spending, works started and finished, job cards, and work done by women, Scheduled Castes and Scheduled Tribes. | 2026-11-25 |
+| [MGNREGA](mgnrega) | What the rural jobs scheme did in every district, every month since April 2018: person-days of work, households and individuals who worked, wages and spending, works started and finished, job cards, and work done by women, Scheduled Castes and Scheduled Tribes. | 2026-11-26 |
 | [Prices and production](prices) | India's official price and production indices, month by month: consumer prices (CPI) for every State, rural and urban, down to single items; wholesale prices (WPI) for every item; and the Index of Industrial Production (IIP). | 2026-11-24 |
 
 ## In their own repos
