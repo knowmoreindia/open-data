@@ -25,6 +25,51 @@ data/cpi_items/<year>.csv,item,"string,null","Item, such as Rice or Petrol for v
 data/cpi_items/<year>.csv,index,"number,null",Index value
 data/cpi_items/<year>.csv,inflation,"number,null","Year-on-year inflation, per cent"
 data/cpi_items/<year>.csv,status,"string,null","F for final, P for provisional"
+data/cpi_2024/<year>.csv,month,string,"Month, YYYY-MM"
+data/cpi_2024/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi_2024/<year>.csv,series,"string,null","Current, or Back for the linked back series"
+data/cpi_2024/<year>.csv,state_slug,"string,null",State or UT slug. Blank for All India
+data/cpi_2024/<year>.csv,state,"string,null","State or UT as published, or All India"
+data/cpi_2024/<year>.csv,sector,"string,null","Rural, Urban or Combined"
+data/cpi_2024/<year>.csv,division,"string,null","Division, or CPI (General) for the headline index"
+data/cpi_2024/<year>.csv,group,"string,null",Group within the division
+data/cpi_2024/<year>.csv,class,"string,null",Class within the group
+data/cpi_2024/<year>.csv,sub_class,"string,null",Subclass within the class
+data/cpi_2024/<year>.csv,item,"string,null",Item
+data/cpi_2024/<year>.csv,code,"string,null","MoSPI's code for the division, group, class, subclass or item"
+data/cpi_2024/<year>.csv,index,"number,null",Index value
+data/cpi_2024/<year>.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi_2024/<year>.csv,imputation,"string,null","Whether the index was imputed, as published"
+data/cpi_2024_states/<year>.csv,month,string,"Month, YYYY-MM"
+data/cpi_2024_states/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi_2024_states/<year>.csv,series,"string,null","Current, or Back for the linked back series"
+data/cpi_2024_states/<year>.csv,state_slug,"string,null",State or UT slug. Blank for All India
+data/cpi_2024_states/<year>.csv,state,"string,null","State or UT as published, or All India"
+data/cpi_2024_states/<year>.csv,sector,"string,null","Rural, Urban or Combined"
+data/cpi_2024_states/<year>.csv,division,"string,null","Division, or CPI (General) for the headline index"
+data/cpi_2024_states/<year>.csv,group,"string,null",Group within the division
+data/cpi_2024_states/<year>.csv,class,"string,null",Class within the group
+data/cpi_2024_states/<year>.csv,sub_class,"string,null",Subclass within the class
+data/cpi_2024_states/<year>.csv,item,"string,null",Item
+data/cpi_2024_states/<year>.csv,code,"string,null","MoSPI's code for the division, group, class, subclass or item"
+data/cpi_2024_states/<year>.csv,index,"number,null",Index value
+data/cpi_2024_states/<year>.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi_2024_states/<year>.csv,imputation,"string,null","Whether the index was imputed, as published"
+data/cpi_2024_back_series.csv,month,string,"Month, YYYY-MM"
+data/cpi_2024_back_series.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/cpi_2024_back_series.csv,series,"string,null","Current, or Back for the linked back series"
+data/cpi_2024_back_series.csv,state_slug,"string,null",State or UT slug. Blank for All India
+data/cpi_2024_back_series.csv,state,"string,null","State or UT as published, or All India"
+data/cpi_2024_back_series.csv,sector,"string,null","Rural, Urban or Combined"
+data/cpi_2024_back_series.csv,division,"string,null","Division, or CPI (General) for the headline index"
+data/cpi_2024_back_series.csv,group,"string,null",Group within the division
+data/cpi_2024_back_series.csv,class,"string,null",Class within the group
+data/cpi_2024_back_series.csv,sub_class,"string,null",Subclass within the class
+data/cpi_2024_back_series.csv,item,"string,null",Item
+data/cpi_2024_back_series.csv,code,"string,null","MoSPI's code for the division, group, class, subclass or item"
+data/cpi_2024_back_series.csv,index,"number,null",Index value
+data/cpi_2024_back_series.csv,inflation,"number,null","Year-on-year inflation, per cent"
+data/cpi_2024_back_series.csv,imputation,"string,null","Whether the index was imputed, as published"
 data/wpi_2011_12/<year>.csv,month,string,"Month, YYYY-MM"
 data/wpi_2011_12/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
 data/wpi_2011_12/<year>.csv,major_group,"string,null","Major group: Primary articles, Fuel and power, Manufactured products, or the all-commodities index"
@@ -33,6 +78,14 @@ data/wpi_2011_12/<year>.csv,subgroup,"string,null",Subgroup
 data/wpi_2011_12/<year>.csv,sub_subgroup,"string,null",Sub-subgroup
 data/wpi_2011_12/<year>.csv,item,"string,null",Item
 data/wpi_2011_12/<year>.csv,index,"number,null",Index value
+data/wpi_2022_23/<year>.csv,month,string,"Month, YYYY-MM"
+data/wpi_2022_23/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+data/wpi_2022_23/<year>.csv,major_group,"string,null","Major group: Primary articles, Fuel and power, Manufactured products, or the all-commodities index"
+data/wpi_2022_23/<year>.csv,group,"string,null",Group within the major group
+data/wpi_2022_23/<year>.csv,subgroup,"string,null",Subgroup
+data/wpi_2022_23/<year>.csv,sub_subgroup,"string,null",Sub-subgroup
+data/wpi_2022_23/<year>.csv,item,"string,null",Item
+data/wpi_2022_23/<year>.csv,index,"number,null",Index value
 data/iip_monthly/<year>.csv,month,string,"Month, YYYY-MM"
 data/iip_monthly/<year>.csv,base_year,string,"Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
 data/iip_monthly/<year>.csv,type,"string,null","General, Sectoral or Use-based"

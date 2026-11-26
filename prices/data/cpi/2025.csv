@@ -4,18 +4,18 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,,All India,Combined,Clothing and Footwear,Clothing,196.5,2.72,F
 2025-01,2012,,All India,Combined,Clothing and Footwear,Footwear,186.5,2.08,F
 2025-01,2012,,All India,Combined,Consumer Food Price,Consumer Food Price-Overall,200.6,5.97,F
+2025-01,2012,,All India,Combined,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",206.9,4.07,F
 2025-01,2012,,All India,Combined,Food and Beverages,Cereals and Products,199.1,6.24,F
-2025-01,2012,,All India,Combined,Food and Beverages,Cereals and Products,199.1,6.24,F
-2025-01,2012,,All India,Combined,Food and Beverages,Egg,207.9,1.27,F
-2025-01,2012,,All India,Combined,Food and Beverages,Egg,207.9,1.27,F
 2025-01,2012,,All India,Combined,Food and Beverages,Food and Beverages-Overall,200.9,5.68,F
 2025-01,2012,,All India,Combined,Food and Beverages,Fruits,192.8,12.16,F
-2025-01,2012,,All India,Combined,Food and Beverages,Meat and Fish,224.4,5.25,F
 2025-01,2012,,All India,Combined,Food and Beverages,Milk and Products,187.9,2.85,F
+2025-01,2012,,All India,Combined,Food and Beverages,Non-alcoholic Beverages,183.1,3.39,F
+2025-01,2012,,All India,Combined,Food and Beverages,Non-alcoholic Beverages,183.1,3.39,F
 2025-01,2012,,All India,Combined,Food and Beverages,Oils and Fats,184.1,15.64,F
 2025-01,2012,,All India,Combined,Food and Beverages,Pulses and Products,209.5,2.55,F
 2025-01,2012,,All India,Combined,Food and Beverages,Spices,225.8,-6.85,F
 2025-01,2012,,All India,Combined,Food and Beverages,Sugar and Confectionery,130.5,0.31,F
+2025-01,2012,,All India,Combined,Food and Beverages,Vegetables,217.8,11.35,F
 2025-01,2012,,All India,Combined,Food and Beverages,Vegetables,217.8,11.35,F
 2025-01,2012,,All India,Combined,Fuel and Light,Fuel and Light-Overall,178.2,-1.49,F
 2025-01,2012,,All India,Combined,General,General-Overall,193.4,4.26,F
@@ -207,18 +207,18 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,assam,Assam,Combined,Clothing and Footwear,Clothing and Footwear-Overall,188.4,1.67,F
 2025-01,2012,assam,Assam,Combined,Clothing and Footwear,Clothing,188.2,1.46,F
 2025-01,2012,assam,Assam,Combined,Clothing and Footwear,Footwear,189.5,3.1,F
-2025-01,2012,assam,Assam,Combined,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",206.3,3.1,F
-2025-01,2012,assam,Assam,Combined,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",206.3,3.1,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Cereals and Products,195.3,6.9,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Egg,184.2,-2.23,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Food and Beverages-Overall,193.8,5.73,F
+2025-01,2012,assam,Assam,Combined,Food and Beverages,Fruits,182.8,7.03,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Meat and Fish,201.1,0.65,F
+2025-01,2012,assam,Assam,Combined,Food and Beverages,Milk and Products,195.8,2.57,F
+2025-01,2012,assam,Assam,Combined,Food and Beverages,Milk and Products,195.8,2.57,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Non-alcoholic Beverages,173.8,2.66,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Oils and Fats,176,10,F
+2025-01,2012,assam,Assam,Combined,Food and Beverages,Oils and Fats,176,10,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Pulses and Products,171,5.17,F
-2025-01,2012,assam,Assam,Combined,Food and Beverages,Spices,213,2.7,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Sugar and Confectionery,140.1,1.6,F
-2025-01,2012,assam,Assam,Combined,Food and Beverages,Vegetables,197.8,15.13,F
 2025-01,2012,assam,Assam,Combined,Food and Beverages,Vegetables,197.8,15.13,F
 2025-01,2012,assam,Assam,Combined,Fuel and Light,Fuel and Light-Overall,254.4,2.91,F
 2025-01,2012,assam,Assam,Combined,General,General-Overall,197.4,4.61,F
@@ -889,15 +889,15 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Egg,193.1,2.88,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Egg,193.1,2.88,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Food and Beverages-Overall,195.9,5.83,F
-2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Fruits,195,15.32,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Meat and Fish,224.8,5.49,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Meat and Fish,224.8,5.49,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Milk and Products,197.1,1.65,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Milk and Products,197.1,1.65,F
-2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Oils and Fats,185.6,15.78,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Oils and Fats,185.6,15.78,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Pulses and Products,191.9,7.87,F
+2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Spices,224.4,4.42,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Sugar and Confectionery,130.3,2.52,F
+2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Food and Beverages,Vegetables,203.3,10.01,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Fuel and Light,Fuel and Light-Overall,212.5,1.67,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,General,General-Overall,204.8,5.4,F
 2025-01,2012,jammu-and-kashmir,Jammu & Kashmir,Rural,Housing,Housing-Overall,,,F
@@ -1036,13 +1036,13 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,karnataka,Karnataka,Combined,Fuel and Light,Fuel and Light-Overall,195.6,1.19,F
 2025-01,2012,karnataka,Karnataka,Combined,General,General-Overall,200.6,5.03,F
 2025-01,2012,karnataka,Karnataka,Combined,Housing,Housing-Overall,,,F
-2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Health,201.7,5,F
+2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Education,197.3,7.29,F
 2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Household Goods and Services,185,4.11,F
 2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Household Goods and Services,185,4.11,F
+2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Miscellaneous-Overall,190.8,6.18,F
 2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Personal Care and Effects,219.9,12.14,F
 2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Recreation and Amusement,190.5,3.7,F
-2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Transport and Communication,169.5,4.82,F
-2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Transport and Communication,169.5,4.82,F
+2025-01,2012,karnataka,Karnataka,Combined,Miscellaneous,Recreation and Amusement,190.5,3.7,F
 2025-01,2012,karnataka,Karnataka,Rural,"Pan, Tobacco and Intoxicants","Pan, Tobacco and Intoxicants-Overall",215.2,0.14,F
 2025-01,2012,karnataka,Karnataka,Rural,Clothing and Footwear,Clothing and Footwear-Overall,195.8,1.82,F
 2025-01,2012,karnataka,Karnataka,Rural,Clothing and Footwear,Clothing,196.6,2.13,F
@@ -1206,16 +1206,16 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",201.5,4.89,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Cereals and Products,202.6,6.46,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Egg,207.9,2.62,F
-2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Egg,207.9,2.62,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Food and Beverages-Overall,199.7,5.61,F
+2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Fruits,186.3,9.4,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Fruits,186.3,9.4,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Meat and Fish,227.6,4.64,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Milk and Products,184.9,3.76,F
-2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Milk and Products,184.9,3.76,F
+2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Non-alcoholic Beverages,173.8,3.76,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Non-alcoholic Beverages,173.8,3.76,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Oils and Fats,178.9,15.87,F
-2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Oils and Fats,178.9,15.87,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Pulses and Products,225.6,5.08,F
+2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Food and Beverages,Sugar and Confectionery,132.4,-0.08,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Fuel and Light,Fuel and Light-Overall,159.5,0.19,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,General,General-Overall,193.6,4.42,F
 2025-01,2012,madhya-pradesh,Madhya Pradesh,Combined,Housing,Housing-Overall,,,F
@@ -1687,18 +1687,18 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,rajasthan,Rajasthan,Urban,Clothing and Footwear,Clothing,196,1.66,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Clothing and Footwear,Footwear,168.2,1.82,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",203.6,5.49,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",203.6,5.49,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Cereals and Products,213.1,7.63,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Cereals and Products,213.1,7.63,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Fruits,172.5,10.15,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Egg,193.9,4.87,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Food and Beverages-Overall,197.8,5.16,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Food and Beverages-Overall,197.8,5.16,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Meat and Fish,223.8,2.19,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Meat and Fish,223.8,2.19,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Milk and Products,182.8,3.04,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Milk and Products,182.8,3.04,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Non-alcoholic Beverages,173.4,2.79,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Pulses and Products,186.1,3.22,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Pulses and Products,186.1,3.22,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Non-alcoholic Beverages,173.4,2.79,F
+2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Oils and Fats,174.9,8.1,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Spices,222.2,-8.07,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Sugar and Confectionery,127.2,-0.08,F
-2025-01,2012,rajasthan,Rajasthan,Urban,Food and Beverages,Vegetables,251.3,8.93,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Fuel and Light,Fuel and Light-Overall,164.1,-3.92,F
 2025-01,2012,rajasthan,Rajasthan,Urban,General,General-Overall,189.2,3.22,F
 2025-01,2012,rajasthan,Rajasthan,Urban,Housing,Housing-Overall,189.8,2.37,F
@@ -1918,16 +1918,16 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Clothing and Footwear,Clothing,194.6,3.18,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Clothing and Footwear,Footwear,189.2,1.45,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",201.8,3.49,F
-2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Cereals and Products,211,7.6,F
-2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Cereals and Products,211,7.6,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Egg,212.3,6.63,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Food and Beverages-Overall,200.9,6.41,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Fruits,176.6,6.97,F
-2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Meat and Fish,226,4.63,F
-2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Meat and Fish,226,4.63,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Milk and Products,192.1,3.28,F
+2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Non-alcoholic Beverages,163.6,0.12,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Oils and Fats,183.9,17.21,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Pulses and Products,214,0.56,F
+2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Pulses and Products,214,0.56,F
+2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Spices,230.9,-5.56,F
+2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Spices,230.9,-5.56,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Sugar and Confectionery,128.6,0.47,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Food and Beverages,Vegetables,215.8,16.59,F
 2025-01,2012,uttar-pradesh,Uttar Pradesh,Combined,Fuel and Light,Fuel and Light-Overall,182.2,0.28,F
@@ -4000,16 +4000,16 @@ month,base_year,state_slug,state,sector,group,subgroup,index,inflation,status
 2025-02,2012,telangana,Telangana,Rural,Clothing and Footwear,Clothing,223,1.46,F
 2025-02,2012,telangana,Telangana,Rural,Clothing and Footwear,Footwear,209.6,3.97,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",222.6,6.51,F
-2025-02,2012,telangana,Telangana,Rural,Food and Beverages,"Prepared Meals, Snacks, Sweets etc.",222.6,6.51,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Cereals and Products,206.7,-2.68,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Egg,184.5,-9.07,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Food and Beverages-Overall,201.5,-1.76,F
-2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Food and Beverages-Overall,201.5,-1.76,F
+2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Fruits,173.6,5.4,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Meat and Fish,249.6,-5.49,F
+2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Milk and Products,190.3,1.49,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Non-alcoholic Beverages,219,4.94,F
+2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Oils and Fats,180.2,7.52,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Pulses and Products,205,-5.18,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Spices,217.4,-10.76,F
-2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Sugar and Confectionery,127.4,1.76,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Sugar and Confectionery,127.4,1.76,F
 2025-02,2012,telangana,Telangana,Rural,Food and Beverages,Vegetables,165,-2.71,F
 2025-02,2012,telangana,Telangana,Rural,Fuel and Light,Fuel and Light-Overall,159.9,-4.59,F

@@ -19,7 +19,7 @@
       "path": "https://eaindustry.nic.in"
     }
   ],
-  "version": "2026-11-24",
+  "version": "2026-11-26",
   "resources": [
     {
       "name": "cpi",
@@ -271,6 +271,384 @@
       }
     },
     {
+      "name": "cpi-2024",
+      "path": [
+        "data/cpi_2024/2025.csv",
+        "data/cpi_2024/2026.csv"
+      ],
+      "format": "csv",
+      "description": "All-India consumer prices on the new base 2024, down to each item",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "series",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Current, or Back for the linked back series"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Blank for All India"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as published, or All India"
+          },
+          {
+            "name": "sector",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Rural, Urban or Combined"
+          },
+          {
+            "name": "division",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Division, or CPI (General) for the headline index"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group within the division"
+          },
+          {
+            "name": "class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Class within the group"
+          },
+          {
+            "name": "sub_class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subclass within the class"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item"
+          },
+          {
+            "name": "code",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "MoSPI's code for the division, group, class, subclass or item"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "imputation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Whether the index was imputed, as published"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cpi-2024-states",
+      "path": [
+        "data/cpi_2024_states/2025.csv",
+        "data/cpi_2024_states/2026.csv"
+      ],
+      "format": "csv",
+      "description": "Headline consumer prices on base 2024 for every State and UT",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "series",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Current, or Back for the linked back series"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Blank for All India"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as published, or All India"
+          },
+          {
+            "name": "sector",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Rural, Urban or Combined"
+          },
+          {
+            "name": "division",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Division, or CPI (General) for the headline index"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group within the division"
+          },
+          {
+            "name": "class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Class within the group"
+          },
+          {
+            "name": "sub_class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subclass within the class"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item"
+          },
+          {
+            "name": "code",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "MoSPI's code for the division, group, class, subclass or item"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "imputation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Whether the index was imputed, as published"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cpi-2024-back-series",
+      "path": "data/cpi_2024_back_series.csv",
+      "format": "csv",
+      "description": "Headline consumer prices on base 2024, linked back to earlier years",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "series",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Current, or Back for the linked back series"
+          },
+          {
+            "name": "state_slug",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT slug. Blank for All India"
+          },
+          {
+            "name": "state",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "State or UT as published, or All India"
+          },
+          {
+            "name": "sector",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Rural, Urban or Combined"
+          },
+          {
+            "name": "division",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Division, or CPI (General) for the headline index"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group within the division"
+          },
+          {
+            "name": "class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Class within the group"
+          },
+          {
+            "name": "sub_class",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subclass within the class"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item"
+          },
+          {
+            "name": "code",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "MoSPI's code for the division, group, class, subclass or item"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          },
+          {
+            "name": "inflation",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Year-on-year inflation, per cent"
+          },
+          {
+            "name": "imputation",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Whether the index was imputed, as published"
+          }
+        ]
+      }
+    },
+    {
       "name": "wpi-2011-12",
       "path": [
         "data/wpi_2011_12/2012.csv",
@@ -291,6 +669,79 @@
       ],
       "format": "csv",
       "description": "Wholesale prices (base 2011-12), by group down to each item",
+      "schema": {
+        "fields": [
+          {
+            "name": "month",
+            "type": "string",
+            "description": "Month, YYYY-MM"
+          },
+          {
+            "name": "base_year",
+            "type": "string",
+            "description": "Base year of the index, as published (2012, 2024, 2011-12, 2022-23)"
+          },
+          {
+            "name": "major_group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Major group: Primary articles, Fuel and power, Manufactured products, or the all-commodities index"
+          },
+          {
+            "name": "group",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Group within the major group"
+          },
+          {
+            "name": "subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subgroup"
+          },
+          {
+            "name": "sub_subgroup",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Sub-subgroup"
+          },
+          {
+            "name": "item",
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Item"
+          },
+          {
+            "name": "index",
+            "type": [
+              "number",
+              "null"
+            ],
+            "description": "Index value"
+          }
+        ]
+      }
+    },
+    {
+      "name": "wpi-2022-23",
+      "path": [
+        "data/wpi_2022_23/2023.csv",
+        "data/wpi_2022_23/2024.csv",
+        "data/wpi_2022_23/2025.csv",
+        "data/wpi_2022_23/2026.csv"
+      ],
+      "format": "csv",
+      "description": "Wholesale prices on the new base 2022-23, by group down to each item",
       "schema": {
         "fields": [
           {
